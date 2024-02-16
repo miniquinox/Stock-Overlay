@@ -13,6 +13,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 import json
 import sys
+import os
 
 def fetch_and_calculate_option_price():
     """
@@ -20,9 +21,9 @@ def fetch_and_calculate_option_price():
     """
     # Web scraping with Selenium
     options = webdriver.ChromeOptions()
-    options.add_argument('--headless')
-    options.add_argument('--no-sandbox')
-    options.add_argument('--disable-dev-shm-usage')
+    options.add_argument('--headless') # Important for running in a headless environment
+    options.add_argument('--no-sandbox') # Bypass OS security model, required for running in containers
+    options.add_argument('--disable-dev-shm-usage') # Overcome limited resource problems
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     
     driver.get(f'https://stockanalysis.com/stocks/screener/')
@@ -68,7 +69,7 @@ def fetch_and_calculate_option_price():
 
     input_element = driver.find_element(By.CSS_SELECTOR, "input[placeholder='Value']")
     input_element.clear()  # Clear any pre-existing text in the input field
-    input_element.send_keys("15")
+    input_element.send_keys("2")
     time.sleep(0.5)
     
     # Click the second dropdown for "Market Cap"
@@ -121,6 +122,27 @@ def fetch_and_calculate_option_price():
 
     # Loop over the list of dictionaries and print each one
     json_data = json.loads(json_data)
+
+    # Define the path to the JSON file
+    json_file_path = 'options_data.json'
+
+    # Initialize or load the existing data
+    if os.path.exists(json_file_path):
+        with open(json_file_path, 'r') as file:
+            try:
+                results = json.load(file)
+            except json.JSONDecodeError:
+                results = {}
+    else:
+        results = {}
+
+    # Today's date as a string
+    today_str = datetime.today().strftime('%Y-%m-%d')
+    
+    # Ensure the entry for today's date exists in the results dictionary
+    if today_str not in results:
+        results[today_str] = {}  # Initialize an empty dictionary for today if it doesn't exist
+
     for row in json_data:
         symbol = row["Symbol"]
         postMarketPrice = row["Afterhr. Price"]
@@ -129,6 +151,10 @@ def fetch_and_calculate_option_price():
         # Fetch option data from Yahoo Finance
         stock = yf.Ticker(symbol)
 
+        # Sometimes, the options attribute is empty. In that case, skip the current symbol
+        if len(stock.options) == 0:
+            continue
+        
         options = stock.option_chain(stock.options[0])
         calls = options.calls
 
@@ -161,15 +187,26 @@ def fetch_and_calculate_option_price():
         estimate = (S * norm.cdf((np.log(S / K) + (r + 0.5 * sigma ** 2) * T) / (sigma * np.sqrt(T))) - 
                     K * np.exp(-r * T) * norm.cdf((np.log(S / K) + (r - 0.5 * sigma ** 2) * T) / (sigma * np.sqrt(T))))
         
+        results[today_str][symbol] = {
+            "Stock price at market close": regularMarketPrice,
+            "Stock price before market open": postMarketPrice,
+            "Option price at market close": ask_price,
+            "Predicted option price at market open": f'{estimate:.2f}'
+        }
+        
         # Print Call id as "AMAT $210 Call 2/16" format
         print(f"\n{symbol} ${target_strike} Call {target_expiration}")
         print(f'Stock price at market-close:         ${regularMarketPrice}')
         print(f"Stock price at pre-market open:      ${postMarketPrice}")
         print(f"Call price at market-close:          ${ask_price}")
         print(f"Expected call price market-open:     ${estimate:.2f}\n")
+    
+    # After updating results with today's data, write the updated dictionary back to the file
+    with open(json_file_path, 'w') as file:
+        json.dump(results, file, indent=4)
+
+    print(f"Data for {today_str} has been added to {json_file_path}.")
 
 if __name__ == "__main__":
     fetch_and_calculate_option_price()
     sys.exit(0)  # Exit successfully
-
-# fetch_and_calculate_option_price()
