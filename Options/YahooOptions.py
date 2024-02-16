@@ -90,7 +90,6 @@ def fetch_and_calculate_option_price():
 
     # Get text from tbody
     tbody = driver.find_element(By.CSS_SELECTOR, 'tbody')
-    # print(tbody.text)
 
     # Parse the text into a dic
     column_names = ['Symbol', 'Company Name', 'Afterhr. Chg%', 'Market Cap', 'Afterhr. Price', 'Stock Price']
@@ -114,117 +113,6 @@ def fetch_and_calculate_option_price():
         
     # Print the list of dictionaries
     json_data = json.dumps(data, indent=4)
-    # print(json_data)
-
-    foo_data = [
-        {
-            "Symbol": "AMAT",
-            "Company Name": "Applied Materials",
-            "Afterhr. Chg%": "12.01%",
-            "Market Cap": "156.14B",
-            "Afterhr. Price": "210.20",
-            "Stock Price": "187.66"
-        },
-        {
-            "Symbol": "COIN",
-            "Company Name": "Coinbase Global",
-            "Afterhr. Chg%": "14.30%",
-            "Market Cap": "39.64B",
-            "Afterhr. Price": "189.36",
-            "Stock Price": "165.67"
-        },
-        {
-            "Symbol": "TTD",
-            "Company Name": "The Trade Desk",
-            "Afterhr. Chg%": "19.51%",
-            "Market Cap": "37.12B",
-            "Afterhr. Price": "90.48",
-            "Stock Price": "75.71"
-        },
-        {
-            "Symbol": "PCOR",
-            "Company Name": "Procore Technologies",
-            "Afterhr. Chg%": "9.39%",
-            "Market Cap": "10.70B",
-            "Afterhr. Price": "81.59",
-            "Stock Price": "74.59"
-        },
-        {
-            "Symbol": "TOST",
-            "Company Name": "Toast",
-            "Afterhr. Chg%": "5.99%",
-            "Market Cap": "10.36B",
-            "Afterhr. Price": "20.35",
-            "Stock Price": "19.20"
-        },
-        {
-            "Symbol": "BIO",
-            "Company Name": "Bio-Rad Laboratories",
-            "Afterhr. Chg%": "6.50%",
-            "Market Cap": "9.58B",
-            "Afterhr. Price": "350.10",
-            "Stock Price": "328.73"
-        },
-        {
-            "Symbol": "TXRH",
-            "Company Name": "Texas Roadhouse",
-            "Afterhr. Chg%": "6.06%",
-            "Market Cap": "8.94B",
-            "Afterhr. Price": "142.00",
-            "Stock Price": "133.89"
-        },
-        {
-            "Symbol": "MUSA",
-            "Company Name": "Murphy USA",
-            "Afterhr. Chg%": "5.03%",
-            "Market Cap": "8.35B",
-            "Afterhr. Price": "412.39",
-            "Stock Price": "392.66"
-        },
-        {
-            "Symbol": "ACHC",
-            "Company Name": "Acadia Healthcare Company",
-            "Afterhr. Chg%": "5.00%",
-            "Market Cap": "7.67B",
-            "Afterhr. Price": "87.36",
-            "Stock Price": "83.20"
-        },
-        {
-            "Symbol": "UGP",
-            "Company Name": "Ultrapar Participa\u00e7\u00f5es",
-            "Afterhr. Chg%": "5.91%",
-            "Market Cap": "6.43B",
-            "Afterhr. Price": "6.27",
-            "Stock Price": "5.92"
-        },
-        {
-            "Symbol": "BPMC",
-            "Company Name": "Blueprint Medicines",
-            "Afterhr. Chg%": "5.06%",
-            "Market Cap": "5.32B",
-            "Afterhr. Price": "92.00",
-            "Stock Price": "87.57"
-        },
-        {
-            "Symbol": "HASI",
-            "Company Name": "Hannon Armstrong Sustainable Infrastructure Capital",
-            "Afterhr. Chg%": "6.35%",
-            "Market Cap": "2.84B",
-            "Afterhr. Price": "27.14",
-            "Stock Price": "25.52"
-        },
-        {
-            "Symbol": "CORT",
-            "Company Name": "Corcept Therapeutics",
-            "Afterhr. Chg%": "6.30%",
-            "Market Cap": "2.52B",
-            "Afterhr. Price": "26.00",
-            "Stock Price": "24.46"
-        }
-    ]
-    
-    
-    # time.sleep(1000)
 
     # Loop over the list of dictionaries and print each one
     json_data = json.loads(json_data)
