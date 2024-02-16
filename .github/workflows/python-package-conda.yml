@@ -4,6 +4,7 @@ on:
   schedule:
     # Runs at 6:25 AM and 6:30 AM PST, Monday through Friday
     - cron: '25,30 14 * * 1-5'
+  workflow_dispatch:
 
 jobs:
   calculate_option_price:
