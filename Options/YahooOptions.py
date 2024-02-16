@@ -12,6 +12,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 import json
+import sys
 
 def fetch_and_calculate_option_price():
     """
@@ -166,5 +167,6 @@ def fetch_and_calculate_option_price():
         print(f"Call price at market-close:          ${ask_price}")
         print(f"Expected call price market-open:     ${estimate:.2f}\n")
 
-# Example usage
-fetch_and_calculate_option_price()
+if __name__ == "__main__":
+    fetch_and_calculate_option_price()
+    sys.exit(0)  # Exit successfully
