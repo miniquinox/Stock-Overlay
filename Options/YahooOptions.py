@@ -157,11 +157,11 @@ def fetch_and_calculate_option_price():
                     K * np.exp(-r * T) * norm.cdf((np.log(S / K) + (r - 0.5 * sigma ** 2) * T) / (sigma * np.sqrt(T))))
         
         # Print Call id as "AMAT $210 Call 2/16" format
-        print(f"{symbol} ${target_strike} Call {target_expiration}")
-        print(f'The stock value of {symbol} at market close is ${regularMarketPrice}')
-        print(f"The after hours stock value of {symbol} is ${postMarketPrice}")
-        print(f"Call Option Price at market close: ${ask_price}")
-        print(f"Call Option Price (expected) after market opens: ${estimate:.2f}\n")
+        print(f"\n{symbol} ${target_strike} Call {target_expiration}")
+        print(f'Stock price at market-close:         ${regularMarketPrice}')
+        print(f"Stock price at pre-market open:      ${postMarketPrice}")
+        print(f"Call price at market-close:          ${ask_price}")
+        print(f"Expected call price market-open:     ${estimate:.2f}\n")
 
 # Example usage
 fetch_and_calculate_option_price()
