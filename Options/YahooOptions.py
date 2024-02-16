@@ -32,55 +32,55 @@ def fetch_and_calculate_option_price():
     # Click on "Add Filters" button
     button = wait.until(EC.element_to_be_clickable((By.XPATH, "//div[contains(text(), 'Add Filters')]/ancestor::button")))
     button.click()
-    time.sleep(1)
+    time.sleep(0.5)
 
     # Click on checkbox "After-Hours % Change"
     postmarketChangePercent = wait.until(EC.element_to_be_clickable((By.ID, "postmarketChangePercent")))
     postmarketChangePercent.click()
-    time.sleep(1)
+    time.sleep(0.5)
 
     # Click on checkbox "Market Cap"
     marketCap = wait.until(EC.element_to_be_clickable((By.ID, "marketCap")))
     marketCap.click()
-    time.sleep(1)
+    time.sleep(0.5)
 
     # Click on After-Hours Price
     afterHoursPrice = wait.until(EC.element_to_be_clickable((By.ID, "postmarketPrice")))
     afterHoursPrice.click()
-    time.sleep(1)
+    time.sleep(0.5)
 
     # Click on Regular Market Price
     regularMarketPrice = wait.until(EC.element_to_be_clickable((By.ID, "price")))
     regularMarketPrice.click()
-    time.sleep(1)
+    time.sleep(0.5)
 
     # Click on Close button
     close_button = wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, 'button[aria-label="Close"]')))
     close_button.click()
-    time.sleep(1)
+    time.sleep(0.5)
     print("Filters added")
 
     # Click the first dropdown for "After-Hours % Change"
     first_any_button = wait.until(EC.element_to_be_clickable((By.XPATH, "//button[span[text()='Any']]")))
     first_any_button.click()
-    time.sleep(1)
+    time.sleep(0.5)
 
     input_element = driver.find_element(By.CSS_SELECTOR, "input[placeholder='Value']")
     input_element.clear()  # Clear any pre-existing text in the input field
     input_element.send_keys("15")
-    time.sleep(1)
+    time.sleep(0.5)
     
     # Click the second dropdown for "Market Cap"
     second_any_button = wait.until(EC.element_to_be_clickable((By.XPATH, "//button[span[text()='Any']]")))
     second_any_button.click()
-    time.sleep(1)
+    time.sleep(0.5)
 
     input_element = driver.find_element(By.CSS_SELECTOR, "input[placeholder='Value']")
     input_element.clear()  # Clear any pre-existing text in the input field
     input_element.send_keys("2B")
     print("Filters set")
     
-    time.sleep(1)
+    time.sleep(0.5)
 
     # Click button with text "Filters"
     button_xpath = "//li/button[contains(@class, 'dont-move') and contains(text(), 'Filters')]"
@@ -90,6 +90,9 @@ def fetch_and_calculate_option_price():
 
     # Get text from tbody
     tbody = driver.find_element(By.CSS_SELECTOR, 'tbody')
+
+    # Browser is not needed anymore
+    driver.quit()
 
     # Parse the text into a dic
     column_names = ['Symbol', 'Company Name', 'Afterhr. Chg%', 'Market Cap', 'Afterhr. Price', 'Stock Price']
