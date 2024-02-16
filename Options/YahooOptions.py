@@ -87,13 +87,10 @@ def fetch_and_calculate_option_price():
     button_xpath = "//li/button[contains(@class, 'dont-move') and contains(text(), 'Filters')]"
     filters_button = wait.until(EC.element_to_be_clickable((By.XPATH, button_xpath)))
     filters_button.click()
-    time.sleep(1)
+    time.sleep(2)
 
     # Get text from tbody
     tbody = driver.find_element(By.CSS_SELECTOR, 'tbody')
-
-    # Browser is not needed anymore
-    driver.quit()
 
     # Parse the text into a dic
     column_names = ['Symbol', 'Company Name', 'Afterhr. Chg%', 'Market Cap', 'Afterhr. Price', 'Stock Price']
@@ -117,6 +114,10 @@ def fetch_and_calculate_option_price():
         
     # Print the list of dictionaries
     json_data = json.dumps(data, indent=4)
+
+    # Browser is not needed anymore
+    driver.quit()
+    print("Browser closed")
 
     # Loop over the list of dictionaries and print each one
     json_data = json.loads(json_data)
@@ -170,3 +171,5 @@ def fetch_and_calculate_option_price():
 if __name__ == "__main__":
     fetch_and_calculate_option_price()
     sys.exit(0)  # Exit successfully
+
+# fetch_and_calculate_option_price()
