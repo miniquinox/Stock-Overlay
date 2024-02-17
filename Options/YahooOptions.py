@@ -69,7 +69,7 @@ def fetch_and_calculate_option_price():
 
     input_element = driver.find_element(By.CSS_SELECTOR, "input[placeholder='Value']")
     input_element.clear()  # Clear any pre-existing text in the input field
-    input_element.send_keys("2")
+    input_element.send_keys("5")
     time.sleep(0.5)
     
     # Click the second dropdown for "Market Cap"
@@ -154,7 +154,7 @@ def fetch_and_calculate_option_price():
         # Sometimes, the options attribute is empty. In that case, skip the current symbol
         if len(stock.options) == 0:
             continue
-        
+
         options = stock.option_chain(stock.options[0])
         calls = options.calls
 
@@ -187,11 +187,11 @@ def fetch_and_calculate_option_price():
         estimate = (S * norm.cdf((np.log(S / K) + (r + 0.5 * sigma ** 2) * T) / (sigma * np.sqrt(T))) - 
                     K * np.exp(-r * T) * norm.cdf((np.log(S / K) + (r - 0.5 * sigma ** 2) * T) / (sigma * np.sqrt(T))))
         
-        results[today_str][symbol] = {
-            "Stock price at market close": regularMarketPrice,
-            "Stock price before market open": postMarketPrice,
-            "Option price at market close": ask_price,
-            "Predicted option price at market open": f'{estimate:.2f}'
+        results[today_str][f"{symbol} ${target_strike} Call {target_expiration}"] = {
+            "Stock price at market close": float(regularMarketPrice),
+            "Stock price before market open": float(postMarketPrice),
+            "Option price at market close": float(ask_price),
+            "Predicted option price at market open": float(f'{estimate:.2f}')
         }
         
         # Print Call id as "AMAT $210 Call 2/16" format
