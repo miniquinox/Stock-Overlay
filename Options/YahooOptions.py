@@ -200,6 +200,7 @@ def fetch_and_calculate_option_price():
         print(f"Stock price at pre-market open:      ${postMarketPrice}")
         print(f"Call price at market-close:          ${ask_price}")
         print(f"Expected call price market-open:     ${estimate:.2f}\n")
+        print(f'Change in % after hours:             {round((float(postMarketPrice) - float(regularMarketPrice)) / float(regularMarketPrice) * 100, 2)}%')
     
     # After updating results with today's data, write the updated dictionary back to the file
     with open(json_file_path, 'w') as file:
