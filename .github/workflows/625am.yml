@@ -39,6 +39,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add options_data.json
+          git add Options/options_data.json
           git commit -m "Update options data JSON output" -a || echo "No changes to commit"
-          git -c http.extraHeader="AUTHORIZATION: bearer ${{ secrets.PERSONAL_ACCESS_TOKEN }}" push
+          git push https://${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${{ github.repository }}.git
