@@ -1,1 +1,10 @@
-
+{
+    "2024-02-21": {
+        "NEO $17.5 Call 2024-03-15": {
+            "Stock price at market close": 16.38,
+            "Stock price before market open": 16.48,
+            "Option price at market close": 0.35,
+            "Predicted option price at market open": 0.0
+        }
+    }
+}
