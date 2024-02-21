@@ -39,6 +39,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add Options/options_data.json
+          git add options_data.json
           git commit -m "Update options data JSON output" -a || echo "No changes to commit"
           git push
