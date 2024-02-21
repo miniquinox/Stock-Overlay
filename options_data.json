@@ -1,3 +1,40 @@
 {
-    "2024-02-21": {}
+    "2024-02-21": {
+        "TX $40.0 Call 2024-03-15": {
+            "Stock price at market close": 37.47,
+            "Stock price before market open": 39.71,
+            "Option price at market close": 0.65,
+            "Predicted option price at market open": 1.33
+        },
+        "HALO $35.0 Call 2024-03-15": {
+            "Stock price at market close": 36.0,
+            "Stock price before market open": 37.5,
+            "Option price at market close": 2.65,
+            "Predicted option price at market open": 3.52
+        },
+        "SEM $30.0 Call 2024-03-15": {
+            "Stock price at market close": 26.89,
+            "Stock price before market open": 28.23,
+            "Option price at market close": 0.26,
+            "Predicted option price at market open": 0.59
+        },
+        "IRTC $120.0 Call 2024-03-15": {
+            "Stock price at market close": 112.17,
+            "Stock price before market open": 118.43,
+            "Option price at market close": 7.35,
+            "Predicted option price at market open": 6.62
+        },
+        "RCKT $30.0 Call 2024-03-15": {
+            "Stock price at market close": 28.64,
+            "Stock price before market open": 30.07,
+            "Option price at market close": 2.0,
+            "Predicted option price at market open": 1.76
+        },
+        "LSPD $14.0 Call 2024-03-15": {
+            "Stock price at market close": 13.59,
+            "Stock price before market open": 14.34,
+            "Option price at market close": 0.84,
+            "Predicted option price at market open": 0.91
+        }
+    }
 }
