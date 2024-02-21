@@ -41,4 +41,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add options_data.json
           git commit -m "Update options data JSON output" -a || echo "No changes to commit"
-          git push https://${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${{ github.repository }}.git
+          git push https://${{ secrets.OPTIONS_TOKEN }}@github.com/${{ github.repository }}.git
