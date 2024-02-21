@@ -69,7 +69,7 @@ def fetch_and_calculate_option_price():
 
     input_element = driver.find_element(By.CSS_SELECTOR, "input[placeholder='Value']")
     input_element.clear()  # Clear any pre-existing text in the input field
-    input_element.send_keys("9")
+    input_element.send_keys("12")
     time.sleep(0.5)
     
     # Click the second dropdown for "Market Cap"
@@ -199,8 +199,8 @@ def fetch_and_calculate_option_price():
         print(f'Stock price at market-close:         ${regularMarketPrice}')
         print(f"Stock price at pre-market open:      ${postMarketPrice}")
         print(f"Call price at market-close:          ${ask_price}")
-        print(f"Expected call price market-open:     ${estimate:.2f}\n")
-        print(f'Change in % after hours:             {round((float(postMarketPrice) - float(regularMarketPrice)) / float(regularMarketPrice) * 100, 2)}%')
+        print(f"Expected call price market-open:     ${estimate:.2f}")
+        print(f'Change in % after hours:             {round((float(postMarketPrice) - float(regularMarketPrice)) / float(regularMarketPrice) * 100, 2)}%\n')
     
     # After updating results with today's data, write the updated dictionary back to the file
     with open(json_file_path, 'w') as file:
