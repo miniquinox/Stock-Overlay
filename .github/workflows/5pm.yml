@@ -10,8 +10,10 @@ jobs:
   calculate_option_price:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2  # This step ensures the options_data.json file is present in the working directory
+      - name: Check out repository
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.OPTIONS_TOKEN }}      
 
       - name: Set up Python
         uses: actions/setup-python@v2
