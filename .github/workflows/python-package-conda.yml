@@ -23,17 +23,22 @@ jobs:
           python -m pip install --upgrade pip
           pip install yfinance mibian selenium webdriver-manager scipy numpy
 
-      # Additional step to set up Chrome and chromedriver for Selenium
       - name: Set up Chrome
         run: |
           sudo apt-get update
           sudo apt-get install -y chromium-driver
           sudo apt-get install -y libglib2.0-0 libnss3 libgconf-2-4 libfontconfig1
-        env:
-          CHROME_DRIVER_VERSION: 'latest'
-          
+
       - name: Run the script
         run: |
           python -m Options.YahooOptions
         env:
           PYTHONPATH: ${{ github.workspace }}
+
+      - name: Commit and push if there are changes
+        run: |
+          git config --local user.email "quinocarreteromartinez@gmail.com"
+          git config --local user.name "Miniquinox"
+          git add Options/options_data.json
+          git commit -m "Update options data JSON output" -a || echo "No changes to commit"
+          git push
