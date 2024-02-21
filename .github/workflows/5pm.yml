@@ -1,4 +1,4 @@
-name: Gather data EOD
+name: Options @ 5pm
 
 on:
   schedule:
