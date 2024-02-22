@@ -8,5 +8,37 @@
             "Max Day Stock Price": 16.5,
             "Max Day Call Price": 0.7
         }
+    },
+    "2024-02-22": {
+        "SMCI $820.0 Call 2024-02-23": {
+            "Stock price at market close": 734.17,
+            "Stock price before market open": 818.04,
+            "Option price at market close": 14.31,
+            "Predicted option price at market open": 0.0
+        },
+        "UGP $7.5 Call 2024-03-15": {
+            "Stock price at market close": 6.33,
+            "Stock price before market open": 6.91,
+            "Option price at market close": 0.11,
+            "Predicted option price at market open": 0.02
+        },
+        "ERF $18.0 Call 2024-03-15": {
+            "Stock price at market close": 16.42,
+            "Stock price before market open": 17.99,
+            "Option price at market close": 0.1,
+            "Predicted option price at market open": 0.0
+        },
+        "RELY $20.0 Call 2024-03-15": {
+            "Stock price at market close": 17.69,
+            "Stock price before market open": 20.2,
+            "Option price at market close": 0.85,
+            "Predicted option price at market open": 0.21
+        },
+        "OUT $14.0 Call 2024-03-15": {
+            "Stock price at market close": 12.43,
+            "Stock price before market open": 13.84,
+            "Option price at market close": 0.15,
+            "Predicted option price at market open": 0.1
+        }
     }
 }
