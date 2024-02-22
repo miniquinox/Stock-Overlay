@@ -2,7 +2,7 @@ name: Options @ 1_30pm PST
 
 on:
   schedule:
-    # Runs at 5 PM, Monday through Friday
+    # Runs at 1:30 PM, Monday through Friday
     - cron: '30 21 * * 1-5'
   workflow_dispatch:
 
