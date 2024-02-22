@@ -57,3 +57,15 @@ The main objective of these scripts is to provide an automated toolset for finan
 ## Caution
 
 These scripts involve financial data and predictions. Users should use this information as part of a broader analysis and not as the sole basis for any trading decisions. Financial markets are unpredictable, and there is always a risk of loss when trading.
+  
+  
+## Options Daily Performance
+  
+### 1998-02-28
+
+| Option ID | Performance |
+| --- | --- |
+| AMZN $3300.0 Call 2024-02-25 | 🔴 36.46% (DID NOT REACH 50%. Consider -20%) |
+| GOOGL $2800.0 Call 2024-02-25 | 🟢 93.30% |
+| NFLX $550.0 Call 2024-02-25 | 🟢 87.57% |
+
