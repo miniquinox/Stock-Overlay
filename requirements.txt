@@ -1,0 +1,3 @@
+robin_stocks
+pytest
+pytest-dotenv
