@@ -4,7 +4,9 @@
             "Stock price at market close": 16.38,
             "Stock price before market open": 16.48,
             "Option price at market close": 0.35,
-            "Predicted option price at market open": 0.0
+            "Predicted option price at market open": 0.0,
+            "Max Day Stock Price": 16.5,
+            "Max Day Call Price": 0.7
         }
     }
 }
