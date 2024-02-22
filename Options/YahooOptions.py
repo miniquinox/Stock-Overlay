@@ -36,24 +36,24 @@ def fetch_and_calculate_option_price():
     button.click()
     time.sleep(0.5)
 
-    # Click on checkbox "After-Hours % Change"
-    postmarketChangePercent = wait.until(EC.element_to_be_clickable((By.ID, "postmarketChangePercent")))
-    postmarketChangePercent.click()
-    time.sleep(0.5)
-
     # Click on checkbox "Market Cap"
     marketCap = wait.until(EC.element_to_be_clickable((By.ID, "marketCap")))
     marketCap.click()
     time.sleep(0.5)
+    
+    # Click on checkbox "Premarket % Change"
+    postmarketChangePercent = wait.until(EC.element_to_be_clickable((By.ID, "premarketChangePercent")))
+    postmarketChangePercent.click()
+    time.sleep(0.5)
 
-    # Click on After-Hours Price
-    afterHoursPrice = wait.until(EC.element_to_be_clickable((By.ID, "postmarketPrice")))
+    # Click on "Premarket Price"
+    afterHoursPrice = wait.until(EC.element_to_be_clickable((By.ID, "premarketPrice")))
     afterHoursPrice.click()
     time.sleep(0.5)
 
-    # Click on Regular Market Price
-    regularMarketPrice = wait.until(EC.element_to_be_clickable((By.ID, "price")))
-    regularMarketPrice.click()
+    # Click on "Previous Close"
+    marketClosePrice = wait.until(EC.element_to_be_clickable((By.ID, "close")))
+    marketClosePrice.click()
     time.sleep(0.5)
 
     # Click on Close button
@@ -62,24 +62,24 @@ def fetch_and_calculate_option_price():
     time.sleep(0.5)
     print("Filters added")
 
-    # Click the first dropdown for "After-Hours % Change"
+    # Click the first dropdown for "Market Cap"
     first_any_button = wait.until(EC.element_to_be_clickable((By.XPATH, "//button[span[text()='Any']]")))
     first_any_button.click()
     time.sleep(0.5)
 
     input_element = driver.find_element(By.CSS_SELECTOR, "input[placeholder='Value']")
     input_element.clear()  # Clear any pre-existing text in the input field
-    input_element.send_keys("9")
+    input_element.send_keys("2B")
     time.sleep(0.5)
     
-    # Click the second dropdown for "Market Cap"
+    # Click the second dropdown for "After-Hours % Change"
     second_any_button = wait.until(EC.element_to_be_clickable((By.XPATH, "//button[span[text()='Any']]")))
     second_any_button.click()
     time.sleep(0.5)
 
     input_element = driver.find_element(By.CSS_SELECTOR, "input[placeholder='Value']")
     input_element.clear()  # Clear any pre-existing text in the input field
-    input_element.send_keys("2B")
+    input_element.send_keys("12")
     print("Filters set")
     
     time.sleep(0.5)
@@ -94,7 +94,7 @@ def fetch_and_calculate_option_price():
     tbody = driver.find_element(By.CSS_SELECTOR, 'tbody')
 
     # Parse the text into a dic
-    column_names = ['Symbol', 'Company Name', 'Afterhr. Chg%', 'Market Cap', 'Afterhr. Price', 'Stock Price']
+    column_names = ['Symbol', 'Company Name', 'Market Cap', 'Premkt. Chg.', 'Premkt. Price', 'Close']
 
     # Initialize an empty list to hold the dictionaries
     data = []
@@ -105,7 +105,8 @@ def fetch_and_calculate_option_price():
     # Process each line with regex
     for line in lines:
         # Regex to match the structure of each line, considering complex company names
-        match = re.match(r'(\w+)\s+(.+?)\s+(-?\d+\.\d+%)\s+([\d.]+[BM])\s+([\d.]+)\s+([\d.]+)', line)
+        match = re.match(r'(\w+)\s+([\w\s,.&-]+?)\s+(\d+\.\d+B)\s+(-?\d+\.\d+%)?\s+([\d,.]+)\s+(-|[\d,.]+)', line)
+
         if match:
             fields = match.groups()
             # Adjust for complex company names by capturing additional detail in the regex
@@ -145,8 +146,8 @@ def fetch_and_calculate_option_price():
 
     for row in json_data:
         symbol = row["Symbol"]
-        postMarketPrice = row["Afterhr. Price"]
-        regularMarketPrice = row["Stock Price"]
+        postMarketPrice = row["Premkt. Price"]
+        marketClosePrice = row["Close"]
         
         # Fetch option data from Yahoo Finance
         stock = yf.Ticker(symbol)
@@ -188,19 +189,19 @@ def fetch_and_calculate_option_price():
                     K * np.exp(-r * T) * norm.cdf((np.log(S / K) + (r - 0.5 * sigma ** 2) * T) / (sigma * np.sqrt(T))))
         
         results[today_str][f"{symbol} ${target_strike} Call {target_expiration}"] = {
-            "Stock price at market close": float(regularMarketPrice),
-            "Stock price before market open": float(postMarketPrice),
+            "Stock price at market close": float(marketClosePrice),
+            "Stock price before market open": float(marketClosePrice),
             "Option price at market close": float(ask_price),
             "Predicted option price at market open": float(f'{estimate:.2f}')
         }
         
         # Print Call id as "AMAT $210 Call 2/16" format
         print(f"\n{symbol} ${target_strike} Call {target_expiration}")
-        print(f'Stock price at market-close:         ${regularMarketPrice}')
+        print(f'Stock price at market-close:         ${marketClosePrice}')
         print(f"Stock price at pre-market open:      ${postMarketPrice}")
         print(f"Call price at market-close:          ${ask_price}")
-        print(f"Expected call price market-open:     ${estimate:.2f}\n")
-        print(f'Change in % after hours:             {round((float(postMarketPrice) - float(regularMarketPrice)) / float(regularMarketPrice) * 100, 2)}%')
+        print(f"Expected call price market-open:     ${estimate:.2f}")
+        print(f'Change in % after hours:             {round((float(postMarketPrice) - float(marketClosePrice)) / float(marketClosePrice) * 100, 2)}%\n')
     
     # After updating results with today's data, write the updated dictionary back to the file
     with open(json_file_path, 'w') as file:
