@@ -27,7 +27,7 @@ jobs:
 
       - name: Run the script
         run: |
-          python -m Options.YahooOptions
+          python -m Options.MarketOpen
         env:
           PYTHONPATH: ${{ github.workspace }}
 
