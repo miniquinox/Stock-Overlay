@@ -3,7 +3,7 @@ import json
 import yfinance as yf
 from datetime import datetime
 
-def fetch_update_max_call_value():
+def fetch_update_open_call_value():
     
     json_file_path = 'options_data.json'
     
@@ -27,15 +27,7 @@ def fetch_update_max_call_value():
         expiration_date = identifier.split(' ')[3]
 
         try:
-            # Fetch data from Yahoo Finance
-            stock = yf.Ticker(symbol)
-            
-            # Fetch the max stock value from previous day
-            hist = stock.history(period='1d')
-            # print("\n\n\n\n", hist)
-            
-            max_24h_value = hist['High'].iloc[0]
-
+                        
             # Fetch option data from Yahoo Finance
             expiration_date = expiration_date.replace('-', '')
             
@@ -46,10 +38,12 @@ def fetch_update_max_call_value():
 
             option = yf.Ticker(ticker_data)
             option_info = option.info
+            # print("\n\n\n\n", option_info)
 
-            # Update the entry with the max 24h call value
-            details['Max Day Stock Price'] = round(max_24h_value, 2)
-            details['Max Day Call Price'] = round(option_info['dayHigh'], 2)
+            midpoint = (option_info['bid'] + option_info['ask']) / 2
+
+            # Update the entry with the option's open price
+            details['Option Open Price'] = round(midpoint, 2)
         except Exception as e:
             print(f"Error fetching data for {symbol}: {e}")
 
@@ -61,4 +55,5 @@ def fetch_update_max_call_value():
 
 if __name__ == "__main__":
     
-    fetch_update_max_call_value()
+    fetch_update_open_call_value()
+
