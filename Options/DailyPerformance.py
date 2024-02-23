@@ -27,7 +27,7 @@ for option_id, details in options_data.items():
     else:
         performance_str = "N/A"
 
-    content_to_append += f"| {option_id} | {performance_str} |\n"
+    content_to_append += f"| {option_id} | Open @ {open_price} -> Max @ {max_price} = {performance_str} |\n"
 
 # Append the content to the README file
 with open('README.md', 'a') as readme_file:
