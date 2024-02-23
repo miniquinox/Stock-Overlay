@@ -27,34 +27,5 @@
             "Max Day Stock Price": 555.35,
             "Max Day Call Price": 15.85
         }
-    },
-    "2024-02-23": {
-        "SQ $80.0 Call 2024-02-23": {
-            "Stock price at market close": 64.47,
-            "Stock price before market open": 64.47,
-            "Option price at market close": 1.0,
-            "Predicted option price at market open": 0.19,
-            "Option Open Price": 0.96
-        },
-        "CVNA $67.0 Call 2024-02-23": {
-            "Stock price at market close": 49.4,
-            "Stock price before market open": 49.4,
-            "Option price at market close": 0.84,
-            "Predicted option price at market open": 0.12,
-            "Option Open Price": 3.27
-        },
-        "EGP $200.0 Call 2024-03-15": {
-            "Stock price at market close": 182.29,
-            "Stock price before market open": 182.29,
-            "Option price at market close": 2.0,
-            "Predicted option price at market open": 21.3
-        },
-        "AS $15.0 Call 2024-03-15": {
-            "Stock price at market close": 14.75,
-            "Stock price before market open": 14.75,
-            "Option price at market close": 0.8,
-            "Predicted option price at market open": 0.04,
-            "Option Open Price": 1.35
-        }
     }
 }

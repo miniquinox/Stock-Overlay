@@ -168,6 +168,19 @@ def fetch_and_calculate_option_price():
         # Extract symbol, strike price, and expiration date using regular expressions
         target_expiration = datetime.strptime(stock.options[0], '%Y-%m-%d').strftime('%Y-%m-%d')
         
+        # Convert target_expiration to a datetime object
+        target_expiration_date = datetime.strptime(target_expiration, '%Y-%m-%d')
+
+        # Get today's date
+        today = datetime.today()
+
+        # Calculate the difference in days
+        difference = (target_expiration_date - today).days
+
+        # If the difference is more than 8 days, skip this option
+        if difference > 8:
+            continue
+
         implied_volatility = call_option['impliedVolatility'].iloc[0] * 100
 
         id = call_option['contractSymbol'].iloc[0]
