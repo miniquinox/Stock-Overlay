@@ -22,6 +22,11 @@ def fetch_update_open_call_value():
     # Get the last date in the data
     last_date = list(data.keys())[-1]
 
+    # if key has empty value, skip
+    if not data[last_date]:
+        print(f"Data for {last_date} is empty. Nothing to report today.")
+        return
+
     for identifier, details in data[last_date].items():
         
         # Extract symbol, call price, and expiration date using regular expressions from format: "ADC $60.0 Call 2024-02-16" using regex
