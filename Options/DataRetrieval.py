@@ -19,6 +19,11 @@ def fetch_update_max_call_value():
     # Get the last date in the data
     last_date = list(data.keys())[-1]
 
+    # if key has empty value, skip
+    if not data[last_date]:
+        print(f"Data for {last_date} is empty. Nothing to report today.")
+        return
+
     for identifier, details in data[last_date].items():
         
         # Extract symbol, call price, and expiration date using regular expressions from format: "ADC $60.0 Call 2024-02-16" using regex
@@ -66,12 +71,17 @@ def DailyPerformance():
 
     # Get the last date from the JSON data
     last_date = sorted(data.keys())[-1]
+    
     options_data = data[last_date]
 
     # Prepare the content to be appended to the README
     content_to_append = f"### {last_date}\n\n"
     content_to_append += "| Option ID | Performance |\n"
     content_to_append += "| --- | --- |\n"
+
+    # if key has empty value, skip
+    if not data[last_date]:
+        content_to_append += f"| No good options today | Nothing to report |\n"
 
     for option_id, details in options_data.items():
         open_price = details["Option Open Price"]
