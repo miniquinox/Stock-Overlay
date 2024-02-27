@@ -36,5 +36,6 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add options_data.json
-          git commit -m "Update options data JSON output" -a || echo "No changes to commit"
+          git add ReadMe.md
+          git commit -m "Update options data JSON & ReadMe" -a || echo "No changes to commit"
           git push
