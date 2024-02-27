@@ -51,9 +51,12 @@ def fetch_update_max_call_value():
 
             option = yf.Ticker(ticker_data)
             option_info = option.info
+            # print(option_info, "\n\n\n")
 
             # Update the entry with the max 24h call value
+
             details['Max Day Stock Price'] = round(max_24h_value, 2)
+            details['Option Open Price'] = round(option_info['open'], 2)
             details['Max Day Call Price'] = round(option_info['dayHigh'], 2)
         except Exception as e:
             print(f"Error fetching data for {symbol}: {e}")
@@ -63,14 +66,6 @@ def fetch_update_max_call_value():
         json.dump(data, file, indent=4)
 
     print(f"Data for {last_date} has been updated in {json_file_path}.")
-
-def DailyPerformance():
-    # Load JSON data
-    with open('options_data.json', 'r') as file:
-        data = json.load(file)
-
-    # Get the last date from the JSON data
-    last_date = sorted(data.keys())[-1]
     
     options_data = data[last_date]
 
@@ -108,4 +103,3 @@ def DailyPerformance():
 if __name__ == "__main__":
     
     fetch_update_max_call_value()
-    DailyPerformance()
