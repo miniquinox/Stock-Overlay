@@ -34,19 +34,22 @@
             "Stock price at market close": 16.17,
             "Stock price before market open": 16.17,
             "Option price at market close": 0.28,
-            "Predicted option price at market open": 0.15
+            "Predicted option price at market open": 0.15,
+            "Option Open Price": 1.42
         },
         "CLSK $23.0 Call 2024-03-01": {
             "Stock price at market close": 16.43,
             "Stock price before market open": 16.43,
             "Option price at market close": 0.7,
-            "Predicted option price at market open": 0.1
+            "Predicted option price at market open": 0.1,
+            "Option Open Price": 0.9
         },
         "VKTX $49.0 Call 2024-03-01": {
             "Stock price at market close": 37.42,
             "Stock price before market open": 37.42,
             "Option price at market close": 0.32,
-            "Predicted option price at market open": 20.44
+            "Predicted option price at market open": 20.44,
+            "Option Open Price": 24.75
         }
     }
 }
