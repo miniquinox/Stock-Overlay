@@ -5,7 +5,7 @@
 | Option ID | Performance |
 | --- | --- |
 | NCLH $17.5 Call 2024-03-01 | Open @ 0.58 -> Max @ 1.66 = 🟢 186.21% |
-| CLSK $23.0 Call 2024-03-01 | Open @ 1.7 -> Max @ 2.2 = 🔴 29.41% (DID NOT REACH 50%. Consider -20%) |
+| CLSK $23.0 Call 2024-03-01 | Open @ 1.7 -> Max @ 2.2 = 🔴 29.41% (DID NOT REACH 40%. Consider -20%) |
 | VKTX $49.0 Call 2024-03-01 | Open @ 0.2 -> Max @ 0.46 = 🟢 130.00% |
 
 ### 1998-02-28
