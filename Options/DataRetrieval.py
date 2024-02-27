@@ -85,7 +85,7 @@ def fetch_update_max_call_value():
         # Calculate performance
         if open_price > 0:  # Avoid division by zero
             performance = ((max_price - open_price) / open_price) * 100
-            if performance < 50:
+            if performance < 40:
                 performance_str = f"🔴 {performance:.2f}% (DID NOT REACH 50%. Consider -20%)"
             else:
                 performance_str = f"🟢 {performance:.2f}%"
@@ -94,9 +94,16 @@ def fetch_update_max_call_value():
 
         content_to_append += f"| {option_id} | Open @ {open_price} -> Max @ {max_price} = {performance_str} |\n"
 
-    # Append the content to the README file
-    with open('README.md', 'a') as readme_file:
-        readme_file.write(content_to_append + "\n")
+    # Read the existing lines
+    with open('README.md', 'r') as readme_file:
+        lines = readme_file.readlines()
+
+    # Insert the new content after the second line
+    lines.insert(2, content_to_append + "\n")
+
+    # Write the lines back to the file
+    with open('README.md', 'w') as readme_file:
+        readme_file.writelines(lines)
 
     print("Appended new data to README.md.")
 
