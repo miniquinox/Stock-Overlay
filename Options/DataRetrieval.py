@@ -95,17 +95,17 @@ def fetch_update_max_call_value():
         content_to_append += f"| {option_id} | Open @ {open_price} -> Max @ {max_price} = {performance_str} |\n"
 
     # Read the existing lines
-    with open('README.md', 'r') as readme_file:
+    with open('ReadMe.md', 'r') as readme_file:
         lines = readme_file.readlines()
 
     # Insert the new content after the second line
     lines.insert(2, content_to_append + "\n")
 
     # Write the lines back to the file
-    with open('README.md', 'w') as readme_file:
+    with open('ReadMe.md', 'w') as readme_file:
         readme_file.writelines(lines)
 
-    print("Appended new data to README.md.")
+    print("Appended new data to ReadMe.md.")
 
 if __name__ == "__main__":
     
