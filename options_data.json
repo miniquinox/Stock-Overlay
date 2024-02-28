@@ -34,12 +34,12 @@
         "AMBA $65.0 Call 2024-03-01": {
             "Stock price at market close": 57.96,
             "Stock price before market open": 62.214,
-            "Option price at market close": 1.75
+            "Option price at market close": 1.53
         },
         "TGTX $16.0 Call 2024-03-01": {
             "Stock price at market close": 13.91,
             "Stock price before market open": 16.824,
-            "Option price at market close": 0.01
+            "Option price at market close": 0.58
         }
     }
 }
