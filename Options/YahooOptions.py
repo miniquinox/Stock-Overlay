@@ -1,9 +1,6 @@
 import yfinance as yf
-import mibian
 from datetime import datetime
 import re
-import numpy as np
-from scipy.stats import norm
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
