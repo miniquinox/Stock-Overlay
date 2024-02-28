@@ -79,6 +79,8 @@ def fetch_update_max_call_value():
             details['Max Day Stock Price'] = round(max_24h_value, 2)
             details['Option Open Price'] = open_price
             details['Max Day Call Price'] = max_price
+
+            print(f"Updated data for {symbol} with Max Day Stock Price: {max_24h_value}, Option Open Price: {open_price}, and Max Day Call Price: {max_price}.")
         except Exception as e:
             print(f"Error fetching data for {symbol}: {e}")
     
