@@ -14,7 +14,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 import json
 import sys
 import os
-import pyotp
 import robin_stocks.robinhood as r
 from dotenv import load_dotenv
 
