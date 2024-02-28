@@ -13,6 +13,7 @@ import sys
 import os
 import robin_stocks.robinhood as r
 from dotenv import load_dotenv
+import pyotp
 
 def fetch_and_calculate_option_price():
     
@@ -164,9 +165,9 @@ def fetch_and_calculate_option_price():
 
     # # Login using .env file
     # load_dotenv()
-    # totp = pyotp.TOTP(os.environ['ROBIN_MFA']).now()
-    # login = r.login(os.environ['ROBIN_USERNAME'],
-    #                 os.environ['ROBIN_PASSWORD'], store_session=False, mfa_code=totp)
+    totp = pyotp.TOTP(os.environ['ROBIN_MFA']).now()
+    login = r.login(os.environ['ROBIN_USERNAME'],
+                    os.environ['ROBIN_PASSWORD'], store_session=False, mfa_code=totp)
    
     print("Logged in")
 
