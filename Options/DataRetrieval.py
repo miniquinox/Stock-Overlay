@@ -27,9 +27,9 @@ def fetch_update_max_call_value():
     
     # Environment variables
     load_dotenv()
-    mfa_key = os.getenv('robin_mfa')
-    username = os.getenv('robin_username')
-    password = os.getenv('robin_password')
+    mfa_key = os.getenv('ROBIN_MFA')
+    username = os.getenv('ROBIN_USERNAME')
+    password = os.getenv('ROBIN_PASSWORD')
     # Check if environment variables are loaded properly
     if not all([mfa_key, username, password]):
         raise EnvironmentError("One or more environment variables are missing.")
