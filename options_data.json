@@ -29,5 +29,22 @@
         }
     },
     "2024-02-26": {},
-    "2024-02-27": {}
+    "2024-02-27": {},
+    "2024-02-28": {
+        "VKTX $49.0 Call 2024-03-01": {
+            "Stock price at market close": 38.48,
+            "Stock price before market open": 88.06,
+            "Option price at market close": 36.7
+        },
+        "NCLH $17.5 Call 2024-03-01": {
+            "Stock price at market close": 15.93,
+            "Stock price before market open": 19.14,
+            "Option price at market close": 1.64
+        },
+        "CLSK $23.0 Call 2024-03-01": {
+            "Stock price at market close": 20.35,
+            "Stock price before market open": 21.0003,
+            "Option price at market close": 0.68
+        }
+    }
 }
