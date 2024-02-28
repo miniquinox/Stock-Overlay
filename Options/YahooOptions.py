@@ -14,11 +14,12 @@ from selenium.webdriver.support.ui import WebDriverWait
 import json
 import sys
 import os
+import pyotp
+import robin_stocks.robinhood as r
+from dotenv import load_dotenv
 
 def fetch_and_calculate_option_price():
-    """
-    Fetch and calculate the option price given an input in the format 'TTD $90 Call 2/16'.
-    """
+    
     # Web scraping with Selenium
     options = webdriver.ChromeOptions()
     options.add_argument('--headless') # Important for running in a headless environment
@@ -124,6 +125,19 @@ def fetch_and_calculate_option_price():
     # Loop over the list of dictionaries and print each one
     json_data = json.loads(json_data)
 
+    # # Load the existing data from the JSON file
+    # with open(json_file_path, 'r') as file:
+    #     data = json.load(file)
+
+    # # Get the last date in the data
+    # last_date = list(data.keys())[-1]
+
+    # # if key has empty value, skip
+    # if not data[last_date]:
+    #     print(f"Data for {last_date} is empty. Nothing to report today.")
+    #     return
+
+
     # Define the path to the JSON file
     json_file_path = 'options_data.json'
 
@@ -144,15 +158,30 @@ def fetch_and_calculate_option_price():
     if today_str not in results:
         results[today_str] = {}  # Initialize an empty dictionary for today if it doesn't exist
 
+    # Login using Environment variables
+    load_dotenv()
+    mfa_key = os.getenv('ROBIN_MFA')
+    username = os.getenv('ROBIN_USERNAME')
+    password = os.getenv('ROBIN_PASSWORD')
+    if not all([mfa_key, username, password]):
+        raise EnvironmentError("One or more environment variables are missing.")
+
+    # # Login using .env file
+    # load_dotenv()
+    # totp = pyotp.TOTP(os.environ['ROBIN_MFA']).now()
+    # login = r.login(os.environ['ROBIN_USERNAME'],
+    #                 os.environ['ROBIN_PASSWORD'], store_session=False, mfa_code=totp)
+   
+    print("Logged in")
+
     for row in json_data:
         symbol = row["Symbol"]
-        postMarketPrice = row["Premkt. Price"]
+        preMarketPrice = row["Premkt. Price"]
         marketClosePrice = row["Close"]
         
         # Fetch option data from Yahoo Finance
         stock = yf.Ticker(symbol)
 
-        # Sometimes, the options attribute is empty. In that case, skip the current symbol
         if len(stock.options) == 0:
             continue
 
@@ -160,7 +189,7 @@ def fetch_and_calculate_option_price():
         calls = options.calls
 
         # Find call with target price closest to postMarketPrice
-        call_option = calls.iloc[(calls['strike'] - float(postMarketPrice)).abs().argsort()[:1]]
+        call_option = calls.iloc[(calls['strike'] - float(preMarketPrice)).abs().argsort()[:1]]
         
         # print(call_option)
         target_strike = call_option['strike'].iloc[0]
@@ -178,44 +207,24 @@ def fetch_and_calculate_option_price():
         difference = (target_expiration_date - today).days
 
         # If the difference is more than 8 days, skip this option
-        if difference > 8:
+        if difference > 6:
             continue
 
-        implied_volatility = call_option['impliedVolatility'].iloc[0] * 100
+        stock_close_price = r.get_stock_quote_by_symbol(symbol)['previous_close']
+        current_stock_price = r.get_latest_price(symbol)[0]
+        options = r.find_options_by_expiration_and_strike(symbol, target_expiration, target_strike, optionType='call')
+        option_market_close = options[0]["adjusted_mark_price"]        
 
-        id = call_option['contractSymbol'].iloc[0]
-        ask_price = yf.Ticker(id).info['previousClose']
+        print(f'\n\nStock price at market close: {stock_close_price} for {symbol}')
+        print(f'Stock price before market open: {current_stock_price} for {symbol}')
+        print(f'Option price at market close: {option_market_close} for {symbol}')
 
-        current_price = stock.info['currentPrice']
-        
-        # Calculate the Greeks
-        interest_rate = 1
-        days_to_expiration = max((datetime.strptime(target_expiration, '%Y-%m-%d') - datetime.now()).days / 365, 1/365)
-        bs = mibian.BS([current_price, target_strike, interest_rate, days_to_expiration], volatility=implied_volatility)
-
-        S = float(postMarketPrice)
-        K = target_strike
-        T = days_to_expiration
-        r = 0.01
-        sigma = implied_volatility / 100
-        estimate = (S * norm.cdf((np.log(S / K) + (r + 0.5 * sigma ** 2) * T) / (sigma * np.sqrt(T))) - 
-                    K * np.exp(-r * T) * norm.cdf((np.log(S / K) + (r - 0.5 * sigma ** 2) * T) / (sigma * np.sqrt(T))))
-        
         results[today_str][f"{symbol} ${target_strike} Call {target_expiration}"] = {
-            "Stock price at market close": float(marketClosePrice),
-            "Stock price before market open": float(marketClosePrice),
-            "Option price at market close": float(ask_price),
-            "Predicted option price at market open": float(f'{estimate:.2f}')
+            "Stock price at market close": float(stock_close_price),
+            "Stock price before market open": float(current_stock_price),
+            "Option price at market close": float(option_market_close)
         }
         
-        # Print Call id as "AMAT $210 Call 2/16" format
-        print(f"\n{symbol} ${target_strike} Call {target_expiration}")
-        print(f'Stock price at market-close:         ${marketClosePrice}')
-        print(f"Stock price at pre-market open:      ${postMarketPrice}")
-        print(f"Call price at market-close:          ${ask_price}")
-        print(f"Expected call price market-open:     ${estimate:.2f}")
-        print(f'Stock Change in % after hours:       {round((float(postMarketPrice) - float(marketClosePrice)) / float(marketClosePrice) * 100, 2)}%\n')
-    
     # After updating results with today's data, write the updated dictionary back to the file
     with open(json_file_path, 'w') as file:
         json.dump(results, file, indent=4)

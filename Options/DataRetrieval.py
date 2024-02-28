@@ -25,14 +25,23 @@ def fetch_update_max_call_value():
         print(f"Data for {last_date} is empty. Nothing to report today.")
         return
     
-    # Environment variables
+    # Login using Environment variables
     load_dotenv()
     mfa_key = os.getenv('ROBIN_MFA')
     username = os.getenv('ROBIN_USERNAME')
     password = os.getenv('ROBIN_PASSWORD')
-    # Check if environment variables are loaded properly
     if not all([mfa_key, username, password]):
         raise EnvironmentError("One or more environment variables are missing.")
+
+    # # Login using .env file
+    # load_dotenv()
+    # totp = pyotp.TOTP(os.environ['ROBIN_MFA']).now()
+    # login = r.login(os.environ['ROBIN_USERNAME'],
+    #                 os.environ['ROBIN_PASSWORD'], store_session=False, mfa_code=totp)
+    
+    
+    print("Logged in")
+
 
     json_file_path = 'options_data.json'
 
