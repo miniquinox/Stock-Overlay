@@ -25,15 +25,14 @@ def fetch_update_max_call_value():
         print(f"Data for {last_date} is empty. Nothing to report today.")
         return
     
-    # Load environment variables
+    # Environment variables
     load_dotenv()
-
-    # Generate TOTP for 2FA
-    totp = pyotp.TOTP(os.environ['robin_mfa']).now()
-
-    # Login
-    login = r.login(os.environ['robin_username'],
-                    os.environ['robin_password'], store_session=False, mfa_code=totp)
+    mfa_key = os.getenv('robin_mfa')
+    username = os.getenv('robin_username')
+    password = os.getenv('robin_password')
+    # Check if environment variables are loaded properly
+    if not all([mfa_key, username, password]):
+        raise EnvironmentError("One or more environment variables are missing.")
 
     json_file_path = 'options_data.json'
 
