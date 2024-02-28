@@ -36,7 +36,7 @@
             "Option price at market close": 0.28,
             "Predicted option price at market open": 0.33,
             "Max Day Stock Price": 19.15,
-            "Option Open Price": 0.58,
+            "Option Open Price": 0.93,
             "Max Day Call Price": 1.66
         },
         "CLSK $23.0 Call 2024-03-01": {
@@ -44,8 +44,8 @@
             "Stock price before market open": 20.35,
             "Option price at market close": 0.7,
             "Predicted option price at market open": 0.1,
-            "Max Day Stock Price": 23.45,
-            "Option Open Price": 1.7,
+            "Max Day Stock Price": 22.0,
+            "Option Open Price": 1.85,
             "Max Day Call Price": 2.2
         },
         "VKTX $49.0 Call 2024-03-01": {
@@ -54,8 +54,8 @@
             "Option price at market close": 0.32,
             "Predicted option price at market open": 20.44,
             "Max Day Stock Price": 90.0,
-            "Option Open Price": 0.2,
-            "Max Day Call Price": 0.46
+            "Option Open Price": 21.0,
+            "Max Day Call Price": 41.03
         }
     }
 }

@@ -1,7 +1,8 @@
 import os
 import json
-import yfinance as yf
-from datetime import datetime
+import pyotp
+import robin_stocks.robinhood as r
+from dotenv import load_dotenv
 
 def fetch_update_max_call_value():
     
@@ -23,6 +24,18 @@ def fetch_update_max_call_value():
     if not data[last_date]:
         print(f"Data for {last_date} is empty. Nothing to report today.")
         return
+    
+    # Load environment variables
+    load_dotenv()
+
+    # Generate TOTP for 2FA
+    totp = pyotp.TOTP(os.environ['robin_mfa']).now()
+
+    # Login
+    login = r.login(os.environ['robin_username'],
+                    os.environ['robin_password'], store_session=False, mfa_code=totp)
+
+    json_file_path = 'options_data.json'
 
     for identifier, details in data[last_date].items():
         
@@ -32,35 +45,35 @@ def fetch_update_max_call_value():
         expiration_date = identifier.split(' ')[3]
 
         try:
-            # Fetch data from Yahoo Finance
-            stock = yf.Ticker(symbol)
+            # Find options by expiration and strike
+            options = r.find_options_by_expiration_and_strike(symbol, expiration_date, call_price, optionType='call')
             
-            # Fetch the max stock value from previous day
-            hist = stock.history(period='1d')
-            # print("\n\n\n\n", hist)
+            # Get raw open price
+            raw_open_price_data = r.get_option_historicals(symbol, expiration_date, call_price, 'call', interval='5minute', span='day')
             
-            max_24h_value = hist['High'].iloc[0]
+            # Convert open price to float
+            open_price = float(raw_open_price_data[0]["open_price"])
 
-            # Fetch option data from Yahoo Finance
-            expiration_date = expiration_date.replace('-', '')
-            
-            shifted_number = int(call_price * 1000)
-            formatted_number = f"{shifted_number:08d}"
+            # Get option id
+            option_id = options[0]['id']
 
-            ticker_data = symbol + expiration_date[2:] + "C" + str(formatted_number)
+            # Get market data
+            market_data = r.get_option_market_data_by_id(option_id)
 
-            option = yf.Ticker(ticker_data)
-            option_info = option.info
-            # print(option_info, "\n\n\n")
+            # Convert max price to float
+            max_price = float(market_data[0].get('high_price'))
 
-            # Update the entry with the max 24h call value
+            # Get max 24h value
+            historical_data = r.get_stock_historicals(symbol, span='day', bounds='regular')      
+            max_24h_value = max([float(data['high_price']) for data in historical_data])
 
+            # Store details
             details['Max Day Stock Price'] = round(max_24h_value, 2)
-            details['Option Open Price'] = round(option_info['open'], 2)
-            details['Max Day Call Price'] = round(option_info['dayHigh'], 2)
+            details['Option Open Price'] = open_price
+            details['Max Day Call Price'] = max_price
         except Exception as e:
             print(f"Error fetching data for {symbol}: {e}")
-
+    
     # Write the updated data back to the JSON file
     with open(json_file_path, 'w') as file:
         json.dump(data, file, indent=4)
