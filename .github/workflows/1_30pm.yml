@@ -13,7 +13,15 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v2
         with:
-          token: ${{ secrets.OPTIONS_TOKEN }}      
+          repository: miniquinox/Stock-Overlay
+          ssh-strict: true
+          persist-credentials: true
+          clean: true
+          fetch-depth: 1
+          lfs: false
+          submodules: false
+          set-safe-directory: true
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # Use the secret here 
 
       - name: Set up Python
         uses: actions/setup-python@v2
