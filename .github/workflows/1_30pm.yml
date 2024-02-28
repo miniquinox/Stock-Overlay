@@ -13,7 +13,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v2
         with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}      
+          token: ${{ secrets.OPTIONS_TOKEN }}      
 
       - name: Set up Python
         uses: actions/setup-python@v2
