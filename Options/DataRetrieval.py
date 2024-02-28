@@ -35,9 +35,9 @@ def fetch_update_max_call_value():
 
     # # Login using .env file
     # load_dotenv()
-    # totp = pyotp.TOTP(os.environ['ROBIN_MFA']).now()
-    # login = r.login(os.environ['ROBIN_USERNAME'],
-    #                 os.environ['ROBIN_PASSWORD'], store_session=False, mfa_code=totp)
+    totp = pyotp.TOTP(os.environ['ROBIN_MFA']).now()
+    login = r.login(os.environ['ROBIN_USERNAME'],
+                    os.environ['ROBIN_PASSWORD'], store_session=False, mfa_code=totp)
     
     
     print("Logged in")
