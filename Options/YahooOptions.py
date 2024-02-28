@@ -210,7 +210,8 @@ def fetch_and_calculate_option_price():
         stock_close_price = r.get_stock_quote_by_symbol(symbol)['previous_close']
         current_stock_price = r.get_latest_price(symbol)[0]
         options = r.find_options_by_expiration_and_strike(symbol, target_expiration, target_strike, optionType='call')
-        option_market_close = options[0]["adjusted_mark_price"]        
+        option_market_close = options[0]["previous_close_price"] 
+        print(f"options: {options}[0]")       
 
         print(f'\n\nStock price at market close: {stock_close_price} for {symbol}')
         print(f'Stock price before market open: {current_stock_price} for {symbol}')
