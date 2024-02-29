@@ -1,5 +1,13 @@
 ## Options Daily Performance
   
+### 2024-02-29
+
+| Option ID | Performance |
+| --- | --- |
+| HRL $34.0 Call 2024-03-01 | Open @ 1.35 -> Max @ 1.46 = 🔴 8.15% (DID NOT REACH 40%. Consider -20%) |
+| OKTA $107.0 Call 2024-03-01 | Open @ 3.17 -> Max @ 6.15 = 🟢 94.01% |
+| AI $35.5 Call 2024-03-01 | Open @ 1.84 -> Max @ 3.0 = 🟢 63.04% |
+
 ### 2024-02-28
 
 | Option ID | Performance |
