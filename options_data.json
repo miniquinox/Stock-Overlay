@@ -47,5 +47,22 @@
             "Option Open Price": 2.18,
             "Max Day Call Price": 2.79
         }
+    },
+    "2024-02-29": {
+        "HRL $34.0 Call 2024-03-01": {
+            "Stock price at market close": 30.83,
+            "Stock price before market open": 34.86,
+            "Option price at market close": 0.01
+        },
+        "OKTA $107.0 Call 2024-03-01": {
+            "Stock price at market close": 87.3,
+            "Stock price before market open": 107.8,
+            "Option price at market close": 1.13
+        },
+        "AI $35.5 Call 2024-03-01": {
+            "Stock price at market close": 29.69,
+            "Stock price before market open": 36.2341,
+            "Option price at market close": 0.85
+        }
     }
 }
