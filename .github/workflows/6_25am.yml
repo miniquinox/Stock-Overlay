@@ -47,6 +47,8 @@ jobs:
           ROBIN_MFA: ${{ secrets.ROBIN_MFA }}
           ROBIN_USERNAME: ${{ secrets.ROBIN_USERNAME }}
           ROBIN_PASSWORD: ${{ secrets.ROBIN_PASSWORD }}
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
 
       - name: Commit and push if there are changes
         run: |
