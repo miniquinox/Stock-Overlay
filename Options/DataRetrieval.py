@@ -3,6 +3,16 @@ import json
 import pyotp
 import robin_stocks.robinhood as r
 from dotenv import load_dotenv
+import asyncio
+from telegram import Bot
+
+async def send_telegram(options_data):
+    bot_token = os.getenv('TELEGRAM_TOKEN')
+    chat_id = os.getenv('CHAT_ID')
+    bot = Bot(token=bot_token)
+
+    # Using await to call the coroutine send_message
+    await bot.send_message(chat_id=chat_id, text=options_data)
 
 def fetch_update_max_call_value():
     
@@ -97,6 +107,9 @@ def fetch_update_max_call_value():
     content_to_append += "| Option ID | Performance |\n"
     content_to_append += "| --- | --- |\n"
 
+    # Print <today> results
+    telegram_text = f"{last_date} results:\n\n"
+
     # if key has empty value, skip
     if not data[last_date]:
         content_to_append += f"| No good options today | Nothing to report |\n"
@@ -116,6 +129,7 @@ def fetch_update_max_call_value():
             performance_str = "N/A"
 
         content_to_append += f"| {option_id} | Open @ {open_price} -> Max @ {max_price} = {performance_str} |\n"
+        telegram_text += f'{option_id}\n      Open @ {open_price}\n      Max @ {max_price}\n      {performance_str}\n\n'
 
     # Read the existing lines
     with open('ReadMe.md', 'r') as readme_file:
@@ -127,6 +141,8 @@ def fetch_update_max_call_value():
     # Write the lines back to the file
     with open('ReadMe.md', 'w') as readme_file:
         readme_file.writelines(lines)
+    
+    asyncio.run(send_telegram(telegram_text))
 
     print("Appended new data to ReadMe.md.")
 

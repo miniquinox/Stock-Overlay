@@ -18,8 +18,8 @@ import asyncio
 from telegram import Bot
 
 async def send_telegram(options_data):
-    bot_token = '7155310366:AAE0jJEHZOvudvMzrzFNw1LOvnEL1lD6LsU'
-    chat_id = '-4144046020'
+    bot_token = os.getenv('TELEGRAM_TOKEN')
+    chat_id = os.getenv('CHAT_ID')
     bot = Bot(token=bot_token)
 
     # Using await to call the coroutine send_message
