@@ -14,6 +14,16 @@ import os
 import robin_stocks.robinhood as r
 from dotenv import load_dotenv
 import pyotp
+import asyncio
+from telegram import Bot
+
+async def send_telegram(options_data):
+    bot_token = '7155310366:AAE0jJEHZOvudvMzrzFNw1LOvnEL1lD6LsU'
+    chat_id = '-4144046020'
+    bot = Bot(token=bot_token)
+
+    # Using await to call the coroutine send_message
+    await bot.send_message(chat_id=chat_id, text=options_data)
 
 def fetch_and_calculate_option_price():
     
@@ -171,6 +181,8 @@ def fetch_and_calculate_option_price():
    
     print("Logged in")
 
+    telegram = "Today's options picks:\n"
+
     for row in json_data:
         symbol = row["Symbol"]
         preMarketPrice = row["Premkt. Price"]
@@ -211,7 +223,6 @@ def fetch_and_calculate_option_price():
         current_stock_price = r.get_latest_price(symbol)[0]
         options = r.find_options_by_expiration_and_strike(symbol, target_expiration, target_strike, optionType='call')
         option_market_close = options[0]["previous_close_price"] 
-        print(f"options: {options}[0]")       
 
         print(f'\n\nStock price at market close: {stock_close_price} for {symbol}')
         print(f'Stock price before market open: {current_stock_price} for {symbol}')
@@ -222,8 +233,14 @@ def fetch_and_calculate_option_price():
             "Stock price before market open": float(current_stock_price),
             "Option price at market close": float(option_market_close)
         }
+
+        option_telegram = f'    {symbol} ${target_strike} Call {target_expiration}\n'
+        telegram += option_telegram
+
         
-    # After updating results with today's data, write the updated dictionary back to the file
+    asyncio.run(send_telegram(telegram))
+        
+    # After updating results with today's data, write the updated dictionary back to the file        
     with open(json_file_path, 'w') as file:
         json.dump(results, file, indent=4)
 
