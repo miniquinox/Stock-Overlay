@@ -1,5 +1,12 @@
 ## Options Daily Performance
   
+### 2024-03-01
+
+| Option ID | Performance |
+| --- | --- |
+| DELL $120.0 Call 2024-03-01 | Open @ 6.75 -> Max @ 12.0 = 🟢 +77.78% |
+| NTAP $105.0 Call 2024-03-01 | Open @ 4.05 -> Max @ 6.8 = 🟢 +67.90% |
+
 ### 2024-02-29
 
 | Option ID | Performance |
