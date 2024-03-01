@@ -73,5 +73,17 @@
             "Option Open Price": 1.84,
             "Max Day Call Price": 3.0
         }
+    },
+    "2024-03-01": {
+        "DELL $120.0 Call 2024-03-01": {
+            "Stock price at market close": 94.66,
+            "Stock price before market open": 128.5305,
+            "Option price at market close": 0.15
+        },
+        "NTAP $105.0 Call 2024-03-01": {
+            "Stock price at market close": 89.12,
+            "Stock price before market open": 107.135,
+            "Option price at market close": 0.23
+        }
     }
 }
