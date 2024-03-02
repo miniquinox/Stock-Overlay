@@ -3,7 +3,7 @@ name: Options @ 6:25am PST
 on:
   schedule:
     # Runs at 6:25 AM and 6:30 AM PST, Monday through Friday
-    - cron: '25 14 * * 1-5'
+    - cron: '20 14 * * 1-5'
   workflow_dispatch:
 
 jobs:
@@ -49,6 +49,7 @@ jobs:
           ROBIN_PASSWORD: ${{ secrets.ROBIN_PASSWORD }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
+          CHAT_ID_TEST: ${{ secrets.CHAT_ID_TEST }}
 
       - name: Commit and push if there are changes
         run: |
