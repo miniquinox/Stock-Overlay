@@ -1,5 +1,4 @@
 import yfinance as yf
-from datetime import datetime
 import re
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
@@ -16,14 +15,18 @@ from dotenv import load_dotenv
 import pyotp
 import asyncio
 from telegram import Bot
+import datetime
+from datetime import datetime as dt
 
 async def send_telegram(options_data):
     bot_token = os.getenv('TELEGRAM_TOKEN')
     chat_id = os.getenv('CHAT_ID')
+    chat_id_test = os.getenv('CHAT_ID_TEST')
     bot = Bot(token=bot_token)
 
     # Using await to call the coroutine send_message
     await bot.send_message(chat_id=chat_id, text=options_data)
+    await bot.send_document(chat_id=chat_id_test, document=open('time_tracking.txt', 'rb'))
 
 def fetch_and_calculate_option_price():
     
@@ -132,19 +135,6 @@ def fetch_and_calculate_option_price():
     # Loop over the list of dictionaries and print each one
     json_data = json.loads(json_data)
 
-    # # Load the existing data from the JSON file
-    # with open(json_file_path, 'r') as file:
-    #     data = json.load(file)
-
-    # # Get the last date in the data
-    # last_date = list(data.keys())[-1]
-
-    # # if key has empty value, skip
-    # if not data[last_date]:
-    #     print(f"Data for {last_date} is empty. Nothing to report today.")
-    #     return
-
-
     # Define the path to the JSON file
     json_file_path = 'options_data.json'
 
@@ -159,7 +149,7 @@ def fetch_and_calculate_option_price():
         results = {}
 
     # Today's date as a string
-    today_str = datetime.today().strftime('%Y-%m-%d')
+    today_str = dt.today().strftime('%Y-%m-%d')
     
     # Ensure the entry for today's date exists in the results dictionary
     if today_str not in results:
@@ -204,13 +194,13 @@ def fetch_and_calculate_option_price():
         target_strike = call_option['strike'].iloc[0]
         
         # Extract symbol, strike price, and expiration date using regular expressions
-        target_expiration = datetime.strptime(stock.options[0], '%Y-%m-%d').strftime('%Y-%m-%d')
+        target_expiration = dt.strptime(stock.options[0], '%Y-%m-%d').strftime('%Y-%m-%d')
         
         # Convert target_expiration to a datetime object
-        target_expiration_date = datetime.strptime(target_expiration, '%Y-%m-%d')
+        target_expiration_date = dt.strptime(target_expiration, '%Y-%m-%d')
 
         # Get today's date
-        today = datetime.today()
+        today = dt.today()
 
         # Calculate the difference in days
         difference = (target_expiration_date - today).days
@@ -237,7 +227,36 @@ def fetch_and_calculate_option_price():
         option_telegram = f'    {symbol} ${target_strike} Call {target_expiration}\n'
         telegram += option_telegram
 
+
+    start_time = datetime.datetime.now()
+    loop_contents = ""  # Initialize an empty string to accumulate loop contents
+
+    while True:
+        current_time = datetime.datetime.now()
+        elapsed_time = (current_time - start_time).total_seconds()
+
+        # Check if 3600 seconds (1 hour) have passed
+        if elapsed_time > 2400:
+            break
+
+        # Your code to fetch market data and print information
+        current_market_price = r.get_option_market_data(symbol, target_expiration, target_strike, optionType='call')
+        my_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+        my_loop = ""
+        my_loop += f"Time: {my_time}\n"
+        my_loop += f"{symbol} Last Trade Price {current_market_price[0][0]['last_trade_price']} \n"
+        my_loop += f"{symbol} Ask Price {current_market_price[0][0]['ask_price']} \n"
+        my_loop += f"{symbol} Bid Price {current_market_price[0][0]['bid_price']} \n"
+        my_loop += f"{symbol} Mark Price {current_market_price[0][0]['mark_price']} \n"
         
+        print(my_loop)
+        loop_contents += my_loop + "\n"  # Add this iteration's contents to the accumulator
+
+        time.sleep(5)  # Sleep for 5 seconds before the next iteration
+
+        with open("time_tracking.txt", "a") as file:
+            file.write(loop_contents)
+
     asyncio.run(send_telegram(telegram))
         
     # After updating results with today's data, write the updated dictionary back to the file        
