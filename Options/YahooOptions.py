@@ -188,8 +188,7 @@ def fetch_and_calculate_option_price():
         calls = options.calls
 
         # Find call with target price closest to postMarketPrice
-        call_option = calls.iloc[(calls['strike'] - float(preMarketPrice)).abs().argsort()[:1]]
-        
+        call_option = calls.iloc[(calls['strike'] - float(preMarketPrice.replace(',', ''))).abs().argsort()[:1]]        
         # print(call_option)
         target_strike = call_option['strike'].iloc[0]
         
@@ -219,9 +218,9 @@ def fetch_and_calculate_option_price():
         print(f'Option price at market close: {option_market_close} for {symbol}')
 
         results[today_str][f"{symbol} ${target_strike} Call {target_expiration}"] = {
-            "Stock price at market close": float(stock_close_price),
-            "Stock price before market open": float(current_stock_price),
-            "Option price at market close": float(option_market_close)
+            "Stock price at market close": float(stock_close_price.replace(',', '')),
+            "Stock price before market open": float(current_stock_price.replace(',', '')),
+            "Option price at market close": float(option_market_close.replace(',', ''))
         }
 
         option_telegram = f'    {symbol} ${target_strike} Call {target_expiration}\n'
