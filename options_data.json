@@ -96,12 +96,18 @@
         "SMCI $1040.0 Call 2024-03-08": {
             "Stock price at market close": 905.48,
             "Stock price before market open": 1119.165,
-            "Option price at market close": 12.95
+            "Option price at market close": 12.95,
+            "Max Day Stock Price": 1155.0,
+            "Option Open Price": 69.75,
+            "Max Day Call Price": 137.0
         },
         "MSTR $1200.0 Call 2024-03-08": {
             "Stock price at market close": 1079.39,
             "Stock price before market open": 1305.95,
-            "Option price at market close": 44.13
+            "Option price at market close": 44.13,
+            "Max Day Stock Price": 1359.9,
+            "Option Open Price": 114.43,
+            "Max Day Call Price": 208.45
         }
     }
 }

@@ -1,5 +1,12 @@
 ## Options Daily Performance
   
+### 2024-03-04
+
+| Option ID | Performance |
+| --- | --- |
+| SMCI $1040.0 Call 2024-03-08 | Open @ 69.75 -> Max @ 137.0 = 🟢 +96.42% |
+| MSTR $1200.0 Call 2024-03-08 | Open @ 114.43 -> Max @ 208.45 = 🟢 +82.16% |
+
 ### 2024-03-01
 
 | Option ID | Performance |
