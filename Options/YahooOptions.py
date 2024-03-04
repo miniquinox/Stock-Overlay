@@ -25,7 +25,7 @@ async def send_telegram(options_data):
     bot = Bot(token=bot_token)
 
     # Using await to call the coroutine send_message
-    # await bot.send_message(chat_id=chat_id, text=options_data)
+    await bot.send_message(chat_id=chat_id, text=options_data)
     await bot.send_document(chat_id=chat_id_test, document=open('time_tracking.txt', 'rb'))
 
 def fetch_and_calculate_option_price():
