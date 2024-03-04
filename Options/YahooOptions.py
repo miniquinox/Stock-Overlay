@@ -25,7 +25,7 @@ async def send_telegram(options_data):
     bot = Bot(token=bot_token)
 
     # Using await to call the coroutine send_message
-    await bot.send_message(chat_id=chat_id, text=options_data)
+    # await bot.send_message(chat_id=chat_id, text=options_data)
     await bot.send_document(chat_id=chat_id_test, document=open('time_tracking.txt', 'rb'))
 
 def fetch_and_calculate_option_price():
@@ -228,7 +228,8 @@ def fetch_and_calculate_option_price():
 
 
     start_time = datetime.datetime.now()
-    loop_contents = ""  # Initialize an empty string to accumulate loop contents
+
+    print(f"\nRetrieving time tracking data...\n")
 
     while True:
         current_time = datetime.datetime.now()
@@ -249,12 +250,11 @@ def fetch_and_calculate_option_price():
         my_loop += f"{symbol} Mark Price {current_market_price[0][0]['mark_price']} \n"
         
         print(my_loop)
-        loop_contents += my_loop + "\n"  # Add this iteration's contents to the accumulator
 
         time.sleep(5)  # Sleep for 5 seconds before the next iteration
 
         with open("time_tracking.txt", "a") as file:
-            file.write(loop_contents)
+            file.write(f"{my_loop} \n")
 
     asyncio.run(send_telegram(telegram))
         
