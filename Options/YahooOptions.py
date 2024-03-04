@@ -7,7 +7,9 @@ import time
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
+import base64
 import json
+import requests
 import sys
 import os
 import robin_stocks.robinhood as r
@@ -17,6 +19,49 @@ import asyncio
 from telegram import Bot
 import datetime
 from datetime import datetime as dt
+
+def append_to_github_file(new_data):
+    # Your GitHub Personal Access Token
+    token = os.getenv('PERSONAL_ACCESS_TOKEN')
+
+    # The repository and file details
+    owner = "miniquinox"
+    repo = "OptionsAi"
+    path = "options_data_2.json"
+
+    # The headers for the API requests
+    headers = {
+        "Authorization": f"token {token}",
+        "Accept": "application/vnd.github.v3+json",
+    }
+
+    # Fetch the current file content
+    response = requests.get(f"https://api.github.com/repos/{owner}/{repo}/contents/{path}", headers=headers)
+    response.raise_for_status()  # Ensure we got a successful response
+
+    # Decode the file content
+    file_content = base64.b64decode(response.json()["content"]).decode()
+
+    # Load the JSON data
+    data = json.loads(file_content)
+
+    # Append the new data to the existing data
+    data.append(new_data)
+
+    # Encode the updated data
+    updated_content = base64.b64encode(json.dumps(data, indent=4).encode()).decode()
+
+    # Update the file via the API
+    update_response = requests.put(
+        f"https://api.github.com/repos/{owner}/{repo}/contents/{path}",
+        headers=headers,
+        json={
+            "message": "Append new data",
+            "content": updated_content,
+            "sha": response.json()["sha"],  # We need to provide the current SHA of the file
+        },
+    )
+    update_response.raise_for_status()  # Ensure we got a successful response
 
 async def send_telegram(options_data):
     bot_token = os.getenv('TELEGRAM_TOKEN')
@@ -173,6 +218,12 @@ def fetch_and_calculate_option_price():
 
     telegram = "Today's options picks:\n"
 
+    # Prepare the new data
+    new_data = {
+        "date": today_str,
+        "options": []
+    }
+
     for row in json_data:
         symbol = row["Symbol"]
         preMarketPrice = row["Premkt. Price"]
@@ -226,9 +277,24 @@ def fetch_and_calculate_option_price():
         option_telegram = f'    {symbol} ${target_strike} Call {target_expiration}\n'
         telegram += option_telegram
 
+        option_id = f"{symbol} ${target_strike} Call {target_expiration}"
+
+        # Append to the new data
+        new_data["options"].append({
+            "id": option_id,
+            "percentage": 0
+        })
+    
+    append_to_github_file(new_data)
 
     start_time = datetime.datetime.now()
 
+    # After updating results with today's data, write the updated dictionary back to the file        
+    with open(json_file_path, 'w') as file:
+        json.dump(results, file, indent=4)
+
+    print(f"Data for {today_str} has been added to {json_file_path}.")
+    
     print(f"\nRetrieving time tracking data...\n")
 
     while True:
@@ -258,11 +324,6 @@ def fetch_and_calculate_option_price():
 
     asyncio.run(send_telegram(telegram))
         
-    # After updating results with today's data, write the updated dictionary back to the file        
-    with open(json_file_path, 'w') as file:
-        json.dump(results, file, indent=4)
-
-    print(f"Data for {today_str} has been added to {json_file_path}.")
 
 if __name__ == "__main__":
     fetch_and_calculate_option_price()
