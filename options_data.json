@@ -109,5 +109,12 @@
             "Option Open Price": 114.43,
             "Max Day Call Price": 208.45
         }
+    },
+    "2024-03-05": {
+        "TGT $165.0 Call 2024-03-08": {
+            "Stock price at market close": 155.29,
+            "Stock price before market open": 165.5,
+            "Option price at market close": 1.63
+        }
     }
 }
