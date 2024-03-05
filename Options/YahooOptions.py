@@ -278,6 +278,10 @@ def fetch_and_calculate_option_price():
         telegram += option_telegram
 
         option_id = f"{symbol} ${target_strike} Call {target_expiration}"
+        
+        test_symbol = symbol
+        test_strike = target_strike
+        test_expiration = target_expiration
 
         # Append to the new data
         new_data["options"].append({
@@ -306,14 +310,14 @@ def fetch_and_calculate_option_price():
             break
 
         # Your code to fetch market data and print information
-        current_market_price = r.get_option_market_data(symbol, target_expiration, target_strike, optionType='call')
+        current_market_price = r.get_option_market_data(test_symbol, test_expiration, test_strike, optionType='call')
         my_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
         my_loop = ""
         my_loop += f"Time: {my_time}\n"
-        my_loop += f"{symbol} Last Trade Price {current_market_price[0][0]['last_trade_price']} \n"
-        my_loop += f"{symbol} Ask Price {current_market_price[0][0]['ask_price']} \n"
-        my_loop += f"{symbol} Bid Price {current_market_price[0][0]['bid_price']} \n"
-        my_loop += f"{symbol} Mark Price {current_market_price[0][0]['mark_price']} \n"
+        my_loop += f"{test_symbol} Last Trade Price {current_market_price[0][0]['last_trade_price']} \n"
+        my_loop += f"{test_symbol} Ask Price {current_market_price[0][0]['ask_price']} \n"
+        my_loop += f"{test_symbol} Bid Price {current_market_price[0][0]['bid_price']} \n"
+        my_loop += f"{test_symbol} Mark Price {current_market_price[0][0]['mark_price']} \n"
         
         print(my_loop)
 
