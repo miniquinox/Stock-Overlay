@@ -1,5 +1,11 @@
 ## Options Daily Performance
   
+### 2024-03-05
+
+| Option ID | Performance |
+| --- | --- |
+| TGT $165.0 Call 2024-03-08 | Open @ 4.25 -> Max @ 6.08 = 🟢 +43.06% |
+
 ### 2024-03-04
 
 | Option ID | Performance |
