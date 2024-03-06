@@ -2821,3 +2821,2631 @@ STRL Ask Price 4.800000
 STRL Bid Price 0.000000 
 STRL Mark Price 2.400000 
  
+Time: 2024-03-06 14:28:30
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:28:35
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:28:41
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:28:46
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:28:51
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:28:57
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:29:02
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:29:07
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:29:13
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:29:18
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:29:23
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:29:29
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:29:34
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:29:39
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:29:45
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:29:50
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:29:55
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:30:01
+JD Last Trade Price 0.180000 
+JD Ask Price 0.180000 
+JD Bid Price 0.170000 
+JD Mark Price 0.175000 
+ 
+Time: 2024-03-06 14:30:06
+JD Last Trade Price 0.530000 
+JD Ask Price 0.700000 
+JD Bid Price 0.500000 
+JD Mark Price 0.600000 
+ 
+Time: 2024-03-06 14:30:11
+JD Last Trade Price 0.550000 
+JD Ask Price 0.630000 
+JD Bid Price 0.410000 
+JD Mark Price 0.520000 
+ 
+Time: 2024-03-06 14:30:17
+JD Last Trade Price 0.550000 
+JD Ask Price 0.570000 
+JD Bid Price 0.510000 
+JD Mark Price 0.540000 
+ 
+Time: 2024-03-06 14:30:22
+JD Last Trade Price 0.550000 
+JD Ask Price 0.700000 
+JD Bid Price 0.640000 
+JD Mark Price 0.670000 
+ 
+Time: 2024-03-06 14:30:27
+JD Last Trade Price 0.550000 
+JD Ask Price 0.710000 
+JD Bid Price 0.670000 
+JD Mark Price 0.690000 
+ 
+Time: 2024-03-06 14:30:33
+JD Last Trade Price 0.550000 
+JD Ask Price 0.740000 
+JD Bid Price 0.700000 
+JD Mark Price 0.720000 
+ 
+Time: 2024-03-06 14:30:38
+JD Last Trade Price 0.640000 
+JD Ask Price 0.700000 
+JD Bid Price 0.640000 
+JD Mark Price 0.670000 
+ 
+Time: 2024-03-06 14:30:44
+JD Last Trade Price 0.550000 
+JD Ask Price 0.660000 
+JD Bid Price 0.650000 
+JD Mark Price 0.655000 
+ 
+Time: 2024-03-06 14:30:49
+JD Last Trade Price 0.550000 
+JD Ask Price 0.660000 
+JD Bid Price 0.600000 
+JD Mark Price 0.630000 
+ 
+Time: 2024-03-06 14:30:54
+JD Last Trade Price 0.650000 
+JD Ask Price 0.650000 
+JD Bid Price 0.620000 
+JD Mark Price 0.635000 
+ 
+Time: 2024-03-06 14:31:00
+JD Last Trade Price 0.620000 
+JD Ask Price 0.650000 
+JD Bid Price 0.620000 
+JD Mark Price 0.635000 
+ 
+Time: 2024-03-06 14:31:05
+JD Last Trade Price 0.640000 
+JD Ask Price 0.650000 
+JD Bid Price 0.610000 
+JD Mark Price 0.630000 
+ 
+Time: 2024-03-06 14:31:10
+JD Last Trade Price 0.630000 
+JD Ask Price 0.630000 
+JD Bid Price 0.610000 
+JD Mark Price 0.620000 
+ 
+Time: 2024-03-06 14:31:16
+JD Last Trade Price 0.610000 
+JD Ask Price 0.620000 
+JD Bid Price 0.600000 
+JD Mark Price 0.610000 
+ 
+Time: 2024-03-06 14:31:21
+JD Last Trade Price 0.600000 
+JD Ask Price 0.620000 
+JD Bid Price 0.560000 
+JD Mark Price 0.590000 
+ 
+Time: 2024-03-06 14:31:26
+JD Last Trade Price 0.600000 
+JD Ask Price 0.600000 
+JD Bid Price 0.560000 
+JD Mark Price 0.580000 
+ 
+Time: 2024-03-06 14:31:32
+JD Last Trade Price 0.560000 
+JD Ask Price 0.570000 
+JD Bid Price 0.560000 
+JD Mark Price 0.565000 
+ 
+Time: 2024-03-06 14:31:37
+JD Last Trade Price 0.470000 
+JD Ask Price 0.560000 
+JD Bid Price 0.470000 
+JD Mark Price 0.515000 
+ 
+Time: 2024-03-06 14:31:42
+JD Last Trade Price 0.520000 
+JD Ask Price 0.550000 
+JD Bid Price 0.470000 
+JD Mark Price 0.510000 
+ 
+Time: 2024-03-06 14:31:48
+JD Last Trade Price 0.520000 
+JD Ask Price 0.520000 
+JD Bid Price 0.490000 
+JD Mark Price 0.505000 
+ 
+Time: 2024-03-06 14:31:53
+JD Last Trade Price 0.470000 
+JD Ask Price 0.490000 
+JD Bid Price 0.450000 
+JD Mark Price 0.470000 
+ 
+Time: 2024-03-06 14:31:58
+JD Last Trade Price 0.410000 
+JD Ask Price 0.450000 
+JD Bid Price 0.410000 
+JD Mark Price 0.430000 
+ 
+Time: 2024-03-06 14:32:04
+JD Last Trade Price 0.450000 
+JD Ask Price 0.450000 
+JD Bid Price 0.430000 
+JD Mark Price 0.440000 
+ 
+Time: 2024-03-06 14:32:09
+JD Last Trade Price 0.440000 
+JD Ask Price 0.440000 
+JD Bid Price 0.410000 
+JD Mark Price 0.425000 
+ 
+Time: 2024-03-06 14:32:15
+JD Last Trade Price 0.440000 
+JD Ask Price 0.460000 
+JD Bid Price 0.400000 
+JD Mark Price 0.430000 
+ 
+Time: 2024-03-06 14:32:20
+JD Last Trade Price 0.430000 
+JD Ask Price 0.450000 
+JD Bid Price 0.420000 
+JD Mark Price 0.435000 
+ 
+Time: 2024-03-06 14:32:26
+JD Last Trade Price 0.450000 
+JD Ask Price 0.490000 
+JD Bid Price 0.460000 
+JD Mark Price 0.475000 
+ 
+Time: 2024-03-06 14:32:31
+JD Last Trade Price 0.450000 
+JD Ask Price 0.490000 
+JD Bid Price 0.450000 
+JD Mark Price 0.470000 
+ 
+Time: 2024-03-06 14:32:36
+JD Last Trade Price 0.500000 
+JD Ask Price 0.500000 
+JD Bid Price 0.470000 
+JD Mark Price 0.485000 
+ 
+Time: 2024-03-06 14:32:42
+JD Last Trade Price 0.500000 
+JD Ask Price 0.520000 
+JD Bid Price 0.500000 
+JD Mark Price 0.510000 
+ 
+Time: 2024-03-06 14:32:47
+JD Last Trade Price 0.490000 
+JD Ask Price 0.500000 
+JD Bid Price 0.490000 
+JD Mark Price 0.495000 
+ 
+Time: 2024-03-06 14:32:52
+JD Last Trade Price 0.480000 
+JD Ask Price 0.470000 
+JD Bid Price 0.460000 
+JD Mark Price 0.465000 
+ 
+Time: 2024-03-06 14:32:58
+JD Last Trade Price 0.470000 
+JD Ask Price 0.500000 
+JD Bid Price 0.450000 
+JD Mark Price 0.475000 
+ 
+Time: 2024-03-06 14:33:03
+JD Last Trade Price 0.460000 
+JD Ask Price 0.460000 
+JD Bid Price 0.440000 
+JD Mark Price 0.450000 
+ 
+Time: 2024-03-06 14:33:09
+JD Last Trade Price 0.460000 
+JD Ask Price 0.460000 
+JD Bid Price 0.440000 
+JD Mark Price 0.450000 
+ 
+Time: 2024-03-06 14:33:15
+JD Last Trade Price 0.480000 
+JD Ask Price 0.500000 
+JD Bid Price 0.470000 
+JD Mark Price 0.485000 
+ 
+Time: 2024-03-06 14:33:21
+JD Last Trade Price 0.470000 
+JD Ask Price 0.500000 
+JD Bid Price 0.470000 
+JD Mark Price 0.485000 
+ 
+Time: 2024-03-06 14:33:26
+JD Last Trade Price 0.460000 
+JD Ask Price 0.460000 
+JD Bid Price 0.420000 
+JD Mark Price 0.440000 
+ 
+Time: 2024-03-06 14:33:32
+JD Last Trade Price 0.420000 
+JD Ask Price 0.430000 
+JD Bid Price 0.410000 
+JD Mark Price 0.420000 
+ 
+Time: 2024-03-06 14:33:37
+JD Last Trade Price 0.420000 
+JD Ask Price 0.450000 
+JD Bid Price 0.410000 
+JD Mark Price 0.430000 
+ 
+Time: 2024-03-06 14:33:42
+JD Last Trade Price 0.460000 
+JD Ask Price 0.500000 
+JD Bid Price 0.450000 
+JD Mark Price 0.475000 
+ 
+Time: 2024-03-06 14:33:48
+JD Last Trade Price 0.480000 
+JD Ask Price 0.490000 
+JD Bid Price 0.420000 
+JD Mark Price 0.455000 
+ 
+Time: 2024-03-06 14:33:53
+JD Last Trade Price 0.350000 
+JD Ask Price 0.420000 
+JD Bid Price 0.360000 
+JD Mark Price 0.390000 
+ 
+Time: 2024-03-06 14:33:58
+JD Last Trade Price 0.400000 
+JD Ask Price 0.440000 
+JD Bid Price 0.370000 
+JD Mark Price 0.405000 
+ 
+Time: 2024-03-06 14:34:04
+JD Last Trade Price 0.400000 
+JD Ask Price 0.440000 
+JD Bid Price 0.400000 
+JD Mark Price 0.420000 
+ 
+Time: 2024-03-06 14:34:09
+JD Last Trade Price 0.400000 
+JD Ask Price 0.450000 
+JD Bid Price 0.410000 
+JD Mark Price 0.430000 
+ 
+Time: 2024-03-06 14:34:14
+JD Last Trade Price 0.490000 
+JD Ask Price 0.490000 
+JD Bid Price 0.470000 
+JD Mark Price 0.480000 
+ 
+Time: 2024-03-06 14:34:20
+JD Last Trade Price 0.490000 
+JD Ask Price 0.490000 
+JD Bid Price 0.470000 
+JD Mark Price 0.480000 
+ 
+Time: 2024-03-06 14:34:25
+JD Last Trade Price 0.480000 
+JD Ask Price 0.500000 
+JD Bid Price 0.460000 
+JD Mark Price 0.480000 
+ 
+Time: 2024-03-06 14:34:31
+JD Last Trade Price 0.480000 
+JD Ask Price 0.500000 
+JD Bid Price 0.460000 
+JD Mark Price 0.480000 
+ 
+Time: 2024-03-06 14:34:36
+JD Last Trade Price 0.480000 
+JD Ask Price 0.500000 
+JD Bid Price 0.480000 
+JD Mark Price 0.490000 
+ 
+Time: 2024-03-06 14:34:41
+JD Last Trade Price 0.500000 
+JD Ask Price 0.510000 
+JD Bid Price 0.500000 
+JD Mark Price 0.505000 
+ 
+Time: 2024-03-06 14:34:47
+JD Last Trade Price 0.510000 
+JD Ask Price 0.530000 
+JD Bid Price 0.480000 
+JD Mark Price 0.505000 
+ 
+Time: 2024-03-06 14:34:52
+JD Last Trade Price 0.530000 
+JD Ask Price 0.510000 
+JD Bid Price 0.450000 
+JD Mark Price 0.480000 
+ 
+Time: 2024-03-06 14:34:57
+JD Last Trade Price 0.490000 
+JD Ask Price 0.490000 
+JD Bid Price 0.450000 
+JD Mark Price 0.470000 
+ 
+Time: 2024-03-06 14:35:03
+JD Last Trade Price 0.490000 
+JD Ask Price 0.500000 
+JD Bid Price 0.490000 
+JD Mark Price 0.495000 
+ 
+Time: 2024-03-06 14:35:08
+JD Last Trade Price 0.490000 
+JD Ask Price 0.500000 
+JD Bid Price 0.490000 
+JD Mark Price 0.495000 
+ 
+Time: 2024-03-06 14:35:14
+JD Last Trade Price 0.480000 
+JD Ask Price 0.490000 
+JD Bid Price 0.460000 
+JD Mark Price 0.475000 
+ 
+Time: 2024-03-06 14:35:19
+JD Last Trade Price 0.520000 
+JD Ask Price 0.540000 
+JD Bid Price 0.490000 
+JD Mark Price 0.515000 
+ 
+Time: 2024-03-06 14:35:25
+JD Last Trade Price 0.520000 
+JD Ask Price 0.540000 
+JD Bid Price 0.490000 
+JD Mark Price 0.515000 
+ 
+Time: 2024-03-06 14:35:31
+JD Last Trade Price 0.530000 
+JD Ask Price 0.540000 
+JD Bid Price 0.490000 
+JD Mark Price 0.515000 
+ 
+Time: 2024-03-06 14:35:36
+JD Last Trade Price 0.520000 
+JD Ask Price 0.540000 
+JD Bid Price 0.500000 
+JD Mark Price 0.520000 
+ 
+Time: 2024-03-06 14:35:42
+JD Last Trade Price 0.530000 
+JD Ask Price 0.540000 
+JD Bid Price 0.520000 
+JD Mark Price 0.530000 
+ 
+Time: 2024-03-06 14:35:47
+JD Last Trade Price 0.520000 
+JD Ask Price 0.540000 
+JD Bid Price 0.520000 
+JD Mark Price 0.530000 
+ 
+Time: 2024-03-06 14:35:53
+JD Last Trade Price 0.520000 
+JD Ask Price 0.520000 
+JD Bid Price 0.500000 
+JD Mark Price 0.510000 
+ 
+Time: 2024-03-06 14:35:58
+JD Last Trade Price 0.520000 
+JD Ask Price 0.530000 
+JD Bid Price 0.520000 
+JD Mark Price 0.525000 
+ 
+Time: 2024-03-06 14:36:04
+JD Last Trade Price 0.520000 
+JD Ask Price 0.520000 
+JD Bid Price 0.500000 
+JD Mark Price 0.510000 
+ 
+Time: 2024-03-06 14:36:09
+JD Last Trade Price 0.520000 
+JD Ask Price 0.540000 
+JD Bid Price 0.520000 
+JD Mark Price 0.530000 
+ 
+Time: 2024-03-06 14:36:15
+JD Last Trade Price 0.530000 
+JD Ask Price 0.540000 
+JD Bid Price 0.520000 
+JD Mark Price 0.530000 
+ 
+Time: 2024-03-06 14:36:21
+JD Last Trade Price 0.530000 
+JD Ask Price 0.540000 
+JD Bid Price 0.530000 
+JD Mark Price 0.535000 
+ 
+Time: 2024-03-06 14:36:26
+JD Last Trade Price 0.530000 
+JD Ask Price 0.540000 
+JD Bid Price 0.530000 
+JD Mark Price 0.535000 
+ 
+Time: 2024-03-06 14:36:32
+JD Last Trade Price 0.560000 
+JD Ask Price 0.580000 
+JD Bid Price 0.550000 
+JD Mark Price 0.565000 
+ 
+Time: 2024-03-06 14:36:37
+JD Last Trade Price 0.580000 
+JD Ask Price 0.580000 
+JD Bid Price 0.550000 
+JD Mark Price 0.565000 
+ 
+Time: 2024-03-06 14:36:43
+JD Last Trade Price 0.560000 
+JD Ask Price 0.580000 
+JD Bid Price 0.560000 
+JD Mark Price 0.570000 
+ 
+Time: 2024-03-06 14:36:49
+JD Last Trade Price 0.580000 
+JD Ask Price 0.580000 
+JD Bid Price 0.570000 
+JD Mark Price 0.575000 
+ 
+Time: 2024-03-06 14:36:54
+JD Last Trade Price 0.530000 
+JD Ask Price 0.560000 
+JD Bid Price 0.520000 
+JD Mark Price 0.540000 
+ 
+Time: 2024-03-06 14:37:00
+JD Last Trade Price 0.560000 
+JD Ask Price 0.590000 
+JD Bid Price 0.530000 
+JD Mark Price 0.560000 
+ 
+Time: 2024-03-06 14:37:06
+JD Last Trade Price 0.570000 
+JD Ask Price 0.590000 
+JD Bid Price 0.550000 
+JD Mark Price 0.570000 
+ 
+Time: 2024-03-06 14:37:11
+JD Last Trade Price 0.560000 
+JD Ask Price 0.580000 
+JD Bid Price 0.570000 
+JD Mark Price 0.575000 
+ 
+Time: 2024-03-06 14:37:17
+JD Last Trade Price 0.550000 
+JD Ask Price 0.580000 
+JD Bid Price 0.530000 
+JD Mark Price 0.555000 
+ 
+Time: 2024-03-06 14:37:22
+JD Last Trade Price 0.550000 
+JD Ask Price 0.580000 
+JD Bid Price 0.530000 
+JD Mark Price 0.555000 
+ 
+Time: 2024-03-06 14:37:28
+JD Last Trade Price 0.550000 
+JD Ask Price 0.580000 
+JD Bid Price 0.530000 
+JD Mark Price 0.555000 
+ 
+Time: 2024-03-06 14:37:33
+JD Last Trade Price 0.580000 
+JD Ask Price 0.580000 
+JD Bid Price 0.520000 
+JD Mark Price 0.550000 
+ 
+Time: 2024-03-06 14:37:39
+JD Last Trade Price 0.580000 
+JD Ask Price 0.570000 
+JD Bid Price 0.520000 
+JD Mark Price 0.545000 
+ 
+Time: 2024-03-06 14:37:44
+JD Last Trade Price 0.580000 
+JD Ask Price 0.570000 
+JD Bid Price 0.520000 
+JD Mark Price 0.545000 
+ 
+Time: 2024-03-06 14:37:50
+JD Last Trade Price 0.580000 
+JD Ask Price 0.560000 
+JD Bid Price 0.520000 
+JD Mark Price 0.540000 
+ 
+Time: 2024-03-06 14:37:55
+JD Last Trade Price 0.500000 
+JD Ask Price 0.520000 
+JD Bid Price 0.500000 
+JD Mark Price 0.510000 
+ 
+Time: 2024-03-06 14:38:01
+JD Last Trade Price 0.470000 
+JD Ask Price 0.500000 
+JD Bid Price 0.480000 
+JD Mark Price 0.490000 
+ 
+Time: 2024-03-06 14:38:07
+JD Last Trade Price 0.480000 
+JD Ask Price 0.500000 
+JD Bid Price 0.480000 
+JD Mark Price 0.490000 
+ 
+Time: 2024-03-06 14:38:12
+JD Last Trade Price 0.480000 
+JD Ask Price 0.500000 
+JD Bid Price 0.480000 
+JD Mark Price 0.490000 
+ 
+Time: 2024-03-06 14:38:18
+JD Last Trade Price 0.500000 
+JD Ask Price 0.540000 
+JD Bid Price 0.480000 
+JD Mark Price 0.510000 
+ 
+Time: 2024-03-06 14:38:24
+JD Last Trade Price 0.490000 
+JD Ask Price 0.540000 
+JD Bid Price 0.480000 
+JD Mark Price 0.510000 
+ 
+Time: 2024-03-06 14:38:29
+JD Last Trade Price 0.540000 
+JD Ask Price 0.540000 
+JD Bid Price 0.480000 
+JD Mark Price 0.510000 
+ 
+Time: 2024-03-06 14:38:35
+JD Last Trade Price 0.490000 
+JD Ask Price 0.530000 
+JD Bid Price 0.480000 
+JD Mark Price 0.505000 
+ 
+Time: 2024-03-06 14:38:41
+JD Last Trade Price 0.490000 
+JD Ask Price 0.520000 
+JD Bid Price 0.480000 
+JD Mark Price 0.500000 
+ 
+Time: 2024-03-06 14:38:46
+JD Last Trade Price 0.480000 
+JD Ask Price 0.500000 
+JD Bid Price 0.440000 
+JD Mark Price 0.470000 
+ 
+Time: 2024-03-06 14:38:52
+JD Last Trade Price 0.480000 
+JD Ask Price 0.500000 
+JD Bid Price 0.450000 
+JD Mark Price 0.475000 
+ 
+Time: 2024-03-06 14:38:58
+JD Last Trade Price 0.500000 
+JD Ask Price 0.500000 
+JD Bid Price 0.430000 
+JD Mark Price 0.465000 
+ 
+Time: 2024-03-06 14:39:03
+JD Last Trade Price 0.470000 
+JD Ask Price 0.500000 
+JD Bid Price 0.470000 
+JD Mark Price 0.485000 
+ 
+Time: 2024-03-06 14:39:09
+JD Last Trade Price 0.470000 
+JD Ask Price 0.500000 
+JD Bid Price 0.450000 
+JD Mark Price 0.475000 
+ 
+Time: 2024-03-06 14:39:14
+JD Last Trade Price 0.490000 
+JD Ask Price 0.500000 
+JD Bid Price 0.450000 
+JD Mark Price 0.475000 
+ 
+Time: 2024-03-06 14:39:20
+JD Last Trade Price 0.470000 
+JD Ask Price 0.500000 
+JD Bid Price 0.470000 
+JD Mark Price 0.485000 
+ 
+Time: 2024-03-06 14:39:25
+JD Last Trade Price 0.500000 
+JD Ask Price 0.500000 
+JD Bid Price 0.470000 
+JD Mark Price 0.485000 
+ 
+Time: 2024-03-06 14:39:31
+JD Last Trade Price 0.500000 
+JD Ask Price 0.500000 
+JD Bid Price 0.460000 
+JD Mark Price 0.480000 
+ 
+Time: 2024-03-06 14:39:37
+JD Last Trade Price 0.460000 
+JD Ask Price 0.500000 
+JD Bid Price 0.450000 
+JD Mark Price 0.475000 
+ 
+Time: 2024-03-06 14:39:42
+JD Last Trade Price 0.460000 
+JD Ask Price 0.490000 
+JD Bid Price 0.450000 
+JD Mark Price 0.470000 
+ 
+Time: 2024-03-06 14:39:48
+JD Last Trade Price 0.490000 
+JD Ask Price 0.490000 
+JD Bid Price 0.450000 
+JD Mark Price 0.470000 
+ 
+Time: 2024-03-06 14:39:53
+JD Last Trade Price 0.490000 
+JD Ask Price 0.500000 
+JD Bid Price 0.470000 
+JD Mark Price 0.485000 
+ 
+Time: 2024-03-06 14:39:59
+JD Last Trade Price 0.470000 
+JD Ask Price 0.490000 
+JD Bid Price 0.440000 
+JD Mark Price 0.465000 
+ 
+Time: 2024-03-06 14:40:04
+JD Last Trade Price 0.470000 
+JD Ask Price 0.490000 
+JD Bid Price 0.450000 
+JD Mark Price 0.470000 
+ 
+Time: 2024-03-06 14:40:10
+JD Last Trade Price 0.470000 
+JD Ask Price 0.470000 
+JD Bid Price 0.450000 
+JD Mark Price 0.460000 
+ 
+Time: 2024-03-06 14:40:15
+JD Last Trade Price 0.470000 
+JD Ask Price 0.490000 
+JD Bid Price 0.450000 
+JD Mark Price 0.470000 
+ 
+Time: 2024-03-06 14:40:21
+JD Last Trade Price 0.470000 
+JD Ask Price 0.490000 
+JD Bid Price 0.450000 
+JD Mark Price 0.470000 
+ 
+Time: 2024-03-06 14:40:26
+JD Last Trade Price 0.470000 
+JD Ask Price 0.490000 
+JD Bid Price 0.460000 
+JD Mark Price 0.475000 
+ 
+Time: 2024-03-06 14:40:32
+JD Last Trade Price 0.470000 
+JD Ask Price 0.530000 
+JD Bid Price 0.500000 
+JD Mark Price 0.515000 
+ 
+Time: 2024-03-06 14:40:37
+JD Last Trade Price 0.470000 
+JD Ask Price 0.500000 
+JD Bid Price 0.460000 
+JD Mark Price 0.480000 
+ 
+Time: 2024-03-06 14:40:43
+JD Last Trade Price 0.520000 
+JD Ask Price 0.530000 
+JD Bid Price 0.490000 
+JD Mark Price 0.510000 
+ 
+Time: 2024-03-06 14:40:49
+JD Last Trade Price 0.490000 
+JD Ask Price 0.520000 
+JD Bid Price 0.450000 
+JD Mark Price 0.485000 
+ 
+Time: 2024-03-06 14:40:54
+JD Last Trade Price 0.520000 
+JD Ask Price 0.520000 
+JD Bid Price 0.460000 
+JD Mark Price 0.490000 
+ 
+Time: 2024-03-06 14:40:59
+JD Last Trade Price 0.480000 
+JD Ask Price 0.520000 
+JD Bid Price 0.480000 
+JD Mark Price 0.500000 
+ 
+Time: 2024-03-06 14:41:05
+JD Last Trade Price 0.500000 
+JD Ask Price 0.510000 
+JD Bid Price 0.480000 
+JD Mark Price 0.495000 
+ 
+Time: 2024-03-06 14:41:11
+JD Last Trade Price 0.510000 
+JD Ask Price 0.540000 
+JD Bid Price 0.510000 
+JD Mark Price 0.525000 
+ 
+Time: 2024-03-06 14:41:16
+JD Last Trade Price 0.510000 
+JD Ask Price 0.540000 
+JD Bid Price 0.490000 
+JD Mark Price 0.515000 
+ 
+Time: 2024-03-06 14:41:22
+JD Last Trade Price 0.510000 
+JD Ask Price 0.520000 
+JD Bid Price 0.480000 
+JD Mark Price 0.500000 
+ 
+Time: 2024-03-06 14:41:27
+JD Last Trade Price 0.510000 
+JD Ask Price 0.520000 
+JD Bid Price 0.480000 
+JD Mark Price 0.500000 
+ 
+Time: 2024-03-06 14:41:33
+JD Last Trade Price 0.510000 
+JD Ask Price 0.530000 
+JD Bid Price 0.480000 
+JD Mark Price 0.505000 
+ 
+Time: 2024-03-06 14:41:38
+JD Last Trade Price 0.510000 
+JD Ask Price 0.530000 
+JD Bid Price 0.480000 
+JD Mark Price 0.505000 
+ 
+Time: 2024-03-06 14:41:44
+JD Last Trade Price 0.510000 
+JD Ask Price 0.520000 
+JD Bid Price 0.480000 
+JD Mark Price 0.500000 
+ 
+Time: 2024-03-06 14:41:50
+JD Last Trade Price 0.510000 
+JD Ask Price 0.500000 
+JD Bid Price 0.480000 
+JD Mark Price 0.490000 
+ 
+Time: 2024-03-06 14:41:55
+JD Last Trade Price 0.500000 
+JD Ask Price 0.520000 
+JD Bid Price 0.500000 
+JD Mark Price 0.510000 
+ 
+Time: 2024-03-06 14:42:00
+JD Last Trade Price 0.530000 
+JD Ask Price 0.530000 
+JD Bid Price 0.490000 
+JD Mark Price 0.510000 
+ 
+Time: 2024-03-06 14:42:06
+JD Last Trade Price 0.520000 
+JD Ask Price 0.530000 
+JD Bid Price 0.500000 
+JD Mark Price 0.515000 
+ 
+Time: 2024-03-06 14:42:11
+JD Last Trade Price 0.500000 
+JD Ask Price 0.540000 
+JD Bid Price 0.510000 
+JD Mark Price 0.525000 
+ 
+Time: 2024-03-06 14:42:16
+JD Last Trade Price 0.540000 
+JD Ask Price 0.550000 
+JD Bid Price 0.510000 
+JD Mark Price 0.530000 
+ 
+Time: 2024-03-06 14:42:22
+JD Last Trade Price 0.520000 
+JD Ask Price 0.550000 
+JD Bid Price 0.520000 
+JD Mark Price 0.535000 
+ 
+Time: 2024-03-06 14:42:28
+JD Last Trade Price 0.520000 
+JD Ask Price 0.550000 
+JD Bid Price 0.520000 
+JD Mark Price 0.535000 
+ 
+Time: 2024-03-06 14:42:33
+JD Last Trade Price 0.520000 
+JD Ask Price 0.540000 
+JD Bid Price 0.520000 
+JD Mark Price 0.530000 
+ 
+Time: 2024-03-06 14:42:39
+JD Last Trade Price 0.530000 
+JD Ask Price 0.540000 
+JD Bid Price 0.520000 
+JD Mark Price 0.530000 
+ 
+Time: 2024-03-06 14:42:44
+JD Last Trade Price 0.530000 
+JD Ask Price 0.540000 
+JD Bid Price 0.520000 
+JD Mark Price 0.530000 
+ 
+Time: 2024-03-06 14:42:50
+JD Last Trade Price 0.530000 
+JD Ask Price 0.540000 
+JD Bid Price 0.520000 
+JD Mark Price 0.530000 
+ 
+Time: 2024-03-06 14:42:55
+JD Last Trade Price 0.540000 
+JD Ask Price 0.550000 
+JD Bid Price 0.530000 
+JD Mark Price 0.540000 
+ 
+Time: 2024-03-06 14:43:01
+JD Last Trade Price 0.550000 
+JD Ask Price 0.550000 
+JD Bid Price 0.520000 
+JD Mark Price 0.535000 
+ 
+Time: 2024-03-06 14:43:06
+JD Last Trade Price 0.550000 
+JD Ask Price 0.550000 
+JD Bid Price 0.490000 
+JD Mark Price 0.520000 
+ 
+Time: 2024-03-06 14:43:11
+JD Last Trade Price 0.520000 
+JD Ask Price 0.540000 
+JD Bid Price 0.490000 
+JD Mark Price 0.515000 
+ 
+Time: 2024-03-06 14:43:17
+JD Last Trade Price 0.520000 
+JD Ask Price 0.540000 
+JD Bid Price 0.490000 
+JD Mark Price 0.515000 
+ 
+Time: 2024-03-06 14:43:22
+JD Last Trade Price 0.530000 
+JD Ask Price 0.530000 
+JD Bid Price 0.500000 
+JD Mark Price 0.515000 
+ 
+Time: 2024-03-06 14:43:27
+JD Last Trade Price 0.530000 
+JD Ask Price 0.540000 
+JD Bid Price 0.530000 
+JD Mark Price 0.535000 
+ 
+Time: 2024-03-06 14:43:33
+JD Last Trade Price 0.530000 
+JD Ask Price 0.530000 
+JD Bid Price 0.510000 
+JD Mark Price 0.520000 
+ 
+Time: 2024-03-06 14:43:38
+JD Last Trade Price 0.530000 
+JD Ask Price 0.530000 
+JD Bid Price 0.510000 
+JD Mark Price 0.520000 
+ 
+Time: 2024-03-06 14:43:44
+JD Last Trade Price 0.530000 
+JD Ask Price 0.540000 
+JD Bid Price 0.530000 
+JD Mark Price 0.535000 
+ 
+Time: 2024-03-06 14:43:49
+JD Last Trade Price 0.530000 
+JD Ask Price 0.540000 
+JD Bid Price 0.520000 
+JD Mark Price 0.530000 
+ 
+Time: 2024-03-06 14:43:55
+JD Last Trade Price 0.530000 
+JD Ask Price 0.540000 
+JD Bid Price 0.530000 
+JD Mark Price 0.535000 
+ 
+Time: 2024-03-06 14:44:01
+JD Last Trade Price 0.500000 
+JD Ask Price 0.520000 
+JD Bid Price 0.500000 
+JD Mark Price 0.510000 
+ 
+Time: 2024-03-06 14:44:06
+JD Last Trade Price 0.520000 
+JD Ask Price 0.540000 
+JD Bid Price 0.520000 
+JD Mark Price 0.530000 
+ 
+Time: 2024-03-06 14:44:12
+JD Last Trade Price 0.540000 
+JD Ask Price 0.550000 
+JD Bid Price 0.530000 
+JD Mark Price 0.540000 
+ 
+Time: 2024-03-06 14:44:17
+JD Last Trade Price 0.550000 
+JD Ask Price 0.550000 
+JD Bid Price 0.530000 
+JD Mark Price 0.540000 
+ 
+Time: 2024-03-06 14:44:23
+JD Last Trade Price 0.540000 
+JD Ask Price 0.550000 
+JD Bid Price 0.530000 
+JD Mark Price 0.540000 
+ 
+Time: 2024-03-06 14:44:28
+JD Last Trade Price 0.560000 
+JD Ask Price 0.590000 
+JD Bid Price 0.550000 
+JD Mark Price 0.570000 
+ 
+Time: 2024-03-06 14:44:33
+JD Last Trade Price 0.570000 
+JD Ask Price 0.580000 
+JD Bid Price 0.550000 
+JD Mark Price 0.565000 
+ 
+Time: 2024-03-06 14:44:39
+JD Last Trade Price 0.550000 
+JD Ask Price 0.570000 
+JD Bid Price 0.530000 
+JD Mark Price 0.550000 
+ 
+Time: 2024-03-06 14:44:44
+JD Last Trade Price 0.550000 
+JD Ask Price 0.570000 
+JD Bid Price 0.540000 
+JD Mark Price 0.555000 
+ 
+Time: 2024-03-06 14:44:50
+JD Last Trade Price 0.550000 
+JD Ask Price 0.580000 
+JD Bid Price 0.550000 
+JD Mark Price 0.565000 
+ 
+Time: 2024-03-06 14:44:55
+JD Last Trade Price 0.570000 
+JD Ask Price 0.590000 
+JD Bid Price 0.550000 
+JD Mark Price 0.570000 
+ 
+Time: 2024-03-06 14:45:01
+JD Last Trade Price 0.570000 
+JD Ask Price 0.590000 
+JD Bid Price 0.550000 
+JD Mark Price 0.570000 
+ 
+Time: 2024-03-06 14:45:06
+JD Last Trade Price 0.570000 
+JD Ask Price 0.590000 
+JD Bid Price 0.560000 
+JD Mark Price 0.575000 
+ 
+Time: 2024-03-06 14:45:11
+JD Last Trade Price 0.570000 
+JD Ask Price 0.590000 
+JD Bid Price 0.560000 
+JD Mark Price 0.575000 
+ 
+Time: 2024-03-06 14:45:17
+JD Last Trade Price 0.580000 
+JD Ask Price 0.580000 
+JD Bid Price 0.570000 
+JD Mark Price 0.575000 
+ 
+Time: 2024-03-06 14:45:22
+JD Last Trade Price 0.580000 
+JD Ask Price 0.590000 
+JD Bid Price 0.580000 
+JD Mark Price 0.585000 
+ 
+Time: 2024-03-06 14:45:28
+JD Last Trade Price 0.570000 
+JD Ask Price 0.590000 
+JD Bid Price 0.570000 
+JD Mark Price 0.580000 
+ 
+Time: 2024-03-06 14:45:33
+JD Last Trade Price 0.560000 
+JD Ask Price 0.590000 
+JD Bid Price 0.560000 
+JD Mark Price 0.575000 
+ 
+Time: 2024-03-06 14:45:38
+JD Last Trade Price 0.580000 
+JD Ask Price 0.590000 
+JD Bid Price 0.560000 
+JD Mark Price 0.575000 
+ 
+Time: 2024-03-06 14:45:44
+JD Last Trade Price 0.570000 
+JD Ask Price 0.600000 
+JD Bid Price 0.550000 
+JD Mark Price 0.575000 
+ 
+Time: 2024-03-06 14:45:50
+JD Last Trade Price 0.600000 
+JD Ask Price 0.600000 
+JD Bid Price 0.570000 
+JD Mark Price 0.585000 
+ 
+Time: 2024-03-06 14:45:55
+JD Last Trade Price 0.580000 
+JD Ask Price 0.600000 
+JD Bid Price 0.570000 
+JD Mark Price 0.585000 
+ 
+Time: 2024-03-06 14:46:01
+JD Last Trade Price 0.600000 
+JD Ask Price 0.600000 
+JD Bid Price 0.590000 
+JD Mark Price 0.595000 
+ 
+Time: 2024-03-06 14:46:06
+JD Last Trade Price 0.600000 
+JD Ask Price 0.590000 
+JD Bid Price 0.580000 
+JD Mark Price 0.585000 
+ 
+Time: 2024-03-06 14:46:12
+JD Last Trade Price 0.570000 
+JD Ask Price 0.600000 
+JD Bid Price 0.550000 
+JD Mark Price 0.575000 
+ 
+Time: 2024-03-06 14:46:17
+JD Last Trade Price 0.570000 
+JD Ask Price 0.600000 
+JD Bid Price 0.570000 
+JD Mark Price 0.585000 
+ 
+Time: 2024-03-06 14:46:23
+JD Last Trade Price 0.590000 
+JD Ask Price 0.600000 
+JD Bid Price 0.590000 
+JD Mark Price 0.595000 
+ 
+Time: 2024-03-06 14:46:29
+JD Last Trade Price 0.600000 
+JD Ask Price 0.600000 
+JD Bid Price 0.590000 
+JD Mark Price 0.595000 
+ 
+Time: 2024-03-06 14:46:34
+JD Last Trade Price 0.600000 
+JD Ask Price 0.600000 
+JD Bid Price 0.570000 
+JD Mark Price 0.585000 
+ 
+Time: 2024-03-06 14:46:40
+JD Last Trade Price 0.600000 
+JD Ask Price 0.600000 
+JD Bid Price 0.590000 
+JD Mark Price 0.595000 
+ 
+Time: 2024-03-06 14:46:45
+JD Last Trade Price 0.600000 
+JD Ask Price 0.610000 
+JD Bid Price 0.600000 
+JD Mark Price 0.605000 
+ 
+Time: 2024-03-06 14:46:50
+JD Last Trade Price 0.600000 
+JD Ask Price 0.610000 
+JD Bid Price 0.590000 
+JD Mark Price 0.600000 
+ 
+Time: 2024-03-06 14:46:56
+JD Last Trade Price 0.610000 
+JD Ask Price 0.610000 
+JD Bid Price 0.580000 
+JD Mark Price 0.595000 
+ 
+Time: 2024-03-06 14:47:01
+JD Last Trade Price 0.600000 
+JD Ask Price 0.600000 
+JD Bid Price 0.580000 
+JD Mark Price 0.590000 
+ 
+Time: 2024-03-06 14:47:06
+JD Last Trade Price 0.600000 
+JD Ask Price 0.610000 
+JD Bid Price 0.600000 
+JD Mark Price 0.605000 
+ 
+Time: 2024-03-06 14:47:12
+JD Last Trade Price 0.600000 
+JD Ask Price 0.610000 
+JD Bid Price 0.590000 
+JD Mark Price 0.600000 
+ 
+Time: 2024-03-06 14:47:17
+JD Last Trade Price 0.630000 
+JD Ask Price 0.620000 
+JD Bid Price 0.610000 
+JD Mark Price 0.615000 
+ 
+Time: 2024-03-06 14:47:22
+JD Last Trade Price 0.610000 
+JD Ask Price 0.620000 
+JD Bid Price 0.610000 
+JD Mark Price 0.615000 
+ 
+Time: 2024-03-06 14:47:28
+JD Last Trade Price 0.620000 
+JD Ask Price 0.620000 
+JD Bid Price 0.610000 
+JD Mark Price 0.615000 
+ 
+Time: 2024-03-06 14:47:33
+JD Last Trade Price 0.610000 
+JD Ask Price 0.630000 
+JD Bid Price 0.610000 
+JD Mark Price 0.620000 
+ 
+Time: 2024-03-06 14:47:38
+JD Last Trade Price 0.620000 
+JD Ask Price 0.620000 
+JD Bid Price 0.610000 
+JD Mark Price 0.615000 
+ 
+Time: 2024-03-06 14:47:44
+JD Last Trade Price 0.610000 
+JD Ask Price 0.610000 
+JD Bid Price 0.590000 
+JD Mark Price 0.600000 
+ 
+Time: 2024-03-06 14:47:49
+JD Last Trade Price 0.630000 
+JD Ask Price 0.640000 
+JD Bid Price 0.620000 
+JD Mark Price 0.630000 
+ 
+Time: 2024-03-06 14:47:54
+JD Last Trade Price 0.650000 
+JD Ask Price 0.650000 
+JD Bid Price 0.640000 
+JD Mark Price 0.645000 
+ 
+Time: 2024-03-06 14:48:00
+JD Last Trade Price 0.690000 
+JD Ask Price 0.700000 
+JD Bid Price 0.670000 
+JD Mark Price 0.685000 
+ 
+Time: 2024-03-06 14:48:05
+JD Last Trade Price 0.730000 
+JD Ask Price 0.730000 
+JD Bid Price 0.700000 
+JD Mark Price 0.715000 
+ 
+Time: 2024-03-06 14:48:11
+JD Last Trade Price 0.720000 
+JD Ask Price 0.730000 
+JD Bid Price 0.700000 
+JD Mark Price 0.715000 
+ 
+Time: 2024-03-06 14:48:16
+JD Last Trade Price 0.660000 
+JD Ask Price 0.730000 
+JD Bid Price 0.700000 
+JD Mark Price 0.715000 
+ 
+Time: 2024-03-06 14:48:21
+JD Last Trade Price 0.730000 
+JD Ask Price 0.730000 
+JD Bid Price 0.700000 
+JD Mark Price 0.715000 
+ 
+Time: 2024-03-06 14:48:27
+JD Last Trade Price 0.720000 
+JD Ask Price 0.730000 
+JD Bid Price 0.690000 
+JD Mark Price 0.710000 
+ 
+Time: 2024-03-06 14:48:32
+JD Last Trade Price 0.710000 
+JD Ask Price 0.730000 
+JD Bid Price 0.710000 
+JD Mark Price 0.720000 
+ 
+Time: 2024-03-06 14:48:37
+JD Last Trade Price 0.710000 
+JD Ask Price 0.750000 
+JD Bid Price 0.720000 
+JD Mark Price 0.735000 
+ 
+Time: 2024-03-06 14:48:43
+JD Last Trade Price 0.730000 
+JD Ask Price 0.750000 
+JD Bid Price 0.730000 
+JD Mark Price 0.740000 
+ 
+Time: 2024-03-06 14:48:48
+JD Last Trade Price 0.720000 
+JD Ask Price 0.730000 
+JD Bid Price 0.710000 
+JD Mark Price 0.720000 
+ 
+Time: 2024-03-06 14:48:54
+JD Last Trade Price 0.720000 
+JD Ask Price 0.720000 
+JD Bid Price 0.700000 
+JD Mark Price 0.710000 
+ 
+Time: 2024-03-06 14:48:59
+JD Last Trade Price 0.710000 
+JD Ask Price 0.710000 
+JD Bid Price 0.670000 
+JD Mark Price 0.690000 
+ 
+Time: 2024-03-06 14:49:04
+JD Last Trade Price 0.690000 
+JD Ask Price 0.680000 
+JD Bid Price 0.670000 
+JD Mark Price 0.675000 
+ 
+Time: 2024-03-06 14:49:10
+JD Last Trade Price 0.710000 
+JD Ask Price 0.730000 
+JD Bid Price 0.700000 
+JD Mark Price 0.715000 
+ 
+Time: 2024-03-06 14:49:15
+JD Last Trade Price 0.700000 
+JD Ask Price 0.720000 
+JD Bid Price 0.700000 
+JD Mark Price 0.710000 
+ 
+Time: 2024-03-06 14:49:20
+JD Last Trade Price 0.730000 
+JD Ask Price 0.730000 
+JD Bid Price 0.720000 
+JD Mark Price 0.725000 
+ 
+Time: 2024-03-06 14:49:26
+JD Last Trade Price 0.720000 
+JD Ask Price 0.730000 
+JD Bid Price 0.720000 
+JD Mark Price 0.725000 
+ 
+Time: 2024-03-06 14:49:31
+JD Last Trade Price 0.730000 
+JD Ask Price 0.750000 
+JD Bid Price 0.730000 
+JD Mark Price 0.740000 
+ 
+Time: 2024-03-06 14:49:36
+JD Last Trade Price 0.730000 
+JD Ask Price 0.750000 
+JD Bid Price 0.730000 
+JD Mark Price 0.740000 
+ 
+Time: 2024-03-06 14:49:42
+JD Last Trade Price 0.750000 
+JD Ask Price 0.750000 
+JD Bid Price 0.740000 
+JD Mark Price 0.745000 
+ 
+Time: 2024-03-06 14:49:47
+JD Last Trade Price 0.740000 
+JD Ask Price 0.750000 
+JD Bid Price 0.720000 
+JD Mark Price 0.735000 
+ 
+Time: 2024-03-06 14:49:52
+JD Last Trade Price 0.730000 
+JD Ask Price 0.750000 
+JD Bid Price 0.700000 
+JD Mark Price 0.725000 
+ 
+Time: 2024-03-06 14:49:58
+JD Last Trade Price 0.710000 
+JD Ask Price 0.730000 
+JD Bid Price 0.690000 
+JD Mark Price 0.710000 
+ 
+Time: 2024-03-06 14:50:03
+JD Last Trade Price 0.710000 
+JD Ask Price 0.740000 
+JD Bid Price 0.700000 
+JD Mark Price 0.720000 
+ 
+Time: 2024-03-06 14:50:08
+JD Last Trade Price 0.710000 
+JD Ask Price 0.730000 
+JD Bid Price 0.690000 
+JD Mark Price 0.710000 
+ 
+Time: 2024-03-06 14:50:14
+JD Last Trade Price 0.720000 
+JD Ask Price 0.720000 
+JD Bid Price 0.680000 
+JD Mark Price 0.700000 
+ 
+Time: 2024-03-06 14:50:19
+JD Last Trade Price 0.720000 
+JD Ask Price 0.710000 
+JD Bid Price 0.680000 
+JD Mark Price 0.695000 
+ 
+Time: 2024-03-06 14:50:24
+JD Last Trade Price 0.720000 
+JD Ask Price 0.740000 
+JD Bid Price 0.710000 
+JD Mark Price 0.725000 
+ 
+Time: 2024-03-06 14:50:30
+JD Last Trade Price 0.720000 
+JD Ask Price 0.740000 
+JD Bid Price 0.710000 
+JD Mark Price 0.725000 
+ 
+Time: 2024-03-06 14:50:35
+JD Last Trade Price 0.710000 
+JD Ask Price 0.740000 
+JD Bid Price 0.700000 
+JD Mark Price 0.720000 
+ 
+Time: 2024-03-06 14:50:41
+JD Last Trade Price 0.690000 
+JD Ask Price 0.700000 
+JD Bid Price 0.670000 
+JD Mark Price 0.685000 
+ 
+Time: 2024-03-06 14:50:46
+JD Last Trade Price 0.690000 
+JD Ask Price 0.700000 
+JD Bid Price 0.670000 
+JD Mark Price 0.685000 
+ 
+Time: 2024-03-06 14:50:51
+JD Last Trade Price 0.700000 
+JD Ask Price 0.720000 
+JD Bid Price 0.690000 
+JD Mark Price 0.705000 
+ 
+Time: 2024-03-06 14:50:57
+JD Last Trade Price 0.700000 
+JD Ask Price 0.710000 
+JD Bid Price 0.650000 
+JD Mark Price 0.680000 
+ 
+Time: 2024-03-06 14:51:02
+JD Last Trade Price 0.700000 
+JD Ask Price 0.720000 
+JD Bid Price 0.670000 
+JD Mark Price 0.695000 
+ 
+Time: 2024-03-06 14:51:07
+JD Last Trade Price 0.700000 
+JD Ask Price 0.700000 
+JD Bid Price 0.670000 
+JD Mark Price 0.685000 
+ 
+Time: 2024-03-06 14:51:13
+JD Last Trade Price 0.680000 
+JD Ask Price 0.690000 
+JD Bid Price 0.650000 
+JD Mark Price 0.670000 
+ 
+Time: 2024-03-06 14:51:18
+JD Last Trade Price 0.670000 
+JD Ask Price 0.670000 
+JD Bid Price 0.650000 
+JD Mark Price 0.660000 
+ 
+Time: 2024-03-06 14:51:23
+JD Last Trade Price 0.670000 
+JD Ask Price 0.670000 
+JD Bid Price 0.640000 
+JD Mark Price 0.655000 
+ 
+Time: 2024-03-06 14:51:29
+JD Last Trade Price 0.670000 
+JD Ask Price 0.690000 
+JD Bid Price 0.650000 
+JD Mark Price 0.670000 
+ 
+Time: 2024-03-06 14:51:34
+JD Last Trade Price 0.660000 
+JD Ask Price 0.680000 
+JD Bid Price 0.640000 
+JD Mark Price 0.660000 
+ 
+Time: 2024-03-06 14:51:39
+JD Last Trade Price 0.660000 
+JD Ask Price 0.650000 
+JD Bid Price 0.640000 
+JD Mark Price 0.645000 
+ 
+Time: 2024-03-06 14:51:45
+JD Last Trade Price 0.640000 
+JD Ask Price 0.630000 
+JD Bid Price 0.600000 
+JD Mark Price 0.615000 
+ 
+Time: 2024-03-06 14:51:50
+JD Last Trade Price 0.620000 
+JD Ask Price 0.640000 
+JD Bid Price 0.620000 
+JD Mark Price 0.630000 
+ 
+Time: 2024-03-06 14:51:55
+JD Last Trade Price 0.590000 
+JD Ask Price 0.610000 
+JD Bid Price 0.590000 
+JD Mark Price 0.600000 
+ 
+Time: 2024-03-06 14:52:01
+JD Last Trade Price 0.610000 
+JD Ask Price 0.610000 
+JD Bid Price 0.590000 
+JD Mark Price 0.600000 
+ 
+Time: 2024-03-06 14:52:06
+JD Last Trade Price 0.580000 
+JD Ask Price 0.610000 
+JD Bid Price 0.530000 
+JD Mark Price 0.570000 
+ 
+Time: 2024-03-06 14:52:12
+JD Last Trade Price 0.590000 
+JD Ask Price 0.600000 
+JD Bid Price 0.550000 
+JD Mark Price 0.575000 
+ 
+Time: 2024-03-06 14:52:17
+JD Last Trade Price 0.590000 
+JD Ask Price 0.590000 
+JD Bid Price 0.550000 
+JD Mark Price 0.570000 
+ 
+Time: 2024-03-06 14:52:22
+JD Last Trade Price 0.590000 
+JD Ask Price 0.590000 
+JD Bid Price 0.560000 
+JD Mark Price 0.575000 
+ 
+Time: 2024-03-06 14:52:28
+JD Last Trade Price 0.590000 
+JD Ask Price 0.590000 
+JD Bid Price 0.580000 
+JD Mark Price 0.585000 
+ 
+Time: 2024-03-06 14:52:33
+JD Last Trade Price 0.600000 
+JD Ask Price 0.600000 
+JD Bid Price 0.580000 
+JD Mark Price 0.590000 
+ 
+Time: 2024-03-06 14:52:38
+JD Last Trade Price 0.600000 
+JD Ask Price 0.600000 
+JD Bid Price 0.590000 
+JD Mark Price 0.595000 
+ 
+Time: 2024-03-06 14:52:44
+JD Last Trade Price 0.610000 
+JD Ask Price 0.640000 
+JD Bid Price 0.600000 
+JD Mark Price 0.620000 
+ 
+Time: 2024-03-06 14:52:50
+JD Last Trade Price 0.640000 
+JD Ask Price 0.640000 
+JD Bid Price 0.610000 
+JD Mark Price 0.625000 
+ 
+Time: 2024-03-06 14:52:55
+JD Last Trade Price 0.640000 
+JD Ask Price 0.640000 
+JD Bid Price 0.600000 
+JD Mark Price 0.620000 
+ 
+Time: 2024-03-06 14:53:00
+JD Last Trade Price 0.620000 
+JD Ask Price 0.630000 
+JD Bid Price 0.600000 
+JD Mark Price 0.615000 
+ 
+Time: 2024-03-06 14:53:06
+JD Last Trade Price 0.620000 
+JD Ask Price 0.630000 
+JD Bid Price 0.600000 
+JD Mark Price 0.615000 
+ 
+Time: 2024-03-06 14:53:11
+JD Last Trade Price 0.620000 
+JD Ask Price 0.620000 
+JD Bid Price 0.590000 
+JD Mark Price 0.605000 
+ 
+Time: 2024-03-06 14:53:16
+JD Last Trade Price 0.620000 
+JD Ask Price 0.620000 
+JD Bid Price 0.600000 
+JD Mark Price 0.610000 
+ 
+Time: 2024-03-06 14:53:22
+JD Last Trade Price 0.600000 
+JD Ask Price 0.640000 
+JD Bid Price 0.600000 
+JD Mark Price 0.620000 
+ 
+Time: 2024-03-06 14:53:27
+JD Last Trade Price 0.620000 
+JD Ask Price 0.640000 
+JD Bid Price 0.620000 
+JD Mark Price 0.630000 
+ 
+Time: 2024-03-06 14:53:32
+JD Last Trade Price 0.620000 
+JD Ask Price 0.640000 
+JD Bid Price 0.610000 
+JD Mark Price 0.625000 
+ 
+Time: 2024-03-06 14:53:38
+JD Last Trade Price 0.620000 
+JD Ask Price 0.640000 
+JD Bid Price 0.610000 
+JD Mark Price 0.625000 
+ 
+Time: 2024-03-06 14:53:43
+JD Last Trade Price 0.640000 
+JD Ask Price 0.640000 
+JD Bid Price 0.610000 
+JD Mark Price 0.625000 
+ 
+Time: 2024-03-06 14:53:49
+JD Last Trade Price 0.630000 
+JD Ask Price 0.640000 
+JD Bid Price 0.600000 
+JD Mark Price 0.620000 
+ 
+Time: 2024-03-06 14:53:54
+JD Last Trade Price 0.620000 
+JD Ask Price 0.640000 
+JD Bid Price 0.600000 
+JD Mark Price 0.620000 
+ 
+Time: 2024-03-06 14:54:00
+JD Last Trade Price 0.620000 
+JD Ask Price 0.640000 
+JD Bid Price 0.610000 
+JD Mark Price 0.625000 
+ 
+Time: 2024-03-06 14:54:05
+JD Last Trade Price 0.640000 
+JD Ask Price 0.640000 
+JD Bid Price 0.620000 
+JD Mark Price 0.630000 
+ 
+Time: 2024-03-06 14:54:10
+JD Last Trade Price 0.640000 
+JD Ask Price 0.640000 
+JD Bid Price 0.620000 
+JD Mark Price 0.630000 
+ 
+Time: 2024-03-06 14:54:16
+JD Last Trade Price 0.620000 
+JD Ask Price 0.640000 
+JD Bid Price 0.620000 
+JD Mark Price 0.630000 
+ 
+Time: 2024-03-06 14:54:21
+JD Last Trade Price 0.640000 
+JD Ask Price 0.650000 
+JD Bid Price 0.620000 
+JD Mark Price 0.635000 
+ 
+Time: 2024-03-06 14:54:26
+JD Last Trade Price 0.640000 
+JD Ask Price 0.650000 
+JD Bid Price 0.620000 
+JD Mark Price 0.635000 
+ 
+Time: 2024-03-06 14:54:32
+JD Last Trade Price 0.640000 
+JD Ask Price 0.650000 
+JD Bid Price 0.620000 
+JD Mark Price 0.635000 
+ 
+Time: 2024-03-06 14:54:37
+JD Last Trade Price 0.650000 
+JD Ask Price 0.650000 
+JD Bid Price 0.630000 
+JD Mark Price 0.640000 
+ 
+Time: 2024-03-06 14:54:42
+JD Last Trade Price 0.670000 
+JD Ask Price 0.680000 
+JD Bid Price 0.640000 
+JD Mark Price 0.660000 
+ 
+Time: 2024-03-06 14:54:48
+JD Last Trade Price 0.660000 
+JD Ask Price 0.670000 
+JD Bid Price 0.630000 
+JD Mark Price 0.650000 
+ 
+Time: 2024-03-06 14:54:53
+JD Last Trade Price 0.660000 
+JD Ask Price 0.660000 
+JD Bid Price 0.600000 
+JD Mark Price 0.630000 
+ 
+Time: 2024-03-06 14:54:58
+JD Last Trade Price 0.660000 
+JD Ask Price 0.660000 
+JD Bid Price 0.610000 
+JD Mark Price 0.635000 
+ 
+Time: 2024-03-06 14:55:04
+JD Last Trade Price 0.660000 
+JD Ask Price 0.650000 
+JD Bid Price 0.610000 
+JD Mark Price 0.630000 
+ 
+Time: 2024-03-06 14:55:09
+JD Last Trade Price 0.660000 
+JD Ask Price 0.650000 
+JD Bid Price 0.610000 
+JD Mark Price 0.630000 
+ 
+Time: 2024-03-06 14:55:14
+JD Last Trade Price 0.660000 
+JD Ask Price 0.650000 
+JD Bid Price 0.610000 
+JD Mark Price 0.630000 
+ 
+Time: 2024-03-06 14:55:20
+JD Last Trade Price 0.660000 
+JD Ask Price 0.650000 
+JD Bid Price 0.610000 
+JD Mark Price 0.630000 
+ 
+Time: 2024-03-06 14:55:25
+JD Last Trade Price 0.660000 
+JD Ask Price 0.630000 
+JD Bid Price 0.610000 
+JD Mark Price 0.620000 
+ 
+Time: 2024-03-06 14:55:30
+JD Last Trade Price 0.660000 
+JD Ask Price 0.630000 
+JD Bid Price 0.590000 
+JD Mark Price 0.610000 
+ 
+Time: 2024-03-06 14:55:36
+JD Last Trade Price 0.590000 
+JD Ask Price 0.630000 
+JD Bid Price 0.590000 
+JD Mark Price 0.610000 
+ 
+Time: 2024-03-06 14:55:41
+JD Last Trade Price 0.610000 
+JD Ask Price 0.610000 
+JD Bid Price 0.590000 
+JD Mark Price 0.600000 
+ 
+Time: 2024-03-06 14:55:46
+JD Last Trade Price 0.610000 
+JD Ask Price 0.610000 
+JD Bid Price 0.590000 
+JD Mark Price 0.600000 
+ 
+Time: 2024-03-06 14:55:52
+JD Last Trade Price 0.610000 
+JD Ask Price 0.620000 
+JD Bid Price 0.590000 
+JD Mark Price 0.605000 
+ 
+Time: 2024-03-06 14:55:58
+JD Last Trade Price 0.610000 
+JD Ask Price 0.630000 
+JD Bid Price 0.590000 
+JD Mark Price 0.610000 
+ 
+Time: 2024-03-06 14:56:03
+JD Last Trade Price 0.610000 
+JD Ask Price 0.630000 
+JD Bid Price 0.600000 
+JD Mark Price 0.615000 
+ 
+Time: 2024-03-06 14:56:09
+JD Last Trade Price 0.600000 
+JD Ask Price 0.630000 
+JD Bid Price 0.600000 
+JD Mark Price 0.615000 
+ 
+Time: 2024-03-06 14:56:14
+JD Last Trade Price 0.600000 
+JD Ask Price 0.630000 
+JD Bid Price 0.600000 
+JD Mark Price 0.615000 
+ 
+Time: 2024-03-06 14:56:20
+JD Last Trade Price 0.590000 
+JD Ask Price 0.600000 
+JD Bid Price 0.570000 
+JD Mark Price 0.585000 
+ 
+Time: 2024-03-06 14:56:25
+JD Last Trade Price 0.560000 
+JD Ask Price 0.580000 
+JD Bid Price 0.550000 
+JD Mark Price 0.565000 
+ 
+Time: 2024-03-06 14:56:31
+JD Last Trade Price 0.550000 
+JD Ask Price 0.580000 
+JD Bid Price 0.550000 
+JD Mark Price 0.565000 
+ 
+Time: 2024-03-06 14:56:36
+JD Last Trade Price 0.550000 
+JD Ask Price 0.600000 
+JD Bid Price 0.550000 
+JD Mark Price 0.575000 
+ 
+Time: 2024-03-06 14:56:42
+JD Last Trade Price 0.550000 
+JD Ask Price 0.580000 
+JD Bid Price 0.550000 
+JD Mark Price 0.565000 
+ 
+Time: 2024-03-06 14:56:47
+JD Last Trade Price 0.550000 
+JD Ask Price 0.580000 
+JD Bid Price 0.550000 
+JD Mark Price 0.565000 
+ 
+Time: 2024-03-06 14:56:53
+JD Last Trade Price 0.550000 
+JD Ask Price 0.560000 
+JD Bid Price 0.550000 
+JD Mark Price 0.555000 
+ 
+Time: 2024-03-06 14:56:59
+JD Last Trade Price 0.560000 
+JD Ask Price 0.570000 
+JD Bid Price 0.560000 
+JD Mark Price 0.565000 
+ 
+Time: 2024-03-06 14:57:04
+JD Last Trade Price 0.570000 
+JD Ask Price 0.590000 
+JD Bid Price 0.550000 
+JD Mark Price 0.570000 
+ 
+Time: 2024-03-06 14:57:10
+JD Last Trade Price 0.550000 
+JD Ask Price 0.590000 
+JD Bid Price 0.550000 
+JD Mark Price 0.570000 
+ 
+Time: 2024-03-06 14:57:15
+JD Last Trade Price 0.550000 
+JD Ask Price 0.590000 
+JD Bid Price 0.550000 
+JD Mark Price 0.570000 
+ 
+Time: 2024-03-06 14:57:21
+JD Last Trade Price 0.550000 
+JD Ask Price 0.580000 
+JD Bid Price 0.550000 
+JD Mark Price 0.565000 
+ 
+Time: 2024-03-06 14:57:26
+JD Last Trade Price 0.550000 
+JD Ask Price 0.580000 
+JD Bid Price 0.490000 
+JD Mark Price 0.535000 
+ 
+Time: 2024-03-06 14:57:32
+JD Last Trade Price 0.570000 
+JD Ask Price 0.570000 
+JD Bid Price 0.540000 
+JD Mark Price 0.555000 
+ 
+Time: 2024-03-06 14:57:38
+JD Last Trade Price 0.570000 
+JD Ask Price 0.570000 
+JD Bid Price 0.540000 
+JD Mark Price 0.555000 
+ 
+Time: 2024-03-06 14:57:43
+JD Last Trade Price 0.560000 
+JD Ask Price 0.580000 
+JD Bid Price 0.540000 
+JD Mark Price 0.560000 
+ 
+Time: 2024-03-06 14:57:49
+JD Last Trade Price 0.560000 
+JD Ask Price 0.560000 
+JD Bid Price 0.540000 
+JD Mark Price 0.550000 
+ 
+Time: 2024-03-06 14:57:55
+JD Last Trade Price 0.540000 
+JD Ask Price 0.560000 
+JD Bid Price 0.530000 
+JD Mark Price 0.545000 
+ 
+Time: 2024-03-06 14:58:00
+JD Last Trade Price 0.540000 
+JD Ask Price 0.560000 
+JD Bid Price 0.530000 
+JD Mark Price 0.545000 
+ 
+Time: 2024-03-06 14:58:06
+JD Last Trade Price 0.530000 
+JD Ask Price 0.560000 
+JD Bid Price 0.530000 
+JD Mark Price 0.545000 
+ 
+Time: 2024-03-06 14:58:12
+JD Last Trade Price 0.540000 
+JD Ask Price 0.560000 
+JD Bid Price 0.520000 
+JD Mark Price 0.540000 
+ 
+Time: 2024-03-06 14:58:17
+JD Last Trade Price 0.540000 
+JD Ask Price 0.560000 
+JD Bid Price 0.520000 
+JD Mark Price 0.540000 
+ 
+Time: 2024-03-06 14:58:23
+JD Last Trade Price 0.520000 
+JD Ask Price 0.530000 
+JD Bid Price 0.520000 
+JD Mark Price 0.525000 
+ 
+Time: 2024-03-06 14:58:28
+JD Last Trade Price 0.520000 
+JD Ask Price 0.530000 
+JD Bid Price 0.520000 
+JD Mark Price 0.525000 
+ 
+Time: 2024-03-06 14:58:34
+JD Last Trade Price 0.520000 
+JD Ask Price 0.520000 
+JD Bid Price 0.480000 
+JD Mark Price 0.500000 
+ 
+Time: 2024-03-06 14:58:40
+JD Last Trade Price 0.520000 
+JD Ask Price 0.520000 
+JD Bid Price 0.490000 
+JD Mark Price 0.505000 
+ 
+Time: 2024-03-06 14:58:45
+JD Last Trade Price 0.520000 
+JD Ask Price 0.520000 
+JD Bid Price 0.460000 
+JD Mark Price 0.490000 
+ 
+Time: 2024-03-06 14:58:51
+JD Last Trade Price 0.460000 
+JD Ask Price 0.510000 
+JD Bid Price 0.490000 
+JD Mark Price 0.500000 
+ 
+Time: 2024-03-06 14:58:56
+JD Last Trade Price 0.460000 
+JD Ask Price 0.470000 
+JD Bid Price 0.430000 
+JD Mark Price 0.450000 
+ 
+Time: 2024-03-06 14:59:02
+JD Last Trade Price 0.460000 
+JD Ask Price 0.450000 
+JD Bid Price 0.440000 
+JD Mark Price 0.445000 
+ 
+Time: 2024-03-06 14:59:08
+JD Last Trade Price 0.450000 
+JD Ask Price 0.480000 
+JD Bid Price 0.450000 
+JD Mark Price 0.465000 
+ 
+Time: 2024-03-06 14:59:13
+JD Last Trade Price 0.440000 
+JD Ask Price 0.450000 
+JD Bid Price 0.430000 
+JD Mark Price 0.440000 
+ 
+Time: 2024-03-06 14:59:19
+JD Last Trade Price 0.420000 
+JD Ask Price 0.440000 
+JD Bid Price 0.410000 
+JD Mark Price 0.425000 
+ 
+Time: 2024-03-06 14:59:25
+JD Last Trade Price 0.420000 
+JD Ask Price 0.440000 
+JD Bid Price 0.400000 
+JD Mark Price 0.420000 
+ 
+Time: 2024-03-06 14:59:30
+JD Last Trade Price 0.400000 
+JD Ask Price 0.440000 
+JD Bid Price 0.400000 
+JD Mark Price 0.420000 
+ 
+Time: 2024-03-06 14:59:36
+JD Last Trade Price 0.430000 
+JD Ask Price 0.440000 
+JD Bid Price 0.420000 
+JD Mark Price 0.430000 
+ 
+Time: 2024-03-06 14:59:41
+JD Last Trade Price 0.420000 
+JD Ask Price 0.420000 
+JD Bid Price 0.400000 
+JD Mark Price 0.410000 
+ 
+Time: 2024-03-06 14:59:47
+JD Last Trade Price 0.420000 
+JD Ask Price 0.450000 
+JD Bid Price 0.410000 
+JD Mark Price 0.430000 
+ 
+Time: 2024-03-06 14:59:53
+JD Last Trade Price 0.420000 
+JD Ask Price 0.450000 
+JD Bid Price 0.420000 
+JD Mark Price 0.435000 
+ 
+Time: 2024-03-06 14:59:58
+JD Last Trade Price 0.450000 
+JD Ask Price 0.450000 
+JD Bid Price 0.420000 
+JD Mark Price 0.435000 
+ 
+Time: 2024-03-06 15:00:04
+JD Last Trade Price 0.460000 
+JD Ask Price 0.460000 
+JD Bid Price 0.420000 
+JD Mark Price 0.440000 
+ 
+Time: 2024-03-06 15:00:10
+JD Last Trade Price 0.460000 
+JD Ask Price 0.480000 
+JD Bid Price 0.440000 
+JD Mark Price 0.460000 
+ 
+Time: 2024-03-06 15:00:15
+JD Last Trade Price 0.460000 
+JD Ask Price 0.460000 
+JD Bid Price 0.440000 
+JD Mark Price 0.450000 
+ 
+Time: 2024-03-06 15:00:21
+JD Last Trade Price 0.460000 
+JD Ask Price 0.460000 
+JD Bid Price 0.440000 
+JD Mark Price 0.450000 
+ 
+Time: 2024-03-06 15:00:26
+JD Last Trade Price 0.460000 
+JD Ask Price 0.460000 
+JD Bid Price 0.440000 
+JD Mark Price 0.450000 
+ 
+Time: 2024-03-06 15:00:32
+JD Last Trade Price 0.460000 
+JD Ask Price 0.480000 
+JD Bid Price 0.450000 
+JD Mark Price 0.465000 
+ 
+Time: 2024-03-06 15:00:37
+JD Last Trade Price 0.480000 
+JD Ask Price 0.480000 
+JD Bid Price 0.470000 
+JD Mark Price 0.475000 
+ 
+Time: 2024-03-06 15:00:42
+JD Last Trade Price 0.470000 
+JD Ask Price 0.470000 
+JD Bid Price 0.450000 
+JD Mark Price 0.460000 
+ 
+Time: 2024-03-06 15:00:48
+JD Last Trade Price 0.450000 
+JD Ask Price 0.450000 
+JD Bid Price 0.420000 
+JD Mark Price 0.435000 
+ 
+Time: 2024-03-06 15:00:53
+JD Last Trade Price 0.450000 
+JD Ask Price 0.460000 
+JD Bid Price 0.440000 
+JD Mark Price 0.450000 
+ 
+Time: 2024-03-06 15:00:58
+JD Last Trade Price 0.450000 
+JD Ask Price 0.460000 
+JD Bid Price 0.440000 
+JD Mark Price 0.450000 
+ 
+Time: 2024-03-06 15:01:04
+JD Last Trade Price 0.450000 
+JD Ask Price 0.460000 
+JD Bid Price 0.440000 
+JD Mark Price 0.450000 
+ 
+Time: 2024-03-06 15:01:09
+JD Last Trade Price 0.440000 
+JD Ask Price 0.450000 
+JD Bid Price 0.420000 
+JD Mark Price 0.435000 
+ 
+Time: 2024-03-06 15:01:14
+JD Last Trade Price 0.440000 
+JD Ask Price 0.450000 
+JD Bid Price 0.420000 
+JD Mark Price 0.435000 
+ 
+Time: 2024-03-06 15:01:20
+JD Last Trade Price 0.420000 
+JD Ask Price 0.450000 
+JD Bid Price 0.420000 
+JD Mark Price 0.435000 
+ 
+Time: 2024-03-06 15:01:25
+JD Last Trade Price 0.420000 
+JD Ask Price 0.440000 
+JD Bid Price 0.430000 
+JD Mark Price 0.435000 
+ 
+Time: 2024-03-06 15:01:31
+JD Last Trade Price 0.430000 
+JD Ask Price 0.430000 
+JD Bid Price 0.410000 
+JD Mark Price 0.420000 
+ 
+Time: 2024-03-06 15:01:36
+JD Last Trade Price 0.410000 
+JD Ask Price 0.420000 
+JD Bid Price 0.400000 
+JD Mark Price 0.410000 
+ 
+Time: 2024-03-06 15:01:42
+JD Last Trade Price 0.410000 
+JD Ask Price 0.430000 
+JD Bid Price 0.410000 
+JD Mark Price 0.420000 
+ 
+Time: 2024-03-06 15:01:47
+JD Last Trade Price 0.420000 
+JD Ask Price 0.440000 
+JD Bid Price 0.420000 
+JD Mark Price 0.430000 
+ 
+Time: 2024-03-06 15:01:53
+JD Last Trade Price 0.450000 
+JD Ask Price 0.460000 
+JD Bid Price 0.450000 
+JD Mark Price 0.455000 
+ 
+Time: 2024-03-06 15:01:59
+JD Last Trade Price 0.450000 
+JD Ask Price 0.460000 
+JD Bid Price 0.440000 
+JD Mark Price 0.450000 
+ 
+Time: 2024-03-06 15:02:04
+JD Last Trade Price 0.450000 
+JD Ask Price 0.460000 
+JD Bid Price 0.450000 
+JD Mark Price 0.455000 
+ 
+Time: 2024-03-06 15:02:10
+JD Last Trade Price 0.440000 
+JD Ask Price 0.460000 
+JD Bid Price 0.450000 
+JD Mark Price 0.455000 
+ 
+Time: 2024-03-06 15:02:16
+JD Last Trade Price 0.460000 
+JD Ask Price 0.480000 
+JD Bid Price 0.460000 
+JD Mark Price 0.470000 
+ 
+Time: 2024-03-06 15:02:21
+JD Last Trade Price 0.480000 
+JD Ask Price 0.480000 
+JD Bid Price 0.460000 
+JD Mark Price 0.470000 
+ 
+Time: 2024-03-06 15:02:27
+JD Last Trade Price 0.480000 
+JD Ask Price 0.480000 
+JD Bid Price 0.460000 
+JD Mark Price 0.470000 
+ 
+Time: 2024-03-06 15:02:33
+JD Last Trade Price 0.460000 
+JD Ask Price 0.480000 
+JD Bid Price 0.450000 
+JD Mark Price 0.465000 
+ 
+Time: 2024-03-06 15:02:38
+JD Last Trade Price 0.460000 
+JD Ask Price 0.480000 
+JD Bid Price 0.450000 
+JD Mark Price 0.465000 
+ 
+Time: 2024-03-06 15:02:44
+JD Last Trade Price 0.470000 
+JD Ask Price 0.470000 
+JD Bid Price 0.440000 
+JD Mark Price 0.455000 
+ 
+Time: 2024-03-06 15:02:50
+JD Last Trade Price 0.470000 
+JD Ask Price 0.480000 
+JD Bid Price 0.460000 
+JD Mark Price 0.470000 
+ 
+Time: 2024-03-06 15:02:55
+JD Last Trade Price 0.470000 
+JD Ask Price 0.480000 
+JD Bid Price 0.450000 
+JD Mark Price 0.465000 
+ 
+Time: 2024-03-06 15:03:01
+JD Last Trade Price 0.470000 
+JD Ask Price 0.480000 
+JD Bid Price 0.450000 
+JD Mark Price 0.465000 
+ 
+Time: 2024-03-06 15:03:06
+JD Last Trade Price 0.470000 
+JD Ask Price 0.480000 
+JD Bid Price 0.450000 
+JD Mark Price 0.465000 
+ 
+Time: 2024-03-06 15:03:12
+JD Last Trade Price 0.470000 
+JD Ask Price 0.480000 
+JD Bid Price 0.440000 
+JD Mark Price 0.460000 
+ 
+Time: 2024-03-06 15:03:18
+JD Last Trade Price 0.440000 
+JD Ask Price 0.460000 
+JD Bid Price 0.440000 
+JD Mark Price 0.450000 
+ 
+Time: 2024-03-06 15:03:24
+JD Last Trade Price 0.440000 
+JD Ask Price 0.480000 
+JD Bid Price 0.440000 
+JD Mark Price 0.460000 
+ 
+Time: 2024-03-06 15:03:29
+JD Last Trade Price 0.440000 
+JD Ask Price 0.480000 
+JD Bid Price 0.440000 
+JD Mark Price 0.460000 
+ 
+Time: 2024-03-06 15:03:35
+JD Last Trade Price 0.440000 
+JD Ask Price 0.480000 
+JD Bid Price 0.440000 
+JD Mark Price 0.460000 
+ 
+Time: 2024-03-06 15:03:40
+JD Last Trade Price 0.440000 
+JD Ask Price 0.480000 
+JD Bid Price 0.450000 
+JD Mark Price 0.465000 
+ 
+Time: 2024-03-06 15:03:46
+JD Last Trade Price 0.480000 
+JD Ask Price 0.500000 
+JD Bid Price 0.480000 
+JD Mark Price 0.490000 
+ 
+Time: 2024-03-06 15:03:52
+JD Last Trade Price 0.480000 
+JD Ask Price 0.500000 
+JD Bid Price 0.490000 
+JD Mark Price 0.495000 
+ 
+Time: 2024-03-06 15:03:57
+JD Last Trade Price 0.500000 
+JD Ask Price 0.500000 
+JD Bid Price 0.490000 
+JD Mark Price 0.495000 
+ 
+Time: 2024-03-06 15:04:03
+JD Last Trade Price 0.500000 
+JD Ask Price 0.530000 
+JD Bid Price 0.480000 
+JD Mark Price 0.505000 
+ 
+Time: 2024-03-06 15:04:09
+JD Last Trade Price 0.500000 
+JD Ask Price 0.530000 
+JD Bid Price 0.500000 
+JD Mark Price 0.515000 
+ 
+Time: 2024-03-06 15:04:14
+JD Last Trade Price 0.500000 
+JD Ask Price 0.570000 
+JD Bid Price 0.500000 
+JD Mark Price 0.535000 
+ 
+Time: 2024-03-06 15:04:20
+JD Last Trade Price 0.500000 
+JD Ask Price 0.570000 
+JD Bid Price 0.510000 
+JD Mark Price 0.540000 
+ 
+Time: 2024-03-06 15:04:25
+JD Last Trade Price 0.540000 
+JD Ask Price 0.570000 
+JD Bid Price 0.520000 
+JD Mark Price 0.545000 
+ 
+Time: 2024-03-06 15:04:31
+JD Last Trade Price 0.560000 
+JD Ask Price 0.570000 
+JD Bid Price 0.530000 
+JD Mark Price 0.550000 
+ 
+Time: 2024-03-06 15:04:36
+JD Last Trade Price 0.560000 
+JD Ask Price 0.570000 
+JD Bid Price 0.530000 
+JD Mark Price 0.550000 
+ 
+Time: 2024-03-06 15:04:42
+JD Last Trade Price 0.560000 
+JD Ask Price 0.570000 
+JD Bid Price 0.530000 
+JD Mark Price 0.550000 
+ 
+Time: 2024-03-06 15:04:48
+JD Last Trade Price 0.550000 
+JD Ask Price 0.570000 
+JD Bid Price 0.530000 
+JD Mark Price 0.550000 
+ 
+Time: 2024-03-06 15:04:53
+JD Last Trade Price 0.550000 
+JD Ask Price 0.560000 
+JD Bid Price 0.490000 
+JD Mark Price 0.525000 
+ 
+Time: 2024-03-06 15:04:59
+JD Last Trade Price 0.550000 
+JD Ask Price 0.550000 
+JD Bid Price 0.500000 
+JD Mark Price 0.525000 
+ 
+Time: 2024-03-06 15:05:04
+JD Last Trade Price 0.510000 
+JD Ask Price 0.520000 
+JD Bid Price 0.450000 
+JD Mark Price 0.485000 
+ 
+Time: 2024-03-06 15:05:10
+JD Last Trade Price 0.510000 
+JD Ask Price 0.520000 
+JD Bid Price 0.460000 
+JD Mark Price 0.490000 
+ 
+Time: 2024-03-06 15:05:16
+JD Last Trade Price 0.510000 
+JD Ask Price 0.520000 
+JD Bid Price 0.460000 
+JD Mark Price 0.490000 
+ 
+Time: 2024-03-06 15:05:22
+JD Last Trade Price 0.510000 
+JD Ask Price 0.520000 
+JD Bid Price 0.460000 
+JD Mark Price 0.490000 
+ 
+Time: 2024-03-06 15:05:27
+JD Last Trade Price 0.510000 
+JD Ask Price 0.520000 
+JD Bid Price 0.470000 
+JD Mark Price 0.495000 
+ 
+Time: 2024-03-06 15:05:33
+JD Last Trade Price 0.510000 
+JD Ask Price 0.520000 
+JD Bid Price 0.470000 
+JD Mark Price 0.495000 
+ 
+Time: 2024-03-06 15:05:38
+JD Last Trade Price 0.510000 
+JD Ask Price 0.520000 
+JD Bid Price 0.490000 
+JD Mark Price 0.505000 
+ 
+Time: 2024-03-06 15:05:44
+JD Last Trade Price 0.510000 
+JD Ask Price 0.520000 
+JD Bid Price 0.510000 
+JD Mark Price 0.515000 
+ 
+Time: 2024-03-06 15:05:50
+JD Last Trade Price 0.530000 
+JD Ask Price 0.550000 
+JD Bid Price 0.510000 
+JD Mark Price 0.530000 
+ 
+Time: 2024-03-06 15:05:55
+JD Last Trade Price 0.530000 
+JD Ask Price 0.540000 
+JD Bid Price 0.510000 
+JD Mark Price 0.525000 
+ 
+Time: 2024-03-06 15:06:01
+JD Last Trade Price 0.530000 
+JD Ask Price 0.530000 
+JD Bid Price 0.510000 
+JD Mark Price 0.520000 
+ 
+Time: 2024-03-06 15:06:06
+JD Last Trade Price 0.510000 
+JD Ask Price 0.520000 
+JD Bid Price 0.490000 
+JD Mark Price 0.505000 
+ 
+Time: 2024-03-06 15:06:12
+JD Last Trade Price 0.530000 
+JD Ask Price 0.540000 
+JD Bid Price 0.500000 
+JD Mark Price 0.520000 
+ 
+Time: 2024-03-06 15:06:17
+JD Last Trade Price 0.530000 
+JD Ask Price 0.540000 
+JD Bid Price 0.500000 
+JD Mark Price 0.520000 
+ 
+Time: 2024-03-06 15:06:23
+JD Last Trade Price 0.540000 
+JD Ask Price 0.540000 
+JD Bid Price 0.510000 
+JD Mark Price 0.525000 
+ 
+Time: 2024-03-06 15:06:29
+JD Last Trade Price 0.510000 
+JD Ask Price 0.540000 
+JD Bid Price 0.480000 
+JD Mark Price 0.510000 
+ 
+Time: 2024-03-06 15:06:34
+JD Last Trade Price 0.510000 
+JD Ask Price 0.530000 
+JD Bid Price 0.480000 
+JD Mark Price 0.505000 
+ 
+Time: 2024-03-06 15:06:40
+JD Last Trade Price 0.490000 
+JD Ask Price 0.520000 
+JD Bid Price 0.490000 
+JD Mark Price 0.505000 
+ 
+Time: 2024-03-06 15:06:45
+JD Last Trade Price 0.520000 
+JD Ask Price 0.510000 
+JD Bid Price 0.480000 
+JD Mark Price 0.495000 
+ 
+Time: 2024-03-06 15:06:51
+JD Last Trade Price 0.500000 
+JD Ask Price 0.500000 
+JD Bid Price 0.460000 
+JD Mark Price 0.480000 
+ 
+Time: 2024-03-06 15:06:57
+JD Last Trade Price 0.480000 
+JD Ask Price 0.480000 
+JD Bid Price 0.460000 
+JD Mark Price 0.470000 
+ 
+Time: 2024-03-06 15:07:02
+JD Last Trade Price 0.480000 
+JD Ask Price 0.480000 
+JD Bid Price 0.450000 
+JD Mark Price 0.465000 
+ 
+Time: 2024-03-06 15:07:08
+JD Last Trade Price 0.480000 
+JD Ask Price 0.480000 
+JD Bid Price 0.450000 
+JD Mark Price 0.465000 
+ 
+Time: 2024-03-06 15:07:14
+JD Last Trade Price 0.470000 
+JD Ask Price 0.480000 
+JD Bid Price 0.450000 
+JD Mark Price 0.465000 
+ 
+Time: 2024-03-06 15:07:19
+JD Last Trade Price 0.500000 
+JD Ask Price 0.500000 
+JD Bid Price 0.480000 
+JD Mark Price 0.490000 
+ 
+Time: 2024-03-06 15:07:25
+JD Last Trade Price 0.500000 
+JD Ask Price 0.500000 
+JD Bid Price 0.460000 
+JD Mark Price 0.480000 
+ 
+Time: 2024-03-06 15:07:30
+JD Last Trade Price 0.500000 
+JD Ask Price 0.500000 
+JD Bid Price 0.460000 
+JD Mark Price 0.480000 
+ 
+Time: 2024-03-06 15:07:35
+JD Last Trade Price 0.500000 
+JD Ask Price 0.500000 
+JD Bid Price 0.460000 
+JD Mark Price 0.480000 
+ 
+Time: 2024-03-06 15:07:41
+JD Last Trade Price 0.500000 
+JD Ask Price 0.500000 
+JD Bid Price 0.460000 
+JD Mark Price 0.480000 
+ 
+Time: 2024-03-06 15:07:46
+JD Last Trade Price 0.500000 
+JD Ask Price 0.500000 
+JD Bid Price 0.460000 
+JD Mark Price 0.480000 
+ 
+Time: 2024-03-06 15:07:52
+JD Last Trade Price 0.500000 
+JD Ask Price 0.500000 
+JD Bid Price 0.460000 
+JD Mark Price 0.480000 
+ 
+Time: 2024-03-06 15:07:57
+JD Last Trade Price 0.500000 
+JD Ask Price 0.500000 
+JD Bid Price 0.470000 
+JD Mark Price 0.485000 
+ 
+Time: 2024-03-06 15:08:03
+JD Last Trade Price 0.500000 
+JD Ask Price 0.500000 
+JD Bid Price 0.470000 
+JD Mark Price 0.485000 
+ 
+Time: 2024-03-06 15:08:09
+JD Last Trade Price 0.500000 
+JD Ask Price 0.520000 
+JD Bid Price 0.490000 
+JD Mark Price 0.505000 
+ 
+Time: 2024-03-06 15:08:14
+JD Last Trade Price 0.490000 
+JD Ask Price 0.530000 
+JD Bid Price 0.490000 
+JD Mark Price 0.510000 
+ 
+Time: 2024-03-06 15:08:20
+JD Last Trade Price 0.490000 
+JD Ask Price 0.530000 
+JD Bid Price 0.490000 
+JD Mark Price 0.510000 
+ 
+Time: 2024-03-06 15:08:26
+JD Last Trade Price 0.490000 
+JD Ask Price 0.530000 
+JD Bid Price 0.490000 
+JD Mark Price 0.510000 
+ 

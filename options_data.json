@@ -119,5 +119,17 @@
             "Option Open Price": 4.25,
             "Max Day Call Price": 6.08
         }
+    },
+    "2024-03-06": {
+        "CRWD $362.5 Call 2024-03-08": {
+            "Stock price at market close": 313.81,
+            "Stock price before market open": 361.0151,
+            "Option price at market close": 2.9
+        },
+        "JD $25.0 Call 2024-03-08": {
+            "Stock price at market close": 21.88,
+            "Stock price before market open": 24.88,
+            "Option price at market close": 0.18
+        }
     }
 }
