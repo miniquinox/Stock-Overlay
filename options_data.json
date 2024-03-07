@@ -137,5 +137,17 @@
             "Option Open Price": 0.48,
             "Max Day Call Price": 1.03
         }
+    },
+    "2024-03-07": {
+        "AEO $26.5 Call 2024-03-08": {
+            "Stock price at market close": 24.22,
+            "Stock price before market open": 26.66,
+            "Option price at market close": 0.45
+        },
+        "CC $26.0 Call 2024-03-08": {
+            "Stock price at market close": 20.51,
+            "Stock price before market open": 25.7,
+            "Option price at market close": 0.01
+        }
     }
 }
