@@ -63,6 +63,34 @@ def append_to_github_file(new_data):
     )
     update_response.raise_for_status()  # Ensure we got a successful response
 
+def track_market_data(test_symbol, test_expiration, test_strike, duration=2400, sleep_interval=5):
+    start_time = datetime.datetime.now()
+
+    while True:
+        current_time = datetime.datetime.now()
+        elapsed_time = (current_time - start_time).total_seconds()
+
+        # Check if duration seconds have passed
+        if elapsed_time > duration:
+            break
+
+        # Your code to fetch market data and print information
+        current_market_price = r.get_option_market_data(test_symbol, test_expiration, test_strike, optionType='call')
+        my_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+        my_loop = ""
+        my_loop += f"Time: {my_time}\n"
+        my_loop += f"{test_symbol} Last Trade Price {current_market_price[0][0]['last_trade_price']} \n"
+        my_loop += f"{test_symbol} Ask Price {current_market_price[0][0]['ask_price']} \n"
+        my_loop += f"{test_symbol} Bid Price {current_market_price[0][0]['bid_price']} \n"
+        my_loop += f"{test_symbol} Mark Price {current_market_price[0][0]['mark_price']} \n"
+        
+        print(my_loop)
+
+        time.sleep(sleep_interval)  # Sleep for sleep_interval seconds before the next iteration
+
+        with open("time_tracking.txt", "a") as file:
+            file.write(f"{my_loop} \n")
+
 async def send_telegram(options_data):
     bot_token = os.getenv('TELEGRAM_TOKEN')
     chat_id = os.getenv('CHAT_ID')
@@ -71,7 +99,7 @@ async def send_telegram(options_data):
 
     # Using await to call the coroutine send_message
     await bot.send_message(chat_id=chat_id, text=options_data)
-    await bot.send_document(chat_id=chat_id_test, document=open('time_tracking.txt', 'rb'))
+    # await bot.send_document(chat_id=chat_id_test, document=open('time_tracking.txt', 'rb'))
 
 def fetch_and_calculate_option_price():
     
@@ -291,40 +319,14 @@ def fetch_and_calculate_option_price():
     
     append_to_github_file(new_data)
 
-    start_time = datetime.datetime.now()
-
     # After updating results with today's data, write the updated dictionary back to the file        
     with open(json_file_path, 'w') as file:
         json.dump(results, file, indent=4)
 
     print(f"Data for {today_str} has been added to {json_file_path}.")
     
-    print(f"\nRetrieving time tracking data...\n")
-
-    while True:
-        current_time = datetime.datetime.now()
-        elapsed_time = (current_time - start_time).total_seconds()
-
-        # Check if 3600 seconds (1 hour) have passed
-        if elapsed_time > 2400:
-            break
-
-        # Your code to fetch market data and print information
-        current_market_price = r.get_option_market_data(test_symbol, test_expiration, test_strike, optionType='call')
-        my_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
-        my_loop = ""
-        my_loop += f"Time: {my_time}\n"
-        my_loop += f"{test_symbol} Last Trade Price {current_market_price[0][0]['last_trade_price']} \n"
-        my_loop += f"{test_symbol} Ask Price {current_market_price[0][0]['ask_price']} \n"
-        my_loop += f"{test_symbol} Bid Price {current_market_price[0][0]['bid_price']} \n"
-        my_loop += f"{test_symbol} Mark Price {current_market_price[0][0]['mark_price']} \n"
-        
-        print(my_loop)
-
-        time.sleep(5)  # Sleep for 5 seconds before the next iteration
-
-        with open("time_tracking.txt", "a") as file:
-            file.write(f"{my_loop} \n")
+    # Track market data for 40 minutes
+    # track_market_data(test_symbol, test_expiration, test_strike, duration=2400, sleep_interval=5)
 
     asyncio.run(send_telegram(telegram))
         
