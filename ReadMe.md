@@ -1,5 +1,18 @@
 ## Options Daily Performance
   
+### 2024-03-06
+
+| Option ID | Performance |
+| --- | --- |
+| CRWD $362.5 Call 2024-03-08 | Open @ 8.25 -> Max @ 12.7 = 🟢 +53.94% |
+| JD $25.0 Call 2024-03-08 | Open @ 0.48 -> Max @ 1.03 = 🟢 +114.58% |
+
+### 2024-03-05
+
+| Option ID | Performance |
+| --- | --- |
+| TGT $165.0 Call 2024-03-08 | Open @ 4.25 -> Max @ 6.08 = 🟢 +43.06% |
+
 ### 2024-03-04
 
 | Option ID | Performance |
