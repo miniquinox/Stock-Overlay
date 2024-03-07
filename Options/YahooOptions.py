@@ -83,6 +83,7 @@ def track_market_data(test_symbol, test_expiration, test_strike, duration=2400, 
         my_loop += f"{test_symbol} Ask Price {current_market_price[0][0]['ask_price']} \n"
         my_loop += f"{test_symbol} Bid Price {current_market_price[0][0]['bid_price']} \n"
         my_loop += f"{test_symbol} Mark Price {current_market_price[0][0]['mark_price']} \n"
+        my_loop += f"{test_symbol} Open Price {current_market_price[0][0]['open_price']} \n"
         
         print(my_loop)
 
@@ -99,7 +100,7 @@ async def send_telegram(options_data):
 
     # Using await to call the coroutine send_message
     await bot.send_message(chat_id=chat_id, text=options_data)
-    # await bot.send_document(chat_id=chat_id_test, document=open('time_tracking.txt', 'rb'))
+    await bot.send_document(chat_id=chat_id_test, document=open('time_tracking.txt', 'rb'))
 
 def fetch_and_calculate_option_price():
     
@@ -326,7 +327,7 @@ def fetch_and_calculate_option_price():
     print(f"Data for {today_str} has been added to {json_file_path}.")
     
     # Track market data for 40 minutes
-    # track_market_data(test_symbol, test_expiration, test_strike, duration=2400, sleep_interval=5)
+    track_market_data(test_symbol, test_expiration, test_strike, duration=400, sleep_interval=5)
 
     asyncio.run(send_telegram(telegram))
         
