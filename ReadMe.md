@@ -1,5 +1,12 @@
 ## Options Daily Performance
   
+### 2024-03-07
+
+| Option ID | Performance |
+| --- | --- |
+| AEO $26.5 Call 2024-03-08 | Open @ 0.43 -> Max @ 0.78 = 🟢 +81.40% |
+| CC $26.0 Call 2024-03-08 | Open @ 0.01 -> Max @ 0.7 = 🟢 +6900.00% |
+
 ### 2024-03-06
 
 | Option ID | Performance |
