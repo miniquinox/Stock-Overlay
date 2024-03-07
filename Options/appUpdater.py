@@ -132,17 +132,17 @@ def check_and_update_high_price():
 
             if match:
                 symbol = match.group(1)
-                strike = float(match.group(2))
+                strike = float(match.group(2).replace(',', ''))
                 option_type = match.group(3)
                 exp_date = match.group(4)
 
                 # Get raw open price
                 raw_open_price_data = r.get_option_historicals(symbol, exp_date, strike, option_type, interval='5minute', span='day')
                 # Convert open price to float
-                open_price = float(raw_open_price_data[0]["open_price"])
+                open_price = float(raw_open_price_data[0]["open_price"].replace(',', ''))
 
                 # Get high price
-                high_price = float(get_high_option_price(symbol, exp_date, strike))
+                high_price = float(get_high_option_price(symbol, exp_date, strike).replace(',', ''))
 
                 if high_price > open_price:
                     percentage = round((high_price - open_price) / open_price * 100, 2)
