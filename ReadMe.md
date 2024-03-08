@@ -4,6 +4,13 @@
 
 | Option ID | Performance |
 | --- | --- |
+| AEO $26.5 Call 2024-03-08 | Open @ 0.01 -> Max @ 0.01 = 🔴 +0.00% (DID NOT REACH 40%. Consider -20%) |
+| CC $26.0 Call 2024-03-08 | Open @ 0.18 -> Max @ 0.3 = 🟢 +66.67% |
+
+### 2024-03-07
+
+| Option ID | Performance |
+| --- | --- |
 | AEO $26.5 Call 2024-03-08 | Open @ 0.43 -> Max @ 0.78 = 🟢 +81.40% |
 | CC $26.0 Call 2024-03-08 | Open @ 0.01 -> Max @ 0.7 = 🟢 +6900.00% |
 
