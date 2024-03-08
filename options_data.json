@@ -155,5 +155,12 @@
             "Option Open Price": 0.18,
             "Max Day Call Price": 0.3
         }
+    },
+    "2024-03-08": {
+        "IOT $37.5 Call 2024-03-08": {
+            "Stock price at market close": 34.36,
+            "Stock price before market open": 39.3,
+            "Option price at market close": 1.4
+        }
     }
 }

@@ -96,14 +96,20 @@ def track_market_data(test_symbol, test_expiration, test_strike, duration=2400, 
         with open("time_tracking.txt", "a") as file:
             file.write(f"{my_loop} \n")
 
-async def send_telegram(options_data):
+async def send_telegram_options(options_data):
     bot_token = os.getenv('TELEGRAM_TOKEN')
     chat_id = os.getenv('CHAT_ID')
-    chat_id_test = os.getenv('CHAT_ID_TEST')
     bot = Bot(token=bot_token)
 
     # Using await to call the coroutine send_message
     await bot.send_message(chat_id=chat_id, text=options_data)
+
+async def send_telegram_time_tracking():
+    bot_token = os.getenv('TELEGRAM_TOKEN')
+    chat_id_test = os.getenv('CHAT_ID_TEST')
+    bot = Bot(token=bot_token)
+
+    # Using await to call the coroutine send_message
     await bot.send_document(chat_id=chat_id_test, document=open('time_tracking.txt', 'rb'))
 
 def fetch_and_calculate_option_price():
@@ -262,12 +268,12 @@ def fetch_and_calculate_option_price():
         preMarketPrice = row["Premkt. Price"]
         marketClosePrice = row["Close"]
         
-        # Fetch option data from Yahoo Finance
+        # Fetch option data from Yahoo Finance.
         stock = yf.Ticker(symbol)
 
         if len(stock.options) == 0:
             continue
-
+        
         options = stock.option_chain(stock.options[0])
         calls = options.calls
 
@@ -292,10 +298,16 @@ def fetch_and_calculate_option_price():
         if difference > 6:
             continue
 
-        stock_close_price = r.get_stock_quote_by_symbol(symbol)['previous_close']
-        current_stock_price = r.get_latest_price(symbol)[0]
-        options = r.find_options_by_expiration_and_strike(symbol, target_expiration, target_strike, optionType='call')
-        option_market_close = options[0]["previous_close_price"] 
+
+        try:
+            stock_close_price = r.get_stock_quote_by_symbol(symbol)['previous_close']
+            current_stock_price = r.get_latest_price(symbol)[0]
+            options = r.find_options_by_expiration_and_strike(symbol, target_expiration, target_strike, optionType='call')
+            option_market_close = options[0]["previous_close_price"] 
+
+        except:
+            print(f"Error fetching data for {symbol}")
+            continue
 
         print(f'\n\nStock price at market close: {stock_close_price} for {symbol}')
         print(f'Stock price before market open: {current_stock_price} for {symbol}')
@@ -329,11 +341,13 @@ def fetch_and_calculate_option_price():
         json.dump(results, file, indent=4)
 
     print(f"Data for {today_str} has been added to {json_file_path}.")
-    
+
+    asyncio.run(send_telegram_options(telegram))
+
     # Track market data for 40 minutes
     track_market_data(test_symbol, test_expiration, test_strike, duration=400, sleep_interval=5)
 
-    asyncio.run(send_telegram(telegram))
+    asyncio.run(send_telegram_time_tracking())
         
 
 if __name__ == "__main__":
