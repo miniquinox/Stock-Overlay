@@ -83,7 +83,11 @@ def track_market_data(test_symbol, test_expiration, test_strike, duration=2400, 
         my_loop += f"{test_symbol} Ask Price {current_market_price[0][0]['ask_price']} \n"
         my_loop += f"{test_symbol} Bid Price {current_market_price[0][0]['bid_price']} \n"
         my_loop += f"{test_symbol} Mark Price {current_market_price[0][0]['mark_price']} \n"
-        my_loop += f"{test_symbol} Open Price {current_market_price[0][0]['open_price']} \n"
+        
+        # Get raw open price
+        raw_open_price_data = r.get_option_historicals(test_symbol, test_expiration, test_strike, 'call', interval='5minute', span='day')
+        open_price = float(raw_open_price_data[0]["open_price"])
+        my_loop += f"{test_symbol} Open Price {open_price} \n"
         
         print(my_loop)
 
