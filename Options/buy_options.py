@@ -30,9 +30,9 @@ def trade_option(symbol, strike, expirationDate, max_money_to_spend):
     limit_price = math.ceil(float(open_price) * 0.90 * 100) / 100
 
     # Truncate the decimals to buy always less than max amount
-    quantity = int(max_money_to_spend / limit_price)
+    quantity = int(max_money_to_spend / (limit_price*100))
 
-    print(f"Purchasing {quantity} {symbol} {strike} Calls {expirationDate} for ${limit_price} at ${limit_price * quantity} total\n\n")
+    print(f"Purchasing {quantity} {symbol} {strike} Calls {expirationDate} for ${limit_price} at ${limit_price * 100 * quantity} total\n\n")
 
     # Place the order
     order = r.orders.order_buy_option_limit(
@@ -49,8 +49,7 @@ def trade_option(symbol, strike, expirationDate, max_money_to_spend):
 
     print(f"Order placed: {json.dumps(order, indent=4)}\n\n")
 
-    # view a list of pending orders
-    pending_orders = r.get_all_open_option_orders()
+    time.sleep(1)
 
     # while loop to check if the order has been filled
     while True:
@@ -58,10 +57,12 @@ def trade_option(symbol, strike, expirationDate, max_money_to_spend):
         order_status = r.get_all_open_option_orders()
 
         # if the order has been filled, break the loop
+        # print(f"Order status: {json.dumps(order_status, indent=4)}")
         if order_status == []:
+            print(f"Order status: FILLED")
             break
 
-        print(f"Order status: {order_status[0]['status']}")
+        print(f"Pending quantity: {order_status[0]['pending_quantity']}")
 
         time.sleep(1)
 
@@ -110,6 +111,6 @@ def trade_option(symbol, strike, expirationDate, max_money_to_spend):
 symbol = "NVDA"
 strike = 950.0
 expirationDate = "2024-03-15"
-max_money_to_spend = 1000
+max_money_to_spend = 10000
 
 trade_option(symbol, strike, expirationDate, max_money_to_spend)

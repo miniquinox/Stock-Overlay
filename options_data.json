@@ -1,35 +1,4 @@
 {
-    "1998-02-28": {
-        "AMZN $3300.0 Call 2024-02-25": {
-            "Stock price at market close": 3285.69,
-            "Stock price before market open": 3290.17,
-            "Option price at market close": 45.75,
-            "Predicted option price at market open": 48.98,
-            "Option Open Price": 40.45,
-            "Max Day Stock Price": 3350.54,
-            "Max Day Call Price": 55.2
-        },
-        "GOOGL $2800.0 Call 2024-02-25": {
-            "Stock price at market close": 2784.17,
-            "Stock price before market open": 2780.17,
-            "Option price at market close": 15.25,
-            "Predicted option price at market open": 18.98,
-            "Option Open Price": 10.45,
-            "Max Day Stock Price": 2793.54,
-            "Max Day Call Price": 20.2
-        },
-        "NFLX $550.0 Call 2024-02-25": {
-            "Stock price at market close": 545.75,
-            "Stock price before market open": 546.0,
-            "Option price at market close": 10.0,
-            "Predicted option price at market open": 11.05,
-            "Option Open Price": 8.45,
-            "Max Day Stock Price": 555.35,
-            "Max Day Call Price": 15.85
-        }
-    },
-    "2024-02-26": {},
-    "2024-02-27": {},
     "2024-02-28": {
         "AMBA $65.0 Call 2024-03-01": {
             "Stock price at market close": 57.96,
@@ -160,7 +129,10 @@
         "IOT $37.5 Call 2024-03-08": {
             "Stock price at market close": 34.36,
             "Stock price before market open": 39.3,
-            "Option price at market close": 1.4
+            "Option price at market close": 1.4,
+            "Max Day Stock Price": 40.19,
+            "Option Open Price": 2.20,
+            "Max Day Call Price": 3.30
         }
     }
 }

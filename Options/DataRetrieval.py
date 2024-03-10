@@ -121,8 +121,8 @@ def fetch_update_max_call_value():
         # Calculate performance
         if open_price > 0:  # Avoid division by zero
             performance = ((max_price - open_price) / open_price) * 100
-            if performance < 40:
-                performance_str = f"🔴 {performance:+.2f}% (DID NOT REACH 40%. Consider -20%)"
+            if performance < 30:
+                performance_str = f"🔴 {performance:+.2f}% (DID NOT REACH 30%. Consider -20%)"
             else:
                 performance_str = f"🟢 {performance:+.2f}%"
         else:
