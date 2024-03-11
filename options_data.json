@@ -135,11 +135,5 @@
             "Max Day Call Price": 3.3
         }
     },
-    "2024-03-11": {
-        "AS $15.0 Call 2024-03-15": {
-            "Stock price at market close": 15.49,
-            "Stock price before market open": 15.89,
-            "Option price at market close": 0.9
-        }
-    }
+    "2024-03-11": {}
 }
