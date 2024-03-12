@@ -124,6 +124,10 @@ def check_and_update_high_price():
         if elapsed_time > datetime.timedelta(hours=3, minutes=30):
             break
         
+        if not data[-1]['options']:
+            print("Nothing to update today. Exiting...")
+            break
+            
         for option in data[-1]['options']:
             # Regex the option details from string format "SMCI $1040.0 Call 2024-03-08"
             option_string = option['id']
