@@ -1650,3 +1650,2390 @@ AS Bid Price 0.700000
 AS Mark Price 1.325000 
 AS Open Price 2.15 
  
+Time: 2024-03-12 14:28:44
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:28:45
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:28:46
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:28:47
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:28:48
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:28:50
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:28:51
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:28:52
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:28:53
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:28:54
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:28:55
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:28:57
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:28:58
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:28:59
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:00
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:01
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:02
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:04
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:05
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:06
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:07
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:08
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:09
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:11
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:12
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:13
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:14
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:15
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:17
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:18
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:19
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:20
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:21
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:22
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:24
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:25
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:26
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:27
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:28
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:29
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:31
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:32
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:33
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:34
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:35
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:36
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:38
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:39
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:40
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:41
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:42
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:43
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:45
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:46
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:47
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:48
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:49
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:50
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:52
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:53
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:54
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:55
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:56
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:57
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:29:59
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:00
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:01
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:02
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:03
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:04
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:06
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:07
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:08
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:09
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:10
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:11
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:13
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:14
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:15
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:16
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:17
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:19
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:20
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:21
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:22
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:23
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:25
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:26
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:27
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:28
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:29
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:30
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:32
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:33
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:34
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:35
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:36
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:37
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:39
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:40
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:41
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:42
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:43
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:44
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:46
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:47
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:48
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:49
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:50
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:51
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:53
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:54
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:55
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:56
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:57
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:30:59
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:00
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:01
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:02
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:03
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:04
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:06
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:07
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:08
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:09
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:10
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:11
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:13
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:14
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:15
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:16
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:17
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:18
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:20
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:21
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:22
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:23
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:24
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:25
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:27
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:28
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:29
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:30
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:31
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:33
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:34
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:35
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:36
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:37
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:38
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:40
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:41
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:42
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:43
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:44
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:45
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:48
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:50
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:51
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:52
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:53
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:54
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:55
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:57
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:58
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:31:59
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:00
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:01
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:02
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:04
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:05
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:06
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:07
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:08
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:09
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:11
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:12
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:13
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:14
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:15
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:16
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:18
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:19
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:20
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:21
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:22
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:23
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:25
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:26
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:27
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:28
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:29
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:30
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:32
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:33
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:34
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:35
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:36
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:37
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:39
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:40
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:41
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:42
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:43
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:44
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:46
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:47
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:48
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:49
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:50
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:52
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:53
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:54
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:55
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:56
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:57
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:32:59
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:00
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:01
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:02
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:03
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:04
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:06
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:07
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:08
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.150000 
+MNSO Mark Price 0.225000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:09
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:10
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:11
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:13
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:14
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:15
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:16
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:17
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:18
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:20
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:21
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:22
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:23
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:24
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:25
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:27
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:28
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:29
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.200000 
+MNSO Mark Price 0.250000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:30
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:31
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:32
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:34
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:35
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:36
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:37
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:38
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:39
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:41
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:42
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:43
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:44
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:45
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:46
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:48
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:49
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:50
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:51
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.300000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.275000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:52
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.400000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:53
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.400000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:55
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.400000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:56
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:57
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:58
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:33:59
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:01
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:02
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:03
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:04
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:05
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:06
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:08
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:09
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:10
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:11
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:12
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:13
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:15
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:16
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:17
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:18
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:19
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:20
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:22
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:23
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:24
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:25
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:26
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.250000 
+MNSO Mark Price 0.300000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:27
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:29
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:30
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:31
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:32
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:33
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:34
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:36
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:37
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:38
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:39
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:40
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:41
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:43
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:44
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:45
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:46
+MNSO Last Trade Price 0.250000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:47
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:48
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:50
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:51
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:52
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:53
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:54
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:56
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:57
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:58
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:34:59
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:00
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:01
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:03
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:04
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:05
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:06
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:07
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:08
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:10
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:11
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:12
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:13
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:14
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:15
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:17
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:18
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:19
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:20
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:21
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:22
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 
+Time: 2024-03-12 14:35:24
+MNSO Last Trade Price 0.320000 
+MNSO Ask Price 0.350000 
+MNSO Bid Price 0.300000 
+MNSO Mark Price 0.325000 
+MNSO Open Price 0.45 
+ 

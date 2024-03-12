@@ -135,5 +135,12 @@
             "Max Day Call Price": 3.3
         }
     },
-    "2024-03-11": {}
+    "2024-03-11": {},
+    "2024-03-12": {
+        "MNSO $20.0 Call 2024-03-15": {
+            "Stock price at market close": 17.92,
+            "Stock price before market open": 18.01,
+            "Option price at market close": 0.45
+        }
+    }
 }
