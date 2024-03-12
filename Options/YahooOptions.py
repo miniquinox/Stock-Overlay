@@ -199,6 +199,7 @@ def fetch_and_calculate_option_price():
 
     # Process each line with regex
     for line in lines:
+        
         # Regex to match the structure of each line, considering complex company names
         match = re.match(r'(\w+)\s+([\w\s,.&-]+?)\s+(\d+\.\d+B)\s+(-?\d+\.\d+%)?\s+([\d,.]+)\s+(-|[\d,.]+)', line)
 
@@ -263,76 +264,84 @@ def fetch_and_calculate_option_price():
         "options": []
     }
 
-    for row in json_data:
-        symbol = row["Symbol"]
-        preMarketPrice = row["Premkt. Price"]
-        marketClosePrice = row["Close"]
-        
-        # Fetch option data from Yahoo Finance.
-        stock = yf.Ticker(symbol)
+    if json_data != []:
 
-        if len(stock.options) == 0:
-            continue
-        
-        options = stock.option_chain(stock.options[0])
-        calls = options.calls
+        for row in json_data:
+            symbol = row["Symbol"]
+            
+            # Skip AS because it has errors from stockanalysis.com
+            if symbol == "AS":
+                continue
 
-        # Find call with target price closest to postMarketPrice
-        call_option = calls.iloc[(calls['strike'] - float(preMarketPrice.replace(',', ''))).abs().argsort()[:1]]        
-        # print(call_option)
-        target_strike = call_option['strike'].iloc[0]
-        
-        # Extract symbol, strike price, and expiration date using regular expressions
-        target_expiration = dt.strptime(stock.options[0], '%Y-%m-%d').strftime('%Y-%m-%d')
-        
-        # Convert target_expiration to a datetime object
-        target_expiration_date = dt.strptime(target_expiration, '%Y-%m-%d')
+            preMarketPrice = row["Premkt. Price"]
+            
+            # Fetch option data from Yahoo Finance.
+            stock = yf.Ticker(symbol)
 
-        # Get today's date
-        today = dt.today()
+            if len(stock.options) == 0:
+                continue
+            
+            options = stock.option_chain(stock.options[0])
+            calls = options.calls
 
-        # Calculate the difference in days
-        difference = (target_expiration_date - today).days
+            # Find call with target price closest to postMarketPrice
+            call_option = calls.iloc[(calls['strike'] - float(preMarketPrice.replace(',', ''))).abs().argsort()[:1]]        
+            # print(call_option)
+            target_strike = call_option['strike'].iloc[0]
+            
+            # Extract symbol, strike price, and expiration date using regular expressions
+            target_expiration = dt.strptime(stock.options[0], '%Y-%m-%d').strftime('%Y-%m-%d')
+            
+            # Convert target_expiration to a datetime object
+            target_expiration_date = dt.strptime(target_expiration, '%Y-%m-%d')
 
-        # If the difference is more than 8 days, skip this option
-        if difference > 6:
-            continue
+            # Get today's date
+            today = dt.today()
 
+            # Calculate the difference in days
+            difference = (target_expiration_date - today).days
 
-        try:
-            stock_close_price = r.get_stock_quote_by_symbol(symbol)['previous_close']
-            current_stock_price = r.get_latest_price(symbol)[0]
-            options = r.find_options_by_expiration_and_strike(symbol, target_expiration, target_strike, optionType='call')
-            option_market_close = options[0]["previous_close_price"] 
+            # If the difference is more than 8 days, skip this option
+            if difference > 6:
+                continue
 
-        except:
-            print(f"Error fetching data for {symbol}")
-            continue
+            try:
+                stock_close_price = r.get_stock_quote_by_symbol(symbol)['previous_close']
+                current_stock_price = r.get_latest_price(symbol)[0]
+                options = r.find_options_by_expiration_and_strike(symbol, target_expiration, target_strike, optionType='call')
+                option_market_close = options[0]["previous_close_price"] 
 
-        print(f'\n\nStock price at market close: {stock_close_price} for {symbol}')
-        print(f'Stock price before market open: {current_stock_price} for {symbol}')
-        print(f'Option price at market close: {option_market_close} for {symbol}')
+            except:
+                print(f"Error fetching data for {symbol}")
+                continue
 
-        results[today_str][f"{symbol} ${target_strike} Call {target_expiration}"] = {
-            "Stock price at market close": float(stock_close_price.replace(',', '')),
-            "Stock price before market open": float(current_stock_price.replace(',', '')),
-            "Option price at market close": float(option_market_close.replace(',', ''))
-        }
+            print(f'\n\nStock price at market close: {stock_close_price} for {symbol}')
+            print(f'Stock price before market open: {current_stock_price} for {symbol}')
+            print(f'Option price at market close: {option_market_close} for {symbol}')
 
-        option_telegram = f'    {symbol} ${target_strike} Call {target_expiration}\n'
-        telegram += option_telegram
+            results[today_str][f"{symbol} ${target_strike} Call {target_expiration}"] = {
+                "Stock price at market close": float(stock_close_price.replace(',', '')),
+                "Stock price before market open": float(current_stock_price.replace(',', '')),
+                "Option price at market close": float(option_market_close.replace(',', ''))
+            }
 
-        option_id = f"{symbol} ${target_strike} Call {target_expiration}"
-        
-        test_symbol = symbol
-        test_strike = target_strike
-        test_expiration = target_expiration
+            option_telegram = f'    {symbol} ${target_strike} Call {target_expiration}\n'
+            telegram += option_telegram
 
-        # Append to the new data
-        new_data["options"].append({
-            "id": option_id,
-            "percentage": 0
-        })
+            option_id = f"{symbol} ${target_strike} Call {target_expiration}"
+            
+            test_symbol = symbol
+            test_strike = target_strike
+            test_expiration = target_expiration
+
+            # Append to the new data
+            new_data["options"].append({
+                "id": option_id,
+                "percentage": 0
+            })
+
+    else:
+        print("No data found")
     
     append_to_github_file(new_data)
 
