@@ -1,5 +1,11 @@
 ## Options Daily Performance
   
+### 2024-03-12
+
+| Option ID | Performance |
+| --- | --- |
+| MNSO $20.0 Call 2024-03-15 | Open @ 0.45 -> Max @ 0.9 = 🟢 +100.00% |
+
 ### 2024-03-08
 
 | Option ID | Performance |
