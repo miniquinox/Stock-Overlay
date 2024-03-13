@@ -4037,3 +4037,2404 @@ MNSO Bid Price 0.300000
 MNSO Mark Price 0.325000 
 MNSO Open Price 0.45 
  
+Time: 2024-03-13 14:28:34
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.000000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.625000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:36
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.000000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.625000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:37
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:38
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:39
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.550000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:40
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:41
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:43
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:44
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:45
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:46
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:47
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:48
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:50
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:51
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:52
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:53
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:54
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:56
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:57
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:58
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:28:59
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:00
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:01
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:03
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:04
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:05
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:06
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:07
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:09
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:10
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:11
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:12
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.100000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:13
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.050000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:14
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.050000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:16
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.050000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:17
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.050000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:18
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.050000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:19
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.050000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:20
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.050000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:21
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.050000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:23
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.050000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:24
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.050000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:25
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.050000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:26
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.050000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:27
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.050000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:28
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.050000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:30
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.050000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:31
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.050000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:32
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 2.050000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.675000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:33
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:34
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:35
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:37
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:38
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:39
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:40
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:41
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:42
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:44
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:45
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:46
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:47
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:48
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:49
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:51
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:52
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:53
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:54
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:55
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:56
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:58
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:29:59
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:00
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:01
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:02
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:04
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:05
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:06
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:07
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:08
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:09
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:11
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:12
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:13
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:14
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:15
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:16
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:18
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:19
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:20
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:21
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:22
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:23
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:25
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:26
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.800000 
+ZLAB Bid Price 1.350000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:27
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:28
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:29
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:30
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:32
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:33
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:34
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:35
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:36
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:37
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:39
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:40
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:41
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:42
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:43
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:44
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:46
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:47
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:48
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:49
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:50
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:52
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:53
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:54
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:55
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:56
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:57
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:30:59
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:00
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:01
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:02
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:03
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:04
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:06
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:07
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:08
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:09
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:10
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:11
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:13
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:14
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:15
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:16
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:17
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:18
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:20
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:21
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:22
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:23
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:24
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:25
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:27
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:28
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:29
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:30
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:31
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:32
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:34
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:35
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:36
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:37
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:38
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:39
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:41
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:42
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:43
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:44
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:45
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:46
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:48
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:49
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:50
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:51
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:52
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:53
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:55
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:56
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:57
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:58
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:31:59
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:00
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:02
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:03
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:04
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:05
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:06
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:07
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:09
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:10
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:11
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:12
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:13
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:14
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.300000 
+ZLAB Mark Price 1.575000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:16
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:17
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.550000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:18
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:19
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.250000 
+ZLAB Mark Price 1.550000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:20
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:21
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:23
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:24
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:25
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:26
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:27
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:28
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:30
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:31
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:32
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:33
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:34
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:35
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:37
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:38
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:39
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:40
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.200000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:41
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:43
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:44
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:45
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:46
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:47
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:48
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:50
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:51
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:52
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:53
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:54
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:55
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:57
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:58
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:32:59
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:00
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:01
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:02
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:04
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:05
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:06
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:07
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:08
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:09
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.500000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:11
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:12
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:13
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:14
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:15
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:16
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:18
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:19
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:20
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:21
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:22
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:23
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:25
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:26
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:27
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:28
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:29
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:30
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:32
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:33
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:34
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:35
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:36
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:37
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:39
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:40
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:41
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:42
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:43
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:44
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:46
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:47
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:48
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:49
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:50
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:51
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:53
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:54
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:55
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:56
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.550000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:57
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.900000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.525000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:58
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:33:59
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:01
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.150000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:02
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.650000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:03
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.650000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:04
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.650000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:05
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.650000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:06
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.650000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.375000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:08
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:09
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:10
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:11
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:12
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:13
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:15
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.550000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.325000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:16
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:17
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:18
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:19
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:20
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.475000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:22
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.475000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:23
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.475000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:24
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.500000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.300000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:25
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.475000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:26
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.475000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:27
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.475000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:29
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.475000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:30
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.475000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:31
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.475000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:32
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.475000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:33
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.475000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:34
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:36
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:37
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:38
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:39
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.550000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.325000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:40
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.550000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.325000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:41
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:43
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.550000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.325000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:44
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:45
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:46
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:47
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:49
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:50
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.550000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.325000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:51
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.550000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.325000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:52
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:53
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:54
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.550000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.325000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:56
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.500000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.300000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:57
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.475000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:58
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:34:59
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:35:00
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.850000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.475000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:35:01
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:35:03
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:35:04
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:35:05
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:35:06
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:35:07
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:35:08
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:35:10
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:35:11
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:35:12
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:35:13
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
+Time: 2024-03-13 14:35:14
+ZLAB Last Trade Price 1.450000 
+ZLAB Ask Price 1.600000 
+ZLAB Bid Price 1.100000 
+ZLAB Mark Price 1.350000 
+ZLAB Open Price 2.35 
+ 
