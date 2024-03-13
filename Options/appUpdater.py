@@ -65,23 +65,27 @@ def append_to_github_file(new_data):
     # Load the JSON data
     data = json.loads(file_content)
 
-    # Append the new data to the existing data
-    data[-1] = new_data
+    # Append the new data to the existing data only if it's different
+    if data[-1] != new_data:
+        # Append the new data to the existing data
+        data[-1] = new_data
 
-    # Encode the updated data
-    updated_content = base64.b64encode(json.dumps(data, indent=4).encode()).decode()
+        # Encode the updated data
+        updated_content = base64.b64encode(json.dumps(data, indent=4).encode()).decode()
 
-    # Update the file via the API
-    update_response = requests.put(
-        f"https://api.github.com/repos/{owner}/{repo}/contents/{path}",
-        headers=headers,
-        json={
-            "message": "Append new data",
-            "content": updated_content,
-            "sha": response.json()["sha"],  # We need to provide the current SHA of the file
-        },
-    )
-    update_response.raise_for_status()  # Ensure we got a successful response
+        # Update the file via the API
+        update_response = requests.put(
+            f"https://api.github.com/repos/{owner}/{repo}/contents/{path}",
+            headers=headers,
+            json={
+                "message": "Append new data",
+                "content": updated_content,
+                "sha": response.json()["sha"],  # We need to provide the current SHA of the file
+            },
+        )
+        update_response.raise_for_status()
+    else:
+        print("New data is the same as the existing data. No update needed.")  # Ensure we got a successful response
 
 
 def check_and_update_high_price():
@@ -161,7 +165,6 @@ def check_and_update_high_price():
 
         if new_data['options']:
             append_to_github_file(new_data)
-            new_data['options'] = []
 
         # Wait for a minute before the next check
         time.sleep(10)
