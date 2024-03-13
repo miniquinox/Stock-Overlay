@@ -150,7 +150,10 @@
         "HCM $17.50 Call 2024-03-15": {
             "Stock price at market close": 16.35,
             "Stock price before market open": 18.53,
-            "Option price at market close": 0.01
+            "Option price at market close": 0.01,
+            "Max Day Stock Price": 19.4,
+            "Option Open Price": 0.01,
+            "Max Day Call Price": 1.85
         }
     }
 }

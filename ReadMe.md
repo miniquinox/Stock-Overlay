@@ -1,5 +1,11 @@
 ## Options Daily Performance
   
+### 2024-03-13
+
+| Option ID | Performance |
+| --- | --- |
+| HCM $17.50 Call 2024-03-15 | Open @ 0.01 -> Max @ 1.85 = 🟢 +18400.00% |
+
 ### 2024-03-12
 
 | Option ID | Performance |
