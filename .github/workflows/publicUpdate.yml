@@ -3,8 +3,8 @@ name: Public Update
 on:
   schedule:
     # Runs at 6:30 AM and 10 AM PST, Monday through Friday
-    - cron: '30 14 * * 1-5'
-    - cron: '0 18 * * 1-5'
+    - cron: '30 13 * * 1-5'
+    - cron: '0 17 * * 1-5'
   workflow_dispatch:
 
 jobs:

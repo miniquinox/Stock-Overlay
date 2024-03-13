@@ -1,0 +1,30 @@
+name: Testing
+
+on:
+  workflow_dispatch:
+
+jobs:
+  calculate_option_price:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v2
+        with:
+          repository: miniquinox/Stock-Overlay
+          ssh-strict: true
+          persist-credentials: true
+          clean: true
+          fetch-depth: 1
+          lfs: false
+          submodules: false
+          set-safe-directory: true
+          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }} # Use the secret here 
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.11.6'
+
+      - name: Run the script
+        run: |
+          cat /etc/default/cron
