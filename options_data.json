@@ -159,13 +159,19 @@
     "2024-03-14": {
         "HOOD $19.50 Call 2024-03-15": {
             "Stock price at market close": 16.39,
-            "Stock price before market open": 19.20,
-            "Option price at market close": 0.04
+            "Stock price before market open": 19.2,
+            "Option price at market close": 0.04,
+            "Max Day Stock Price": 18.76,
+            "Option Open Price": 0.18,
+            "Max Day Call Price": 0.46
         },
         "SOUN $9.50 Call 2024-03-15": {
             "Stock price at market close": 6.93,
             "Stock price before market open": 9.72,
-            "Option price at market close": 0.53
+            "Option price at market close": 0.53,
+            "Max Day Stock Price": 8.89,
+            "Option Open Price": 1.03,
+            "Max Day Call Price": 1.5
         }
     }
 }

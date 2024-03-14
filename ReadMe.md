@@ -1,5 +1,12 @@
 ## Options Daily Performance
   
+### 2024-03-14
+
+| Option ID | Performance |
+| --- | --- |
+| HOOD $19.50 Call 2024-03-15 | Open @ 0.18 -> Max @ 0.46 = 🟢 +155.56% |
+| SOUN $9.50 Call 2024-03-15 | Open @ 1.03 -> Max @ 1.5 = 🟢 +45.63% |
+
 ### 2024-03-13
 
 | Option ID | Performance |
