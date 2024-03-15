@@ -357,7 +357,7 @@ def fetch_and_calculate_option_price():
     asyncio.run(send_telegram_options(telegram))
 
     # Track market data for 40 minutes
-    track_market_data(test_symbol, test_expiration, test_strike, duration=400, sleep_interval=1)
+    track_market_data(test_symbol, test_expiration, test_strike, duration=800, sleep_interval=1)
 
     asyncio.run(send_telegram_time_tracking())
         
