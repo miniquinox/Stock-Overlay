@@ -6438,3 +6438,2292 @@ ZLAB Bid Price 1.100000
 ZLAB Mark Price 1.350000 
 ZLAB Open Price 2.35 
  
+Time: 2024-03-15 13:27:10
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:11
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:12
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:13
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:14
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:16
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:17
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:18
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:19
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:20
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:22
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:23
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:24
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:25
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:26
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:28
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:29
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:30
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:31
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:32
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:34
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:35
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:36
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:37
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:38
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:40
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:41
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:42
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:43
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:44
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:45
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:47
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:48
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:49
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:50
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:51
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:53
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:54
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:55
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:56
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:57
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:27:59
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:00
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:01
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:02
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:03
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:05
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:06
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:07
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:08
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:09
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:11
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:12
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:13
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:14
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:15
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:17
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:18
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:19
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:20
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:21
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:23
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:24
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:25
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:26
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:27
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:29
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:30
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:31
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:32
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:33
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:35
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:36
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:37
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:38
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:39
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:41
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:42
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:43
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:44
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:45
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:47
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:48
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:49
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:50
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:51
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:53
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:54
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:55
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:56
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:57
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:28:59
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:00
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:01
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:02
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:03
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:05
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:06
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:07
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:08
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:09
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:11
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:12
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:13
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:14
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:15
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:17
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:18
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:19
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:20
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:21
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:23
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:24
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:25
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:26
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:27
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:29
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:30
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:31
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:32
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:33
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:35
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:36
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:37
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:38
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:39
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:41
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:42
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:43
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:44
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:45
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:47
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:48
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:49
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:50
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:51
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:53
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:54
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:55
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:56
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:57
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:29:59
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price 0.08 
+ 
+Time: 2024-03-15 13:30:00
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:01
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:02
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:03
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:05
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:06
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:07
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.050000 
+RLX Mark Price 0.100000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:08
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:09
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:11
+RLX Last Trade Price 0.110000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:12
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:13
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:14
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:16
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:17
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:18
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:19
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:20
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:22
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:23
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:24
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:25
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:27
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:28
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:29
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:30
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:32
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:33
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:34
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:35
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:37
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:38
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:39
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:40
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:42
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:43
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:44
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:46
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.150000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.075000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:47
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:49
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:50
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:51
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:53
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:54
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:55
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:56
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:58
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:30:59
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:01
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:02
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:03
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:05
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:06
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:07
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:08
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:10
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:11
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:12
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:13
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:14
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:16
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:17
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:19
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:20
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:21
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:22
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:23
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:25
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:26
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:27
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:28
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:30
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:31
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:32
+RLX Last Trade Price 0.100000 
+RLX Ask Price 0.100000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.050000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:33
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:35
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:36
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:37
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:38
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:40
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:41
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:42
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:43
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:45
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:47
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:48
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:49
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:51
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:52
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:53
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:54
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:56
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:57
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:58
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:31:59
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:00
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:02
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:03
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:04
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:05
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:06
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:08
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:09
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:10
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:11
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:12
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:14
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:15
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:16
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:17
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:19
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:20
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:21
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:22
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:24
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:25
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:26
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:27
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:29
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:30
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:31
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:32
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:34
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:35
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:36
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:37
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:38
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:40
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:41
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:42
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:43
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:45
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:46
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:47
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:48
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:50
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:51
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:52
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:53
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:54
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:56
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:57
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:58
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:32:59
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:00
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:02
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:03
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:04
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:05
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:07
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:08
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:09
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:10
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:11
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:13
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:14
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:15
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:16
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:17
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:19
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:20
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:21
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:22
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:24
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:25
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:26
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:27
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:29
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:30
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:31
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:32
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:33
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:35
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:36
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:37
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:38
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:39
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:41
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:42
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:43
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:44
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:45
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:47
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:48
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 
+Time: 2024-03-15 13:33:49
+RLX Last Trade Price 0.050000 
+RLX Ask Price 0.050000 
+RLX Bid Price 0.000000 
+RLX Mark Price 0.025000 
+RLX Open Price N/A 
+ 

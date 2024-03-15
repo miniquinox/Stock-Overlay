@@ -173,5 +173,17 @@
             "Option Open Price": 1.03,
             "Max Day Call Price": 1.5
         }
+    },
+    "2024-03-15": {
+        "MDGL $300.0 Call 2024-03-15": {
+            "Stock price at market close": 272.98,
+            "Stock price before market open": 292.0001,
+            "Option price at market close": 0.01
+        },
+        "RLX $2.0 Call 2024-03-15": {
+            "Stock price at market close": 1.95,
+            "Stock price before market open": 2.08,
+            "Option price at market close": 0.1
+        }
     }
 }
