@@ -87,7 +87,7 @@ def track_market_data(test_symbol, test_expiration, test_strike, duration=2400, 
         # Get raw open price
         raw_open_price_data = r.get_option_historicals(test_symbol, test_expiration, test_strike, 'call', interval='5minute', span='day')
         try:
-            open_price = float(raw_open_price_data[0]["open_price"])
+            open_price = float(raw_open_price_data[0]["open_price"].replace(',', ''))
         except:
             open_price = "N/A"
         my_loop += f"{test_symbol} Open Price {open_price} \n"
