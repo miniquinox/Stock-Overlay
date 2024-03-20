@@ -1,18 +1,10 @@
 ## Options Daily Performance
   
-### 2024-03-15
+### 2024-03-18
 
 | Option ID | Performance |
 | --- | --- |
-| MDGL $300.0 Call 2024-03-15 | Open @ 7.1 -> Max @ 14.61 = 🟢 +105.77% |
-| RLX $2.0 Call 2024-03-15 | Open @ 0.01 -> Max @ 0.1 = 🟢 +900.00% |
-
-### 2024-03-15
-
-| Option ID | Performance |
-| --- | --- |
-| MDGL $300.0 Call 2024-03-15 | Open @ 7.1 -> Max @ 14.61 = 🟢 +105.77% |
-| RLX $2.0 Call 2024-03-15 | Open @ 0.01 -> Max @ 0.1 = 🟢 +900.00% |
+| No good options today | Nothing to report |
 
 ### 2024-03-15
 
