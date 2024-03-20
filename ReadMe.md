@@ -1,5 +1,11 @@
 ## Options Daily Performance
 
+### 2024-03-20
+
+| Option ID | Performance |
+| --- | --- |
+| PDD $149.0 Call 2024-03-22 | Open @ 1.81 -> Max @ 3.5 = 🟢 +93.37% |
+
 ### 2024-03-19
 
 | Option ID | Performance |

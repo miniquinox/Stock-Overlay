@@ -198,7 +198,10 @@
         "PDD $149.0 Call 2024-03-22": {
             "Stock price at market close": 128.71,
             "Stock price before market open": 147.15,
-            "Option price at market close": 1.96
+            "Option price at market close": 1.96,
+            "Max Day Stock Price": 134.89,
+            "Option Open Price": 1.81,
+            "Max Day Call Price": 3.5
         }
     }
 }
