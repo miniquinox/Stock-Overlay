@@ -12206,3 +12206,3524 @@ PDD Bid Price 1.050000
 PDD Mark Price 1.125000 
 PDD Open Price 1.81 
  
+Time: 2024-03-21 13:29:05
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:06
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:08
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:09
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:11
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:13
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:15
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:16
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:18
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:19
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:21
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:23
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:24
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:26
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:28
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:29
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:31
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:33
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:34
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:36
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:37
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:39
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:41
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:42
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:44
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:46
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:47
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:49
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:51
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:52
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:54
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:55
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:57
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:29:59
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price 0.01 
+ 
+Time: 2024-03-21 13:30:00
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:02
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 4.700000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 2.350000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:03
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 1.000000 
+IMVT Bid Price 0.250000 
+IMVT Mark Price 0.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:05
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 1.000000 
+IMVT Bid Price 0.300000 
+IMVT Mark Price 0.650000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:07
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 0.950000 
+IMVT Bid Price 0.300000 
+IMVT Mark Price 0.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:08
+IMVT Last Trade Price 0.150000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:10
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:11
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:13
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:15
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:16
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:18
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:19
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:21
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:23
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:24
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:26
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:27
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:29
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:31
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:32
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:34
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:35
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:37
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:38
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:40
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:42
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:43
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:45
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.000000 
+IMVT Mark Price 1.600000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:47
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:48
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:50
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:51
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:53
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:55
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:56
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:58
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:30:59
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:01
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:03
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:04
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:06
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:07
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:09
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:11
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:12
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:14
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:15
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:17
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:19
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:20
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:22
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:23
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:25
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:26
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:28
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:30
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:31
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:33
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:34
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:36
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:38
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:39
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:41
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:42
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:44
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:46
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:47
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:49
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:50
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:52
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:54
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:55
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:57
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:31:58
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:00
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:02
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:03
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:05
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:06
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:08
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:10
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:11
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:13
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:14
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:16
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:17
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:19
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:21
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:22
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:24
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:26
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:27
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:29
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:30
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:32
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:34
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:35
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:37
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:38
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:40
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:41
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:43
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:45
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:46
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:48
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:49
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:51
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:53
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:55
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:56
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:58
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:32:59
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:01
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:03
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:04
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:06
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:07
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:09
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:11
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:12
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:14
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:15
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:17
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:19
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:20
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:22
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:23
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:25
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:27
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:28
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:30
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:31
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:33
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:34
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:36
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.625000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:38
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.100000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.575000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:39
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.100000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.575000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:41
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.100000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.575000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:42
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.100000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.575000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:44
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 3.000000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.525000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:46
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.900000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.475000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:47
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.850000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.450000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:49
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.850000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.450000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:50
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.850000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.450000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:52
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.850000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.450000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:53
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.850000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.450000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:55
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.800000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.425000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:57
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.400000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:33:58
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.700000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.375000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:00
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.700000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.375000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:01
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.700000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.375000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:03
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.700000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.375000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:05
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.650000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.350000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:06
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.650000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.350000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:08
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.650000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.350000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:09
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.650000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.350000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:11
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.650000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.350000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:12
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.650000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.350000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:14
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.650000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.350000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:16
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.650000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.350000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:17
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.600000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.325000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:19
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.600000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.325000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:20
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.600000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.325000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:22
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.600000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.325000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:24
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.550000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.300000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:25
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.550000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.300000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:27
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.550000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.300000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:28
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.550000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.300000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:30
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.550000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.300000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:31
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.550000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.300000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:33
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.550000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.300000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:35
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.500000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.275000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:36
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.500000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.275000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:38
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.500000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.275000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:39
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.450000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.250000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:41
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.450000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.250000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:43
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.450000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.250000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:44
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.450000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.250000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:46
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.450000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.250000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:47
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.450000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.250000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:49
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.450000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.250000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:51
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.450000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.250000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:52
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.450000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.250000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:54
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.450000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.250000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:55
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.450000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.250000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:57
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.400000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.225000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:34:58
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.400000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.225000 
+IMVT Open Price N/A 
+ 
+Time: 2024-03-21 13:35:00
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.400000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.225000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:02
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.400000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.225000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:03
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.400000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.225000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:05
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.400000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.225000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:06
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.400000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.225000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:08
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.400000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.225000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:10
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.400000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.225000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:11
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.200000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:13
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.300000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.175000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:14
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.300000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.175000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:16
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.300000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.175000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:17
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.300000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.175000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:19
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.300000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.175000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:21
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.300000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.175000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:22
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.300000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.175000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:24
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.300000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.175000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:25
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.300000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.175000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:27
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.300000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.175000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:29
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.300000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.175000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:30
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.300000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.175000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:32
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.300000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.175000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:33
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.300000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.175000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:35
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.300000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.175000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:36
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.125000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:38
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.125000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:40
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.125000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:41
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.125000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:43
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.125000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:44
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.125000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:46
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.125000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:47
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.125000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:49
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.125000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:51
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.125000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:52
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.125000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:54
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.125000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:55
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.100000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.075000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:57
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.050000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.050000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:35:59
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.000000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.025000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:00
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.000000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.025000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:02
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.000000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.025000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:03
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.000000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.025000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:05
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 2.000000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.025000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:06
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.950000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.000000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:08
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.950000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.000000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:10
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.950000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.000000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:11
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.950000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.000000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:13
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.950000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.000000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:14
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.950000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 1.000000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:16
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.900000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.975000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:17
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.900000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.975000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:19
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.850000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.950000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:21
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.850000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.950000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:22
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.800000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.925000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:24
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.800000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.925000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:25
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:27
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:29
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:30
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:32
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:33
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:35
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:36
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:38
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:40
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:41
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:43
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:44
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:46
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:47
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:49
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:51
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:52
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.750000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.900000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:54
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.700000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.875000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:55
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.700000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.875000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:57
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.650000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.850000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:36:59
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.650000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.850000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:00
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.650000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.850000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:02
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.650000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.850000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:03
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.650000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.850000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:05
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.650000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.850000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:06
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.650000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.850000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:08
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.650000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.850000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:10
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.600000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.825000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:11
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.600000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.825000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:13
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.550000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.800000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:14
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.550000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.800000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:16
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.450000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.750000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:17
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.450000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.750000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:19
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.400000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.725000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:21
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.400000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.725000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:22
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.400000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.725000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:24
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.400000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.725000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:25
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.400000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.725000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:27
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.400000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.725000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:29
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.400000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.725000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:30
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.400000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.725000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:32
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:34
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:35
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:37
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:38
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:40
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:41
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:43
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:45
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:46
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:48
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:49
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:51
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:53
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:54
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:56
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:57
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:37:59
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:00
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:02
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:04
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:05
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:07
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:08
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:10
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:12
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:13
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:15
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:16
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:18
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:19
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:21
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:23
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:24
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:26
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:27
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:29
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:31
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:32
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:34
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:35
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:37
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:39
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:40
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:42
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:43
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:45
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:46
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:48
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:50
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:51
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:53
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:54
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:56
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:57
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:38:59
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:01
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:02
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:04
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:05
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:07
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:09
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:10
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:12
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:13
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:15
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:17
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:18
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:20
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:21
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:23
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:24
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:26
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:28
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:29
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:31
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:32
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:34
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:35
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:37
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:39
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:40
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:42
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:43
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:45
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:47
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:48
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:50
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:51
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:53
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:54
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:56
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:58
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:39:59
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:01
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:03
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:04
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:06
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:07
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:09
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:10
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:12
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:14
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:15
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:17
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:18
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:20
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:22
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:23
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:25
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:26
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:28
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:29
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:31
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:33
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:34
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:36
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:37
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:39
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:41
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:42
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:44
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:45
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:47
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:49
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:50
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:52
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:53
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:55
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:56
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:40:58
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:00
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:01
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:03
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:04
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:06
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:08
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:09
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:11
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:12
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:14
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:16
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:17
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:19
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:20
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:22
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:24
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:25
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:27
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:28
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:30
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:31
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:33
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:35
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:36
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:38
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:39
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:41
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:43
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:44
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:46
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:47
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:49
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.350000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.700000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:50
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.300000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.675000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:52
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.250000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.650000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:54
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.250000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.650000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:55
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.250000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.650000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:57
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.250000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.650000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:41:58
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.200000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.625000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:42:00
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.150000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.600000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:42:02
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.150000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.600000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:42:03
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.150000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.600000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:42:05
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.150000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.600000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:42:06
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.150000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.600000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:42:08
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.150000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.600000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:42:10
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.150000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.600000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:42:11
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.150000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.600000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:42:13
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.150000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.600000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:42:14
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.150000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.600000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:42:16
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.150000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.600000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:42:17
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.150000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.600000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:42:19
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.150000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.600000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:42:21
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.150000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.600000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:42:22
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.150000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.600000 
+IMVT Open Price 1.23 
+ 
+Time: 2024-03-21 13:42:24
+IMVT Last Trade Price 0.900000 
+IMVT Ask Price 1.150000 
+IMVT Bid Price 0.050000 
+IMVT Mark Price 0.600000 
+IMVT Open Price 1.23 
+ 
