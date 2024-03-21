@@ -148,7 +148,7 @@ def check_and_update_high_price():
                 raw_open_price_data = r.get_option_historicals(symbol, exp_date, strike, option_type, interval='5minute', span='day')
                 # Convert open price to float
                 open_price = float(raw_open_price_data[0]["open_price"].replace(',', ''))
-                print(f"Time: {datetime.datetime.now()} Open price for {symbol} {strike} {exp_date} is {open_price}")
+                # print(f"Time: {datetime.datetime.now()} Open price for {symbol} {strike} {exp_date} is {open_price}")
 
                 # Get high price
                 high_price = float(get_high_option_price(symbol, exp_date, strike).replace(',', ''))
@@ -162,7 +162,10 @@ def check_and_update_high_price():
                     else:
                         print(f"No update for {symbol} {strike} {exp_date} as the high price is {high_price} and the open price is {open_price}")
                 else:
-                    new_data['options'].append(option)
+                    # new_data['options'].append(option)
+                    print(f"No update for {symbol} {strike} {exp_date} as the high price is {high_price} and the open price is {open_price}")
+            
+        print("")
 
         if new_data['options']:
             append_to_github_file(new_data)
