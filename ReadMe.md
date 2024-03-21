@@ -1,5 +1,13 @@
 ## Options Daily Performance
 
+### 2024-03-21
+
+| Option ID | Performance |
+| --- | --- |
+| MU $112.0 Call 2024-03-22 | Open @ 1.03 -> Max @ 4.0 = 🟢 +288.35% |
+| WDC $65.0 Call 2024-03-22 | Open @ 0.62 -> Max @ 1.29 = 🟢 +108.06% |
+| IMVT $36.0 Call 2024-03-22 | Open @ 1.23 -> Max @ 0.9 = 🔴 -26.83% (DID NOT REACH 30%. Consider -20%) |
+
 ### 2024-03-20
 
 | Option ID | Performance |

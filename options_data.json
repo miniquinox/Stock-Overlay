@@ -208,17 +208,26 @@
         "MU $112.0 Call 2024-03-22": {
             "Stock price at market close": 94.0,
             "Stock price before market open": 113.31,
-            "Option price at market close": 0.87
+            "Option price at market close": 0.87,
+            "Max Day Stock Price": 113.19,
+            "Option Open Price": 1.03,
+            "Max Day Call Price": 4.0
         },
         "WDC $65.0 Call 2024-03-22": {
             "Stock price at market close": 59.81,
             "Stock price before market open": 65.19,
-            "Option price at market close": 0.11
+            "Option price at market close": 0.11,
+            "Max Day Stock Price": 66.0,
+            "Option Open Price": 0.62,
+            "Max Day Call Price": 1.29
         },
         "IMVT $36.0 Call 2024-03-22": {
             "Stock price at market close": 31.09,
             "Stock price before market open": 35.94,
-            "Option price at market close": 0.01
+            "Option price at market close": 0.01,
+            "Max Day Stock Price": 34.28,
+            "Option Open Price": 1.23,
+            "Max Day Call Price": 0.9
         }
     }
 }
