@@ -1,5 +1,11 @@
 ## Options Daily Performance
 
+### 2024-03-22
+
+| Option ID | Performance |
+| --- | --- |
+| FDX $290.0 Call 2024-03-22 | Open @ 1.04 -> Max @ 4.2 = 🟢 +303.85% |
+
 ### 2024-03-21
 
 | Option ID | Performance |

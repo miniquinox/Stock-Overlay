@@ -234,7 +234,10 @@
         "FDX $290.0 Call 2024-03-22": {
             "Stock price at market close": 259.99,
             "Stock price before market open": 288.6,
-            "Option price at market close": 1.82
+            "Option price at market close": 1.82,
+            "Max Day Stock Price": 288.6,
+            "Option Open Price": 1.04,
+            "Max Day Call Price": 4.2
         }
     }
 }
