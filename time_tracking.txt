@@ -15727,3 +15727,3762 @@ IMVT Bid Price 0.050000
 IMVT Mark Price 0.600000 
 IMVT Open Price 1.23 
  
+Time: 2024-03-22 13:26:27
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:29
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:30
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:32
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:33
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:35
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:36
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:38
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:39
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:41
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:42
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:44
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:45
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:47
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:48
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:50
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:51
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:53
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:54
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:56
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:57
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:26:59
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:01
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:02
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:04
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:05
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:07
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:08
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:10
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:11
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:13
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:14
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:16
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:17
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:19
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:20
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:22
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:23
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:25
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:26
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:28
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:29
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:31
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:32
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:34
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:35
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:37
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:38
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:40
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:41
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:43
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:44
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:46
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:47
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:49
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:50
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:52
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:53
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:55
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:56
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:58
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:27:59
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:01
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:02
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:04
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:05
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:07
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:08
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:10
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:11
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:13
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:14
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:16
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:17
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:19
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:20
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:22
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:23
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:25
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:26
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:28
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:29
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:31
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:32
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:34
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:35
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:37
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:38
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:40
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:41
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:43
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:44
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:46
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:47
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:49
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:50
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:52
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:53
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:55
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:56
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:58
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:28:59
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:01
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:02
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:04
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:05
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:07
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:08
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:10
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:11
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:12
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:14
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:15
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:17
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:18
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:20
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:21
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:23
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:25
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:26
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:28
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:29
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:31
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:32
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:34
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:35
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:37
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:38
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:40
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:41
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:43
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:44
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:46
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:47
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:49
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:50
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:52
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:53
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:55
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:56
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:58
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:29:59
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price 0.52 
+ 
+Time: 2024-03-22 13:30:01
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:02
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:04
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:05
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:07
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:08
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:10
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:11
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:14
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:15
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:17
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:18
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:20
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:21
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:23
+FDX Last Trade Price 1.890000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:24
+FDX Last Trade Price 1.890000 
+FDX Ask Price 4.100000 
+FDX Bid Price 2.030000 
+FDX Mark Price 3.065000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:26
+FDX Last Trade Price 1.890000 
+FDX Ask Price 4.200000 
+FDX Bid Price 2.030000 
+FDX Mark Price 3.115000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:27
+FDX Last Trade Price 1.890000 
+FDX Ask Price 4.500000 
+FDX Bid Price 2.030000 
+FDX Mark Price 3.265000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:29
+FDX Last Trade Price 1.890000 
+FDX Ask Price 4.500000 
+FDX Bid Price 2.030000 
+FDX Mark Price 3.265000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:30
+FDX Last Trade Price 1.890000 
+FDX Ask Price 3.000000 
+FDX Bid Price 2.030000 
+FDX Mark Price 2.515000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:32
+FDX Last Trade Price 1.890000 
+FDX Ask Price 3.000000 
+FDX Bid Price 2.030000 
+FDX Mark Price 2.515000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:33
+FDX Last Trade Price 1.890000 
+FDX Ask Price 3.000000 
+FDX Bid Price 2.030000 
+FDX Mark Price 2.515000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:35
+FDX Last Trade Price 1.890000 
+FDX Ask Price 3.000000 
+FDX Bid Price 2.030000 
+FDX Mark Price 2.515000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:36
+FDX Last Trade Price 1.890000 
+FDX Ask Price 3.500000 
+FDX Bid Price 2.030000 
+FDX Mark Price 2.765000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:38
+FDX Last Trade Price 1.890000 
+FDX Ask Price 3.500000 
+FDX Bid Price 2.500000 
+FDX Mark Price 3.000000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:39
+FDX Last Trade Price 1.890000 
+FDX Ask Price 3.650000 
+FDX Bid Price 2.510000 
+FDX Mark Price 3.080000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:41
+FDX Last Trade Price 1.890000 
+FDX Ask Price 3.650000 
+FDX Bid Price 3.000000 
+FDX Mark Price 3.325000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:42
+FDX Last Trade Price 1.890000 
+FDX Ask Price 3.650000 
+FDX Bid Price 3.000000 
+FDX Mark Price 3.325000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:44
+FDX Last Trade Price 1.890000 
+FDX Ask Price 3.500000 
+FDX Bid Price 3.000000 
+FDX Mark Price 3.250000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:45
+FDX Last Trade Price 1.890000 
+FDX Ask Price 3.750000 
+FDX Bid Price 3.000000 
+FDX Mark Price 3.375000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:47
+FDX Last Trade Price 1.890000 
+FDX Ask Price 3.750000 
+FDX Bid Price 3.350000 
+FDX Mark Price 3.550000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:48
+FDX Last Trade Price 1.890000 
+FDX Ask Price 3.750000 
+FDX Bid Price 3.350000 
+FDX Mark Price 3.550000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:50
+FDX Last Trade Price 1.890000 
+FDX Ask Price 3.700000 
+FDX Bid Price 3.000000 
+FDX Mark Price 3.350000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:51
+FDX Last Trade Price 1.890000 
+FDX Ask Price 3.350000 
+FDX Bid Price 3.000000 
+FDX Mark Price 3.175000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:53
+FDX Last Trade Price 1.890000 
+FDX Ask Price 3.300000 
+FDX Bid Price 2.810000 
+FDX Mark Price 3.055000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:54
+FDX Last Trade Price 1.890000 
+FDX Ask Price 3.300000 
+FDX Bid Price 2.810000 
+FDX Mark Price 3.055000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:56
+FDX Last Trade Price 3.130000 
+FDX Ask Price 3.350000 
+FDX Bid Price 2.410000 
+FDX Mark Price 2.880000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:57
+FDX Last Trade Price 3.130000 
+FDX Ask Price 3.350000 
+FDX Bid Price 2.410000 
+FDX Mark Price 2.880000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:30:59
+FDX Last Trade Price 3.130000 
+FDX Ask Price 3.000000 
+FDX Bid Price 2.410000 
+FDX Mark Price 2.705000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:00
+FDX Last Trade Price 3.100000 
+FDX Ask Price 3.000000 
+FDX Bid Price 2.030000 
+FDX Mark Price 2.515000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:02
+FDX Last Trade Price 3.150000 
+FDX Ask Price 3.000000 
+FDX Bid Price 1.880000 
+FDX Mark Price 2.440000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:03
+FDX Last Trade Price 2.510000 
+FDX Ask Price 3.200000 
+FDX Bid Price 1.880000 
+FDX Mark Price 2.540000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:05
+FDX Last Trade Price 3.000000 
+FDX Ask Price 3.200000 
+FDX Bid Price 1.880000 
+FDX Mark Price 2.540000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:06
+FDX Last Trade Price 3.000000 
+FDX Ask Price 3.250000 
+FDX Bid Price 1.880000 
+FDX Mark Price 2.565000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:08
+FDX Last Trade Price 2.500000 
+FDX Ask Price 3.500000 
+FDX Bid Price 2.500000 
+FDX Mark Price 3.000000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:09
+FDX Last Trade Price 2.500000 
+FDX Ask Price 3.500000 
+FDX Bid Price 1.900000 
+FDX Mark Price 2.700000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:11
+FDX Last Trade Price 2.760000 
+FDX Ask Price 3.000000 
+FDX Bid Price 2.000000 
+FDX Mark Price 2.500000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:12
+FDX Last Trade Price 2.760000 
+FDX Ask Price 2.700000 
+FDX Bid Price 2.000000 
+FDX Mark Price 2.350000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:14
+FDX Last Trade Price 2.700000 
+FDX Ask Price 3.000000 
+FDX Bid Price 2.500000 
+FDX Mark Price 2.750000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:15
+FDX Last Trade Price 2.500000 
+FDX Ask Price 3.000000 
+FDX Bid Price 2.300000 
+FDX Mark Price 2.650000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:17
+FDX Last Trade Price 2.500000 
+FDX Ask Price 3.000000 
+FDX Bid Price 2.300000 
+FDX Mark Price 2.650000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:18
+FDX Last Trade Price 2.500000 
+FDX Ask Price 2.990000 
+FDX Bid Price 2.300000 
+FDX Mark Price 2.645000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:20
+FDX Last Trade Price 2.390000 
+FDX Ask Price 2.990000 
+FDX Bid Price 2.200000 
+FDX Mark Price 2.595000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:21
+FDX Last Trade Price 2.200000 
+FDX Ask Price 2.990000 
+FDX Bid Price 2.200000 
+FDX Mark Price 2.595000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:23
+FDX Last Trade Price 2.500000 
+FDX Ask Price 2.490000 
+FDX Bid Price 2.200000 
+FDX Mark Price 2.345000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:24
+FDX Last Trade Price 2.350000 
+FDX Ask Price 2.350000 
+FDX Bid Price 1.880000 
+FDX Mark Price 2.115000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:26
+FDX Last Trade Price 1.820000 
+FDX Ask Price 2.490000 
+FDX Bid Price 1.880000 
+FDX Mark Price 2.185000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:27
+FDX Last Trade Price 1.820000 
+FDX Ask Price 2.350000 
+FDX Bid Price 1.880000 
+FDX Mark Price 2.115000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:28
+FDX Last Trade Price 2.200000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.700000 
+FDX Mark Price 1.950000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:30
+FDX Last Trade Price 1.880000 
+FDX Ask Price 2.350000 
+FDX Bid Price 1.880000 
+FDX Mark Price 2.115000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:31
+FDX Last Trade Price 2.350000 
+FDX Ask Price 2.500000 
+FDX Bid Price 2.000000 
+FDX Mark Price 2.250000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:33
+FDX Last Trade Price 2.100000 
+FDX Ask Price 2.600000 
+FDX Bid Price 2.100000 
+FDX Mark Price 2.350000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:34
+FDX Last Trade Price 2.600000 
+FDX Ask Price 2.750000 
+FDX Bid Price 2.100000 
+FDX Mark Price 2.425000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:36
+FDX Last Trade Price 2.750000 
+FDX Ask Price 2.980000 
+FDX Bid Price 2.100000 
+FDX Mark Price 2.540000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:37
+FDX Last Trade Price 2.100000 
+FDX Ask Price 2.880000 
+FDX Bid Price 1.700000 
+FDX Mark Price 2.290000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:39
+FDX Last Trade Price 2.230000 
+FDX Ask Price 2.880000 
+FDX Bid Price 1.650000 
+FDX Mark Price 2.265000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:40
+FDX Last Trade Price 2.250000 
+FDX Ask Price 2.390000 
+FDX Bid Price 1.650000 
+FDX Mark Price 2.020000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:42
+FDX Last Trade Price 2.000000 
+FDX Ask Price 2.390000 
+FDX Bid Price 1.650000 
+FDX Mark Price 2.020000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:43
+FDX Last Trade Price 2.070000 
+FDX Ask Price 2.380000 
+FDX Bid Price 1.650000 
+FDX Mark Price 2.015000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:45
+FDX Last Trade Price 2.380000 
+FDX Ask Price 2.380000 
+FDX Bid Price 1.660000 
+FDX Mark Price 2.020000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:46
+FDX Last Trade Price 2.380000 
+FDX Ask Price 2.380000 
+FDX Bid Price 1.660000 
+FDX Mark Price 2.020000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:48
+FDX Last Trade Price 2.380000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.660000 
+FDX Mark Price 1.845000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:49
+FDX Last Trade Price 2.380000 
+FDX Ask Price 2.380000 
+FDX Bid Price 1.660000 
+FDX Mark Price 2.020000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:51
+FDX Last Trade Price 2.030000 
+FDX Ask Price 2.380000 
+FDX Bid Price 1.660000 
+FDX Mark Price 2.020000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:52
+FDX Last Trade Price 2.030000 
+FDX Ask Price 2.380000 
+FDX Bid Price 2.020000 
+FDX Mark Price 2.200000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:54
+FDX Last Trade Price 1.650000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:55
+FDX Last Trade Price 1.690000 
+FDX Ask Price 2.030000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.815000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:57
+FDX Last Trade Price 1.690000 
+FDX Ask Price 2.020000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.810000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:31:58
+FDX Last Trade Price 1.690000 
+FDX Ask Price 2.020000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.810000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:00
+FDX Last Trade Price 1.690000 
+FDX Ask Price 2.020000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.810000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:01
+FDX Last Trade Price 1.660000 
+FDX Ask Price 1.810000 
+FDX Bid Price 1.500000 
+FDX Mark Price 1.655000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:03
+FDX Last Trade Price 1.600000 
+FDX Ask Price 1.800000 
+FDX Bid Price 1.300000 
+FDX Mark Price 1.550000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:04
+FDX Last Trade Price 1.700000 
+FDX Ask Price 1.700000 
+FDX Bid Price 1.300000 
+FDX Mark Price 1.500000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:06
+FDX Last Trade Price 1.700000 
+FDX Ask Price 1.700000 
+FDX Bid Price 1.300000 
+FDX Mark Price 1.500000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:07
+FDX Last Trade Price 1.700000 
+FDX Ask Price 1.700000 
+FDX Bid Price 1.300000 
+FDX Mark Price 1.500000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:08
+FDX Last Trade Price 1.700000 
+FDX Ask Price 1.700000 
+FDX Bid Price 1.300000 
+FDX Mark Price 1.500000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:10
+FDX Last Trade Price 1.700000 
+FDX Ask Price 1.700000 
+FDX Bid Price 1.300000 
+FDX Mark Price 1.500000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:11
+FDX Last Trade Price 1.500000 
+FDX Ask Price 1.810000 
+FDX Bid Price 1.300000 
+FDX Mark Price 1.555000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:13
+FDX Last Trade Price 1.480000 
+FDX Ask Price 1.810000 
+FDX Bid Price 1.100000 
+FDX Mark Price 1.455000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:14
+FDX Last Trade Price 1.560000 
+FDX Ask Price 1.800000 
+FDX Bid Price 1.100000 
+FDX Mark Price 1.450000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:16
+FDX Last Trade Price 1.560000 
+FDX Ask Price 1.790000 
+FDX Bid Price 1.110000 
+FDX Mark Price 1.450000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:17
+FDX Last Trade Price 1.560000 
+FDX Ask Price 1.790000 
+FDX Bid Price 1.110000 
+FDX Mark Price 1.450000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:19
+FDX Last Trade Price 1.290000 
+FDX Ask Price 1.780000 
+FDX Bid Price 1.200000 
+FDX Mark Price 1.490000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:20
+FDX Last Trade Price 1.290000 
+FDX Ask Price 1.780000 
+FDX Bid Price 1.200000 
+FDX Mark Price 1.490000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:22
+FDX Last Trade Price 1.510000 
+FDX Ask Price 1.770000 
+FDX Bid Price 1.300000 
+FDX Mark Price 1.535000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:23
+FDX Last Trade Price 1.510000 
+FDX Ask Price 1.760000 
+FDX Bid Price 1.300000 
+FDX Mark Price 1.530000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:25
+FDX Last Trade Price 1.510000 
+FDX Ask Price 1.760000 
+FDX Bid Price 1.300000 
+FDX Mark Price 1.530000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:26
+FDX Last Trade Price 1.400000 
+FDX Ask Price 1.750000 
+FDX Bid Price 1.300000 
+FDX Mark Price 1.525000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:28
+FDX Last Trade Price 1.500000 
+FDX Ask Price 1.500000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.255000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:29
+FDX Last Trade Price 1.500000 
+FDX Ask Price 1.500000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.255000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:31
+FDX Last Trade Price 1.500000 
+FDX Ask Price 1.500000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.255000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:32
+FDX Last Trade Price 1.500000 
+FDX Ask Price 1.500000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.255000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:34
+FDX Last Trade Price 1.260000 
+FDX Ask Price 1.500000 
+FDX Bid Price 1.260000 
+FDX Mark Price 1.380000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:35
+FDX Last Trade Price 1.260000 
+FDX Ask Price 1.500000 
+FDX Bid Price 1.260000 
+FDX Mark Price 1.380000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:37
+FDX Last Trade Price 1.270000 
+FDX Ask Price 1.500000 
+FDX Bid Price 1.260000 
+FDX Mark Price 1.380000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:38
+FDX Last Trade Price 1.500000 
+FDX Ask Price 1.500000 
+FDX Bid Price 1.260000 
+FDX Mark Price 1.380000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:40
+FDX Last Trade Price 1.500000 
+FDX Ask Price 1.500000 
+FDX Bid Price 1.260000 
+FDX Mark Price 1.380000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:41
+FDX Last Trade Price 1.260000 
+FDX Ask Price 1.490000 
+FDX Bid Price 1.230000 
+FDX Mark Price 1.360000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:43
+FDX Last Trade Price 1.190000 
+FDX Ask Price 1.190000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.100000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:44
+FDX Last Trade Price 1.300000 
+FDX Ask Price 1.370000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.190000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:46
+FDX Last Trade Price 1.300000 
+FDX Ask Price 1.280000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.145000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:47
+FDX Last Trade Price 1.010000 
+FDX Ask Price 1.260000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.135000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:49
+FDX Last Trade Price 1.260000 
+FDX Ask Price 1.260000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.135000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:50
+FDX Last Trade Price 1.020000 
+FDX Ask Price 1.370000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.190000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:52
+FDX Last Trade Price 1.020000 
+FDX Ask Price 1.370000 
+FDX Bid Price 1.140000 
+FDX Mark Price 1.255000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:53
+FDX Last Trade Price 1.060000 
+FDX Ask Price 1.380000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.195000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:54
+FDX Last Trade Price 1.060000 
+FDX Ask Price 1.380000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.195000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:56
+FDX Last Trade Price 1.060000 
+FDX Ask Price 1.380000 
+FDX Bid Price 1.100000 
+FDX Mark Price 1.240000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:57
+FDX Last Trade Price 1.060000 
+FDX Ask Price 1.380000 
+FDX Bid Price 1.100000 
+FDX Mark Price 1.240000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:32:59
+FDX Last Trade Price 1.210000 
+FDX Ask Price 1.380000 
+FDX Bid Price 1.100000 
+FDX Mark Price 1.240000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:00
+FDX Last Trade Price 1.100000 
+FDX Ask Price 1.370000 
+FDX Bid Price 1.100000 
+FDX Mark Price 1.235000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:02
+FDX Last Trade Price 1.100000 
+FDX Ask Price 1.370000 
+FDX Bid Price 1.110000 
+FDX Mark Price 1.240000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:03
+FDX Last Trade Price 1.130000 
+FDX Ask Price 1.360000 
+FDX Bid Price 1.030000 
+FDX Mark Price 1.195000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:05
+FDX Last Trade Price 1.130000 
+FDX Ask Price 1.360000 
+FDX Bid Price 1.030000 
+FDX Mark Price 1.195000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:06
+FDX Last Trade Price 1.130000 
+FDX Ask Price 1.360000 
+FDX Bid Price 1.030000 
+FDX Mark Price 1.195000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:08
+FDX Last Trade Price 1.200000 
+FDX Ask Price 1.360000 
+FDX Bid Price 1.030000 
+FDX Mark Price 1.195000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:09
+FDX Last Trade Price 1.000000 
+FDX Ask Price 1.010000 
+FDX Bid Price 0.870000 
+FDX Mark Price 0.940000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:11
+FDX Last Trade Price 1.000000 
+FDX Ask Price 1.350000 
+FDX Bid Price 0.870000 
+FDX Mark Price 1.110000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:12
+FDX Last Trade Price 0.920000 
+FDX Ask Price 1.340000 
+FDX Bid Price 0.790000 
+FDX Mark Price 1.065000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:14
+FDX Last Trade Price 0.920000 
+FDX Ask Price 1.340000 
+FDX Bid Price 0.750000 
+FDX Mark Price 1.045000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:15
+FDX Last Trade Price 0.920000 
+FDX Ask Price 1.340000 
+FDX Bid Price 1.090000 
+FDX Mark Price 1.215000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:17
+FDX Last Trade Price 0.920000 
+FDX Ask Price 1.340000 
+FDX Bid Price 1.090000 
+FDX Mark Price 1.215000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:18
+FDX Last Trade Price 1.340000 
+FDX Ask Price 1.340000 
+FDX Bid Price 1.090000 
+FDX Mark Price 1.215000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:20
+FDX Last Trade Price 1.340000 
+FDX Ask Price 1.340000 
+FDX Bid Price 1.090000 
+FDX Mark Price 1.215000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:21
+FDX Last Trade Price 1.210000 
+FDX Ask Price 1.340000 
+FDX Bid Price 1.090000 
+FDX Mark Price 1.215000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:23
+FDX Last Trade Price 1.280000 
+FDX Ask Price 1.280000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.140000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:24
+FDX Last Trade Price 1.280000 
+FDX Ask Price 1.280000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.140000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:26
+FDX Last Trade Price 1.200000 
+FDX Ask Price 1.280000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.140000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:27
+FDX Last Trade Price 1.150000 
+FDX Ask Price 1.280000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.140000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:29
+FDX Last Trade Price 1.150000 
+FDX Ask Price 1.280000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.140000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:30
+FDX Last Trade Price 1.150000 
+FDX Ask Price 1.280000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.140000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:31
+FDX Last Trade Price 1.210000 
+FDX Ask Price 1.280000 
+FDX Bid Price 1.140000 
+FDX Mark Price 1.210000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:33
+FDX Last Trade Price 1.210000 
+FDX Ask Price 1.280000 
+FDX Bid Price 1.140000 
+FDX Mark Price 1.210000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:34
+FDX Last Trade Price 1.210000 
+FDX Ask Price 1.280000 
+FDX Bid Price 1.140000 
+FDX Mark Price 1.210000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:36
+FDX Last Trade Price 1.140000 
+FDX Ask Price 1.170000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.085000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:37
+FDX Last Trade Price 1.140000 
+FDX Ask Price 1.320000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.160000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:39
+FDX Last Trade Price 1.140000 
+FDX Ask Price 1.290000 
+FDX Bid Price 1.100000 
+FDX Mark Price 1.195000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:40
+FDX Last Trade Price 1.140000 
+FDX Ask Price 1.290000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.145000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:42
+FDX Last Trade Price 1.170000 
+FDX Ask Price 1.290000 
+FDX Bid Price 1.100000 
+FDX Mark Price 1.195000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:43
+FDX Last Trade Price 1.100000 
+FDX Ask Price 1.290000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.145000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:45
+FDX Last Trade Price 1.100000 
+FDX Ask Price 1.290000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.145000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:46
+FDX Last Trade Price 1.100000 
+FDX Ask Price 1.280000 
+FDX Bid Price 0.970000 
+FDX Mark Price 1.125000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:48
+FDX Last Trade Price 0.970000 
+FDX Ask Price 1.280000 
+FDX Bid Price 0.890000 
+FDX Mark Price 1.085000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:49
+FDX Last Trade Price 0.970000 
+FDX Ask Price 1.130000 
+FDX Bid Price 0.890000 
+FDX Mark Price 1.010000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:51
+FDX Last Trade Price 0.970000 
+FDX Ask Price 1.130000 
+FDX Bid Price 0.890000 
+FDX Mark Price 1.010000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:52
+FDX Last Trade Price 1.130000 
+FDX Ask Price 1.130000 
+FDX Bid Price 0.890000 
+FDX Mark Price 1.010000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:54
+FDX Last Trade Price 0.930000 
+FDX Ask Price 1.130000 
+FDX Bid Price 0.890000 
+FDX Mark Price 1.010000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:55
+FDX Last Trade Price 1.100000 
+FDX Ask Price 1.130000 
+FDX Bid Price 0.890000 
+FDX Mark Price 1.010000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:57
+FDX Last Trade Price 1.100000 
+FDX Ask Price 1.130000 
+FDX Bid Price 0.890000 
+FDX Mark Price 1.010000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:33:58
+FDX Last Trade Price 0.970000 
+FDX Ask Price 1.130000 
+FDX Bid Price 0.890000 
+FDX Mark Price 1.010000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:00
+FDX Last Trade Price 0.970000 
+FDX Ask Price 1.130000 
+FDX Bid Price 0.750000 
+FDX Mark Price 0.940000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:01
+FDX Last Trade Price 0.750000 
+FDX Ask Price 1.130000 
+FDX Bid Price 0.750000 
+FDX Mark Price 0.940000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:03
+FDX Last Trade Price 0.940000 
+FDX Ask Price 1.130000 
+FDX Bid Price 0.750000 
+FDX Mark Price 0.940000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:04
+FDX Last Trade Price 0.820000 
+FDX Ask Price 0.960000 
+FDX Bid Price 0.750000 
+FDX Mark Price 0.855000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:05
+FDX Last Trade Price 0.960000 
+FDX Ask Price 0.960000 
+FDX Bid Price 0.750000 
+FDX Mark Price 0.855000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:07
+FDX Last Trade Price 0.850000 
+FDX Ask Price 0.960000 
+FDX Bid Price 0.750000 
+FDX Mark Price 0.855000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:08
+FDX Last Trade Price 0.740000 
+FDX Ask Price 0.850000 
+FDX Bid Price 0.700000 
+FDX Mark Price 0.775000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:10
+FDX Last Trade Price 0.680000 
+FDX Ask Price 0.850000 
+FDX Bid Price 0.550000 
+FDX Mark Price 0.700000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:11
+FDX Last Trade Price 0.850000 
+FDX Ask Price 0.960000 
+FDX Bid Price 0.550000 
+FDX Mark Price 0.755000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:13
+FDX Last Trade Price 0.800000 
+FDX Ask Price 0.960000 
+FDX Bid Price 0.790000 
+FDX Mark Price 0.875000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:14
+FDX Last Trade Price 0.800000 
+FDX Ask Price 0.960000 
+FDX Bid Price 0.790000 
+FDX Mark Price 0.875000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:16
+FDX Last Trade Price 0.850000 
+FDX Ask Price 0.960000 
+FDX Bid Price 0.800000 
+FDX Mark Price 0.880000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:17
+FDX Last Trade Price 0.850000 
+FDX Ask Price 1.130000 
+FDX Bid Price 0.800000 
+FDX Mark Price 0.965000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:19
+FDX Last Trade Price 0.850000 
+FDX Ask Price 1.130000 
+FDX Bid Price 0.810000 
+FDX Mark Price 0.970000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:20
+FDX Last Trade Price 0.850000 
+FDX Ask Price 1.130000 
+FDX Bid Price 0.810000 
+FDX Mark Price 0.970000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:22
+FDX Last Trade Price 0.850000 
+FDX Ask Price 1.130000 
+FDX Bid Price 0.810000 
+FDX Mark Price 0.970000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:23
+FDX Last Trade Price 1.130000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.800000 
+FDX Mark Price 0.975000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:25
+FDX Last Trade Price 1.130000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.810000 
+FDX Mark Price 0.980000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:26
+FDX Last Trade Price 1.150000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.810000 
+FDX Mark Price 0.980000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:28
+FDX Last Trade Price 1.060000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.960000 
+FDX Mark Price 1.055000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:29
+FDX Last Trade Price 1.040000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.960000 
+FDX Mark Price 1.055000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:31
+FDX Last Trade Price 1.040000 
+FDX Ask Price 1.140000 
+FDX Bid Price 0.960000 
+FDX Mark Price 1.050000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:32
+FDX Last Trade Price 1.050000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.810000 
+FDX Mark Price 0.980000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:33
+FDX Last Trade Price 1.000000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.800000 
+FDX Mark Price 0.975000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:35
+FDX Last Trade Price 1.000000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.800000 
+FDX Mark Price 0.975000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:36
+FDX Last Trade Price 1.000000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.800000 
+FDX Mark Price 0.975000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:38
+FDX Last Trade Price 0.980000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.800000 
+FDX Mark Price 0.975000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:39
+FDX Last Trade Price 0.980000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.900000 
+FDX Mark Price 1.025000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:41
+FDX Last Trade Price 0.980000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.900000 
+FDX Mark Price 1.025000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:42
+FDX Last Trade Price 0.900000 
+FDX Ask Price 1.060000 
+FDX Bid Price 0.800000 
+FDX Mark Price 0.930000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:44
+FDX Last Trade Price 0.900000 
+FDX Ask Price 1.060000 
+FDX Bid Price 0.800000 
+FDX Mark Price 0.930000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:45
+FDX Last Trade Price 0.800000 
+FDX Ask Price 1.000000 
+FDX Bid Price 0.810000 
+FDX Mark Price 0.905000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:47
+FDX Last Trade Price 0.800000 
+FDX Ask Price 1.000000 
+FDX Bid Price 0.810000 
+FDX Mark Price 0.905000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:48
+FDX Last Trade Price 0.800000 
+FDX Ask Price 1.000000 
+FDX Bid Price 0.800000 
+FDX Mark Price 0.900000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:50
+FDX Last Trade Price 0.800000 
+FDX Ask Price 1.000000 
+FDX Bid Price 0.800000 
+FDX Mark Price 0.900000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:51
+FDX Last Trade Price 0.900000 
+FDX Ask Price 1.000000 
+FDX Bid Price 0.850000 
+FDX Mark Price 0.925000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:53
+FDX Last Trade Price 1.000000 
+FDX Ask Price 1.000000 
+FDX Bid Price 0.850000 
+FDX Mark Price 0.925000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:54
+FDX Last Trade Price 1.000000 
+FDX Ask Price 1.000000 
+FDX Bid Price 0.850000 
+FDX Mark Price 0.925000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:56
+FDX Last Trade Price 1.000000 
+FDX Ask Price 1.000000 
+FDX Bid Price 0.930000 
+FDX Mark Price 0.965000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:57
+FDX Last Trade Price 1.000000 
+FDX Ask Price 1.000000 
+FDX Bid Price 0.930000 
+FDX Mark Price 0.965000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:34:59
+FDX Last Trade Price 1.060000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.930000 
+FDX Mark Price 1.040000 
+FDX Open Price N/A 
+ 
+Time: 2024-03-22 13:35:00
+FDX Last Trade Price 1.060000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.930000 
+FDX Mark Price 1.040000 
+FDX Open Price 1.0 
+ 
+Time: 2024-03-22 13:35:02
+FDX Last Trade Price 1.060000 
+FDX Ask Price 1.150000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.080000 
+FDX Open Price 1.0 
+ 
+Time: 2024-03-22 13:35:03
+FDX Last Trade Price 1.060000 
+FDX Ask Price 1.150000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.080000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:04
+FDX Last Trade Price 1.140000 
+FDX Ask Price 1.150000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.080000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:06
+FDX Last Trade Price 1.150000 
+FDX Ask Price 1.200000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.105000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:07
+FDX Last Trade Price 1.150000 
+FDX Ask Price 1.200000 
+FDX Bid Price 1.040000 
+FDX Mark Price 1.120000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:09
+FDX Last Trade Price 1.150000 
+FDX Ask Price 1.200000 
+FDX Bid Price 1.040000 
+FDX Mark Price 1.120000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:10
+FDX Last Trade Price 1.040000 
+FDX Ask Price 1.200000 
+FDX Bid Price 1.040000 
+FDX Mark Price 1.120000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:12
+FDX Last Trade Price 1.200000 
+FDX Ask Price 1.250000 
+FDX Bid Price 1.040000 
+FDX Mark Price 1.145000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:13
+FDX Last Trade Price 1.200000 
+FDX Ask Price 1.250000 
+FDX Bid Price 1.120000 
+FDX Mark Price 1.185000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:15
+FDX Last Trade Price 1.120000 
+FDX Ask Price 1.250000 
+FDX Bid Price 1.120000 
+FDX Mark Price 1.185000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:16
+FDX Last Trade Price 1.120000 
+FDX Ask Price 1.250000 
+FDX Bid Price 1.100000 
+FDX Mark Price 1.175000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:18
+FDX Last Trade Price 1.180000 
+FDX Ask Price 1.180000 
+FDX Bid Price 1.040000 
+FDX Mark Price 1.110000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:19
+FDX Last Trade Price 1.180000 
+FDX Ask Price 1.180000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.095000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:21
+FDX Last Trade Price 1.180000 
+FDX Ask Price 1.180000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.095000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:22
+FDX Last Trade Price 1.180000 
+FDX Ask Price 1.180000 
+FDX Bid Price 1.010000 
+FDX Mark Price 1.095000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:24
+FDX Last Trade Price 1.010000 
+FDX Ask Price 1.180000 
+FDX Bid Price 0.950000 
+FDX Mark Price 1.065000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:25
+FDX Last Trade Price 1.010000 
+FDX Ask Price 1.180000 
+FDX Bid Price 0.950000 
+FDX Mark Price 1.065000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:27
+FDX Last Trade Price 1.010000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.900000 
+FDX Mark Price 1.025000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:28
+FDX Last Trade Price 1.010000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.900000 
+FDX Mark Price 1.025000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:29
+FDX Last Trade Price 0.950000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.800000 
+FDX Mark Price 0.975000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:31
+FDX Last Trade Price 0.950000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.800000 
+FDX Mark Price 0.975000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:32
+FDX Last Trade Price 0.950000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.800000 
+FDX Mark Price 0.975000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:34
+FDX Last Trade Price 1.150000 
+FDX Ask Price 1.150000 
+FDX Bid Price 0.800000 
+FDX Mark Price 0.975000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:35
+FDX Last Trade Price 1.150000 
+FDX Ask Price 1.150000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.075000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:37
+FDX Last Trade Price 1.050000 
+FDX Ask Price 1.150000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.075000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:38
+FDX Last Trade Price 1.160000 
+FDX Ask Price 1.200000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.100000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:40
+FDX Last Trade Price 1.090000 
+FDX Ask Price 1.100000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.050000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:41
+FDX Last Trade Price 1.100000 
+FDX Ask Price 1.200000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.100000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:43
+FDX Last Trade Price 1.100000 
+FDX Ask Price 1.200000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.100000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:44
+FDX Last Trade Price 1.200000 
+FDX Ask Price 1.250000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.125000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:46
+FDX Last Trade Price 1.200000 
+FDX Ask Price 1.250000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.125000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:47
+FDX Last Trade Price 1.200000 
+FDX Ask Price 1.250000 
+FDX Bid Price 1.000000 
+FDX Mark Price 1.125000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:49
+FDX Last Trade Price 1.200000 
+FDX Ask Price 1.250000 
+FDX Bid Price 1.100000 
+FDX Mark Price 1.175000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:50
+FDX Last Trade Price 1.250000 
+FDX Ask Price 1.280000 
+FDX Bid Price 1.100000 
+FDX Mark Price 1.190000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:52
+FDX Last Trade Price 1.250000 
+FDX Ask Price 1.280000 
+FDX Bid Price 1.180000 
+FDX Mark Price 1.230000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:53
+FDX Last Trade Price 1.250000 
+FDX Ask Price 1.280000 
+FDX Bid Price 1.180000 
+FDX Mark Price 1.230000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:55
+FDX Last Trade Price 1.240000 
+FDX Ask Price 1.280000 
+FDX Bid Price 1.200000 
+FDX Mark Price 1.240000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:56
+FDX Last Trade Price 1.280000 
+FDX Ask Price 1.270000 
+FDX Bid Price 1.120000 
+FDX Mark Price 1.195000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:57
+FDX Last Trade Price 1.280000 
+FDX Ask Price 1.280000 
+FDX Bid Price 1.200000 
+FDX Mark Price 1.240000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:35:59
+FDX Last Trade Price 1.280000 
+FDX Ask Price 1.280000 
+FDX Bid Price 1.230000 
+FDX Mark Price 1.255000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:00
+FDX Last Trade Price 1.280000 
+FDX Ask Price 1.600000 
+FDX Bid Price 1.230000 
+FDX Mark Price 1.415000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:02
+FDX Last Trade Price 1.280000 
+FDX Ask Price 1.590000 
+FDX Bid Price 1.230000 
+FDX Mark Price 1.410000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:03
+FDX Last Trade Price 1.440000 
+FDX Ask Price 1.590000 
+FDX Bid Price 1.230000 
+FDX Mark Price 1.410000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:05
+FDX Last Trade Price 1.590000 
+FDX Ask Price 1.590000 
+FDX Bid Price 1.230000 
+FDX Mark Price 1.410000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:06
+FDX Last Trade Price 1.590000 
+FDX Ask Price 1.590000 
+FDX Bid Price 1.400000 
+FDX Mark Price 1.495000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:08
+FDX Last Trade Price 1.590000 
+FDX Ask Price 1.590000 
+FDX Bid Price 1.400000 
+FDX Mark Price 1.495000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:09
+FDX Last Trade Price 1.590000 
+FDX Ask Price 1.590000 
+FDX Bid Price 1.400000 
+FDX Mark Price 1.495000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:11
+FDX Last Trade Price 1.500000 
+FDX Ask Price 1.590000 
+FDX Bid Price 1.400000 
+FDX Mark Price 1.495000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:12
+FDX Last Trade Price 1.660000 
+FDX Ask Price 1.660000 
+FDX Bid Price 1.400000 
+FDX Mark Price 1.530000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:14
+FDX Last Trade Price 1.500000 
+FDX Ask Price 1.820000 
+FDX Bid Price 1.500000 
+FDX Mark Price 1.660000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:15
+FDX Last Trade Price 1.500000 
+FDX Ask Price 1.820000 
+FDX Bid Price 1.500000 
+FDX Mark Price 1.660000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:17
+FDX Last Trade Price 1.740000 
+FDX Ask Price 1.820000 
+FDX Bid Price 1.520000 
+FDX Mark Price 1.670000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:18
+FDX Last Trade Price 1.630000 
+FDX Ask Price 1.820000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.710000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:20
+FDX Last Trade Price 1.820000 
+FDX Ask Price 1.820000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.710000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:21
+FDX Last Trade Price 1.600000 
+FDX Ask Price 1.820000 
+FDX Bid Price 1.250000 
+FDX Mark Price 1.535000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:23
+FDX Last Trade Price 1.520000 
+FDX Ask Price 1.700000 
+FDX Bid Price 1.260000 
+FDX Mark Price 1.480000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:24
+FDX Last Trade Price 1.600000 
+FDX Ask Price 1.600000 
+FDX Bid Price 1.280000 
+FDX Mark Price 1.440000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:26
+FDX Last Trade Price 1.600000 
+FDX Ask Price 1.700000 
+FDX Bid Price 1.300000 
+FDX Mark Price 1.500000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:27
+FDX Last Trade Price 1.600000 
+FDX Ask Price 1.700000 
+FDX Bid Price 1.440000 
+FDX Mark Price 1.570000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:28
+FDX Last Trade Price 1.600000 
+FDX Ask Price 1.700000 
+FDX Bid Price 1.440000 
+FDX Mark Price 1.570000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:30
+FDX Last Trade Price 1.600000 
+FDX Ask Price 1.800000 
+FDX Bid Price 1.480000 
+FDX Mark Price 1.640000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:31
+FDX Last Trade Price 1.600000 
+FDX Ask Price 1.700000 
+FDX Bid Price 1.480000 
+FDX Mark Price 1.590000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:33
+FDX Last Trade Price 1.700000 
+FDX Ask Price 1.800000 
+FDX Bid Price 1.480000 
+FDX Mark Price 1.640000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:34
+FDX Last Trade Price 1.700000 
+FDX Ask Price 1.800000 
+FDX Bid Price 1.480000 
+FDX Mark Price 1.640000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:36
+FDX Last Trade Price 1.660000 
+FDX Ask Price 1.800000 
+FDX Bid Price 1.480000 
+FDX Mark Price 1.640000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:37
+FDX Last Trade Price 1.660000 
+FDX Ask Price 1.700000 
+FDX Bid Price 1.590000 
+FDX Mark Price 1.645000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:39
+FDX Last Trade Price 1.700000 
+FDX Ask Price 1.800000 
+FDX Bid Price 1.640000 
+FDX Mark Price 1.720000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:40
+FDX Last Trade Price 1.700000 
+FDX Ask Price 1.820000 
+FDX Bid Price 1.640000 
+FDX Mark Price 1.730000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:42
+FDX Last Trade Price 1.600000 
+FDX Ask Price 1.750000 
+FDX Bid Price 1.500000 
+FDX Mark Price 1.625000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:43
+FDX Last Trade Price 1.600000 
+FDX Ask Price 1.750000 
+FDX Bid Price 1.500000 
+FDX Mark Price 1.625000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:45
+FDX Last Trade Price 1.600000 
+FDX Ask Price 1.750000 
+FDX Bid Price 1.500000 
+FDX Mark Price 1.625000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:46
+FDX Last Trade Price 1.600000 
+FDX Ask Price 1.700000 
+FDX Bid Price 1.500000 
+FDX Mark Price 1.600000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:48
+FDX Last Trade Price 1.700000 
+FDX Ask Price 1.750000 
+FDX Bid Price 1.500000 
+FDX Mark Price 1.625000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:49
+FDX Last Trade Price 1.700000 
+FDX Ask Price 1.750000 
+FDX Bid Price 1.500000 
+FDX Mark Price 1.625000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:51
+FDX Last Trade Price 1.700000 
+FDX Ask Price 1.750000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.675000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:52
+FDX Last Trade Price 1.750000 
+FDX Ask Price 1.750000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.675000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:54
+FDX Last Trade Price 1.600000 
+FDX Ask Price 1.750000 
+FDX Bid Price 1.500000 
+FDX Mark Price 1.625000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:55
+FDX Last Trade Price 1.680000 
+FDX Ask Price 1.750000 
+FDX Bid Price 1.500000 
+FDX Mark Price 1.625000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:57
+FDX Last Trade Price 1.670000 
+FDX Ask Price 1.750000 
+FDX Bid Price 1.500000 
+FDX Mark Price 1.625000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:36:58
+FDX Last Trade Price 1.670000 
+FDX Ask Price 1.750000 
+FDX Bid Price 1.500000 
+FDX Mark Price 1.625000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:00
+FDX Last Trade Price 1.670000 
+FDX Ask Price 1.750000 
+FDX Bid Price 1.510000 
+FDX Mark Price 1.630000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:01
+FDX Last Trade Price 1.750000 
+FDX Ask Price 1.800000 
+FDX Bid Price 1.700000 
+FDX Mark Price 1.750000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:03
+FDX Last Trade Price 1.820000 
+FDX Ask Price 1.900000 
+FDX Bid Price 1.530000 
+FDX Mark Price 1.715000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:04
+FDX Last Trade Price 1.820000 
+FDX Ask Price 1.900000 
+FDX Bid Price 1.680000 
+FDX Mark Price 1.790000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:06
+FDX Last Trade Price 1.820000 
+FDX Ask Price 1.900000 
+FDX Bid Price 1.680000 
+FDX Mark Price 1.790000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:07
+FDX Last Trade Price 1.900000 
+FDX Ask Price 2.000000 
+FDX Bid Price 1.700000 
+FDX Mark Price 1.850000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:09
+FDX Last Trade Price 1.900000 
+FDX Ask Price 2.000000 
+FDX Bid Price 1.700000 
+FDX Mark Price 1.850000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:10
+FDX Last Trade Price 1.980000 
+FDX Ask Price 2.000000 
+FDX Bid Price 1.850000 
+FDX Mark Price 1.925000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:11
+FDX Last Trade Price 2.020000 
+FDX Ask Price 2.390000 
+FDX Bid Price 1.850000 
+FDX Mark Price 2.120000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:13
+FDX Last Trade Price 2.040000 
+FDX Ask Price 2.340000 
+FDX Bid Price 1.850000 
+FDX Mark Price 2.095000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:15
+FDX Last Trade Price 2.040000 
+FDX Ask Price 2.340000 
+FDX Bid Price 1.700000 
+FDX Mark Price 2.020000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:16
+FDX Last Trade Price 1.700000 
+FDX Ask Price 2.330000 
+FDX Bid Price 1.720000 
+FDX Mark Price 2.025000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:17
+FDX Last Trade Price 1.700000 
+FDX Ask Price 2.240000 
+FDX Bid Price 2.010000 
+FDX Mark Price 2.125000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:19
+FDX Last Trade Price 1.700000 
+FDX Ask Price 2.240000 
+FDX Bid Price 2.010000 
+FDX Mark Price 2.125000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:20
+FDX Last Trade Price 1.700000 
+FDX Ask Price 2.240000 
+FDX Bid Price 2.010000 
+FDX Mark Price 2.125000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:22
+FDX Last Trade Price 2.100000 
+FDX Ask Price 2.200000 
+FDX Bid Price 2.010000 
+FDX Mark Price 2.105000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:23
+FDX Last Trade Price 2.110000 
+FDX Ask Price 2.200000 
+FDX Bid Price 2.010000 
+FDX Mark Price 2.105000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:25
+FDX Last Trade Price 2.110000 
+FDX Ask Price 2.200000 
+FDX Bid Price 2.010000 
+FDX Mark Price 2.105000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:26
+FDX Last Trade Price 2.160000 
+FDX Ask Price 2.200000 
+FDX Bid Price 2.010000 
+FDX Mark Price 2.105000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:28
+FDX Last Trade Price 2.140000 
+FDX Ask Price 2.200000 
+FDX Bid Price 2.010000 
+FDX Mark Price 2.105000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:29
+FDX Last Trade Price 2.080000 
+FDX Ask Price 2.200000 
+FDX Bid Price 2.050000 
+FDX Mark Price 2.125000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:31
+FDX Last Trade Price 2.130000 
+FDX Ask Price 2.200000 
+FDX Bid Price 2.050000 
+FDX Mark Price 2.125000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:32
+FDX Last Trade Price 2.200000 
+FDX Ask Price 2.200000 
+FDX Bid Price 2.050000 
+FDX Mark Price 2.125000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:34
+FDX Last Trade Price 2.200000 
+FDX Ask Price 2.340000 
+FDX Bid Price 2.120000 
+FDX Mark Price 2.230000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:35
+FDX Last Trade Price 2.120000 
+FDX Ask Price 2.330000 
+FDX Bid Price 2.120000 
+FDX Mark Price 2.225000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:37
+FDX Last Trade Price 2.120000 
+FDX Ask Price 2.330000 
+FDX Bid Price 2.120000 
+FDX Mark Price 2.225000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:38
+FDX Last Trade Price 2.120000 
+FDX Ask Price 2.330000 
+FDX Bid Price 2.120000 
+FDX Mark Price 2.225000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:40
+FDX Last Trade Price 2.120000 
+FDX Ask Price 2.340000 
+FDX Bid Price 2.120000 
+FDX Mark Price 2.230000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:41
+FDX Last Trade Price 2.050000 
+FDX Ask Price 2.330000 
+FDX Bid Price 2.050000 
+FDX Mark Price 2.190000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:43
+FDX Last Trade Price 2.050000 
+FDX Ask Price 2.330000 
+FDX Bid Price 2.050000 
+FDX Mark Price 2.190000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:44
+FDX Last Trade Price 2.050000 
+FDX Ask Price 2.330000 
+FDX Bid Price 2.050000 
+FDX Mark Price 2.190000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:45
+FDX Last Trade Price 2.100000 
+FDX Ask Price 2.330000 
+FDX Bid Price 2.100000 
+FDX Mark Price 2.215000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:47
+FDX Last Trade Price 2.100000 
+FDX Ask Price 2.320000 
+FDX Bid Price 2.100000 
+FDX Mark Price 2.210000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:48
+FDX Last Trade Price 2.120000 
+FDX Ask Price 2.330000 
+FDX Bid Price 2.120000 
+FDX Mark Price 2.225000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:50
+FDX Last Trade Price 2.300000 
+FDX Ask Price 2.390000 
+FDX Bid Price 2.150000 
+FDX Mark Price 2.270000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:51
+FDX Last Trade Price 2.360000 
+FDX Ask Price 2.390000 
+FDX Bid Price 2.150000 
+FDX Mark Price 2.270000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:53
+FDX Last Trade Price 2.370000 
+FDX Ask Price 2.390000 
+FDX Bid Price 2.150000 
+FDX Mark Price 2.270000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:54
+FDX Last Trade Price 2.150000 
+FDX Ask Price 2.390000 
+FDX Bid Price 2.120000 
+FDX Mark Price 2.255000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:56
+FDX Last Trade Price 2.190000 
+FDX Ask Price 2.100000 
+FDX Bid Price 1.780000 
+FDX Mark Price 1.940000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:57
+FDX Last Trade Price 2.100000 
+FDX Ask Price 2.340000 
+FDX Bid Price 1.710000 
+FDX Mark Price 2.025000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:37:59
+FDX Last Trade Price 1.700000 
+FDX Ask Price 2.330000 
+FDX Bid Price 1.480000 
+FDX Mark Price 1.905000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:00
+FDX Last Trade Price 1.700000 
+FDX Ask Price 2.330000 
+FDX Bid Price 1.480000 
+FDX Mark Price 1.905000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:02
+FDX Last Trade Price 1.830000 
+FDX Ask Price 2.330000 
+FDX Bid Price 1.490000 
+FDX Mark Price 1.910000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:03
+FDX Last Trade Price 1.830000 
+FDX Ask Price 2.330000 
+FDX Bid Price 1.490000 
+FDX Mark Price 1.910000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:05
+FDX Last Trade Price 1.830000 
+FDX Ask Price 2.330000 
+FDX Bid Price 1.500000 
+FDX Mark Price 1.915000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:06
+FDX Last Trade Price 1.830000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.500000 
+FDX Mark Price 1.850000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:08
+FDX Last Trade Price 1.830000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.510000 
+FDX Mark Price 1.855000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:09
+FDX Last Trade Price 1.830000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.510000 
+FDX Mark Price 1.855000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:11
+FDX Last Trade Price 1.830000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.510000 
+FDX Mark Price 1.855000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:12
+FDX Last Trade Price 1.900000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.530000 
+FDX Mark Price 1.865000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:14
+FDX Last Trade Price 1.900000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.530000 
+FDX Mark Price 1.865000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:15
+FDX Last Trade Price 1.810000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.530000 
+FDX Mark Price 1.865000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:17
+FDX Last Trade Price 1.810000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.530000 
+FDX Mark Price 1.865000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:18
+FDX Last Trade Price 1.810000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.530000 
+FDX Mark Price 1.865000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:19
+FDX Last Trade Price 1.950000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.540000 
+FDX Mark Price 1.870000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:21
+FDX Last Trade Price 1.900000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.900000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:22
+FDX Last Trade Price 1.900000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.900000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:24
+FDX Last Trade Price 1.900000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.900000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:25
+FDX Last Trade Price 1.980000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.900000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:27
+FDX Last Trade Price 1.980000 
+FDX Ask Price 2.130000 
+FDX Bid Price 1.600000 
+FDX Mark Price 1.865000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:28
+FDX Last Trade Price 1.850000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.610000 
+FDX Mark Price 1.905000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:30
+FDX Last Trade Price 1.850000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.610000 
+FDX Mark Price 1.905000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:31
+FDX Last Trade Price 2.000000 
+FDX Ask Price 2.070000 
+FDX Bid Price 1.610000 
+FDX Mark Price 1.840000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:33
+FDX Last Trade Price 2.000000 
+FDX Ask Price 2.070000 
+FDX Bid Price 1.610000 
+FDX Mark Price 1.840000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:34
+FDX Last Trade Price 1.910000 
+FDX Ask Price 2.070000 
+FDX Bid Price 1.610000 
+FDX Mark Price 1.840000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:36
+FDX Last Trade Price 1.910000 
+FDX Ask Price 2.070000 
+FDX Bid Price 1.610000 
+FDX Mark Price 1.840000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:37
+FDX Last Trade Price 1.910000 
+FDX Ask Price 2.070000 
+FDX Bid Price 1.610000 
+FDX Mark Price 1.840000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:39
+FDX Last Trade Price 1.810000 
+FDX Ask Price 2.070000 
+FDX Bid Price 1.610000 
+FDX Mark Price 1.840000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:40
+FDX Last Trade Price 1.840000 
+FDX Ask Price 2.040000 
+FDX Bid Price 1.610000 
+FDX Mark Price 1.825000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:42
+FDX Last Trade Price 1.840000 
+FDX Ask Price 2.040000 
+FDX Bid Price 1.610000 
+FDX Mark Price 1.825000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:43
+FDX Last Trade Price 1.840000 
+FDX Ask Price 2.040000 
+FDX Bid Price 1.610000 
+FDX Mark Price 1.825000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:45
+FDX Last Trade Price 1.840000 
+FDX Ask Price 2.040000 
+FDX Bid Price 1.610000 
+FDX Mark Price 1.825000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:46
+FDX Last Trade Price 1.840000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.610000 
+FDX Mark Price 1.905000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:48
+FDX Last Trade Price 1.840000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.610000 
+FDX Mark Price 1.905000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:49
+FDX Last Trade Price 1.840000 
+FDX Ask Price 2.190000 
+FDX Bid Price 1.620000 
+FDX Mark Price 1.905000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:51
+FDX Last Trade Price 1.840000 
+FDX Ask Price 2.190000 
+FDX Bid Price 1.640000 
+FDX Mark Price 1.915000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:52
+FDX Last Trade Price 1.840000 
+FDX Ask Price 2.190000 
+FDX Bid Price 1.640000 
+FDX Mark Price 1.915000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:53
+FDX Last Trade Price 1.840000 
+FDX Ask Price 2.070000 
+FDX Bid Price 1.670000 
+FDX Mark Price 1.870000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:55
+FDX Last Trade Price 1.840000 
+FDX Ask Price 2.070000 
+FDX Bid Price 1.700000 
+FDX Mark Price 1.885000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:57
+FDX Last Trade Price 1.840000 
+FDX Ask Price 2.070000 
+FDX Bid Price 1.700000 
+FDX Mark Price 1.885000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:58
+FDX Last Trade Price 1.840000 
+FDX Ask Price 2.070000 
+FDX Bid Price 1.700000 
+FDX Mark Price 1.885000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:38:59
+FDX Last Trade Price 1.840000 
+FDX Ask Price 2.070000 
+FDX Bid Price 1.870000 
+FDX Mark Price 1.970000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:01
+FDX Last Trade Price 2.050000 
+FDX Ask Price 2.160000 
+FDX Bid Price 1.870000 
+FDX Mark Price 2.015000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:02
+FDX Last Trade Price 2.050000 
+FDX Ask Price 2.160000 
+FDX Bid Price 1.870000 
+FDX Mark Price 2.015000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:04
+FDX Last Trade Price 2.160000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.870000 
+FDX Mark Price 2.035000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:05
+FDX Last Trade Price 1.870000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.900000 
+FDX Mark Price 2.050000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:07
+FDX Last Trade Price 2.200000 
+FDX Ask Price 2.200000 
+FDX Bid Price 1.900000 
+FDX Mark Price 2.050000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:08
+FDX Last Trade Price 2.300000 
+FDX Ask Price 2.390000 
+FDX Bid Price 2.040000 
+FDX Mark Price 2.215000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:10
+FDX Last Trade Price 2.300000 
+FDX Ask Price 2.390000 
+FDX Bid Price 2.200000 
+FDX Mark Price 2.295000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:11
+FDX Last Trade Price 2.390000 
+FDX Ask Price 2.400000 
+FDX Bid Price 2.200000 
+FDX Mark Price 2.300000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:13
+FDX Last Trade Price 2.500000 
+FDX Ask Price 2.590000 
+FDX Bid Price 2.200000 
+FDX Mark Price 2.395000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:15
+FDX Last Trade Price 2.500000 
+FDX Ask Price 2.590000 
+FDX Bid Price 2.200000 
+FDX Mark Price 2.395000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:16
+FDX Last Trade Price 2.520000 
+FDX Ask Price 2.590000 
+FDX Bid Price 2.200000 
+FDX Mark Price 2.395000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:18
+FDX Last Trade Price 2.410000 
+FDX Ask Price 2.600000 
+FDX Bid Price 2.200000 
+FDX Mark Price 2.400000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:19
+FDX Last Trade Price 2.410000 
+FDX Ask Price 2.600000 
+FDX Bid Price 2.200000 
+FDX Mark Price 2.400000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:21
+FDX Last Trade Price 2.500000 
+FDX Ask Price 2.600000 
+FDX Bid Price 2.200000 
+FDX Mark Price 2.400000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:22
+FDX Last Trade Price 2.530000 
+FDX Ask Price 2.620000 
+FDX Bid Price 2.520000 
+FDX Mark Price 2.570000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:24
+FDX Last Trade Price 2.530000 
+FDX Ask Price 2.840000 
+FDX Bid Price 2.550000 
+FDX Mark Price 2.695000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:25
+FDX Last Trade Price 2.530000 
+FDX Ask Price 2.840000 
+FDX Bid Price 2.230000 
+FDX Mark Price 2.535000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:27
+FDX Last Trade Price 2.530000 
+FDX Ask Price 2.840000 
+FDX Bid Price 2.560000 
+FDX Mark Price 2.700000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:28
+FDX Last Trade Price 2.630000 
+FDX Ask Price 2.830000 
+FDX Bid Price 2.560000 
+FDX Mark Price 2.695000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:30
+FDX Last Trade Price 2.700000 
+FDX Ask Price 2.880000 
+FDX Bid Price 2.560000 
+FDX Mark Price 2.720000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:31
+FDX Last Trade Price 2.690000 
+FDX Ask Price 2.880000 
+FDX Bid Price 2.560000 
+FDX Mark Price 2.720000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:33
+FDX Last Trade Price 2.760000 
+FDX Ask Price 2.870000 
+FDX Bid Price 2.570000 
+FDX Mark Price 2.720000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:34
+FDX Last Trade Price 2.720000 
+FDX Ask Price 2.870000 
+FDX Bid Price 2.560000 
+FDX Mark Price 2.715000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:36
+FDX Last Trade Price 2.700000 
+FDX Ask Price 2.780000 
+FDX Bid Price 2.560000 
+FDX Mark Price 2.670000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:37
+FDX Last Trade Price 2.810000 
+FDX Ask Price 2.880000 
+FDX Bid Price 2.560000 
+FDX Mark Price 2.720000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:39
+FDX Last Trade Price 2.810000 
+FDX Ask Price 2.880000 
+FDX Bid Price 2.360000 
+FDX Mark Price 2.620000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:40
+FDX Last Trade Price 2.560000 
+FDX Ask Price 2.880000 
+FDX Bid Price 2.400000 
+FDX Mark Price 2.640000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:42
+FDX Last Trade Price 2.560000 
+FDX Ask Price 2.880000 
+FDX Bid Price 2.400000 
+FDX Mark Price 2.640000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:43
+FDX Last Trade Price 2.660000 
+FDX Ask Price 2.630000 
+FDX Bid Price 2.410000 
+FDX Mark Price 2.520000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:45
+FDX Last Trade Price 2.600000 
+FDX Ask Price 2.630000 
+FDX Bid Price 2.410000 
+FDX Mark Price 2.520000 
+FDX Open Price 1.04 
+ 
+Time: 2024-03-22 13:39:46
+FDX Last Trade Price 2.600000 
+FDX Ask Price 2.630000 
+FDX Bid Price 2.500000 
+FDX Mark Price 2.565000 
+FDX Open Price 1.04 
+ 
