@@ -239,5 +239,12 @@
             "Option Open Price": 1.04,
             "Max Day Call Price": 4.2
         }
+    },
+    "2024-03-25": {
+        "LCID $3.0 Call 2024-03-28": {
+            "Stock price at market close": 2.86,
+            "Stock price before market open": 3.17,
+            "Option price at market close": 0.04
+        }
     }
 }

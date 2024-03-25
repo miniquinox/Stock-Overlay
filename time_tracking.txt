@@ -19486,3 +19486,4252 @@ FDX Bid Price 2.500000
 FDX Mark Price 2.565000 
 FDX Open Price 1.04 
  
+Time: 2024-03-25 13:27:02
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:03
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:04
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:05
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:06
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:08
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:09
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:10
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:11
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:12
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:14
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:15
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:16
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:17
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:18
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:20
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:21
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:22
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:23
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:24
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:26
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:27
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:28
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:29
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:30
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:32
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:33
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:34
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:35
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:36
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:37
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:39
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:40
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:41
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:42
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:43
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:45
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:46
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:47
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:48
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:49
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:51
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:52
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:53
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:54
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:55
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:57
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:58
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:27:59
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:00
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:01
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:03
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:04
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:05
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:06
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:07
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:09
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:10
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:11
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:12
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:13
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:14
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:16
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:17
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:18
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:19
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:20
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:22
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:23
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:24
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:25
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:26
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:28
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:29
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:30
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:31
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:32
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:34
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:35
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:36
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:37
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:38
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:40
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:41
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:42
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:43
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:44
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:46
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:47
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:48
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:49
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:51
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:52
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:53
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:54
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:55
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:57
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:58
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:28:59
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:00
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:01
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:03
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:04
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:05
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:06
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:07
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:09
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:10
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:11
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:12
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:13
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:15
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:16
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:17
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:18
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:19
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:21
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:22
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:23
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:24
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:25
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:26
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:28
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:29
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:30
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:31
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:32
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:34
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:35
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:36
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:37
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:38
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:40
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:41
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:42
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:43
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:44
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:46
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:47
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:48
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:49
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:50
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:52
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:53
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:54
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:55
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:56
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:58
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:29:59
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price 0.05 
+ 
+Time: 2024-03-25 13:30:00
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:01
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:02
+LCID Last Trade Price 0.040000 
+LCID Ask Price 0.040000 
+LCID Bid Price 0.030000 
+LCID Mark Price 0.035000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:04
+LCID Last Trade Price 0.230000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.250000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:05
+LCID Last Trade Price 0.230000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.250000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:06
+LCID Last Trade Price 0.230000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.250000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:07
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.235000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:08
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.245000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:10
+LCID Last Trade Price 0.230000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.245000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:11
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.245000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:12
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.250000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.230000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:13
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.250000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.220000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:14
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.250000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.230000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:16
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.250000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.230000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:17
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.250000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.230000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:18
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.250000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.230000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:21
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.250000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.230000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:29
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.220000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:31
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:35
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:36
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.220000 
+LCID Mark Price 0.225000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:37
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.220000 
+LCID Mark Price 0.225000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:41
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.210000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:42
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:30:55
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.150000 
+LCID Mark Price 0.180000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:01
+LCID Last Trade Price 0.150000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.170000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:07
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.190000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.180000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:08
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.190000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.185000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:09
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:16
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:25
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.170000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:29
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.180000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:30
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:32
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:33
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:34
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:35
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:37
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:43
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:49
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.200000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:50
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.190000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.185000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:51
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.190000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.185000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:53
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.190000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.185000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:54
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.170000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:56
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.170000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:57
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.170000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:31:58
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.170000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:00
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.170000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:01
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.170000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:02
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.170000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:04
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.170000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:05
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.170000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:06
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:07
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:08
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.165000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:10
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.150000 
+LCID Mark Price 0.160000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:12
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.150000 
+LCID Mark Price 0.160000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:13
+LCID Last Trade Price 0.160000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.150000 
+LCID Mark Price 0.160000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:14
+LCID Last Trade Price 0.160000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.150000 
+LCID Mark Price 0.160000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:15
+LCID Last Trade Price 0.160000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.150000 
+LCID Mark Price 0.160000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:16
+LCID Last Trade Price 0.160000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.150000 
+LCID Mark Price 0.160000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:18
+LCID Last Trade Price 0.160000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.150000 
+LCID Mark Price 0.160000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:19
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.150000 
+LCID Mark Price 0.160000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:20
+LCID Last Trade Price 0.160000 
+LCID Ask Price 0.160000 
+LCID Bid Price 0.150000 
+LCID Mark Price 0.155000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:22
+LCID Last Trade Price 0.160000 
+LCID Ask Price 0.160000 
+LCID Bid Price 0.150000 
+LCID Mark Price 0.155000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:23
+LCID Last Trade Price 0.160000 
+LCID Ask Price 0.150000 
+LCID Bid Price 0.100000 
+LCID Mark Price 0.125000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:24
+LCID Last Trade Price 0.150000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.100000 
+LCID Mark Price 0.135000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:26
+LCID Last Trade Price 0.150000 
+LCID Ask Price 0.150000 
+LCID Bid Price 0.100000 
+LCID Mark Price 0.125000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:28
+LCID Last Trade Price 0.150000 
+LCID Ask Price 0.150000 
+LCID Bid Price 0.130000 
+LCID Mark Price 0.140000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:29
+LCID Last Trade Price 0.150000 
+LCID Ask Price 0.150000 
+LCID Bid Price 0.130000 
+LCID Mark Price 0.140000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:30
+LCID Last Trade Price 0.150000 
+LCID Ask Price 0.150000 
+LCID Bid Price 0.140000 
+LCID Mark Price 0.145000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:32
+LCID Last Trade Price 0.150000 
+LCID Ask Price 0.150000 
+LCID Bid Price 0.140000 
+LCID Mark Price 0.145000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:33
+LCID Last Trade Price 0.150000 
+LCID Ask Price 0.150000 
+LCID Bid Price 0.140000 
+LCID Mark Price 0.145000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:34
+LCID Last Trade Price 0.150000 
+LCID Ask Price 0.160000 
+LCID Bid Price 0.150000 
+LCID Mark Price 0.155000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:36
+LCID Last Trade Price 0.150000 
+LCID Ask Price 0.160000 
+LCID Bid Price 0.150000 
+LCID Mark Price 0.155000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:37
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.165000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:38
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.165000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:40
+LCID Last Trade Price 0.160000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.165000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:41
+LCID Last Trade Price 0.160000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.150000 
+LCID Mark Price 0.160000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:43
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.150000 
+LCID Mark Price 0.160000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:44
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.150000 
+LCID Mark Price 0.160000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:45
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.165000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:47
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.165000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:48
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.165000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:49
+LCID Last Trade Price 0.160000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.165000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:50
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.165000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:52
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:53
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:54
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:55
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:57
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:58
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:32:59
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:00
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:01
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:03
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:04
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:05
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:06
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:08
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.165000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:09
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.165000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:10
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.165000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:12
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.165000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:13
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.170000 
+LCID Bid Price 0.160000 
+LCID Mark Price 0.165000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:14
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:15
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:16
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:18
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:19
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:20
+LCID Last Trade Price 0.170000 
+LCID Ask Price 0.180000 
+LCID Bid Price 0.170000 
+LCID Mark Price 0.175000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:21
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:22
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:24
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:25
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:26
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:27
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:28
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:30
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:31
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:32
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:33
+LCID Last Trade Price 0.180000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:35
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:36
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:37
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:38
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:40
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:41
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:42
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:43
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:45
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:46
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:47
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:48
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:49
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:51
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:52
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:53
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:54
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:55
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:57
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.190000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:58
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.210000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:33:59
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.210000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:00
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.210000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:02
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.210000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:03
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.210000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:04
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.210000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:05
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.210000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:06
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.210000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:08
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.210000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:09
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.210000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:10
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.210000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:11
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.205000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:12
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:14
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:15
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:16
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.220000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:17
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:19
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:20
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:21
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:22
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:24
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:25
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:26
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:27
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:28
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:30
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:31
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:32
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:33
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:34
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:36
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:37
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.205000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:38
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.205000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:39
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:41
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:42
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:43
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:44
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:45
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:47
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.200000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:48
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.205000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:49
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.205000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:50
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.205000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:51
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.205000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:53
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.205000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:54
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.205000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:55
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.205000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:56
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.205000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:57
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.205000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:34:59
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.195000 
+LCID Open Price N/A 
+ 
+Time: 2024-03-25 13:35:00
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.195000 
+LCID Open Price 0.21 
+ 
+Time: 2024-03-25 13:35:01
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.195000 
+LCID Open Price 0.21 
+ 
+Time: 2024-03-25 13:35:02
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.195000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:04
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.195000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:05
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:06
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.205000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:07
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.180000 
+LCID Mark Price 0.195000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:08
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:10
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:11
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:12
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:13
+LCID Last Trade Price 0.190000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:14
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:16
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:17
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:18
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:19
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:21
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:22
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.190000 
+LCID Mark Price 0.200000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:23
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.205000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:24
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.205000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:25
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.205000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:27
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.205000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:28
+LCID Last Trade Price 0.200000 
+LCID Ask Price 0.210000 
+LCID Bid Price 0.200000 
+LCID Mark Price 0.205000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:29
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.220000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:30
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.220000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:31
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.220000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:33
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.220000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:34
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.220000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:35
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:36
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:37
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:39
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:40
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:41
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:42
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:43
+LCID Last Trade Price 0.210000 
+LCID Ask Price 0.220000 
+LCID Bid Price 0.210000 
+LCID Mark Price 0.215000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:45
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.220000 
+LCID Mark Price 0.225000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:46
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.220000 
+LCID Mark Price 0.225000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:47
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.220000 
+LCID Mark Price 0.225000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:48
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.220000 
+LCID Mark Price 0.225000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:49
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.220000 
+LCID Mark Price 0.225000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:51
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.220000 
+LCID Mark Price 0.225000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:52
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.220000 
+LCID Mark Price 0.225000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:53
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.220000 
+LCID Mark Price 0.225000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:54
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.230000 
+LCID Bid Price 0.220000 
+LCID Mark Price 0.225000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:56
+LCID Last Trade Price 0.220000 
+LCID Ask Price 0.240000 
+LCID Bid Price 0.220000 
+LCID Mark Price 0.230000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:57
+LCID Last Trade Price 0.230000 
+LCID Ask Price 0.240000 
+LCID Bid Price 0.220000 
+LCID Mark Price 0.230000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:58
+LCID Last Trade Price 0.230000 
+LCID Ask Price 0.240000 
+LCID Bid Price 0.230000 
+LCID Mark Price 0.235000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:35:59
+LCID Last Trade Price 0.230000 
+LCID Ask Price 0.240000 
+LCID Bid Price 0.230000 
+LCID Mark Price 0.235000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:00
+LCID Last Trade Price 0.240000 
+LCID Ask Price 0.240000 
+LCID Bid Price 0.230000 
+LCID Mark Price 0.235000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:02
+LCID Last Trade Price 0.240000 
+LCID Ask Price 0.240000 
+LCID Bid Price 0.230000 
+LCID Mark Price 0.235000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:03
+LCID Last Trade Price 0.230000 
+LCID Ask Price 0.240000 
+LCID Bid Price 0.230000 
+LCID Mark Price 0.235000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:04
+LCID Last Trade Price 0.230000 
+LCID Ask Price 0.240000 
+LCID Bid Price 0.230000 
+LCID Mark Price 0.235000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:05
+LCID Last Trade Price 0.230000 
+LCID Ask Price 0.240000 
+LCID Bid Price 0.230000 
+LCID Mark Price 0.235000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:06
+LCID Last Trade Price 0.230000 
+LCID Ask Price 0.240000 
+LCID Bid Price 0.230000 
+LCID Mark Price 0.235000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:08
+LCID Last Trade Price 0.230000 
+LCID Ask Price 0.240000 
+LCID Bid Price 0.230000 
+LCID Mark Price 0.235000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:09
+LCID Last Trade Price 0.240000 
+LCID Ask Price 0.250000 
+LCID Bid Price 0.230000 
+LCID Mark Price 0.240000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:10
+LCID Last Trade Price 0.240000 
+LCID Ask Price 0.250000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.245000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:11
+LCID Last Trade Price 0.240000 
+LCID Ask Price 0.250000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.245000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:12
+LCID Last Trade Price 0.250000 
+LCID Ask Price 0.270000 
+LCID Bid Price 0.250000 
+LCID Mark Price 0.260000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:14
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.270000 
+LCID Bid Price 0.250000 
+LCID Mark Price 0.260000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:15
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.270000 
+LCID Bid Price 0.250000 
+LCID Mark Price 0.260000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:16
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.260000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:17
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.260000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:18
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.260000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:20
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.260000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:21
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.270000 
+LCID Bid Price 0.260000 
+LCID Mark Price 0.265000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:22
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.270000 
+LCID Bid Price 0.260000 
+LCID Mark Price 0.265000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:23
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.270000 
+LCID Bid Price 0.260000 
+LCID Mark Price 0.265000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:24
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.260000 
+LCID Bid Price 0.250000 
+LCID Mark Price 0.255000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:26
+LCID Last Trade Price 0.250000 
+LCID Ask Price 0.260000 
+LCID Bid Price 0.250000 
+LCID Mark Price 0.255000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:27
+LCID Last Trade Price 0.250000 
+LCID Ask Price 0.260000 
+LCID Bid Price 0.250000 
+LCID Mark Price 0.255000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:28
+LCID Last Trade Price 0.250000 
+LCID Ask Price 0.260000 
+LCID Bid Price 0.250000 
+LCID Mark Price 0.255000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:29
+LCID Last Trade Price 0.250000 
+LCID Ask Price 0.260000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.250000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:31
+LCID Last Trade Price 0.250000 
+LCID Ask Price 0.260000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.250000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:32
+LCID Last Trade Price 0.250000 
+LCID Ask Price 0.260000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.250000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:33
+LCID Last Trade Price 0.240000 
+LCID Ask Price 0.260000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.250000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:34
+LCID Last Trade Price 0.250000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.260000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:35
+LCID Last Trade Price 0.250000 
+LCID Ask Price 0.250000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.245000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:37
+LCID Last Trade Price 0.250000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.250000 
+LCID Mark Price 0.265000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:38
+LCID Last Trade Price 0.250000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.250000 
+LCID Mark Price 0.265000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:39
+LCID Last Trade Price 0.250000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.250000 
+LCID Mark Price 0.265000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:40
+LCID Last Trade Price 0.240000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.260000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:41
+LCID Last Trade Price 0.240000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.260000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:43
+LCID Last Trade Price 0.240000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.260000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:44
+LCID Last Trade Price 0.240000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.260000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:45
+LCID Last Trade Price 0.240000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.260000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:46
+LCID Last Trade Price 0.240000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.260000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:47
+LCID Last Trade Price 0.240000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.260000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:49
+LCID Last Trade Price 0.240000 
+LCID Ask Price 0.260000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.250000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:50
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.260000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.250000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:51
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.260000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.250000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:52
+LCID Last Trade Price 0.240000 
+LCID Ask Price 0.260000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.250000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:53
+LCID Last Trade Price 0.240000 
+LCID Ask Price 0.260000 
+LCID Bid Price 0.240000 
+LCID Mark Price 0.250000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:55
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.250000 
+LCID Mark Price 0.270000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:56
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.260000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:57
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.260000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:58
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.260000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:36:59
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.260000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:01
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.260000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:02
+LCID Last Trade Price 0.260000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.260000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:03
+LCID Last Trade Price 0.290000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.285000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:04
+LCID Last Trade Price 0.290000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.285000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:05
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.285000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:07
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:08
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:09
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:10
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:11
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.290000 
+LCID Mark Price 0.295000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:13
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.290000 
+LCID Mark Price 0.295000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:14
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.290000 
+LCID Mark Price 0.295000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:15
+LCID Last Trade Price 0.290000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.290000 
+LCID Mark Price 0.295000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:16
+LCID Last Trade Price 0.290000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.290000 
+LCID Mark Price 0.295000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:17
+LCID Last Trade Price 0.290000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.290000 
+LCID Mark Price 0.295000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:19
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.290000 
+LCID Mark Price 0.295000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:20
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.290000 
+LCID Mark Price 0.295000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:21
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.310000 
+LCID Bid Price 0.290000 
+LCID Mark Price 0.300000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:22
+LCID Last Trade Price 0.290000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.285000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:23
+LCID Last Trade Price 0.270000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.285000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:25
+LCID Last Trade Price 0.270000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.285000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:26
+LCID Last Trade Price 0.290000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.280000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:27
+LCID Last Trade Price 0.290000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.285000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:28
+LCID Last Trade Price 0.290000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.285000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:30
+LCID Last Trade Price 0.290000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:31
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:32
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:33
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:34
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.285000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:35
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.285000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:37
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:38
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:39
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:40
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:42
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:43
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:44
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:45
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:47
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:48
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:49
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:50
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:51
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:53
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:54
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.285000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:55
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:56
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:57
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:37:59
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:00
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:01
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.285000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:02
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.285000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:03
+LCID Last Trade Price 0.270000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.280000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:05
+LCID Last Trade Price 0.270000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.280000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:06
+LCID Last Trade Price 0.290000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.280000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:07
+LCID Last Trade Price 0.290000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.280000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:08
+LCID Last Trade Price 0.290000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.280000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:10
+LCID Last Trade Price 0.290000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.280000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:11
+LCID Last Trade Price 0.290000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.280000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:12
+LCID Last Trade Price 0.270000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.280000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:13
+LCID Last Trade Price 0.270000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.280000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:14
+LCID Last Trade Price 0.270000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.280000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:16
+LCID Last Trade Price 0.270000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.280000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:17
+LCID Last Trade Price 0.270000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.280000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:18
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:19
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:20
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:22
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:23
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.280000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.275000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:24
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.290000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.280000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:25
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.285000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:26
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.285000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:27
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.285000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:29
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.285000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:30
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:31
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:32
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:33
+LCID Last Trade Price 0.280000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.290000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:35
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:36
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:37
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:38
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:39
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:41
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:42
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:43
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:44
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:45
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.320000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:47
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:48
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:49
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.320000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:50
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:51
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:53
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:54
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.320000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:55
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.320000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:56
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.320000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:57
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:38:59
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:00
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:01
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:02
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:03
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:05
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:06
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:07
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:08
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:10
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:11
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.310000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:12
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.310000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:13
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.310000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:14
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.310000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:16
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.310000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:17
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.310000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:18
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.310000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:19
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.290000 
+LCID Mark Price 0.295000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:20
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.300000 
+LCID Bid Price 0.290000 
+LCID Mark Price 0.295000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:22
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.310000 
+LCID Bid Price 0.290000 
+LCID Mark Price 0.300000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:23
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.310000 
+LCID Bid Price 0.290000 
+LCID Mark Price 0.300000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:24
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.310000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:25
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.310000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:26
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.300000 
+LCID Mark Price 0.310000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:28
+LCID Last Trade Price 0.300000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:29
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:30
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:31
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:32
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.320000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:34
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.320000 
+LCID Mark Price 0.325000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:35
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.320000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:36
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.320000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:37
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.300000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:38
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.330000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.300000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:40
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.295000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:41
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.295000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:42
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.295000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:43
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.270000 
+LCID Mark Price 0.295000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:44
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.300000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:46
+LCID Last Trade Price 0.330000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.280000 
+LCID Mark Price 0.300000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:47
+LCID Last Trade Price 0.290000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:48
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:49
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:50
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:52
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:53
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:54
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:55
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:56
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:58
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:39:59
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:00
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:01
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:02
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:04
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:05
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:06
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:07
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:08
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:10
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:11
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:12
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:13
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:14
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:16
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:17
+LCID Last Trade Price 0.310000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:18
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:19
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
+Time: 2024-03-25 13:40:20
+LCID Last Trade Price 0.320000 
+LCID Ask Price 0.320000 
+LCID Bid Price 0.310000 
+LCID Mark Price 0.315000 
+LCID Open Price 0.2 
+ 
