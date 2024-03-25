@@ -1,5 +1,11 @@
 ## Options Daily Performance
 
+### 2024-03-25
+
+| Option ID | Performance |
+| --- | --- |
+| LCID $3.0 Call 2024-03-28 | Open @ 0.2 -> Max @ 0.41 = 🟢 +105.00% |
+
 ### 2024-03-22
 
 | Option ID | Performance |
