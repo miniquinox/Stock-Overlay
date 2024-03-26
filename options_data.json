@@ -249,5 +249,12 @@
             "Option Open Price": 0.2,
             "Max Day Call Price": 0.41
         }
+    },
+    "2024-03-26": {
+        "VKTX $79.0 Call 2024-03-28": {
+            "Stock price at market close": 69.55,
+            "Stock price before market open": 79.2,
+            "Option price at market close": 3.4
+        }
     }
 }

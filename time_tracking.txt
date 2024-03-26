@@ -23735,3 +23735,4609 @@ LCID Bid Price 0.310000
 LCID Mark Price 0.315000 
 LCID Open Price 0.2 
  
+Time: 2024-03-26 13:26:28
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:29
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:30
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:32
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:33
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:34
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:35
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:36
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:38
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:39
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:40
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:41
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:43
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:44
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:45
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:46
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:47
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:49
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:50
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:51
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:52
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:53
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:55
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:56
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:57
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:58
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:26:59
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:01
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:02
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:03
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:04
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:05
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:07
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:08
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:09
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:10
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:11
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:13
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:14
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:15
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:16
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:17
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:19
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:20
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:21
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:22
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:23
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:24
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:26
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:27
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:28
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:29
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:31
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:32
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:33
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:34
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:35
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:36
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:38
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:39
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:40
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:41
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:42
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:44
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:45
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:46
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:47
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:48
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:50
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:51
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:52
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:53
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:54
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:56
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:57
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:58
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:27:59
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:00
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:02
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:03
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:04
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:05
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:06
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:08
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:09
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:10
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:11
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:13
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:14
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:15
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:16
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:17
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:18
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:20
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:21
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:22
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:23
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:24
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:26
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:27
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:28
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:29
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:30
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:32
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:33
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:34
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:35
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:36
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:38
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:39
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:40
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:41
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:43
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:44
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:45
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:46
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:47
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:49
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:50
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:51
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:52
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:53
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:54
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:56
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:57
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:58
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:28:59
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:00
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:02
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:03
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:04
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:05
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:06
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:08
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:09
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:10
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:11
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:12
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:14
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:15
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:16
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:17
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:18
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:20
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:21
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:22
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:23
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:24
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:26
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:27
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:28
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:29
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:30
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:32
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:33
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:34
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:35
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:36
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:38
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:39
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:40
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:41
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:42
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:44
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:45
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:46
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:47
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:48
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:50
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:51
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:52
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:53
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:54
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:56
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:57
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:58
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:29:59
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price 3.6 
+ 
+Time: 2024-03-26 13:30:00
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:02
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 4.000000 
+VKTX Bid Price 2.800000 
+VKTX Mark Price 3.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:03
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.500000 
+VKTX Bid Price 0.700000 
+VKTX Mark Price 3.100000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:04
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.500000 
+VKTX Bid Price 0.700000 
+VKTX Mark Price 3.100000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:05
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 0.500000 
+VKTX Mark Price 2.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:06
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 0.500000 
+VKTX Mark Price 2.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:08
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 0.500000 
+VKTX Mark Price 2.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:09
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 0.500000 
+VKTX Mark Price 2.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:10
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 0.500000 
+VKTX Mark Price 2.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:11
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 0.500000 
+VKTX Mark Price 2.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:12
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 0.500000 
+VKTX Mark Price 2.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:14
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 0.500000 
+VKTX Mark Price 2.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:15
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 0.500000 
+VKTX Mark Price 2.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:16
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 0.500000 
+VKTX Mark Price 2.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:17
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 0.500000 
+VKTX Mark Price 2.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:19
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 0.500000 
+VKTX Mark Price 2.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:20
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 0.500000 
+VKTX Mark Price 2.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:21
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 0.500000 
+VKTX Mark Price 2.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:22
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 0.500000 
+VKTX Mark Price 2.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:24
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 0.500000 
+VKTX Mark Price 2.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:25
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 0.800000 
+VKTX Mark Price 3.050000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:26
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 0.800000 
+VKTX Mark Price 3.050000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:27
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 0.800000 
+VKTX Mark Price 3.050000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:28
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 3.200000 
+VKTX Mark Price 4.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:30
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 3.500000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:31
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 3.500000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:32
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 3.500000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:33
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 3.500000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:35
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 3.500000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:36
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 3.500000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:37
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 3.500000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:38
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 3.500000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:39
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 3.500000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:41
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 3.500000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:42
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 3.500000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:43
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 3.500000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:44
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:46
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:47
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:48
+VKTX Last Trade Price 3.100000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:49
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:50
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:52
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:53
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:54
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:55
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:57
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 2.750000 
+VKTX Mark Price 3.975000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:58
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 2.750000 
+VKTX Mark Price 3.975000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:30:59
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 2.750000 
+VKTX Mark Price 3.975000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:00
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 2.750000 
+VKTX Mark Price 3.975000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:02
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 2.750000 
+VKTX Mark Price 3.975000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:03
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.300000 
+VKTX Mark Price 4.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:04
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.300000 
+VKTX Mark Price 4.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:05
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.300000 
+VKTX Mark Price 4.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:06
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.300000 
+VKTX Mark Price 4.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:08
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.300000 
+VKTX Mark Price 4.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:09
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.300000 
+VKTX Mark Price 4.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:10
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.300000 
+VKTX Mark Price 4.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:11
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.300000 
+VKTX Mark Price 4.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:13
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 3.300000 
+VKTX Mark Price 4.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:14
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.600000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:15
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.600000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:16
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 3.800000 
+VKTX Mark Price 4.700000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:17
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 3.800000 
+VKTX Mark Price 4.700000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:19
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 4.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:20
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 4.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:21
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 4.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:22
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 4.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:23
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 4.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:25
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 4.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:26
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 4.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:28
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 4.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:29
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 4.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:30
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.500000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.100000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:31
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.350000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:32
+VKTX Last Trade Price 4.000000 
+VKTX Ask Price 5.500000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.100000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:34
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.350000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:35
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.350000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:36
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.350000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:37
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.350000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:39
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.800000 
+VKTX Bid Price 3.200000 
+VKTX Mark Price 5.000000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:40
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.800000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 5.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:41
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.800000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 5.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:42
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.800000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 5.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:44
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.800000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 5.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:45
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.800000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 5.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:46
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.700000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 5.350000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:47
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.700000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 5.350000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:48
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.700000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 5.350000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:50
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.700000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 5.350000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:51
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.700000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 5.350000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:52
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.700000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 5.350000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:53
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.700000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 5.350000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:54
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.700000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 5.350000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:56
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 5.000000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:57
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 5.000000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:58
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 5.000000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:31:59
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 5.050000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:01
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 5.050000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:02
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 5.050000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:03
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 5.050000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:04
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 5.050000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:05
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 5.050000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:07
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 5.050000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:08
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 5.050000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:09
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 5.050000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:10
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 5.050000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:12
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 5.150000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:13
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 5.150000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:14
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 5.150000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:15
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 5.150000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:16
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 5.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:18
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 5.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:19
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.700000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.150000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:20
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.700000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.150000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:21
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.700000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.150000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:22
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.300000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:24
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.800000 
+VKTX Mark Price 5.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:25
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.800000 
+VKTX Mark Price 5.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:26
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.800000 
+VKTX Mark Price 5.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:27
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.800000 
+VKTX Mark Price 5.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:29
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.800000 
+VKTX Mark Price 5.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:30
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.800000 
+VKTX Mark Price 5.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:31
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.800000 
+VKTX Mark Price 5.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:32
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 4.800000 
+VKTX Mark Price 5.350000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:33
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.800000 
+VKTX Mark Price 5.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:35
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.800000 
+VKTX Mark Price 5.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:36
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.800000 
+VKTX Mark Price 5.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:37
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.450000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:38
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.450000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:40
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.450000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:41
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.450000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:42
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:43
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:44
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:46
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:47
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:48
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:49
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:50
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:52
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:53
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:54
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:56
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:57
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:58
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:32:59
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:00
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:02
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:03
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:04
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:05
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:06
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:08
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:09
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:10
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.300000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:11
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 5.200000 
+VKTX Mark Price 5.400000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:13
+VKTX Last Trade Price 5.600000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.300000 
+VKTX Mark Price 5.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:14
+VKTX Last Trade Price 5.600000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.300000 
+VKTX Mark Price 5.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:15
+VKTX Last Trade Price 5.600000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.300000 
+VKTX Mark Price 5.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:16
+VKTX Last Trade Price 5.600000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.300000 
+VKTX Mark Price 5.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:17
+VKTX Last Trade Price 5.600000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.300000 
+VKTX Mark Price 5.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:19
+VKTX Last Trade Price 5.600000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.300000 
+VKTX Mark Price 5.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:20
+VKTX Last Trade Price 5.600000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.300000 
+VKTX Mark Price 5.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:21
+VKTX Last Trade Price 5.600000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.300000 
+VKTX Mark Price 5.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:22
+VKTX Last Trade Price 5.600000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.300000 
+VKTX Mark Price 5.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:23
+VKTX Last Trade Price 5.600000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.400000 
+VKTX Mark Price 5.700000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:25
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 6.400000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.200000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:26
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 6.400000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.200000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:27
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 6.400000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.200000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:28
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 6.400000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.200000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:30
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 6.400000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.200000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:31
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 6.400000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.200000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:32
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 6.400000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.200000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:33
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 6.400000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.200000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:34
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 6.400000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.200000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:36
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 7.000000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:37
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 7.000000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:38
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 7.000000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:39
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 7.000000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:40
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 7.000000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:42
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 7.000000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:43
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 7.000000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:44
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 7.000000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:45
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 7.000000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:46
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 7.000000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:48
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 7.000000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:49
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 7.000000 
+VKTX Bid Price 6.000000 
+VKTX Mark Price 6.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:50
+VKTX Last Trade Price 6.000000 
+VKTX Ask Price 6.700000 
+VKTX Bid Price 5.700000 
+VKTX Mark Price 6.200000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:51
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.600000 
+VKTX Bid Price 5.800000 
+VKTX Mark Price 6.200000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:53
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.600000 
+VKTX Bid Price 5.800000 
+VKTX Mark Price 6.200000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:54
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.600000 
+VKTX Bid Price 5.800000 
+VKTX Mark Price 6.200000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:55
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.500000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.550000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:56
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.500000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.550000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:57
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.400000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:33:59
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.400000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.500000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:00
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.400000 
+VKTX Bid Price 4.800000 
+VKTX Mark Price 5.600000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:01
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.400000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.700000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:02
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.400000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.700000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:03
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.400000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.700000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:05
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.400000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.700000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:06
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.300000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:07
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.300000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.650000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:08
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 7.000000 
+VKTX Bid Price 5.400000 
+VKTX Mark Price 6.200000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:09
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.800000 
+VKTX Bid Price 5.500000 
+VKTX Mark Price 6.150000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:11
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.800000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.850000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:12
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.800000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.850000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:13
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.800000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.850000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:14
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.800000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.900000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:16
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.600000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.800000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:17
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.450000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:18
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.450000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:19
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.450000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:20
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.450000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:22
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.350000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:23
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 5.700000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.300000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:24
+VKTX Last Trade Price 6.200000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 5.150000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:25
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.500000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.050000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:27
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.500000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.050000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:28
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.500000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.100000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:29
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.500000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.100000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:30
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.350000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:31
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.350000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:33
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 5.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:34
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 5.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:35
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:36
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:37
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:39
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:40
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:41
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:42
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:43
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:45
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.250000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:46
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.700000 
+VKTX Bid Price 4.700000 
+VKTX Mark Price 5.200000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:47
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:48
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:50
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:51
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.950000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:52
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.000000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:53
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.000000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:54
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.500000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 5.000000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:56
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.500000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 5.000000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:57
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.500000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 4.850000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:58
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 4.800000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:34:59
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 4.800000 
+VKTX Open Price N/A 
+ 
+Time: 2024-03-26 13:35:00
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:02
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:03
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:04
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:05
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:06
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:08
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:09
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:10
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:11
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:13
+VKTX Last Trade Price 5.500000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.750000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:14
+VKTX Last Trade Price 4.750000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.700000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:15
+VKTX Last Trade Price 4.750000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.700000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:16
+VKTX Last Trade Price 4.750000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.700000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:18
+VKTX Last Trade Price 4.750000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.700000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:19
+VKTX Last Trade Price 4.750000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.700000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:20
+VKTX Last Trade Price 4.750000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.700000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:22
+VKTX Last Trade Price 4.750000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.700000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:23
+VKTX Last Trade Price 4.750000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.700000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:24
+VKTX Last Trade Price 4.750000 
+VKTX Ask Price 4.900000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.600000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:26
+VKTX Last Trade Price 4.750000 
+VKTX Ask Price 4.900000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.600000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:27
+VKTX Last Trade Price 4.300000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.150000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:28
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.600000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.100000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:29
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.150000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:30
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.150000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:32
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.500000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.050000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:33
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.600000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.100000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:34
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.600000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.100000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:35
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.600000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.100000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:36
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.600000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.100000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:38
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.600000 
+VKTX Bid Price 3.600000 
+VKTX Mark Price 4.100000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:39
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.200000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:40
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.200000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:41
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.200000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:43
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.200000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:44
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.800000 
+VKTX Mark Price 4.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:45
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.800000 
+VKTX Mark Price 4.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:46
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.800000 
+VKTX Mark Price 4.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:47
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.900000 
+VKTX Mark Price 4.300000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:49
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 4.350000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:50
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 4.350000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:52
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 4.350000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:53
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 4.350000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:54
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.000000 
+VKTX Mark Price 4.350000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:55
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.900000 
+VKTX Mark Price 4.300000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:57
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.900000 
+VKTX Mark Price 4.300000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:58
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.900000 
+VKTX Mark Price 4.300000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:35:59
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.900000 
+VKTX Mark Price 4.300000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:00
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.900000 
+VKTX Mark Price 4.300000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:01
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 4.450000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:03
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 4.400000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:04
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 4.400000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:05
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 4.400000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:07
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 4.400000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:08
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 4.400000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:09
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 4.400000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:10
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 4.400000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:11
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 4.400000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:13
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 4.400000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:14
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 4.400000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:15
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 4.400000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:16
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 4.400000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:18
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 4.400000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:19
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 4.400000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:20
+VKTX Last Trade Price 4.200000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 4.450000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:21
+VKTX Last Trade Price 4.400000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.550000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:22
+VKTX Last Trade Price 4.400000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 4.450000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:24
+VKTX Last Trade Price 4.400000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 4.450000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:25
+VKTX Last Trade Price 4.400000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 4.450000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:26
+VKTX Last Trade Price 4.400000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.200000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:27
+VKTX Last Trade Price 4.400000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.200000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:28
+VKTX Last Trade Price 4.400000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.200000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:30
+VKTX Last Trade Price 4.400000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.200000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:31
+VKTX Last Trade Price 4.400000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.200000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:32
+VKTX Last Trade Price 4.400000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.200000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:33
+VKTX Last Trade Price 4.400000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.200000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:34
+VKTX Last Trade Price 4.400000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.200000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:36
+VKTX Last Trade Price 4.400000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.200000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:37
+VKTX Last Trade Price 4.400000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.200000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:38
+VKTX Last Trade Price 4.400000 
+VKTX Ask Price 4.700000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.200000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:39
+VKTX Last Trade Price 4.400000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.550000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:40
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.550000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:42
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.400000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:43
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 3.700000 
+VKTX Mark Price 4.400000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:44
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 3.900000 
+VKTX Mark Price 4.500000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:45
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.100000 
+VKTX Mark Price 4.600000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:47
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 4.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:48
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 4.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:49
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 4.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:50
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 4.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:51
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 4.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:53
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.700000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:54
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.700000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:55
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.700000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:57
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.700000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:58
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.750000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:36:59
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.750000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:00
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.750000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:02
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.750000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:03
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.750000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:04
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.750000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:05
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.750000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:07
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.750000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:08
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.100000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.750000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:09
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.900000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:10
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 4.950000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:11
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 4.950000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:13
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 4.950000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:14
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 4.950000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:15
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 4.950000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:16
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 4.950000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:18
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 4.950000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:19
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 4.950000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:20
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.850000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:21
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.850000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:22
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.900000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:24
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.850000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:25
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.850000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:26
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.850000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:27
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.850000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:29
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.850000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:30
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.850000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:31
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.850000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:32
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.850000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:33
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.300000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.850000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:35
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:36
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:37
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:38
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:40
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:41
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:42
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:44
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:45
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:46
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:47
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:49
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:50
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:51
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:52
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:54
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:55
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:56
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.800000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:57
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.150000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:37:59
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.150000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:00
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.150000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:01
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.150000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:02
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.150000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:04
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.150000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:05
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.150000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:06
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.150000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:07
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.150000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:08
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.150000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:10
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.900000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.150000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:11
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.100000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:12
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.100000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:13
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.100000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:14
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 5.150000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:16
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.350000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:17
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.350000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:18
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.350000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:19
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.350000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:21
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.350000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:22
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.350000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:23
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.350000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:24
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.350000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:25
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.350000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:27
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.350000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:28
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.350000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:29
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.800000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.350000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:30
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:32
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:33
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:34
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:35
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:36
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:38
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:39
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:40
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:41
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:43
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:44
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:45
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:46
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:47
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:49
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:50
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:51
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:52
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:53
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:55
+VKTX Last Trade Price 4.700000 
+VKTX Ask Price 5.600000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:56
+VKTX Last Trade Price 4.900000 
+VKTX Ask Price 5.500000 
+VKTX Bid Price 4.200000 
+VKTX Mark Price 4.850000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:57
+VKTX Last Trade Price 4.900000 
+VKTX Ask Price 5.500000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.900000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:58
+VKTX Last Trade Price 4.900000 
+VKTX Ask Price 5.500000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.900000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:38:59
+VKTX Last Trade Price 4.900000 
+VKTX Ask Price 5.500000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.900000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:01
+VKTX Last Trade Price 4.900000 
+VKTX Ask Price 5.000000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:02
+VKTX Last Trade Price 4.900000 
+VKTX Ask Price 5.000000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:03
+VKTX Last Trade Price 4.900000 
+VKTX Ask Price 5.000000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:04
+VKTX Last Trade Price 4.900000 
+VKTX Ask Price 5.000000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:05
+VKTX Last Trade Price 4.900000 
+VKTX Ask Price 5.000000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:07
+VKTX Last Trade Price 4.900000 
+VKTX Ask Price 5.000000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:08
+VKTX Last Trade Price 4.900000 
+VKTX Ask Price 5.000000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:09
+VKTX Last Trade Price 4.900000 
+VKTX Ask Price 5.000000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:10
+VKTX Last Trade Price 4.900000 
+VKTX Ask Price 5.000000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:11
+VKTX Last Trade Price 4.900000 
+VKTX Ask Price 5.000000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:13
+VKTX Last Trade Price 4.900000 
+VKTX Ask Price 5.000000 
+VKTX Bid Price 4.300000 
+VKTX Mark Price 4.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:14
+VKTX Last Trade Price 4.900000 
+VKTX Ask Price 5.000000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 4.700000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:15
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 4.950000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:16
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 4.950000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:17
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 4.950000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:19
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.000000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:20
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.000000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:21
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.000000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:22
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.000000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:24
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.000000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:25
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.000000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:26
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.000000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:27
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.000000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:28
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.000000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:30
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 5.400000 
+VKTX Bid Price 4.600000 
+VKTX Mark Price 5.000000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:31
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 6.700000 
+VKTX Bid Price 4.800000 
+VKTX Mark Price 5.750000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:32
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 6.600000 
+VKTX Bid Price 4.800000 
+VKTX Mark Price 5.700000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:33
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 6.500000 
+VKTX Bid Price 4.800000 
+VKTX Mark Price 5.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:35
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 6.500000 
+VKTX Bid Price 4.800000 
+VKTX Mark Price 5.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:36
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 6.400000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.650000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:37
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 6.300000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.600000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:38
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 6.300000 
+VKTX Bid Price 4.900000 
+VKTX Mark Price 5.600000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:39
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 6.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.300000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:41
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 6.200000 
+VKTX Bid Price 4.400000 
+VKTX Mark Price 5.300000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:42
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:43
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.500000 
+VKTX Mark Price 5.250000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:44
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 4.800000 
+VKTX Mark Price 5.400000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:45
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.000000 
+VKTX Mark Price 5.500000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:47
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.100000 
+VKTX Mark Price 5.550000 
+VKTX Open Price 4.8 
+ 
+Time: 2024-03-26 13:39:48
+VKTX Last Trade Price 5.000000 
+VKTX Ask Price 6.000000 
+VKTX Bid Price 5.100000 
+VKTX Mark Price 5.550000 
+VKTX Open Price 4.8 
+ 
