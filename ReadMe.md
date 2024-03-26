@@ -1,5 +1,11 @@
 ## Options Daily Performance
 
+### 2024-03-26
+
+| Option ID | Performance |
+| --- | --- |
+| VKTX $79.0 Call 2024-03-28 | Open @ 4.8 -> Max @ 8.5 = 🟢 +77.08% |
+
 ### 2024-03-25
 
 | Option ID | Performance |
