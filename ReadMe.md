@@ -1,5 +1,12 @@
 ## Options Daily Performance
 
+### 2024-03-27
+
+| Option ID | Performance |
+| --- | --- |
+| HOOD $21.0 Call 2024-03-28 | Open @ 0.21 -> Max @ 0.39 = 🟢 +85.71% |
+| DJT $70.0 Call 2024-03-28 | Open @ 5.7 -> Max @ 8.0 = 🟢 +40.35% |
+
 ### 2024-03-26
 
 | Option ID | Performance |

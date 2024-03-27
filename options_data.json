@@ -264,12 +264,18 @@
         "HOOD $21.0 Call 2024-03-28": {
             "Stock price at market close": 19.08,
             "Stock price before market open": 20.81,
-            "Option price at market close": 0.07
+            "Option price at market close": 0.07,
+            "Max Day Stock Price": 20.36,
+            "Option Open Price": 0.21,
+            "Max Day Call Price": 0.39
         },
         "DJT $70.0 Call 2024-03-28": {
             "Stock price at market close": 49.95,
             "Stock price before market open": 71.69,
-            "Option price at market close": 2.43
+            "Option price at market close": 2.43,
+            "Max Day Stock Price": 69.3,
+            "Option Open Price": 5.7,
+            "Max Day Call Price": 8.0
         }
     }
 }
