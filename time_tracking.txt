@@ -28341,3 +28341,4609 @@ VKTX Bid Price 5.100000
 VKTX Mark Price 5.550000 
 VKTX Open Price 4.8 
  
+Time: 2024-03-27 13:27:17
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:18
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:19
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:20
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:22
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:23
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:24
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:25
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:26
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:28
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:29
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:30
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:31
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:32
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:34
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:35
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:36
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:37
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:38
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:39
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:41
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:42
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:43
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:44
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:45
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:47
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:48
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:49
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:50
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:51
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:53
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:54
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:55
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:56
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:57
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:27:59
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:00
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:01
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:02
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:03
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:05
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:06
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:07
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:08
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:09
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:11
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:12
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:13
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:14
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:15
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:17
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:18
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:19
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:20
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:22
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:23
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:24
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:25
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:26
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:28
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:29
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:30
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:31
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:32
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:34
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:35
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:36
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:37
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:38
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:40
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:41
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:42
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:43
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:44
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:46
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:47
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:48
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:49
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:50
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:52
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:53
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:54
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:55
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:56
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:58
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:28:59
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:00
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:01
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:02
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:04
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:05
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:06
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:07
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:09
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:10
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:11
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:12
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:13
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:15
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:16
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:17
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:18
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:19
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:21
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:22
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:23
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:24
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:25
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:27
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:28
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:29
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:30
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:31
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:33
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:34
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:35
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:36
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:37
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:39
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:40
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:41
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:42
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:43
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:45
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:46
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:47
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:48
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:50
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:51
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:52
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:53
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:54
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:56
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:57
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:58
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:29:59
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price 8.28 
+ 
+Time: 2024-03-27 13:30:00
+DJT Last Trade Price 2.540000 
+DJT Ask Price 2.500000 
+DJT Bid Price 2.350000 
+DJT Mark Price 2.425000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:02
+DJT Last Trade Price 2.540000 
+DJT Ask Price 16.600000 
+DJT Bid Price 2.500000 
+DJT Mark Price 9.550000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:03
+DJT Last Trade Price 7.500000 
+DJT Ask Price 8.500000 
+DJT Bid Price 2.500000 
+DJT Mark Price 5.500000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:04
+DJT Last Trade Price 8.000000 
+DJT Ask Price 8.500000 
+DJT Bid Price 2.500000 
+DJT Mark Price 5.500000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:05
+DJT Last Trade Price 7.090000 
+DJT Ask Price 7.950000 
+DJT Bid Price 6.050000 
+DJT Mark Price 7.000000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:06
+DJT Last Trade Price 7.090000 
+DJT Ask Price 7.950000 
+DJT Bid Price 6.050000 
+DJT Mark Price 7.000000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:08
+DJT Last Trade Price 6.910000 
+DJT Ask Price 7.950000 
+DJT Bid Price 6.450000 
+DJT Mark Price 7.200000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:09
+DJT Last Trade Price 6.750000 
+DJT Ask Price 8.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 7.250000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:10
+DJT Last Trade Price 6.750000 
+DJT Ask Price 8.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 7.250000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:11
+DJT Last Trade Price 6.750000 
+DJT Ask Price 8.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 7.250000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:13
+DJT Last Trade Price 6.750000 
+DJT Ask Price 8.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 7.250000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:14
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.250000 
+DJT Bid Price 5.000000 
+DJT Mark Price 6.125000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:15
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.300000 
+DJT Bid Price 5.050000 
+DJT Mark Price 6.175000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:17
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.850000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:19
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.850000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:20
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.850000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:21
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.850000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:22
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.850000 
+DJT Mark Price 7.175000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:24
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.950000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:25
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.950000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:26
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.950000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:27
+DJT Last Trade Price 6.750000 
+DJT Ask Price 6.900000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.650000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:29
+DJT Last Trade Price 6.750000 
+DJT Ask Price 6.950000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.675000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:30
+DJT Last Trade Price 6.750000 
+DJT Ask Price 6.950000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.675000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:31
+DJT Last Trade Price 6.750000 
+DJT Ask Price 6.950000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.675000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:32
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.700000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:34
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.450000 
+DJT Mark Price 6.975000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:35
+DJT Last Trade Price 6.750000 
+DJT Ask Price 6.800000 
+DJT Bid Price 6.450000 
+DJT Mark Price 6.625000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:36
+DJT Last Trade Price 6.750000 
+DJT Ask Price 6.800000 
+DJT Bid Price 6.450000 
+DJT Mark Price 6.625000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:37
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.450000 
+DJT Mark Price 6.725000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:39
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.450000 
+DJT Mark Price 6.725000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:40
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.450000 
+DJT Mark Price 6.975000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:41
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.450000 
+DJT Mark Price 6.975000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:42
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.450000 
+DJT Mark Price 6.975000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:44
+DJT Last Trade Price 6.550000 
+DJT Ask Price 7.250000 
+DJT Bid Price 6.450000 
+DJT Mark Price 6.850000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:45
+DJT Last Trade Price 6.550000 
+DJT Ask Price 7.250000 
+DJT Bid Price 6.750000 
+DJT Mark Price 7.000000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:46
+DJT Last Trade Price 6.550000 
+DJT Ask Price 6.900000 
+DJT Bid Price 6.750000 
+DJT Mark Price 6.825000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:47
+DJT Last Trade Price 6.550000 
+DJT Ask Price 6.900000 
+DJT Bid Price 6.750000 
+DJT Mark Price 6.825000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:49
+DJT Last Trade Price 6.550000 
+DJT Ask Price 7.200000 
+DJT Bid Price 6.750000 
+DJT Mark Price 6.975000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:50
+DJT Last Trade Price 6.550000 
+DJT Ask Price 6.900000 
+DJT Bid Price 6.750000 
+DJT Mark Price 6.825000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:51
+DJT Last Trade Price 6.800000 
+DJT Ask Price 6.950000 
+DJT Bid Price 6.750000 
+DJT Mark Price 6.850000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:52
+DJT Last Trade Price 6.950000 
+DJT Ask Price 7.200000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.050000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:53
+DJT Last Trade Price 7.110000 
+DJT Ask Price 7.200000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.050000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:55
+DJT Last Trade Price 6.900000 
+DJT Ask Price 7.200000 
+DJT Bid Price 6.850000 
+DJT Mark Price 7.025000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:56
+DJT Last Trade Price 6.900000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.850000 
+DJT Mark Price 6.925000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:57
+DJT Last Trade Price 6.900000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.850000 
+DJT Mark Price 6.925000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:30:58
+DJT Last Trade Price 6.900000 
+DJT Ask Price 7.200000 
+DJT Bid Price 6.850000 
+DJT Mark Price 7.025000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:00
+DJT Last Trade Price 6.900000 
+DJT Ask Price 7.200000 
+DJT Bid Price 6.750000 
+DJT Mark Price 6.975000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:01
+DJT Last Trade Price 6.900000 
+DJT Ask Price 7.250000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.075000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:02
+DJT Last Trade Price 7.200000 
+DJT Ask Price 7.250000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.125000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:03
+DJT Last Trade Price 7.050000 
+DJT Ask Price 7.250000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.075000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:05
+DJT Last Trade Price 7.050000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.900000 
+DJT Mark Price 6.950000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:06
+DJT Last Trade Price 7.050000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.900000 
+DJT Mark Price 6.950000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:07
+DJT Last Trade Price 6.900000 
+DJT Ask Price 6.900000 
+DJT Bid Price 6.750000 
+DJT Mark Price 6.825000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:08
+DJT Last Trade Price 6.900000 
+DJT Ask Price 6.900000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.550000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:10
+DJT Last Trade Price 6.900000 
+DJT Ask Price 6.900000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.550000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:11
+DJT Last Trade Price 6.900000 
+DJT Ask Price 6.900000 
+DJT Bid Price 6.700000 
+DJT Mark Price 6.800000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:12
+DJT Last Trade Price 6.700000 
+DJT Ask Price 6.900000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.550000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:13
+DJT Last Trade Price 6.900000 
+DJT Ask Price 6.900000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.550000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:15
+DJT Last Trade Price 6.900000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:16
+DJT Last Trade Price 6.600000 
+DJT Ask Price 6.800000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.500000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:17
+DJT Last Trade Price 6.550000 
+DJT Ask Price 6.800000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.500000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:18
+DJT Last Trade Price 6.550000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:19
+DJT Last Trade Price 6.550000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:21
+DJT Last Trade Price 6.550000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:22
+DJT Last Trade Price 6.550000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:23
+DJT Last Trade Price 6.550000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:24
+DJT Last Trade Price 6.550000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:26
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:27
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.350000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:28
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.350000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:29
+DJT Last Trade Price 6.350000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.350000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:31
+DJT Last Trade Price 6.330000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.350000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:32
+DJT Last Trade Price 6.330000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.350000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:33
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.250000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:34
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.250000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:35
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.400000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.200000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:37
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.400000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.200000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:38
+DJT Last Trade Price 6.280000 
+DJT Ask Price 6.400000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.200000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:39
+DJT Last Trade Price 6.360000 
+DJT Ask Price 6.400000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.200000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:40
+DJT Last Trade Price 6.180000 
+DJT Ask Price 6.400000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.200000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:42
+DJT Last Trade Price 6.050000 
+DJT Ask Price 6.250000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.125000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:43
+DJT Last Trade Price 6.080000 
+DJT Ask Price 6.250000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.125000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:44
+DJT Last Trade Price 6.000000 
+DJT Ask Price 6.250000 
+DJT Bid Price 5.400000 
+DJT Mark Price 5.825000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:45
+DJT Last Trade Price 6.000000 
+DJT Ask Price 6.250000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.125000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:46
+DJT Last Trade Price 6.640000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:48
+DJT Last Trade Price 6.640000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:49
+DJT Last Trade Price 6.350000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:50
+DJT Last Trade Price 6.450000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:51
+DJT Last Trade Price 6.450000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:53
+DJT Last Trade Price 6.700000 
+DJT Ask Price 6.350000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.275000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:54
+DJT Last Trade Price 6.350000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:55
+DJT Last Trade Price 6.700000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:56
+DJT Last Trade Price 6.700000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:57
+DJT Last Trade Price 6.700000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.550000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:31:59
+DJT Last Trade Price 6.580000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.550000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:00
+DJT Last Trade Price 6.580000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.550000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:01
+DJT Last Trade Price 6.580000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:02
+DJT Last Trade Price 6.580000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:04
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.550000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:05
+DJT Last Trade Price 6.580000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.550000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:06
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.550000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.525000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:07
+DJT Last Trade Price 6.700000 
+DJT Ask Price 6.550000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.375000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:09
+DJT Last Trade Price 6.540000 
+DJT Ask Price 6.550000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.375000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:10
+DJT Last Trade Price 6.540000 
+DJT Ask Price 6.550000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.375000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:11
+DJT Last Trade Price 6.540000 
+DJT Ask Price 6.550000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.375000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:12
+DJT Last Trade Price 6.540000 
+DJT Ask Price 6.550000 
+DJT Bid Price 6.350000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:13
+DJT Last Trade Price 6.540000 
+DJT Ask Price 6.550000 
+DJT Bid Price 6.350000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:15
+DJT Last Trade Price 6.550000 
+DJT Ask Price 6.550000 
+DJT Bid Price 6.350000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:16
+DJT Last Trade Price 6.450000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:17
+DJT Last Trade Price 6.450000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:18
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:20
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.450000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.425000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:21
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.450000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.425000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:22
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.550000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.475000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:23
+DJT Last Trade Price 6.450000 
+DJT Ask Price 6.550000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.475000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:24
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.550000 
+DJT Bid Price 6.400000 
+DJT Mark Price 6.475000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:26
+DJT Last Trade Price 6.490000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.450000 
+DJT Mark Price 6.575000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:27
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.600000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:28
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.600000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:29
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.700000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.600000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:31
+DJT Last Trade Price 6.900000 
+DJT Ask Price 6.900000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.700000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:32
+DJT Last Trade Price 6.900000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.750000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:33
+DJT Last Trade Price 6.820000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.750000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:34
+DJT Last Trade Price 6.820000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.550000 
+DJT Mark Price 6.775000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:35
+DJT Last Trade Price 6.820000 
+DJT Ask Price 6.900000 
+DJT Bid Price 6.600000 
+DJT Mark Price 6.750000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:37
+DJT Last Trade Price 6.700000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.550000 
+DJT Mark Price 6.775000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:38
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.200000 
+DJT Bid Price 6.650000 
+DJT Mark Price 6.925000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:39
+DJT Last Trade Price 7.250000 
+DJT Ask Price 7.250000 
+DJT Bid Price 6.800000 
+DJT Mark Price 7.025000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:40
+DJT Last Trade Price 7.250000 
+DJT Ask Price 7.250000 
+DJT Bid Price 6.800000 
+DJT Mark Price 7.025000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:42
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.250000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.125000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:43
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.250000 
+DJT Bid Price 6.800000 
+DJT Mark Price 7.025000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:44
+DJT Last Trade Price 7.100000 
+DJT Ask Price 7.250000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.125000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:45
+DJT Last Trade Price 7.060000 
+DJT Ask Price 7.250000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.125000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:46
+DJT Last Trade Price 7.200000 
+DJT Ask Price 7.400000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.200000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:48
+DJT Last Trade Price 7.320000 
+DJT Ask Price 7.900000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.450000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:49
+DJT Last Trade Price 7.550000 
+DJT Ask Price 7.550000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.275000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:50
+DJT Last Trade Price 7.100000 
+DJT Ask Price 7.550000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.275000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:51
+DJT Last Trade Price 7.100000 
+DJT Ask Price 7.900000 
+DJT Bid Price 6.800000 
+DJT Mark Price 7.350000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:53
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.900000 
+DJT Bid Price 7.250000 
+DJT Mark Price 7.575000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:54
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.900000 
+DJT Bid Price 7.250000 
+DJT Mark Price 7.575000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:55
+DJT Last Trade Price 7.650000 
+DJT Ask Price 7.700000 
+DJT Bid Price 7.250000 
+DJT Mark Price 7.475000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:56
+DJT Last Trade Price 7.520000 
+DJT Ask Price 7.800000 
+DJT Bid Price 7.250000 
+DJT Mark Price 7.525000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:57
+DJT Last Trade Price 7.500000 
+DJT Ask Price 7.800000 
+DJT Bid Price 7.350000 
+DJT Mark Price 7.575000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:32:59
+DJT Last Trade Price 7.500000 
+DJT Ask Price 7.800000 
+DJT Bid Price 7.250000 
+DJT Mark Price 7.525000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:00
+DJT Last Trade Price 7.150000 
+DJT Ask Price 7.750000 
+DJT Bid Price 6.550000 
+DJT Mark Price 7.150000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:01
+DJT Last Trade Price 7.050000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.600000 
+DJT Mark Price 7.050000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:02
+DJT Last Trade Price 7.050000 
+DJT Ask Price 7.400000 
+DJT Bid Price 6.600000 
+DJT Mark Price 7.000000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:04
+DJT Last Trade Price 7.050000 
+DJT Ask Price 7.400000 
+DJT Bid Price 6.600000 
+DJT Mark Price 7.000000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:05
+DJT Last Trade Price 7.050000 
+DJT Ask Price 7.400000 
+DJT Bid Price 6.600000 
+DJT Mark Price 7.000000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:06
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.400000 
+DJT Bid Price 6.650000 
+DJT Mark Price 7.025000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:07
+DJT Last Trade Price 6.880000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.550000 
+DJT Mark Price 6.775000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:08
+DJT Last Trade Price 6.950000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.550000 
+DJT Mark Price 6.775000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:10
+DJT Last Trade Price 6.950000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.800000 
+DJT Mark Price 6.900000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:11
+DJT Last Trade Price 6.950000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.800000 
+DJT Mark Price 6.900000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:12
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.800000 
+DJT Mark Price 6.900000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:13
+DJT Last Trade Price 6.800000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.800000 
+DJT Mark Price 6.900000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:15
+DJT Last Trade Price 7.400000 
+DJT Ask Price 7.400000 
+DJT Bid Price 6.800000 
+DJT Mark Price 7.100000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:16
+DJT Last Trade Price 7.200000 
+DJT Ask Price 7.800000 
+DJT Bid Price 6.750000 
+DJT Mark Price 7.275000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:17
+DJT Last Trade Price 7.200000 
+DJT Ask Price 7.800000 
+DJT Bid Price 6.750000 
+DJT Mark Price 7.275000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:18
+DJT Last Trade Price 7.250000 
+DJT Ask Price 7.800000 
+DJT Bid Price 7.250000 
+DJT Mark Price 7.525000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:19
+DJT Last Trade Price 7.250000 
+DJT Ask Price 7.800000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.400000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:21
+DJT Last Trade Price 7.280000 
+DJT Ask Price 7.800000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.400000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:22
+DJT Last Trade Price 7.250000 
+DJT Ask Price 7.250000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.125000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:23
+DJT Last Trade Price 7.280000 
+DJT Ask Price 7.750000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.375000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:24
+DJT Last Trade Price 7.750000 
+DJT Ask Price 7.750000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.375000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:25
+DJT Last Trade Price 7.160000 
+DJT Ask Price 7.750000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.375000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:27
+DJT Last Trade Price 7.160000 
+DJT Ask Price 7.750000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.375000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:28
+DJT Last Trade Price 7.160000 
+DJT Ask Price 7.650000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.325000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:29
+DJT Last Trade Price 7.550000 
+DJT Ask Price 7.550000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.275000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:30
+DJT Last Trade Price 7.550000 
+DJT Ask Price 7.650000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.325000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:32
+DJT Last Trade Price 7.750000 
+DJT Ask Price 7.650000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.325000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:33
+DJT Last Trade Price 7.750000 
+DJT Ask Price 7.500000 
+DJT Bid Price 7.050000 
+DJT Mark Price 7.275000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:34
+DJT Last Trade Price 7.490000 
+DJT Ask Price 7.500000 
+DJT Bid Price 7.250000 
+DJT Mark Price 7.375000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:35
+DJT Last Trade Price 7.280000 
+DJT Ask Price 7.500000 
+DJT Bid Price 7.100000 
+DJT Mark Price 7.300000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:36
+DJT Last Trade Price 7.370000 
+DJT Ask Price 7.500000 
+DJT Bid Price 7.100000 
+DJT Mark Price 7.300000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:38
+DJT Last Trade Price 7.500000 
+DJT Ask Price 7.600000 
+DJT Bid Price 7.150000 
+DJT Mark Price 7.375000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:39
+DJT Last Trade Price 7.500000 
+DJT Ask Price 7.650000 
+DJT Bid Price 7.150000 
+DJT Mark Price 7.400000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:40
+DJT Last Trade Price 7.500000 
+DJT Ask Price 7.650000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.325000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:41
+DJT Last Trade Price 7.500000 
+DJT Ask Price 7.650000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.325000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:42
+DJT Last Trade Price 7.550000 
+DJT Ask Price 7.650000 
+DJT Bid Price 7.050000 
+DJT Mark Price 7.350000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:44
+DJT Last Trade Price 7.550000 
+DJT Ask Price 7.650000 
+DJT Bid Price 7.100000 
+DJT Mark Price 7.375000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:45
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.600000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.300000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:46
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.600000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.300000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:47
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.600000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.300000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:48
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.200000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:50
+DJT Last Trade Price 7.130000 
+DJT Ask Price 7.350000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.125000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:51
+DJT Last Trade Price 7.200000 
+DJT Ask Price 7.350000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.125000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:52
+DJT Last Trade Price 7.350000 
+DJT Ask Price 7.350000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.125000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:53
+DJT Last Trade Price 7.350000 
+DJT Ask Price 7.350000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.125000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:55
+DJT Last Trade Price 7.350000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.200000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:56
+DJT Last Trade Price 7.350000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.200000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:57
+DJT Last Trade Price 7.350000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.200000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:58
+DJT Last Trade Price 7.200000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.200000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:33:59
+DJT Last Trade Price 7.200000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.200000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:01
+DJT Last Trade Price 7.200000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.200000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:02
+DJT Last Trade Price 7.200000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.200000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:03
+DJT Last Trade Price 7.200000 
+DJT Ask Price 7.500000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.200000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:04
+DJT Last Trade Price 7.200000 
+DJT Ask Price 7.500000 
+DJT Bid Price 7.100000 
+DJT Mark Price 7.300000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:05
+DJT Last Trade Price 7.200000 
+DJT Ask Price 7.500000 
+DJT Bid Price 7.100000 
+DJT Mark Price 7.300000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:07
+DJT Last Trade Price 7.250000 
+DJT Ask Price 7.200000 
+DJT Bid Price 7.100000 
+DJT Mark Price 7.150000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:08
+DJT Last Trade Price 7.250000 
+DJT Ask Price 7.200000 
+DJT Bid Price 7.100000 
+DJT Mark Price 7.150000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:09
+DJT Last Trade Price 7.250000 
+DJT Ask Price 7.200000 
+DJT Bid Price 7.100000 
+DJT Mark Price 7.150000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:10
+DJT Last Trade Price 7.200000 
+DJT Ask Price 7.200000 
+DJT Bid Price 7.100000 
+DJT Mark Price 7.150000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:12
+DJT Last Trade Price 7.200000 
+DJT Ask Price 7.500000 
+DJT Bid Price 7.100000 
+DJT Mark Price 7.300000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:13
+DJT Last Trade Price 7.110000 
+DJT Ask Price 7.500000 
+DJT Bid Price 7.100000 
+DJT Mark Price 7.300000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:14
+DJT Last Trade Price 7.250000 
+DJT Ask Price 7.500000 
+DJT Bid Price 7.100000 
+DJT Mark Price 7.300000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:15
+DJT Last Trade Price 7.250000 
+DJT Ask Price 7.500000 
+DJT Bid Price 7.150000 
+DJT Mark Price 7.325000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:16
+DJT Last Trade Price 7.150000 
+DJT Ask Price 7.500000 
+DJT Bid Price 7.150000 
+DJT Mark Price 7.325000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:18
+DJT Last Trade Price 7.150000 
+DJT Ask Price 7.500000 
+DJT Bid Price 7.150000 
+DJT Mark Price 7.325000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:19
+DJT Last Trade Price 7.150000 
+DJT Ask Price 7.500000 
+DJT Bid Price 7.150000 
+DJT Mark Price 7.325000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:20
+DJT Last Trade Price 7.150000 
+DJT Ask Price 7.500000 
+DJT Bid Price 7.150000 
+DJT Mark Price 7.325000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:21
+DJT Last Trade Price 7.150000 
+DJT Ask Price 7.500000 
+DJT Bid Price 7.150000 
+DJT Mark Price 7.325000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:22
+DJT Last Trade Price 7.150000 
+DJT Ask Price 7.450000 
+DJT Bid Price 7.150000 
+DJT Mark Price 7.300000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:24
+DJT Last Trade Price 7.150000 
+DJT Ask Price 7.100000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.050000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:25
+DJT Last Trade Price 6.900000 
+DJT Ask Price 7.300000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.100000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:26
+DJT Last Trade Price 6.900000 
+DJT Ask Price 7.200000 
+DJT Bid Price 6.750000 
+DJT Mark Price 6.975000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:27
+DJT Last Trade Price 6.900000 
+DJT Ask Price 7.200000 
+DJT Bid Price 6.750000 
+DJT Mark Price 6.975000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:28
+DJT Last Trade Price 6.900000 
+DJT Ask Price 7.200000 
+DJT Bid Price 6.750000 
+DJT Mark Price 6.975000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:30
+DJT Last Trade Price 6.840000 
+DJT Ask Price 7.200000 
+DJT Bid Price 6.600000 
+DJT Mark Price 6.900000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:31
+DJT Last Trade Price 6.840000 
+DJT Ask Price 7.200000 
+DJT Bid Price 6.600000 
+DJT Mark Price 6.900000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:32
+DJT Last Trade Price 6.840000 
+DJT Ask Price 7.100000 
+DJT Bid Price 6.600000 
+DJT Mark Price 6.850000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:33
+DJT Last Trade Price 6.840000 
+DJT Ask Price 7.100000 
+DJT Bid Price 6.600000 
+DJT Mark Price 6.850000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:35
+DJT Last Trade Price 6.840000 
+DJT Ask Price 7.100000 
+DJT Bid Price 6.600000 
+DJT Mark Price 6.850000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:36
+DJT Last Trade Price 6.840000 
+DJT Ask Price 7.100000 
+DJT Bid Price 6.600000 
+DJT Mark Price 6.850000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:37
+DJT Last Trade Price 6.840000 
+DJT Ask Price 7.100000 
+DJT Bid Price 6.550000 
+DJT Mark Price 6.825000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:38
+DJT Last Trade Price 7.060000 
+DJT Ask Price 7.100000 
+DJT Bid Price 6.550000 
+DJT Mark Price 6.825000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:39
+DJT Last Trade Price 6.550000 
+DJT Ask Price 7.100000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.550000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:41
+DJT Last Trade Price 6.860000 
+DJT Ask Price 7.100000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.550000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:42
+DJT Last Trade Price 6.860000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.250000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:43
+DJT Last Trade Price 6.000000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.250000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:44
+DJT Last Trade Price 6.000000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.600000 
+DJT Mark Price 6.050000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:45
+DJT Last Trade Price 5.950000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.350000 
+DJT Mark Price 5.925000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:47
+DJT Last Trade Price 5.600000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.150000 
+DJT Mark Price 5.475000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:48
+DJT Last Trade Price 5.800000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.150000 
+DJT Mark Price 5.825000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:49
+DJT Last Trade Price 5.800000 
+DJT Ask Price 6.450000 
+DJT Bid Price 5.150000 
+DJT Mark Price 5.800000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:50
+DJT Last Trade Price 5.800000 
+DJT Ask Price 6.450000 
+DJT Bid Price 5.150000 
+DJT Mark Price 5.800000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:52
+DJT Last Trade Price 5.800000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.150000 
+DJT Mark Price 5.575000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:53
+DJT Last Trade Price 5.800000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.150000 
+DJT Mark Price 5.575000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:54
+DJT Last Trade Price 5.800000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.800000 
+DJT Mark Price 5.900000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:55
+DJT Last Trade Price 5.800000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.800000 
+DJT Mark Price 5.900000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:56
+DJT Last Trade Price 5.800000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.800000 
+DJT Mark Price 5.900000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:58
+DJT Last Trade Price 5.980000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.800000 
+DJT Mark Price 5.900000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:34:59
+DJT Last Trade Price 5.980000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.800000 
+DJT Mark Price 5.900000 
+DJT Open Price N/A 
+ 
+Time: 2024-03-27 13:35:00
+DJT Last Trade Price 5.800000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.600000 
+DJT Mark Price 5.700000 
+DJT Open Price 5.85 
+ 
+Time: 2024-03-27 13:35:01
+DJT Last Trade Price 5.800000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.600000 
+DJT Mark Price 5.700000 
+DJT Open Price 5.85 
+ 
+Time: 2024-03-27 13:35:02
+DJT Last Trade Price 5.800000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.600000 
+DJT Mark Price 5.700000 
+DJT Open Price 5.85 
+ 
+Time: 2024-03-27 13:35:04
+DJT Last Trade Price 5.800000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.600000 
+DJT Mark Price 5.700000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:05
+DJT Last Trade Price 5.800000 
+DJT Ask Price 5.900000 
+DJT Bid Price 5.600000 
+DJT Mark Price 5.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:06
+DJT Last Trade Price 5.810000 
+DJT Ask Price 5.900000 
+DJT Bid Price 5.600000 
+DJT Mark Price 5.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:07
+DJT Last Trade Price 5.850000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.600000 
+DJT Mark Price 5.700000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:09
+DJT Last Trade Price 5.600000 
+DJT Ask Price 5.900000 
+DJT Bid Price 5.250000 
+DJT Mark Price 5.575000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:10
+DJT Last Trade Price 5.600000 
+DJT Ask Price 5.700000 
+DJT Bid Price 5.450000 
+DJT Mark Price 5.575000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:11
+DJT Last Trade Price 5.600000 
+DJT Ask Price 5.700000 
+DJT Bid Price 5.450000 
+DJT Mark Price 5.575000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:12
+DJT Last Trade Price 5.600000 
+DJT Ask Price 5.600000 
+DJT Bid Price 5.450000 
+DJT Mark Price 5.525000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:13
+DJT Last Trade Price 5.600000 
+DJT Ask Price 5.600000 
+DJT Bid Price 5.450000 
+DJT Mark Price 5.525000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:15
+DJT Last Trade Price 5.600000 
+DJT Ask Price 5.600000 
+DJT Bid Price 5.450000 
+DJT Mark Price 5.525000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:16
+DJT Last Trade Price 5.600000 
+DJT Ask Price 5.600000 
+DJT Bid Price 5.450000 
+DJT Mark Price 5.525000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:17
+DJT Last Trade Price 5.500000 
+DJT Ask Price 5.600000 
+DJT Bid Price 5.450000 
+DJT Mark Price 5.525000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:18
+DJT Last Trade Price 5.600000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.450000 
+DJT Mark Price 5.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:19
+DJT Last Trade Price 5.450000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.450000 
+DJT Mark Price 5.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:21
+DJT Last Trade Price 5.450000 
+DJT Ask Price 5.600000 
+DJT Bid Price 5.450000 
+DJT Mark Price 5.525000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:22
+DJT Last Trade Price 5.600000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.450000 
+DJT Mark Price 5.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:23
+DJT Last Trade Price 5.600000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.450000 
+DJT Mark Price 5.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:24
+DJT Last Trade Price 5.500000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.450000 
+DJT Mark Price 5.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:26
+DJT Last Trade Price 5.770000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.500000 
+DJT Mark Price 5.650000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:27
+DJT Last Trade Price 5.770000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.500000 
+DJT Mark Price 5.650000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:28
+DJT Last Trade Price 5.770000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.500000 
+DJT Mark Price 5.650000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:29
+DJT Last Trade Price 5.770000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.500000 
+DJT Mark Price 5.650000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:30
+DJT Last Trade Price 5.770000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.500000 
+DJT Mark Price 5.650000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:32
+DJT Last Trade Price 5.770000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.650000 
+DJT Mark Price 5.725000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:33
+DJT Last Trade Price 5.740000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.650000 
+DJT Mark Price 5.725000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:34
+DJT Last Trade Price 5.740000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.700000 
+DJT Mark Price 5.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:35
+DJT Last Trade Price 5.700000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.650000 
+DJT Mark Price 5.725000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:36
+DJT Last Trade Price 5.700000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.650000 
+DJT Mark Price 5.725000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:38
+DJT Last Trade Price 5.720000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.700000 
+DJT Mark Price 5.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:39
+DJT Last Trade Price 5.720000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.700000 
+DJT Mark Price 5.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:40
+DJT Last Trade Price 5.900000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.750000 
+DJT Mark Price 5.875000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:41
+DJT Last Trade Price 5.980000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.750000 
+DJT Mark Price 5.875000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:43
+DJT Last Trade Price 6.000000 
+DJT Ask Price 6.400000 
+DJT Bid Price 5.900000 
+DJT Mark Price 6.150000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:44
+DJT Last Trade Price 6.000000 
+DJT Ask Price 6.400000 
+DJT Bid Price 5.900000 
+DJT Mark Price 6.150000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:45
+DJT Last Trade Price 6.000000 
+DJT Ask Price 6.400000 
+DJT Bid Price 5.900000 
+DJT Mark Price 6.150000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:46
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.400000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.175000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:48
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.400000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.175000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:49
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.400000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.200000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:50
+DJT Last Trade Price 5.900000 
+DJT Ask Price 6.350000 
+DJT Bid Price 5.750000 
+DJT Mark Price 6.050000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:51
+DJT Last Trade Price 5.750000 
+DJT Ask Price 6.300000 
+DJT Bid Price 5.650000 
+DJT Mark Price 5.975000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:52
+DJT Last Trade Price 5.750000 
+DJT Ask Price 6.300000 
+DJT Bid Price 5.650000 
+DJT Mark Price 5.975000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:54
+DJT Last Trade Price 5.750000 
+DJT Ask Price 6.300000 
+DJT Bid Price 5.650000 
+DJT Mark Price 5.975000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:55
+DJT Last Trade Price 5.750000 
+DJT Ask Price 6.250000 
+DJT Bid Price 5.650000 
+DJT Mark Price 5.950000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:56
+DJT Last Trade Price 5.750000 
+DJT Ask Price 6.250000 
+DJT Bid Price 5.650000 
+DJT Mark Price 5.950000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:57
+DJT Last Trade Price 5.950000 
+DJT Ask Price 6.200000 
+DJT Bid Price 5.650000 
+DJT Mark Price 5.925000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:35:58
+DJT Last Trade Price 5.950000 
+DJT Ask Price 6.200000 
+DJT Bid Price 5.650000 
+DJT Mark Price 5.925000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:00
+DJT Last Trade Price 5.950000 
+DJT Ask Price 6.200000 
+DJT Bid Price 5.650000 
+DJT Mark Price 5.925000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:01
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.200000 
+DJT Bid Price 5.650000 
+DJT Mark Price 5.925000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:02
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.150000 
+DJT Bid Price 5.650000 
+DJT Mark Price 5.900000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:03
+DJT Last Trade Price 5.980000 
+DJT Ask Price 6.050000 
+DJT Bid Price 5.650000 
+DJT Mark Price 5.850000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:05
+DJT Last Trade Price 5.600000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.500000 
+DJT Mark Price 5.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:06
+DJT Last Trade Price 5.600000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.500000 
+DJT Mark Price 5.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:07
+DJT Last Trade Price 5.600000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.500000 
+DJT Mark Price 5.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:08
+DJT Last Trade Price 5.730000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.500000 
+DJT Mark Price 5.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:09
+DJT Last Trade Price 5.850000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.500000 
+DJT Mark Price 5.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:11
+DJT Last Trade Price 5.850000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.750000 
+DJT Mark Price 5.875000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:12
+DJT Last Trade Price 5.750000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.500000 
+DJT Mark Price 5.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:13
+DJT Last Trade Price 5.650000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.500000 
+DJT Mark Price 5.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:14
+DJT Last Trade Price 5.650000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.500000 
+DJT Mark Price 5.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:16
+DJT Last Trade Price 5.500000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.500000 
+DJT Mark Price 5.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:17
+DJT Last Trade Price 5.500000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.500000 
+DJT Mark Price 5.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:18
+DJT Last Trade Price 5.500000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.500000 
+DJT Mark Price 5.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:19
+DJT Last Trade Price 5.450000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.100000 
+DJT Mark Price 5.550000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:20
+DJT Last Trade Price 5.500000 
+DJT Ask Price 6.000000 
+DJT Bid Price 5.100000 
+DJT Mark Price 5.550000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:22
+DJT Last Trade Price 5.500000 
+DJT Ask Price 5.950000 
+DJT Bid Price 5.100000 
+DJT Mark Price 5.525000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:23
+DJT Last Trade Price 5.500000 
+DJT Ask Price 5.950000 
+DJT Bid Price 5.100000 
+DJT Mark Price 5.525000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:24
+DJT Last Trade Price 5.500000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.100000 
+DJT Mark Price 5.450000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:25
+DJT Last Trade Price 5.100000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.200000 
+DJT Mark Price 5.500000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:26
+DJT Last Trade Price 5.500000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.300000 
+DJT Mark Price 5.550000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:28
+DJT Last Trade Price 5.550000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.300000 
+DJT Mark Price 5.550000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:29
+DJT Last Trade Price 5.550000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.300000 
+DJT Mark Price 5.550000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:30
+DJT Last Trade Price 5.550000 
+DJT Ask Price 5.800000 
+DJT Bid Price 5.300000 
+DJT Mark Price 5.550000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:31
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.350000 
+DJT Mark Price 5.925000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:32
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.600000 
+DJT Mark Price 6.050000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:34
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.600000 
+DJT Mark Price 6.050000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:35
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.600000 
+DJT Mark Price 6.050000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:36
+DJT Last Trade Price 6.220000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.650000 
+DJT Mark Price 6.075000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:37
+DJT Last Trade Price 6.220000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.650000 
+DJT Mark Price 6.075000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:39
+DJT Last Trade Price 6.270000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.700000 
+DJT Mark Price 6.100000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:40
+DJT Last Trade Price 6.270000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.700000 
+DJT Mark Price 6.100000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:41
+DJT Last Trade Price 6.270000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.700000 
+DJT Mark Price 6.100000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:42
+DJT Last Trade Price 6.270000 
+DJT Ask Price 6.200000 
+DJT Bid Price 5.750000 
+DJT Mark Price 5.975000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:43
+DJT Last Trade Price 6.000000 
+DJT Ask Price 6.200000 
+DJT Bid Price 5.750000 
+DJT Mark Price 5.975000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:45
+DJT Last Trade Price 6.000000 
+DJT Ask Price 6.200000 
+DJT Bid Price 5.750000 
+DJT Mark Price 5.975000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:46
+DJT Last Trade Price 6.000000 
+DJT Ask Price 6.200000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.100000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:47
+DJT Last Trade Price 6.150000 
+DJT Ask Price 6.200000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.100000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:48
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.200000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.100000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:49
+DJT Last Trade Price 6.070000 
+DJT Ask Price 6.200000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.100000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:51
+DJT Last Trade Price 6.070000 
+DJT Ask Price 6.200000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.100000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:52
+DJT Last Trade Price 6.000000 
+DJT Ask Price 6.200000 
+DJT Bid Price 5.700000 
+DJT Mark Price 5.950000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:53
+DJT Last Trade Price 6.100000 
+DJT Ask Price 6.200000 
+DJT Bid Price 5.850000 
+DJT Mark Price 6.025000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:54
+DJT Last Trade Price 6.100000 
+DJT Ask Price 6.200000 
+DJT Bid Price 5.750000 
+DJT Mark Price 5.975000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:56
+DJT Last Trade Price 6.100000 
+DJT Ask Price 6.100000 
+DJT Bid Price 5.750000 
+DJT Mark Price 5.925000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:57
+DJT Last Trade Price 6.100000 
+DJT Ask Price 6.100000 
+DJT Bid Price 5.750000 
+DJT Mark Price 5.925000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:58
+DJT Last Trade Price 6.100000 
+DJT Ask Price 6.100000 
+DJT Bid Price 5.750000 
+DJT Mark Price 5.925000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:36:59
+DJT Last Trade Price 6.100000 
+DJT Ask Price 6.100000 
+DJT Bid Price 5.750000 
+DJT Mark Price 5.925000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:00
+DJT Last Trade Price 6.100000 
+DJT Ask Price 6.100000 
+DJT Bid Price 5.750000 
+DJT Mark Price 5.925000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:02
+DJT Last Trade Price 6.100000 
+DJT Ask Price 6.100000 
+DJT Bid Price 5.750000 
+DJT Mark Price 5.925000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:03
+DJT Last Trade Price 6.100000 
+DJT Ask Price 6.200000 
+DJT Bid Price 5.750000 
+DJT Mark Price 5.975000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:04
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.150000 
+DJT Mark Price 6.325000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:05
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:07
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:08
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.250000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:09
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.250000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:10
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.250000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:11
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.250000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:13
+DJT Last Trade Price 6.280000 
+DJT Ask Price 6.450000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:14
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.450000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:15
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.250000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:16
+DJT Last Trade Price 6.000000 
+DJT Ask Price 6.400000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.200000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:17
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.250000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:19
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:20
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:21
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:22
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:24
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:25
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:26
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:27
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:28
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.400000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.175000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:30
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.400000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.175000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:31
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:32
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.450000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.200000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:33
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.450000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.200000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:35
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.450000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.200000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:36
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.450000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.200000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:37
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:38
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:39
+DJT Last Trade Price 6.450000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:41
+DJT Last Trade Price 6.450000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.250000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:42
+DJT Last Trade Price 6.350000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.250000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:43
+DJT Last Trade Price 6.350000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.250000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:44
+DJT Last Trade Price 6.350000 
+DJT Ask Price 6.550000 
+DJT Bid Price 6.100000 
+DJT Mark Price 6.325000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:46
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.550000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.375000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:47
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.550000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.375000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:48
+DJT Last Trade Price 6.550000 
+DJT Ask Price 6.600000 
+DJT Bid Price 6.250000 
+DJT Mark Price 6.425000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:49
+DJT Last Trade Price 6.600000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:50
+DJT Last Trade Price 6.600000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:52
+DJT Last Trade Price 6.600000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:53
+DJT Last Trade Price 6.760000 
+DJT Ask Price 7.300000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.900000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:54
+DJT Last Trade Price 6.760000 
+DJT Ask Price 7.300000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.900000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:55
+DJT Last Trade Price 6.760000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:56
+DJT Last Trade Price 6.700000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.650000 
+DJT Mark Price 6.825000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:58
+DJT Last Trade Price 6.950000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.700000 
+DJT Mark Price 6.850000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:37:59
+DJT Last Trade Price 6.950000 
+DJT Ask Price 6.950000 
+DJT Bid Price 6.600000 
+DJT Mark Price 6.775000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:00
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.300000 
+DJT Bid Price 6.650000 
+DJT Mark Price 6.975000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:01
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.300000 
+DJT Bid Price 6.700000 
+DJT Mark Price 7.000000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:02
+DJT Last Trade Price 6.830000 
+DJT Ask Price 7.300000 
+DJT Bid Price 6.950000 
+DJT Mark Price 7.125000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:04
+DJT Last Trade Price 6.950000 
+DJT Ask Price 7.300000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.100000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:05
+DJT Last Trade Price 7.020000 
+DJT Ask Price 7.300000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.100000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:06
+DJT Last Trade Price 7.020000 
+DJT Ask Price 7.250000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.075000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:08
+DJT Last Trade Price 7.020000 
+DJT Ask Price 7.250000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.075000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:09
+DJT Last Trade Price 7.100000 
+DJT Ask Price 7.250000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.075000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:10
+DJT Last Trade Price 7.100000 
+DJT Ask Price 7.250000 
+DJT Bid Price 6.900000 
+DJT Mark Price 7.075000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:11
+DJT Last Trade Price 6.900000 
+DJT Ask Price 7.100000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.800000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:12
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.100000 
+DJT Bid Price 6.600000 
+DJT Mark Price 6.850000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:14
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.100000 
+DJT Bid Price 6.700000 
+DJT Mark Price 6.900000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:15
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.100000 
+DJT Bid Price 6.700000 
+DJT Mark Price 6.900000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:16
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.100000 
+DJT Bid Price 7.000000 
+DJT Mark Price 7.050000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:17
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.100000 
+DJT Bid Price 6.750000 
+DJT Mark Price 6.925000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:18
+DJT Last Trade Price 6.700000 
+DJT Ask Price 7.100000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.800000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:20
+DJT Last Trade Price 6.700000 
+DJT Ask Price 7.100000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.800000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:21
+DJT Last Trade Price 6.700000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:22
+DJT Last Trade Price 6.700000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:23
+DJT Last Trade Price 6.670000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.550000 
+DJT Mark Price 6.775000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:25
+DJT Last Trade Price 6.670000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.550000 
+DJT Mark Price 6.775000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:26
+DJT Last Trade Price 6.700000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.600000 
+DJT Mark Price 6.800000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:27
+DJT Last Trade Price 6.700000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:28
+DJT Last Trade Price 6.700000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:29
+DJT Last Trade Price 6.800000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:31
+DJT Last Trade Price 6.560000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.550000 
+DJT Mark Price 6.775000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:32
+DJT Last Trade Price 6.560000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:33
+DJT Last Trade Price 6.560000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:34
+DJT Last Trade Price 6.950000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:35
+DJT Last Trade Price 6.950000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.750000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:37
+DJT Last Trade Price 6.950000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:38
+DJT Last Trade Price 6.740000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:39
+DJT Last Trade Price 6.740000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:40
+DJT Last Trade Price 6.740000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:41
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.550000 
+DJT Mark Price 6.775000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:43
+DJT Last Trade Price 6.750000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.550000 
+DJT Mark Price 6.775000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:44
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.650000 
+DJT Mark Price 6.825000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:45
+DJT Last Trade Price 6.810000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.650000 
+DJT Mark Price 6.825000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:46
+DJT Last Trade Price 6.810000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.650000 
+DJT Mark Price 6.825000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:47
+DJT Last Trade Price 6.810000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.650000 
+DJT Mark Price 6.825000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:49
+DJT Last Trade Price 6.810000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.650000 
+DJT Mark Price 6.825000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:50
+DJT Last Trade Price 6.810000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.650000 
+DJT Mark Price 6.825000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:51
+DJT Last Trade Price 6.810000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.650000 
+DJT Mark Price 6.825000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:52
+DJT Last Trade Price 6.810000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.650000 
+DJT Mark Price 6.825000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:53
+DJT Last Trade Price 6.810000 
+DJT Ask Price 6.800000 
+DJT Bid Price 6.650000 
+DJT Mark Price 6.725000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:55
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.700000 
+DJT Mark Price 6.850000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:56
+DJT Last Trade Price 7.000000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.700000 
+DJT Mark Price 6.850000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:57
+DJT Last Trade Price 6.850000 
+DJT Ask Price 7.000000 
+DJT Bid Price 6.800000 
+DJT Mark Price 6.900000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:38:58
+DJT Last Trade Price 6.760000 
+DJT Ask Price 6.800000 
+DJT Bid Price 6.550000 
+DJT Mark Price 6.675000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:00
+DJT Last Trade Price 6.670000 
+DJT Ask Price 6.800000 
+DJT Bid Price 6.550000 
+DJT Mark Price 6.675000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:01
+DJT Last Trade Price 6.670000 
+DJT Ask Price 6.800000 
+DJT Bid Price 6.550000 
+DJT Mark Price 6.675000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:02
+DJT Last Trade Price 6.750000 
+DJT Ask Price 6.800000 
+DJT Bid Price 6.550000 
+DJT Mark Price 6.675000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:03
+DJT Last Trade Price 6.750000 
+DJT Ask Price 6.800000 
+DJT Bid Price 6.550000 
+DJT Mark Price 6.675000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:04
+DJT Last Trade Price 6.450000 
+DJT Ask Price 6.800000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.400000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:06
+DJT Last Trade Price 6.450000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.375000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:07
+DJT Last Trade Price 6.450000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.375000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:08
+DJT Last Trade Price 6.450000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.375000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:09
+DJT Last Trade Price 6.450000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.375000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:10
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.375000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:12
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.375000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:13
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.375000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:14
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.050000 
+DJT Mark Price 6.400000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:15
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.050000 
+DJT Mark Price 6.400000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:16
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.050000 
+DJT Mark Price 6.400000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:18
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.475000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:19
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.475000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:20
+DJT Last Trade Price 6.400000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.475000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:21
+DJT Last Trade Price 6.750000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.475000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:22
+DJT Last Trade Price 6.750000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.475000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:24
+DJT Last Trade Price 6.750000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:25
+DJT Last Trade Price 6.700000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:26
+DJT Last Trade Price 6.700000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:27
+DJT Last Trade Price 6.700000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:28
+DJT Last Trade Price 6.700000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:30
+DJT Last Trade Price 6.750000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:31
+DJT Last Trade Price 6.650000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:32
+DJT Last Trade Price 6.650000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:33
+DJT Last Trade Price 6.700000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.500000 
+DJT Mark Price 6.625000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:34
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.100000 
+DJT Mark Price 6.425000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:36
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.750000 
+DJT Bid Price 6.150000 
+DJT Mark Price 6.450000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:37
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.650000 
+DJT Bid Price 6.150000 
+DJT Mark Price 6.400000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:38
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.650000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.425000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:39
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.650000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.425000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:41
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.350000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:42
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.350000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:43
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.350000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:44
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.200000 
+DJT Mark Price 6.350000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:45
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.250000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:47
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.250000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:48
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.050000 
+DJT Mark Price 6.275000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:49
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.050000 
+DJT Mark Price 6.275000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:50
+DJT Last Trade Price 6.500000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.050000 
+DJT Mark Price 6.275000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:51
+DJT Last Trade Price 6.100000 
+DJT Ask Price 6.100000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.050000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:53
+DJT Last Trade Price 6.100000 
+DJT Ask Price 6.100000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.025000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:54
+DJT Last Trade Price 5.950000 
+DJT Ask Price 6.100000 
+DJT Bid Price 5.550000 
+DJT Mark Price 5.825000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:55
+DJT Last Trade Price 5.900000 
+DJT Ask Price 6.100000 
+DJT Bid Price 5.550000 
+DJT Mark Price 5.825000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:56
+DJT Last Trade Price 5.900000 
+DJT Ask Price 6.100000 
+DJT Bid Price 5.550000 
+DJT Mark Price 5.825000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:57
+DJT Last Trade Price 6.300000 
+DJT Ask Price 6.300000 
+DJT Bid Price 5.550000 
+DJT Mark Price 5.925000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:39:59
+DJT Last Trade Price 5.800000 
+DJT Ask Price 6.300000 
+DJT Bid Price 5.800000 
+DJT Mark Price 6.050000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:00
+DJT Last Trade Price 5.800000 
+DJT Ask Price 6.300000 
+DJT Bid Price 5.800000 
+DJT Mark Price 6.050000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:01
+DJT Last Trade Price 5.800000 
+DJT Ask Price 6.300000 
+DJT Bid Price 5.800000 
+DJT Mark Price 6.050000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:02
+DJT Last Trade Price 5.800000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.800000 
+DJT Mark Price 6.150000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:04
+DJT Last Trade Price 5.800000 
+DJT Ask Price 6.300000 
+DJT Bid Price 5.800000 
+DJT Mark Price 6.050000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:05
+DJT Last Trade Price 5.800000 
+DJT Ask Price 6.300000 
+DJT Bid Price 5.800000 
+DJT Mark Price 6.050000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:06
+DJT Last Trade Price 6.050000 
+DJT Ask Price 6.300000 
+DJT Bid Price 5.800000 
+DJT Mark Price 6.050000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:07
+DJT Last Trade Price 6.250000 
+DJT Ask Price 6.300000 
+DJT Bid Price 6.150000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:08
+DJT Last Trade Price 6.250000 
+DJT Ask Price 6.250000 
+DJT Bid Price 5.900000 
+DJT Mark Price 6.075000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:10
+DJT Last Trade Price 6.250000 
+DJT Ask Price 6.300000 
+DJT Bid Price 5.800000 
+DJT Mark Price 6.050000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:11
+DJT Last Trade Price 6.250000 
+DJT Ask Price 6.300000 
+DJT Bid Price 5.800000 
+DJT Mark Price 6.050000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:12
+DJT Last Trade Price 6.250000 
+DJT Ask Price 6.300000 
+DJT Bid Price 5.800000 
+DJT Mark Price 6.050000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:13
+DJT Last Trade Price 6.250000 
+DJT Ask Price 6.300000 
+DJT Bid Price 5.850000 
+DJT Mark Price 6.075000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:14
+DJT Last Trade Price 5.900000 
+DJT Ask Price 6.300000 
+DJT Bid Price 5.900000 
+DJT Mark Price 6.100000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:16
+DJT Last Trade Price 5.900000 
+DJT Ask Price 6.300000 
+DJT Bid Price 5.900000 
+DJT Mark Price 6.100000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:17
+DJT Last Trade Price 5.900000 
+DJT Ask Price 6.100000 
+DJT Bid Price 5.900000 
+DJT Mark Price 6.000000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:18
+DJT Last Trade Price 6.250000 
+DJT Ask Price 6.300000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.125000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:19
+DJT Last Trade Price 6.250000 
+DJT Ask Price 6.350000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.150000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:21
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.350000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.150000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:22
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:23
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:24
+DJT Last Trade Price 6.200000 
+DJT Ask Price 6.500000 
+DJT Bid Price 5.950000 
+DJT Mark Price 6.225000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:25
+DJT Last Trade Price 6.300000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.000000 
+DJT Mark Price 6.250000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:27
+DJT Last Trade Price 6.300000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.050000 
+DJT Mark Price 6.275000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:28
+DJT Last Trade Price 6.300000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.050000 
+DJT Mark Price 6.275000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:29
+DJT Last Trade Price 6.300000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.050000 
+DJT Mark Price 6.275000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:30
+DJT Last Trade Price 6.300000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.050000 
+DJT Mark Price 6.275000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:31
+DJT Last Trade Price 6.300000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.050000 
+DJT Mark Price 6.275000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:33
+DJT Last Trade Price 6.300000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.050000 
+DJT Mark Price 6.275000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:34
+DJT Last Trade Price 6.300000 
+DJT Ask Price 6.500000 
+DJT Bid Price 6.050000 
+DJT Mark Price 6.275000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:35
+DJT Last Trade Price 6.450000 
+DJT Ask Price 6.450000 
+DJT Bid Price 6.050000 
+DJT Mark Price 6.250000 
+DJT Open Price 5.7 
+ 
+Time: 2024-03-27 13:40:36
+DJT Last Trade Price 6.450000 
+DJT Ask Price 6.450000 
+DJT Bid Price 6.100000 
+DJT Mark Price 6.275000 
+DJT Open Price 5.7 
+ 
