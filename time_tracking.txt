@@ -32947,3 +32947,3279 @@ DJT Bid Price 6.100000
 DJT Mark Price 6.275000 
 DJT Open Price 5.7 
  
+Time: 2024-03-28 13:27:06
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:07
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:09
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:11
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:12
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:14
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:16
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:18
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:20
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:21
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:23
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:25
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:27
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:28
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:30
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:32
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:33
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:35
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:37
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:39
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:40
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:42
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:44
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:45
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:47
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:49
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:51
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:52
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:54
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:56
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:57
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:27:59
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:01
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:02
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:04
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:06
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:08
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:09
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:11
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:13
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:15
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:16
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:18
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:20
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:21
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:23
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:25
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:27
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:28
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:30
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:32
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:34
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:35
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:37
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:39
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:41
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:42
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:44
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:46
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:48
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:49
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:51
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:53
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:54
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:56
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:28:58
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:00
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:01
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:03
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:05
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:07
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:08
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:10
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:12
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:14
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:15
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:17
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:19
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:21
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:22
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:24
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:26
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:28
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:29
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:31
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:33
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:34
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:36
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:38
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:40
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:41
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:43
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:45
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:47
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:48
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:50
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:52
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:53
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:55
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:57
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:29:59
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price 6.2 
+ 
+Time: 2024-03-28 13:30:00
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:02
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:04
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:06
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:07
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:09
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:11
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:12
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:14
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:16
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:17
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:19
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:21
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:23
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:24
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:26
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:28
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:29
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:31
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:33
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:34
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:36
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:38
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:40
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:41
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:43
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:45
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:46
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:48
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:50
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:51
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:53
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:55
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:57
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:30:58
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:00
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:02
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:03
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:05
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:07
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:09
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:10
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:12
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:14
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:15
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:17
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:19
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:20
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:22
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:24
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:26
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:27
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:29
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:31
+RH Last Trade Price 6.630000 
+RH Ask Price 6.900000 
+RH Bid Price 6.200000 
+RH Mark Price 6.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:32
+RH Last Trade Price 8.500000 
+RH Ask Price 12.000000 
+RH Bid Price 6.900000 
+RH Mark Price 9.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:34
+RH Last Trade Price 8.500000 
+RH Ask Price 12.000000 
+RH Bid Price 6.900000 
+RH Mark Price 9.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:36
+RH Last Trade Price 8.500000 
+RH Ask Price 12.000000 
+RH Bid Price 6.900000 
+RH Mark Price 9.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:38
+RH Last Trade Price 8.500000 
+RH Ask Price 12.000000 
+RH Bid Price 6.900000 
+RH Mark Price 9.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:39
+RH Last Trade Price 12.000000 
+RH Ask Price 14.400000 
+RH Bid Price 9.700000 
+RH Mark Price 12.050000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:41
+RH Last Trade Price 12.000000 
+RH Ask Price 14.400000 
+RH Bid Price 9.700000 
+RH Mark Price 12.050000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:43
+RH Last Trade Price 12.000000 
+RH Ask Price 12.000000 
+RH Bid Price 9.700000 
+RH Mark Price 10.850000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:45
+RH Last Trade Price 12.000000 
+RH Ask Price 12.000000 
+RH Bid Price 9.700000 
+RH Mark Price 10.850000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:46
+RH Last Trade Price 12.000000 
+RH Ask Price 12.000000 
+RH Bid Price 9.700000 
+RH Mark Price 10.850000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:48
+RH Last Trade Price 12.000000 
+RH Ask Price 12.000000 
+RH Bid Price 9.700000 
+RH Mark Price 10.850000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:50
+RH Last Trade Price 12.000000 
+RH Ask Price 12.000000 
+RH Bid Price 9.700000 
+RH Mark Price 10.850000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:52
+RH Last Trade Price 10.100000 
+RH Ask Price 12.000000 
+RH Bid Price 9.700000 
+RH Mark Price 10.850000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:54
+RH Last Trade Price 9.750000 
+RH Ask Price 12.000000 
+RH Bid Price 7.100000 
+RH Mark Price 9.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:55
+RH Last Trade Price 9.750000 
+RH Ask Price 10.800000 
+RH Bid Price 9.000000 
+RH Mark Price 9.900000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:57
+RH Last Trade Price 9.750000 
+RH Ask Price 10.800000 
+RH Bid Price 9.000000 
+RH Mark Price 9.900000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:31:59
+RH Last Trade Price 9.750000 
+RH Ask Price 10.800000 
+RH Bid Price 9.000000 
+RH Mark Price 9.900000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:00
+RH Last Trade Price 9.750000 
+RH Ask Price 10.800000 
+RH Bid Price 9.000000 
+RH Mark Price 9.900000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:02
+RH Last Trade Price 9.750000 
+RH Ask Price 10.800000 
+RH Bid Price 9.000000 
+RH Mark Price 9.900000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:04
+RH Last Trade Price 9.900000 
+RH Ask Price 10.800000 
+RH Bid Price 9.000000 
+RH Mark Price 9.900000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:05
+RH Last Trade Price 9.900000 
+RH Ask Price 9.900000 
+RH Bid Price 9.000000 
+RH Mark Price 9.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:07
+RH Last Trade Price 10.100000 
+RH Ask Price 12.000000 
+RH Bid Price 9.700000 
+RH Mark Price 10.850000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:09
+RH Last Trade Price 11.020000 
+RH Ask Price 13.500000 
+RH Bid Price 9.700000 
+RH Mark Price 11.600000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:11
+RH Last Trade Price 11.020000 
+RH Ask Price 13.500000 
+RH Bid Price 9.800000 
+RH Mark Price 11.650000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:12
+RH Last Trade Price 11.500000 
+RH Ask Price 13.500000 
+RH Bid Price 7.500000 
+RH Mark Price 10.500000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:14
+RH Last Trade Price 7.500000 
+RH Ask Price 13.500000 
+RH Bid Price 7.500000 
+RH Mark Price 10.500000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:16
+RH Last Trade Price 7.500000 
+RH Ask Price 13.500000 
+RH Bid Price 7.600000 
+RH Mark Price 10.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:17
+RH Last Trade Price 7.500000 
+RH Ask Price 13.500000 
+RH Bid Price 7.600000 
+RH Mark Price 10.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:19
+RH Last Trade Price 7.500000 
+RH Ask Price 13.500000 
+RH Bid Price 7.600000 
+RH Mark Price 10.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:21
+RH Last Trade Price 7.500000 
+RH Ask Price 13.500000 
+RH Bid Price 7.600000 
+RH Mark Price 10.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:23
+RH Last Trade Price 7.500000 
+RH Ask Price 13.500000 
+RH Bid Price 7.600000 
+RH Mark Price 10.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:24
+RH Last Trade Price 7.500000 
+RH Ask Price 13.500000 
+RH Bid Price 7.600000 
+RH Mark Price 10.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:26
+RH Last Trade Price 7.500000 
+RH Ask Price 13.500000 
+RH Bid Price 7.600000 
+RH Mark Price 10.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:28
+RH Last Trade Price 7.500000 
+RH Ask Price 13.500000 
+RH Bid Price 7.600000 
+RH Mark Price 10.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:29
+RH Last Trade Price 11.440000 
+RH Ask Price 12.000000 
+RH Bid Price 7.600000 
+RH Mark Price 9.800000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:31
+RH Last Trade Price 10.500000 
+RH Ask Price 12.000000 
+RH Bid Price 7.700000 
+RH Mark Price 9.850000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:33
+RH Last Trade Price 10.500000 
+RH Ask Price 12.000000 
+RH Bid Price 7.700000 
+RH Mark Price 9.850000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:34
+RH Last Trade Price 10.500000 
+RH Ask Price 12.000000 
+RH Bid Price 7.700000 
+RH Mark Price 9.850000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:36
+RH Last Trade Price 10.500000 
+RH Ask Price 12.000000 
+RH Bid Price 7.700000 
+RH Mark Price 9.850000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:38
+RH Last Trade Price 10.500000 
+RH Ask Price 12.000000 
+RH Bid Price 8.000000 
+RH Mark Price 10.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:40
+RH Last Trade Price 10.500000 
+RH Ask Price 12.000000 
+RH Bid Price 8.100000 
+RH Mark Price 10.050000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:41
+RH Last Trade Price 10.500000 
+RH Ask Price 12.000000 
+RH Bid Price 8.100000 
+RH Mark Price 10.050000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:43
+RH Last Trade Price 10.500000 
+RH Ask Price 12.000000 
+RH Bid Price 8.100000 
+RH Mark Price 10.050000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:45
+RH Last Trade Price 10.500000 
+RH Ask Price 12.000000 
+RH Bid Price 8.100000 
+RH Mark Price 10.050000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:46
+RH Last Trade Price 10.500000 
+RH Ask Price 12.000000 
+RH Bid Price 8.200000 
+RH Mark Price 10.100000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:48
+RH Last Trade Price 10.500000 
+RH Ask Price 12.000000 
+RH Bid Price 8.200000 
+RH Mark Price 10.100000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:50
+RH Last Trade Price 10.500000 
+RH Ask Price 12.000000 
+RH Bid Price 8.200000 
+RH Mark Price 10.100000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:51
+RH Last Trade Price 10.500000 
+RH Ask Price 12.000000 
+RH Bid Price 8.200000 
+RH Mark Price 10.100000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:53
+RH Last Trade Price 10.500000 
+RH Ask Price 10.100000 
+RH Bid Price 8.200000 
+RH Mark Price 9.150000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:55
+RH Last Trade Price 10.100000 
+RH Ask Price 12.000000 
+RH Bid Price 8.200000 
+RH Mark Price 10.100000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:57
+RH Last Trade Price 10.100000 
+RH Ask Price 12.000000 
+RH Bid Price 8.200000 
+RH Mark Price 10.100000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:32:58
+RH Last Trade Price 10.100000 
+RH Ask Price 12.000000 
+RH Bid Price 8.200000 
+RH Mark Price 10.100000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:00
+RH Last Trade Price 10.100000 
+RH Ask Price 12.000000 
+RH Bid Price 8.200000 
+RH Mark Price 10.100000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:02
+RH Last Trade Price 10.100000 
+RH Ask Price 12.000000 
+RH Bid Price 8.200000 
+RH Mark Price 10.100000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:04
+RH Last Trade Price 10.100000 
+RH Ask Price 12.000000 
+RH Bid Price 8.200000 
+RH Mark Price 10.100000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:05
+RH Last Trade Price 10.100000 
+RH Ask Price 12.000000 
+RH Bid Price 8.200000 
+RH Mark Price 10.100000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:07
+RH Last Trade Price 10.100000 
+RH Ask Price 12.000000 
+RH Bid Price 8.200000 
+RH Mark Price 10.100000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:09
+RH Last Trade Price 10.100000 
+RH Ask Price 12.000000 
+RH Bid Price 8.000000 
+RH Mark Price 10.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:10
+RH Last Trade Price 10.100000 
+RH Ask Price 10.500000 
+RH Bid Price 8.000000 
+RH Mark Price 9.250000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:12
+RH Last Trade Price 8.670000 
+RH Ask Price 10.500000 
+RH Bid Price 8.000000 
+RH Mark Price 9.250000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:14
+RH Last Trade Price 8.670000 
+RH Ask Price 10.500000 
+RH Bid Price 8.000000 
+RH Mark Price 9.250000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:15
+RH Last Trade Price 8.670000 
+RH Ask Price 10.000000 
+RH Bid Price 8.000000 
+RH Mark Price 9.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:17
+RH Last Trade Price 8.610000 
+RH Ask Price 9.000000 
+RH Bid Price 8.000000 
+RH Mark Price 8.500000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:19
+RH Last Trade Price 8.750000 
+RH Ask Price 8.500000 
+RH Bid Price 8.000000 
+RH Mark Price 8.250000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:21
+RH Last Trade Price 8.750000 
+RH Ask Price 8.500000 
+RH Bid Price 8.000000 
+RH Mark Price 8.250000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:22
+RH Last Trade Price 8.300000 
+RH Ask Price 10.000000 
+RH Bid Price 8.000000 
+RH Mark Price 9.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:24
+RH Last Trade Price 8.500000 
+RH Ask Price 10.000000 
+RH Bid Price 8.000000 
+RH Mark Price 9.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:26
+RH Last Trade Price 8.500000 
+RH Ask Price 8.400000 
+RH Bid Price 7.000000 
+RH Mark Price 7.700000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:27
+RH Last Trade Price 8.000000 
+RH Ask Price 9.000000 
+RH Bid Price 7.000000 
+RH Mark Price 8.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:29
+RH Last Trade Price 8.000000 
+RH Ask Price 9.000000 
+RH Bid Price 7.000000 
+RH Mark Price 8.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:31
+RH Last Trade Price 8.000000 
+RH Ask Price 9.000000 
+RH Bid Price 7.000000 
+RH Mark Price 8.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:33
+RH Last Trade Price 8.000000 
+RH Ask Price 9.000000 
+RH Bid Price 7.000000 
+RH Mark Price 8.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:34
+RH Last Trade Price 8.000000 
+RH Ask Price 9.000000 
+RH Bid Price 7.000000 
+RH Mark Price 8.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:36
+RH Last Trade Price 8.000000 
+RH Ask Price 9.000000 
+RH Bid Price 7.000000 
+RH Mark Price 8.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:38
+RH Last Trade Price 8.000000 
+RH Ask Price 10.000000 
+RH Bid Price 7.000000 
+RH Mark Price 8.500000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:39
+RH Last Trade Price 8.000000 
+RH Ask Price 10.000000 
+RH Bid Price 7.000000 
+RH Mark Price 8.500000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:41
+RH Last Trade Price 8.000000 
+RH Ask Price 8.500000 
+RH Bid Price 7.000000 
+RH Mark Price 7.750000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:43
+RH Last Trade Price 8.000000 
+RH Ask Price 8.500000 
+RH Bid Price 7.000000 
+RH Mark Price 7.750000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:45
+RH Last Trade Price 8.000000 
+RH Ask Price 8.500000 
+RH Bid Price 7.000000 
+RH Mark Price 7.750000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:46
+RH Last Trade Price 8.500000 
+RH Ask Price 10.000000 
+RH Bid Price 8.000000 
+RH Mark Price 9.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:48
+RH Last Trade Price 8.500000 
+RH Ask Price 10.000000 
+RH Bid Price 8.000000 
+RH Mark Price 9.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:50
+RH Last Trade Price 8.500000 
+RH Ask Price 10.000000 
+RH Bid Price 8.000000 
+RH Mark Price 9.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:51
+RH Last Trade Price 8.500000 
+RH Ask Price 10.000000 
+RH Bid Price 8.000000 
+RH Mark Price 9.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:53
+RH Last Trade Price 8.500000 
+RH Ask Price 10.000000 
+RH Bid Price 8.000000 
+RH Mark Price 9.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:55
+RH Last Trade Price 8.500000 
+RH Ask Price 9.000000 
+RH Bid Price 8.000000 
+RH Mark Price 8.500000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:56
+RH Last Trade Price 8.500000 
+RH Ask Price 8.500000 
+RH Bid Price 8.000000 
+RH Mark Price 8.250000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:33:58
+RH Last Trade Price 8.500000 
+RH Ask Price 9.000000 
+RH Bid Price 8.000000 
+RH Mark Price 8.500000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:00
+RH Last Trade Price 8.500000 
+RH Ask Price 10.000000 
+RH Bid Price 8.000000 
+RH Mark Price 9.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:01
+RH Last Trade Price 8.500000 
+RH Ask Price 10.000000 
+RH Bid Price 8.000000 
+RH Mark Price 9.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:03
+RH Last Trade Price 8.500000 
+RH Ask Price 10.000000 
+RH Bid Price 8.000000 
+RH Mark Price 9.000000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:05
+RH Last Trade Price 9.000000 
+RH Ask Price 9.000000 
+RH Bid Price 8.000000 
+RH Mark Price 8.500000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:07
+RH Last Trade Price 9.000000 
+RH Ask Price 9.000000 
+RH Bid Price 8.100000 
+RH Mark Price 8.550000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:08
+RH Last Trade Price 9.000000 
+RH Ask Price 9.000000 
+RH Bid Price 8.000000 
+RH Mark Price 8.500000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:10
+RH Last Trade Price 9.000000 
+RH Ask Price 9.000000 
+RH Bid Price 8.000000 
+RH Mark Price 8.500000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:12
+RH Last Trade Price 9.000000 
+RH Ask Price 9.000000 
+RH Bid Price 8.000000 
+RH Mark Price 8.500000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:14
+RH Last Trade Price 8.000000 
+RH Ask Price 9.800000 
+RH Bid Price 6.400000 
+RH Mark Price 8.100000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:15
+RH Last Trade Price 8.000000 
+RH Ask Price 9.800000 
+RH Bid Price 6.400000 
+RH Mark Price 8.100000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:17
+RH Last Trade Price 8.000000 
+RH Ask Price 9.800000 
+RH Bid Price 6.400000 
+RH Mark Price 8.100000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:19
+RH Last Trade Price 8.000000 
+RH Ask Price 9.900000 
+RH Bid Price 6.400000 
+RH Mark Price 8.150000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:20
+RH Last Trade Price 8.000000 
+RH Ask Price 9.900000 
+RH Bid Price 6.400000 
+RH Mark Price 8.150000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:22
+RH Last Trade Price 8.000000 
+RH Ask Price 9.900000 
+RH Bid Price 6.500000 
+RH Mark Price 8.200000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:24
+RH Last Trade Price 8.000000 
+RH Ask Price 9.900000 
+RH Bid Price 6.600000 
+RH Mark Price 8.250000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:25
+RH Last Trade Price 8.000000 
+RH Ask Price 9.900000 
+RH Bid Price 6.600000 
+RH Mark Price 8.250000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:27
+RH Last Trade Price 8.000000 
+RH Ask Price 9.000000 
+RH Bid Price 6.600000 
+RH Mark Price 7.800000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:29
+RH Last Trade Price 8.000000 
+RH Ask Price 8.900000 
+RH Bid Price 6.900000 
+RH Mark Price 7.900000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:30
+RH Last Trade Price 8.000000 
+RH Ask Price 9.000000 
+RH Bid Price 6.900000 
+RH Mark Price 7.950000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:32
+RH Last Trade Price 9.000000 
+RH Ask Price 9.900000 
+RH Bid Price 6.900000 
+RH Mark Price 8.400000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:34
+RH Last Trade Price 9.000000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:36
+RH Last Trade Price 8.450000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:37
+RH Last Trade Price 8.450000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:39
+RH Last Trade Price 8.450000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:41
+RH Last Trade Price 8.450000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:42
+RH Last Trade Price 8.450000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:44
+RH Last Trade Price 8.450000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:46
+RH Last Trade Price 8.450000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:47
+RH Last Trade Price 8.450000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:49
+RH Last Trade Price 8.450000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:51
+RH Last Trade Price 8.450000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:53
+RH Last Trade Price 8.450000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:54
+RH Last Trade Price 8.450000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:56
+RH Last Trade Price 8.450000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:58
+RH Last Trade Price 8.450000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price N/A 
+ 
+Time: 2024-03-28 13:34:59
+RH Last Trade Price 8.450000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:01
+RH Last Trade Price 8.450000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:03
+RH Last Trade Price 8.270000 
+RH Ask Price 9.900000 
+RH Bid Price 7.000000 
+RH Mark Price 8.450000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:04
+RH Last Trade Price 9.900000 
+RH Ask Price 10.000000 
+RH Bid Price 7.000000 
+RH Mark Price 8.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:06
+RH Last Trade Price 9.900000 
+RH Ask Price 10.000000 
+RH Bid Price 7.100000 
+RH Mark Price 8.550000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:08
+RH Last Trade Price 9.900000 
+RH Ask Price 10.000000 
+RH Bid Price 7.100000 
+RH Mark Price 8.550000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:10
+RH Last Trade Price 9.900000 
+RH Ask Price 10.000000 
+RH Bid Price 7.100000 
+RH Mark Price 8.550000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:11
+RH Last Trade Price 9.900000 
+RH Ask Price 10.000000 
+RH Bid Price 7.100000 
+RH Mark Price 8.550000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:13
+RH Last Trade Price 9.900000 
+RH Ask Price 10.000000 
+RH Bid Price 7.100000 
+RH Mark Price 8.550000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:15
+RH Last Trade Price 10.000000 
+RH Ask Price 12.000000 
+RH Bid Price 7.100000 
+RH Mark Price 9.550000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:16
+RH Last Trade Price 10.000000 
+RH Ask Price 12.000000 
+RH Bid Price 7.100000 
+RH Mark Price 9.550000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:18
+RH Last Trade Price 10.000000 
+RH Ask Price 12.000000 
+RH Bid Price 7.100000 
+RH Mark Price 9.550000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:20
+RH Last Trade Price 10.000000 
+RH Ask Price 12.000000 
+RH Bid Price 7.100000 
+RH Mark Price 9.550000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:22
+RH Last Trade Price 10.000000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:23
+RH Last Trade Price 10.800000 
+RH Ask Price 12.000000 
+RH Bid Price 9.600000 
+RH Mark Price 10.800000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:25
+RH Last Trade Price 10.800000 
+RH Ask Price 12.000000 
+RH Bid Price 9.600000 
+RH Mark Price 10.800000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:27
+RH Last Trade Price 10.800000 
+RH Ask Price 12.000000 
+RH Bid Price 9.600000 
+RH Mark Price 10.800000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:28
+RH Last Trade Price 10.800000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:30
+RH Last Trade Price 10.800000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:32
+RH Last Trade Price 10.800000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:33
+RH Last Trade Price 10.800000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:35
+RH Last Trade Price 10.800000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:37
+RH Last Trade Price 10.800000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:38
+RH Last Trade Price 9.500000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:40
+RH Last Trade Price 9.500000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:42
+RH Last Trade Price 9.500000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:44
+RH Last Trade Price 9.500000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:45
+RH Last Trade Price 9.500000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:47
+RH Last Trade Price 9.500000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:49
+RH Last Trade Price 9.500000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:50
+RH Last Trade Price 9.500000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:52
+RH Last Trade Price 9.500000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:54
+RH Last Trade Price 9.500000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:55
+RH Last Trade Price 9.500000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:57
+RH Last Trade Price 9.500000 
+RH Ask Price 12.000000 
+RH Bid Price 7.200000 
+RH Mark Price 9.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:35:59
+RH Last Trade Price 9.500000 
+RH Ask Price 12.000000 
+RH Bid Price 5.100000 
+RH Mark Price 8.550000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:01
+RH Last Trade Price 9.500000 
+RH Ask Price 12.000000 
+RH Bid Price 5.100000 
+RH Mark Price 8.550000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:02
+RH Last Trade Price 9.500000 
+RH Ask Price 12.000000 
+RH Bid Price 5.100000 
+RH Mark Price 8.550000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:04
+RH Last Trade Price 9.500000 
+RH Ask Price 12.000000 
+RH Bid Price 5.200000 
+RH Mark Price 8.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:06
+RH Last Trade Price 9.500000 
+RH Ask Price 12.000000 
+RH Bid Price 5.200000 
+RH Mark Price 8.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:07
+RH Last Trade Price 9.500000 
+RH Ask Price 11.900000 
+RH Bid Price 5.300000 
+RH Mark Price 8.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:09
+RH Last Trade Price 5.300000 
+RH Ask Price 11.900000 
+RH Bid Price 5.300000 
+RH Mark Price 8.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:11
+RH Last Trade Price 5.300000 
+RH Ask Price 11.900000 
+RH Bid Price 5.300000 
+RH Mark Price 8.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:12
+RH Last Trade Price 5.300000 
+RH Ask Price 11.900000 
+RH Bid Price 5.300000 
+RH Mark Price 8.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:14
+RH Last Trade Price 5.300000 
+RH Ask Price 11.900000 
+RH Bid Price 5.300000 
+RH Mark Price 8.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:16
+RH Last Trade Price 5.300000 
+RH Ask Price 11.900000 
+RH Bid Price 5.400000 
+RH Mark Price 8.650000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:18
+RH Last Trade Price 5.300000 
+RH Ask Price 11.900000 
+RH Bid Price 5.400000 
+RH Mark Price 8.650000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:19
+RH Last Trade Price 5.300000 
+RH Ask Price 10.000000 
+RH Bid Price 5.400000 
+RH Mark Price 7.700000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:21
+RH Last Trade Price 5.300000 
+RH Ask Price 10.000000 
+RH Bid Price 5.400000 
+RH Mark Price 7.700000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:23
+RH Last Trade Price 5.300000 
+RH Ask Price 9.500000 
+RH Bid Price 5.400000 
+RH Mark Price 7.450000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:24
+RH Last Trade Price 7.910000 
+RH Ask Price 9.500000 
+RH Bid Price 5.500000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:26
+RH Last Trade Price 7.910000 
+RH Ask Price 9.500000 
+RH Bid Price 5.500000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:28
+RH Last Trade Price 7.910000 
+RH Ask Price 9.400000 
+RH Bid Price 5.600000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:30
+RH Last Trade Price 7.910000 
+RH Ask Price 9.400000 
+RH Bid Price 5.600000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:31
+RH Last Trade Price 7.910000 
+RH Ask Price 9.400000 
+RH Bid Price 5.600000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:33
+RH Last Trade Price 7.910000 
+RH Ask Price 9.400000 
+RH Bid Price 5.600000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:35
+RH Last Trade Price 7.910000 
+RH Ask Price 9.400000 
+RH Bid Price 5.700000 
+RH Mark Price 7.550000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:37
+RH Last Trade Price 7.910000 
+RH Ask Price 9.500000 
+RH Bid Price 5.700000 
+RH Mark Price 7.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:38
+RH Last Trade Price 7.910000 
+RH Ask Price 9.500000 
+RH Bid Price 5.700000 
+RH Mark Price 7.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:40
+RH Last Trade Price 7.910000 
+RH Ask Price 9.500000 
+RH Bid Price 5.700000 
+RH Mark Price 7.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:42
+RH Last Trade Price 7.910000 
+RH Ask Price 9.500000 
+RH Bid Price 5.700000 
+RH Mark Price 7.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:43
+RH Last Trade Price 7.910000 
+RH Ask Price 9.500000 
+RH Bid Price 5.700000 
+RH Mark Price 7.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:45
+RH Last Trade Price 7.910000 
+RH Ask Price 9.400000 
+RH Bid Price 5.800000 
+RH Mark Price 7.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:47
+RH Last Trade Price 7.910000 
+RH Ask Price 9.400000 
+RH Bid Price 6.000000 
+RH Mark Price 7.700000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:48
+RH Last Trade Price 7.910000 
+RH Ask Price 9.400000 
+RH Bid Price 6.000000 
+RH Mark Price 7.700000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:50
+RH Last Trade Price 7.910000 
+RH Ask Price 9.400000 
+RH Bid Price 6.100000 
+RH Mark Price 7.750000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:52
+RH Last Trade Price 7.910000 
+RH Ask Price 9.400000 
+RH Bid Price 6.100000 
+RH Mark Price 7.750000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:53
+RH Last Trade Price 7.910000 
+RH Ask Price 9.400000 
+RH Bid Price 6.100000 
+RH Mark Price 7.750000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:55
+RH Last Trade Price 7.910000 
+RH Ask Price 9.400000 
+RH Bid Price 6.100000 
+RH Mark Price 7.750000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:57
+RH Last Trade Price 7.910000 
+RH Ask Price 9.400000 
+RH Bid Price 6.200000 
+RH Mark Price 7.800000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:36:59
+RH Last Trade Price 7.910000 
+RH Ask Price 9.900000 
+RH Bid Price 6.300000 
+RH Mark Price 8.100000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:00
+RH Last Trade Price 7.910000 
+RH Ask Price 9.800000 
+RH Bid Price 6.300000 
+RH Mark Price 8.050000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:02
+RH Last Trade Price 7.910000 
+RH Ask Price 9.800000 
+RH Bid Price 6.300000 
+RH Mark Price 8.050000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:04
+RH Last Trade Price 7.910000 
+RH Ask Price 9.800000 
+RH Bid Price 6.300000 
+RH Mark Price 8.050000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:05
+RH Last Trade Price 7.910000 
+RH Ask Price 9.800000 
+RH Bid Price 6.400000 
+RH Mark Price 8.100000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:07
+RH Last Trade Price 7.910000 
+RH Ask Price 9.800000 
+RH Bid Price 6.400000 
+RH Mark Price 8.100000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:09
+RH Last Trade Price 7.910000 
+RH Ask Price 9.000000 
+RH Bid Price 6.400000 
+RH Mark Price 7.700000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:10
+RH Last Trade Price 7.910000 
+RH Ask Price 9.000000 
+RH Bid Price 6.400000 
+RH Mark Price 7.700000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:12
+RH Last Trade Price 7.910000 
+RH Ask Price 9.000000 
+RH Bid Price 6.400000 
+RH Mark Price 7.700000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:14
+RH Last Trade Price 7.910000 
+RH Ask Price 9.000000 
+RH Bid Price 6.400000 
+RH Mark Price 7.700000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:15
+RH Last Trade Price 7.630000 
+RH Ask Price 8.900000 
+RH Bid Price 6.400000 
+RH Mark Price 7.650000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:17
+RH Last Trade Price 7.630000 
+RH Ask Price 8.900000 
+RH Bid Price 6.400000 
+RH Mark Price 7.650000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:19
+RH Last Trade Price 7.630000 
+RH Ask Price 8.900000 
+RH Bid Price 6.400000 
+RH Mark Price 7.650000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:21
+RH Last Trade Price 7.630000 
+RH Ask Price 9.000000 
+RH Bid Price 6.400000 
+RH Mark Price 7.700000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:22
+RH Last Trade Price 7.630000 
+RH Ask Price 8.900000 
+RH Bid Price 6.500000 
+RH Mark Price 7.700000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:24
+RH Last Trade Price 7.630000 
+RH Ask Price 8.900000 
+RH Bid Price 6.500000 
+RH Mark Price 7.700000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:26
+RH Last Trade Price 7.630000 
+RH Ask Price 8.900000 
+RH Bid Price 6.500000 
+RH Mark Price 7.700000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:27
+RH Last Trade Price 7.630000 
+RH Ask Price 8.900000 
+RH Bid Price 6.600000 
+RH Mark Price 7.750000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:29
+RH Last Trade Price 7.630000 
+RH Ask Price 8.900000 
+RH Bid Price 6.600000 
+RH Mark Price 7.750000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:31
+RH Last Trade Price 7.630000 
+RH Ask Price 8.900000 
+RH Bid Price 6.600000 
+RH Mark Price 7.750000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:33
+RH Last Trade Price 7.630000 
+RH Ask Price 8.900000 
+RH Bid Price 6.600000 
+RH Mark Price 7.750000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:34
+RH Last Trade Price 7.630000 
+RH Ask Price 8.900000 
+RH Bid Price 6.600000 
+RH Mark Price 7.750000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:36
+RH Last Trade Price 7.630000 
+RH Ask Price 8.900000 
+RH Bid Price 6.600000 
+RH Mark Price 7.750000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:38
+RH Last Trade Price 7.630000 
+RH Ask Price 8.900000 
+RH Bid Price 6.600000 
+RH Mark Price 7.750000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:39
+RH Last Trade Price 7.630000 
+RH Ask Price 8.900000 
+RH Bid Price 6.600000 
+RH Mark Price 7.750000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:41
+RH Last Trade Price 7.630000 
+RH Ask Price 8.900000 
+RH Bid Price 6.000000 
+RH Mark Price 7.450000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:43
+RH Last Trade Price 7.630000 
+RH Ask Price 8.900000 
+RH Bid Price 6.000000 
+RH Mark Price 7.450000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:45
+RH Last Trade Price 7.450000 
+RH Ask Price 8.900000 
+RH Bid Price 6.000000 
+RH Mark Price 7.450000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:46
+RH Last Trade Price 7.800000 
+RH Ask Price 8.900000 
+RH Bid Price 6.000000 
+RH Mark Price 7.450000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:48
+RH Last Trade Price 7.800000 
+RH Ask Price 8.900000 
+RH Bid Price 6.100000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:50
+RH Last Trade Price 7.800000 
+RH Ask Price 8.900000 
+RH Bid Price 6.100000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:51
+RH Last Trade Price 7.800000 
+RH Ask Price 8.900000 
+RH Bid Price 6.100000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:53
+RH Last Trade Price 7.800000 
+RH Ask Price 8.900000 
+RH Bid Price 6.100000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:55
+RH Last Trade Price 7.800000 
+RH Ask Price 8.900000 
+RH Bid Price 6.100000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:56
+RH Last Trade Price 7.800000 
+RH Ask Price 8.900000 
+RH Bid Price 6.100000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:37:58
+RH Last Trade Price 7.800000 
+RH Ask Price 8.900000 
+RH Bid Price 6.100000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:00
+RH Last Trade Price 7.800000 
+RH Ask Price 8.900000 
+RH Bid Price 6.100000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:02
+RH Last Trade Price 7.800000 
+RH Ask Price 8.900000 
+RH Bid Price 6.100000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:03
+RH Last Trade Price 7.800000 
+RH Ask Price 8.900000 
+RH Bid Price 6.200000 
+RH Mark Price 7.550000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:05
+RH Last Trade Price 7.800000 
+RH Ask Price 8.900000 
+RH Bid Price 6.200000 
+RH Mark Price 7.550000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:07
+RH Last Trade Price 7.800000 
+RH Ask Price 8.500000 
+RH Bid Price 6.600000 
+RH Mark Price 7.550000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:08
+RH Last Trade Price 7.800000 
+RH Ask Price 8.500000 
+RH Bid Price 6.700000 
+RH Mark Price 7.600000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:10
+RH Last Trade Price 7.800000 
+RH Ask Price 8.400000 
+RH Bid Price 6.700000 
+RH Mark Price 7.550000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:12
+RH Last Trade Price 7.800000 
+RH Ask Price 8.300000 
+RH Bid Price 6.700000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:13
+RH Last Trade Price 7.800000 
+RH Ask Price 8.300000 
+RH Bid Price 6.700000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:15
+RH Last Trade Price 7.800000 
+RH Ask Price 8.300000 
+RH Bid Price 6.700000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:17
+RH Last Trade Price 7.800000 
+RH Ask Price 8.300000 
+RH Bid Price 6.700000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:19
+RH Last Trade Price 7.800000 
+RH Ask Price 8.300000 
+RH Bid Price 6.700000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:20
+RH Last Trade Price 7.800000 
+RH Ask Price 8.300000 
+RH Bid Price 6.700000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:22
+RH Last Trade Price 7.800000 
+RH Ask Price 8.300000 
+RH Bid Price 6.700000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:24
+RH Last Trade Price 7.800000 
+RH Ask Price 8.300000 
+RH Bid Price 6.700000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:25
+RH Last Trade Price 7.800000 
+RH Ask Price 8.300000 
+RH Bid Price 6.700000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:27
+RH Last Trade Price 7.800000 
+RH Ask Price 8.300000 
+RH Bid Price 6.700000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:29
+RH Last Trade Price 7.800000 
+RH Ask Price 8.300000 
+RH Bid Price 6.700000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:30
+RH Last Trade Price 7.800000 
+RH Ask Price 8.300000 
+RH Bid Price 6.700000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:32
+RH Last Trade Price 7.800000 
+RH Ask Price 8.300000 
+RH Bid Price 6.700000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:34
+RH Last Trade Price 7.800000 
+RH Ask Price 8.300000 
+RH Bid Price 6.700000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:36
+RH Last Trade Price 7.800000 
+RH Ask Price 8.300000 
+RH Bid Price 6.700000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:37
+RH Last Trade Price 7.800000 
+RH Ask Price 8.300000 
+RH Bid Price 6.700000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:39
+RH Last Trade Price 7.800000 
+RH Ask Price 8.300000 
+RH Bid Price 6.700000 
+RH Mark Price 7.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:41
+RH Last Trade Price 7.800000 
+RH Ask Price 8.000000 
+RH Bid Price 6.700000 
+RH Mark Price 7.350000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:42
+RH Last Trade Price 7.800000 
+RH Ask Price 8.000000 
+RH Bid Price 6.700000 
+RH Mark Price 7.350000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:44
+RH Last Trade Price 7.800000 
+RH Ask Price 8.000000 
+RH Bid Price 6.700000 
+RH Mark Price 7.350000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:46
+RH Last Trade Price 7.800000 
+RH Ask Price 8.000000 
+RH Bid Price 6.700000 
+RH Mark Price 7.350000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:48
+RH Last Trade Price 7.800000 
+RH Ask Price 8.000000 
+RH Bid Price 6.700000 
+RH Mark Price 7.350000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:49
+RH Last Trade Price 7.800000 
+RH Ask Price 8.000000 
+RH Bid Price 6.700000 
+RH Mark Price 7.350000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:51
+RH Last Trade Price 7.800000 
+RH Ask Price 8.000000 
+RH Bid Price 6.000000 
+RH Mark Price 7.000000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:53
+RH Last Trade Price 7.800000 
+RH Ask Price 8.000000 
+RH Bid Price 6.000000 
+RH Mark Price 7.000000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:54
+RH Last Trade Price 7.800000 
+RH Ask Price 7.700000 
+RH Bid Price 6.100000 
+RH Mark Price 6.900000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:56
+RH Last Trade Price 7.800000 
+RH Ask Price 7.700000 
+RH Bid Price 6.100000 
+RH Mark Price 6.900000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:58
+RH Last Trade Price 6.000000 
+RH Ask Price 7.700000 
+RH Bid Price 5.000000 
+RH Mark Price 6.350000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:38:59
+RH Last Trade Price 6.000000 
+RH Ask Price 7.700000 
+RH Bid Price 5.000000 
+RH Mark Price 6.350000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:01
+RH Last Trade Price 6.000000 
+RH Ask Price 7.700000 
+RH Bid Price 5.000000 
+RH Mark Price 6.350000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:03
+RH Last Trade Price 6.000000 
+RH Ask Price 7.700000 
+RH Bid Price 5.100000 
+RH Mark Price 6.400000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:05
+RH Last Trade Price 6.000000 
+RH Ask Price 7.700000 
+RH Bid Price 5.100000 
+RH Mark Price 6.400000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:06
+RH Last Trade Price 6.000000 
+RH Ask Price 7.700000 
+RH Bid Price 5.100000 
+RH Mark Price 6.400000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:08
+RH Last Trade Price 6.000000 
+RH Ask Price 7.700000 
+RH Bid Price 5.100000 
+RH Mark Price 6.400000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:10
+RH Last Trade Price 6.000000 
+RH Ask Price 7.700000 
+RH Bid Price 5.100000 
+RH Mark Price 6.400000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:11
+RH Last Trade Price 6.000000 
+RH Ask Price 7.700000 
+RH Bid Price 5.000000 
+RH Mark Price 6.350000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:13
+RH Last Trade Price 6.000000 
+RH Ask Price 7.700000 
+RH Bid Price 5.000000 
+RH Mark Price 6.350000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:15
+RH Last Trade Price 6.000000 
+RH Ask Price 7.700000 
+RH Bid Price 5.000000 
+RH Mark Price 6.350000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:16
+RH Last Trade Price 6.000000 
+RH Ask Price 7.700000 
+RH Bid Price 5.000000 
+RH Mark Price 6.350000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:18
+RH Last Trade Price 6.000000 
+RH Ask Price 7.700000 
+RH Bid Price 5.000000 
+RH Mark Price 6.350000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:20
+RH Last Trade Price 5.800000 
+RH Ask Price 7.600000 
+RH Bid Price 5.000000 
+RH Mark Price 6.300000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:21
+RH Last Trade Price 5.800000 
+RH Ask Price 7.500000 
+RH Bid Price 5.000000 
+RH Mark Price 6.250000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:23
+RH Last Trade Price 5.800000 
+RH Ask Price 7.500000 
+RH Bid Price 5.000000 
+RH Mark Price 6.250000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:25
+RH Last Trade Price 5.800000 
+RH Ask Price 7.500000 
+RH Bid Price 5.000000 
+RH Mark Price 6.250000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:27
+RH Last Trade Price 5.800000 
+RH Ask Price 7.500000 
+RH Bid Price 5.000000 
+RH Mark Price 6.250000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:28
+RH Last Trade Price 5.500000 
+RH Ask Price 7.500000 
+RH Bid Price 5.000000 
+RH Mark Price 6.250000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:30
+RH Last Trade Price 5.500000 
+RH Ask Price 7.400000 
+RH Bid Price 5.000000 
+RH Mark Price 6.200000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:32
+RH Last Trade Price 5.500000 
+RH Ask Price 7.000000 
+RH Bid Price 5.000000 
+RH Mark Price 6.000000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:33
+RH Last Trade Price 5.500000 
+RH Ask Price 7.000000 
+RH Bid Price 5.000000 
+RH Mark Price 6.000000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:35
+RH Last Trade Price 5.500000 
+RH Ask Price 7.000000 
+RH Bid Price 5.000000 
+RH Mark Price 6.000000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:37
+RH Last Trade Price 5.500000 
+RH Ask Price 7.000000 
+RH Bid Price 5.000000 
+RH Mark Price 6.000000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:39
+RH Last Trade Price 5.500000 
+RH Ask Price 7.000000 
+RH Bid Price 5.000000 
+RH Mark Price 6.000000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:40
+RH Last Trade Price 5.500000 
+RH Ask Price 7.000000 
+RH Bid Price 5.000000 
+RH Mark Price 6.000000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:42
+RH Last Trade Price 5.500000 
+RH Ask Price 7.000000 
+RH Bid Price 5.000000 
+RH Mark Price 6.000000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:44
+RH Last Trade Price 5.000000 
+RH Ask Price 7.000000 
+RH Bid Price 4.000000 
+RH Mark Price 5.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:45
+RH Last Trade Price 5.000000 
+RH Ask Price 7.000000 
+RH Bid Price 4.000000 
+RH Mark Price 5.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:47
+RH Last Trade Price 5.000000 
+RH Ask Price 7.000000 
+RH Bid Price 4.000000 
+RH Mark Price 5.500000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:49
+RH Last Trade Price 5.000000 
+RH Ask Price 6.900000 
+RH Bid Price 4.000000 
+RH Mark Price 5.450000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:51
+RH Last Trade Price 5.000000 
+RH Ask Price 6.900000 
+RH Bid Price 4.000000 
+RH Mark Price 5.450000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:52
+RH Last Trade Price 5.000000 
+RH Ask Price 6.900000 
+RH Bid Price 4.000000 
+RH Mark Price 5.450000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:54
+RH Last Trade Price 5.000000 
+RH Ask Price 6.500000 
+RH Bid Price 4.100000 
+RH Mark Price 5.300000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:56
+RH Last Trade Price 5.000000 
+RH Ask Price 6.300000 
+RH Bid Price 4.100000 
+RH Mark Price 5.200000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:57
+RH Last Trade Price 5.000000 
+RH Ask Price 6.300000 
+RH Bid Price 4.100000 
+RH Mark Price 5.200000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:39:59
+RH Last Trade Price 5.000000 
+RH Ask Price 6.300000 
+RH Bid Price 4.100000 
+RH Mark Price 5.200000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:40:01
+RH Last Trade Price 5.000000 
+RH Ask Price 6.300000 
+RH Bid Price 4.100000 
+RH Mark Price 5.200000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:40:02
+RH Last Trade Price 5.000000 
+RH Ask Price 6.300000 
+RH Bid Price 4.100000 
+RH Mark Price 5.200000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:40:04
+RH Last Trade Price 5.000000 
+RH Ask Price 6.300000 
+RH Bid Price 4.100000 
+RH Mark Price 5.200000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:40:06
+RH Last Trade Price 5.000000 
+RH Ask Price 6.300000 
+RH Bid Price 4.100000 
+RH Mark Price 5.200000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:40:08
+RH Last Trade Price 5.000000 
+RH Ask Price 6.200000 
+RH Bid Price 4.100000 
+RH Mark Price 5.150000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:40:09
+RH Last Trade Price 5.000000 
+RH Ask Price 6.200000 
+RH Bid Price 4.100000 
+RH Mark Price 5.150000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:40:11
+RH Last Trade Price 5.000000 
+RH Ask Price 6.200000 
+RH Bid Price 4.100000 
+RH Mark Price 5.150000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:40:13
+RH Last Trade Price 5.000000 
+RH Ask Price 6.200000 
+RH Bid Price 4.100000 
+RH Mark Price 5.150000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:40:14
+RH Last Trade Price 5.000000 
+RH Ask Price 6.200000 
+RH Bid Price 4.100000 
+RH Mark Price 5.150000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:40:16
+RH Last Trade Price 5.000000 
+RH Ask Price 6.100000 
+RH Bid Price 4.100000 
+RH Mark Price 5.100000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:40:18
+RH Last Trade Price 5.000000 
+RH Ask Price 6.000000 
+RH Bid Price 4.100000 
+RH Mark Price 5.050000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:40:19
+RH Last Trade Price 5.000000 
+RH Ask Price 6.000000 
+RH Bid Price 4.100000 
+RH Mark Price 5.050000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:40:21
+RH Last Trade Price 5.000000 
+RH Ask Price 6.000000 
+RH Bid Price 4.100000 
+RH Mark Price 5.050000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:40:23
+RH Last Trade Price 5.000000 
+RH Ask Price 6.000000 
+RH Bid Price 4.100000 
+RH Mark Price 5.050000 
+RH Open Price 8.45 
+ 
+Time: 2024-03-28 13:40:25
+RH Last Trade Price 5.000000 
+RH Ask Price 6.000000 
+RH Bid Price 4.100000 
+RH Mark Price 5.050000 
+RH Open Price 8.45 
+ 
