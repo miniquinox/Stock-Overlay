@@ -1,5 +1,11 @@
 ## Options Daily Performance
 
+### 2024-03-29
+
+| Option ID | Performance |
+| --- | --- |
+| RH $330.0 Call 2024-04-05 | Open @ 15.25 -> Max @ 27.24 = 🟢 +78.62% |
+
 ### 2024-03-28
 
 | Option ID | Performance |
