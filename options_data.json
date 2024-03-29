@@ -287,5 +287,12 @@
             "Option Open Price": 8.45,
             "Max Day Call Price": 23.31
         }
+    },
+    "2024-03-29": {
+        "RH $330.0 Call 2024-04-05": {
+            "Stock price at market close": 296.99,
+            "Stock price before market open": 348.5,
+            "Option price at market close": 10.05
+        }
     }
 }
