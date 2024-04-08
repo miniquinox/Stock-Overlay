@@ -1,5 +1,12 @@
 ## Options Daily Performance
 
+### 2024-04-08
+
+| Option ID | Performance |
+| --- | --- |
+| MSTR $1595.0 Call 2024-04-12 | Open @ 105.58 -> Max @ 111.6 = 🔴 +5.70% (DID NOT REACH 30%. Consider -20%) |
+| CLSK $17.0 Call 2024-04-12 | Open @ 0.88 -> Max @ 1.3 = 🟢 +47.73% |
+
 ### 2024-04-05
 
 | Option ID | Performance |

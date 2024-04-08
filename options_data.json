@@ -306,12 +306,18 @@
         "MSTR $1595.0 Call 2024-04-12": {
             "Stock price at market close": 1615.42,
             "Stock price before market open": 1608.6,
-            "Option price at market close": 47.0
+            "Option price at market close": 47.0,
+            "Max Day Stock Price": 1573.78,
+            "Option Open Price": 105.58,
+            "Max Day Call Price": 111.6
         },
         "CLSK $17.0 Call 2024-04-12": {
             "Stock price at market close": 15.89,
             "Stock price before market open": 16.9,
-            "Option price at market close": 0.43
+            "Option price at market close": 0.43,
+            "Max Day Stock Price": 16.22,
+            "Option Open Price": 0.88,
+            "Max Day Call Price": 1.3
         }
     }
 }
