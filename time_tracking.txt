@@ -40948,3 +40948,4392 @@ RH Bid Price 20.400000
 RH Mark Price 21.800000 
 RH Open Price 15.25 
  
+Time: 2024-04-08 13:26:56
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:26:57
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:26:58
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:26:59
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:01
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:02
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:03
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:04
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:06
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:07
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:08
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:10
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:11
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:12
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:13
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:15
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:16
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:17
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:18
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:20
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:21
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:22
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:23
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:25
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:26
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:27
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:28
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:30
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:31
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:32
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:33
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:35
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:36
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:37
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:39
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:40
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:41
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:42
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:44
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:45
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:46
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:47
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:49
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:50
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:51
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:52
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:54
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:55
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:56
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:58
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:27:59
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:00
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:01
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:03
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:04
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:05
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:06
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:08
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:09
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:10
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:11
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:13
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:14
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:15
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:17
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:18
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:19
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:20
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:22
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:23
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:24
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:25
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:27
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:28
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:29
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:30
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:32
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:33
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:34
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:35
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:37
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:38
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:39
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:41
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:42
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:43
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:44
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:46
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:47
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:48
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:49
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:51
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:52
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:53
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:54
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:56
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:57
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:28:58
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:00
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:01
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:02
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:03
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:05
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:06
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:07
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:08
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:10
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:11
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:12
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:13
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:15
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:16
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:17
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:19
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:20
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:21
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:22
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:24
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:25
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:26
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:27
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:29
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:30
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:31
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:32
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:34
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:35
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:36
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:38
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:39
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:40
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:41
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:43
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:44
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:45
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:46
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:48
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:49
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:50
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:51
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:53
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:54
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:55
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:57
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:58
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:29:59
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price 0.7 
+ 
+Time: 2024-04-08 13:30:00
+CLSK Last Trade Price 0.450000 
+CLSK Ask Price 0.450000 
+CLSK Bid Price 0.400000 
+CLSK Mark Price 0.425000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:02
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 0.600000 
+CLSK Mark Price 0.850000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:03
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:04
+CLSK Last Trade Price 0.870000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:05
+CLSK Last Trade Price 0.870000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:07
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:08
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:09
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:11
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:12
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:13
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:14
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:16
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:17
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:18
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:19
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.125000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:21
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:22
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:23
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:25
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:26
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:27
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:28
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.075000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:30
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.075000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:31
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.075000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:32
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.075000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:34
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.075000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:35
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.075000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:36
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.075000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:37
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.075000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:39
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.050000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:40
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.050000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:41
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.050000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:43
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.050000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:44
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.050000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:45
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.050000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:46
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.050000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:48
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.050000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:49
+CLSK Last Trade Price 1.200000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.075000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:50
+CLSK Last Trade Price 1.200000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.075000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:52
+CLSK Last Trade Price 1.050000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.075000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:53
+CLSK Last Trade Price 1.050000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:54
+CLSK Last Trade Price 1.120000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.125000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:55
+CLSK Last Trade Price 1.120000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.125000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:57
+CLSK Last Trade Price 1.120000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.125000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:58
+CLSK Last Trade Price 1.120000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.125000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:30:59
+CLSK Last Trade Price 1.120000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.125000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:00
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.125000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:02
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.125000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:03
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.075000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:04
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.075000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:06
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.350000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:07
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.350000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:08
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.350000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:09
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.350000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:11
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.350000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:12
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.350000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:13
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.350000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:15
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.350000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:16
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.350000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:17
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.350000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:18
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.350000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:20
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:21
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:22
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:24
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:25
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:26
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:27
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:29
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:30
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:31
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.125000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:33
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.125000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:34
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.125000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:35
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.125000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:37
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:38
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:39
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.125000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:41
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.125000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:42
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.150000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:43
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.150000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:45
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.150000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:46
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.150000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:47
+CLSK Last Trade Price 1.200000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.150000 
+CLSK Mark Price 1.225000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:49
+CLSK Last Trade Price 1.200000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.150000 
+CLSK Mark Price 1.225000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:50
+CLSK Last Trade Price 1.200000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.150000 
+CLSK Mark Price 1.225000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:51
+CLSK Last Trade Price 1.200000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.150000 
+CLSK Mark Price 1.225000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:53
+CLSK Last Trade Price 1.160000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:54
+CLSK Last Trade Price 1.160000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:55
+CLSK Last Trade Price 1.160000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:57
+CLSK Last Trade Price 1.160000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:58
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:31:59
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:01
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:02
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:04
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:05
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:06
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:08
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:09
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:10
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.200000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:12
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.200000 
+CLSK Mark Price 1.250000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:13
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.150000 
+CLSK Mark Price 1.225000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:14
+CLSK Last Trade Price 1.150000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.150000 
+CLSK Mark Price 1.225000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:16
+CLSK Last Trade Price 1.200000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.150000 
+CLSK Mark Price 1.225000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:17
+CLSK Last Trade Price 1.200000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.150000 
+CLSK Mark Price 1.225000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:18
+CLSK Last Trade Price 1.200000 
+CLSK Ask Price 1.300000 
+CLSK Bid Price 1.150000 
+CLSK Mark Price 1.225000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:19
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.150000 
+CLSK Mark Price 1.200000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:21
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:22
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.100000 
+CLSK Mark Price 1.175000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:23
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:25
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:26
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:27
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:28
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:30
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:31
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:32
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:34
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:35
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:36
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:37
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:39
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:40
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:41
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.250000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.150000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:42
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:44
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:45
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:46
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:48
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:49
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.075000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:50
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.050000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:51
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.050000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:53
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.050000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:54
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.050000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:55
+CLSK Last Trade Price 1.250000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.050000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:57
+CLSK Last Trade Price 1.000000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.000000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:58
+CLSK Last Trade Price 1.000000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.000000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:32:59
+CLSK Last Trade Price 1.000000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.000000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:00
+CLSK Last Trade Price 1.000000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.000000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:02
+CLSK Last Trade Price 1.000000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.000000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:03
+CLSK Last Trade Price 1.000000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:04
+CLSK Last Trade Price 1.000000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.050000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:05
+CLSK Last Trade Price 1.000000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.050000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:07
+CLSK Last Trade Price 1.000000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.075000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:08
+CLSK Last Trade Price 1.050000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:09
+CLSK Last Trade Price 1.050000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:10
+CLSK Last Trade Price 1.050000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:12
+CLSK Last Trade Price 1.050000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:13
+CLSK Last Trade Price 1.050000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:14
+CLSK Last Trade Price 1.050000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 1.050000 
+CLSK Mark Price 1.100000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:16
+CLSK Last Trade Price 1.050000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:17
+CLSK Last Trade Price 1.050000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:18
+CLSK Last Trade Price 1.050000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:19
+CLSK Last Trade Price 1.050000 
+CLSK Ask Price 1.150000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:21
+CLSK Last Trade Price 1.020000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:22
+CLSK Last Trade Price 1.020000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:23
+CLSK Last Trade Price 1.020000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:25
+CLSK Last Trade Price 1.020000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:26
+CLSK Last Trade Price 1.020000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:27
+CLSK Last Trade Price 1.020000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:28
+CLSK Last Trade Price 1.020000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:30
+CLSK Last Trade Price 1.020000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:31
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:32
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:33
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:35
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 1.000000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:36
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.000000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:37
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:39
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.025000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:40
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.100000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.975000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:41
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.975000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:42
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.975000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:44
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.975000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:45
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.975000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:46
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.975000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:48
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.975000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:49
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.975000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:50
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.000000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:51
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.000000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:53
+CLSK Last Trade Price 1.100000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.000000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:54
+CLSK Last Trade Price 1.000000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.000000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:55
+CLSK Last Trade Price 1.000000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 1.000000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:56
+CLSK Last Trade Price 1.000000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.975000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:58
+CLSK Last Trade Price 1.000000 
+CLSK Ask Price 1.050000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.975000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:33:59
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:00
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:02
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:03
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:04
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:05
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:07
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:08
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:09
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:11
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:12
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:13
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:14
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:16
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:17
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:18
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.925000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:19
+CLSK Last Trade Price 0.930000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:21
+CLSK Last Trade Price 0.930000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:22
+CLSK Last Trade Price 0.930000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:23
+CLSK Last Trade Price 0.930000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:25
+CLSK Last Trade Price 0.930000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:26
+CLSK Last Trade Price 0.930000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:27
+CLSK Last Trade Price 0.930000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:28
+CLSK Last Trade Price 0.930000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:30
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.825000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:31
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:32
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:33
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:35
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:36
+CLSK Last Trade Price 0.750000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:37
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:39
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:40
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.825000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:41
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.825000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:42
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:44
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:45
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:46
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.825000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:47
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.825000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:49
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.825000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:50
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.825000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:51
+CLSK Last Trade Price 0.820000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.825000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:53
+CLSK Last Trade Price 0.820000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.825000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:54
+CLSK Last Trade Price 0.820000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.825000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:55
+CLSK Last Trade Price 0.820000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.825000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:56
+CLSK Last Trade Price 0.820000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.825000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:58
+CLSK Last Trade Price 0.820000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.825000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:34:59
+CLSK Last Trade Price 0.820000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.825000 
+CLSK Open Price N/A 
+ 
+Time: 2024-04-08 13:35:00
+CLSK Last Trade Price 0.860000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price 0.83 
+ 
+Time: 2024-04-08 13:35:01
+CLSK Last Trade Price 0.860000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.83 
+ 
+Time: 2024-04-08 13:35:03
+CLSK Last Trade Price 0.860000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:04
+CLSK Last Trade Price 0.860000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:05
+CLSK Last Trade Price 0.860000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:07
+CLSK Last Trade Price 0.860000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:08
+CLSK Last Trade Price 0.860000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:09
+CLSK Last Trade Price 0.910000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:10
+CLSK Last Trade Price 0.910000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:12
+CLSK Last Trade Price 0.910000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:13
+CLSK Last Trade Price 0.910000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:14
+CLSK Last Trade Price 0.910000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:15
+CLSK Last Trade Price 0.910000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:17
+CLSK Last Trade Price 0.910000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:18
+CLSK Last Trade Price 0.910000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:19
+CLSK Last Trade Price 0.910000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:21
+CLSK Last Trade Price 0.910000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:22
+CLSK Last Trade Price 0.910000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:23
+CLSK Last Trade Price 0.910000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:24
+CLSK Last Trade Price 0.910000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:26
+CLSK Last Trade Price 0.910000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:27
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:28
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:29
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:31
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:32
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:33
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:35
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:36
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:37
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.875000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:38
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:40
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:41
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:43
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:44
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:45
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:46
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:48
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:49
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:50
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:51
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:53
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:54
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:55
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:57
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:58
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:35:59
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:00
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:02
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:03
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:04
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:06
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:07
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:08
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:09
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:11
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:12
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:13
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:14
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:16
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:17
+CLSK Last Trade Price 1.000000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:18
+CLSK Last Trade Price 1.000000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:20
+CLSK Last Trade Price 0.920000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:21
+CLSK Last Trade Price 0.920000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:22
+CLSK Last Trade Price 0.920000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:23
+CLSK Last Trade Price 0.920000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:25
+CLSK Last Trade Price 0.920000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:26
+CLSK Last Trade Price 0.920000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:27
+CLSK Last Trade Price 0.920000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:28
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:30
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:31
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:32
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 0.975000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:34
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 0.975000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:35
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 0.975000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:36
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 0.975000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:37
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 0.975000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:39
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 0.975000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:40
+CLSK Last Trade Price 0.900000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.950000 
+CLSK Mark Price 0.975000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:41
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:42
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:44
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:45
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:46
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:48
+CLSK Last Trade Price 0.940000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:49
+CLSK Last Trade Price 0.940000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:50
+CLSK Last Trade Price 0.940000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:51
+CLSK Last Trade Price 0.940000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:53
+CLSK Last Trade Price 0.940000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:54
+CLSK Last Trade Price 0.940000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:55
+CLSK Last Trade Price 0.940000 
+CLSK Ask Price 1.000000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.950000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:56
+CLSK Last Trade Price 0.940000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:58
+CLSK Last Trade Price 0.940000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:36:59
+CLSK Last Trade Price 0.940000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:00
+CLSK Last Trade Price 0.880000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:01
+CLSK Last Trade Price 0.880000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:03
+CLSK Last Trade Price 0.880000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:04
+CLSK Last Trade Price 0.880000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:05
+CLSK Last Trade Price 0.880000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:07
+CLSK Last Trade Price 0.880000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:08
+CLSK Last Trade Price 0.880000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:09
+CLSK Last Trade Price 0.880000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:10
+CLSK Last Trade Price 0.880000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.900000 
+CLSK Mark Price 0.925000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:12
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:13
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:14
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:15
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:17
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:18
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:19
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:21
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:22
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:23
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:24
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:26
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:27
+CLSK Last Trade Price 0.950000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:28
+CLSK Last Trade Price 0.870000 
+CLSK Ask Price 0.950000 
+CLSK Bid Price 0.850000 
+CLSK Mark Price 0.900000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:29
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:31
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:32
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:33
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:35
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:36
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:37
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:38
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:40
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:41
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:42
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:43
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:45
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:46
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:47
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:48
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:50
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:51
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:52
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:54
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:55
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:56
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:57
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:37:59
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:00
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:01
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.900000 
+CLSK Bid Price 0.800000 
+CLSK Mark Price 0.850000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:02
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:04
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:05
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:06
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:08
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:09
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:10
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:11
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:13
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:14
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:15
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:16
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:18
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:19
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:20
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:22
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:23
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:24
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:25
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:27
+CLSK Last Trade Price 0.830000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:28
+CLSK Last Trade Price 0.830000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:29
+CLSK Last Trade Price 0.830000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:31
+CLSK Last Trade Price 0.830000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:32
+CLSK Last Trade Price 0.830000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:33
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:35
+CLSK Last Trade Price 0.850000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:36
+CLSK Last Trade Price 0.750000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:37
+CLSK Last Trade Price 0.750000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:38
+CLSK Last Trade Price 0.750000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:40
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:41
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:42
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:43
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:45
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:46
+CLSK Last Trade Price 0.780000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:47
+CLSK Last Trade Price 0.780000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:49
+CLSK Last Trade Price 0.780000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:50
+CLSK Last Trade Price 0.780000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:51
+CLSK Last Trade Price 0.780000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:52
+CLSK Last Trade Price 0.780000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:54
+CLSK Last Trade Price 0.780000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:55
+CLSK Last Trade Price 0.780000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:56
+CLSK Last Trade Price 0.780000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:57
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:38:59
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.850000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.800000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:00
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:01
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:03
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:04
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:05
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:06
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:08
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:09
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:10
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:11
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:13
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:14
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:15
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:17
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:18
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:19
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:20
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:22
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:23
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:24
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:26
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:27
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:28
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:29
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:31
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:32
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:33
+CLSK Last Trade Price 0.800000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:34
+CLSK Last Trade Price 0.750000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:36
+CLSK Last Trade Price 0.750000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:37
+CLSK Last Trade Price 0.750000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:38
+CLSK Last Trade Price 0.750000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.750000 
+CLSK Mark Price 0.775000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:40
+CLSK Last Trade Price 0.750000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.750000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:41
+CLSK Last Trade Price 0.750000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.750000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:42
+CLSK Last Trade Price 0.750000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.750000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:43
+CLSK Last Trade Price 0.750000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.750000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:45
+CLSK Last Trade Price 0.750000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.750000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:46
+CLSK Last Trade Price 0.750000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.750000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:47
+CLSK Last Trade Price 0.720000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.750000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:48
+CLSK Last Trade Price 0.720000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.750000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:50
+CLSK Last Trade Price 0.720000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.750000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:51
+CLSK Last Trade Price 0.720000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.750000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:52
+CLSK Last Trade Price 0.720000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.750000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:54
+CLSK Last Trade Price 0.720000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.750000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:55
+CLSK Last Trade Price 0.720000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.750000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:56
+CLSK Last Trade Price 0.720000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.750000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:57
+CLSK Last Trade Price 0.720000 
+CLSK Ask Price 0.800000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.750000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:39:59
+CLSK Last Trade Price 0.720000 
+CLSK Ask Price 0.750000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.725000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:40:00
+CLSK Last Trade Price 0.720000 
+CLSK Ask Price 0.750000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.725000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:40:01
+CLSK Last Trade Price 0.720000 
+CLSK Ask Price 0.750000 
+CLSK Bid Price 0.650000 
+CLSK Mark Price 0.700000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:40:02
+CLSK Last Trade Price 0.720000 
+CLSK Ask Price 0.750000 
+CLSK Bid Price 0.650000 
+CLSK Mark Price 0.700000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:40:04
+CLSK Last Trade Price 0.720000 
+CLSK Ask Price 0.750000 
+CLSK Bid Price 0.650000 
+CLSK Mark Price 0.700000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:40:05
+CLSK Last Trade Price 0.700000 
+CLSK Ask Price 0.750000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.725000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:40:06
+CLSK Last Trade Price 0.700000 
+CLSK Ask Price 0.750000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.725000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:40:08
+CLSK Last Trade Price 0.700000 
+CLSK Ask Price 0.750000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.725000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:40:09
+CLSK Last Trade Price 0.700000 
+CLSK Ask Price 0.750000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.725000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:40:10
+CLSK Last Trade Price 0.700000 
+CLSK Ask Price 0.750000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.725000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:40:11
+CLSK Last Trade Price 0.700000 
+CLSK Ask Price 0.750000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.725000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:40:13
+CLSK Last Trade Price 0.700000 
+CLSK Ask Price 0.750000 
+CLSK Bid Price 0.700000 
+CLSK Mark Price 0.725000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:40:14
+CLSK Last Trade Price 0.700000 
+CLSK Ask Price 0.750000 
+CLSK Bid Price 0.650000 
+CLSK Mark Price 0.700000 
+CLSK Open Price 0.88 
+ 
+Time: 2024-04-08 13:40:15
+CLSK Last Trade Price 0.700000 
+CLSK Ask Price 0.750000 
+CLSK Bid Price 0.650000 
+CLSK Mark Price 0.700000 
+CLSK Open Price 0.88 
+ 
