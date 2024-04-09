@@ -1,5 +1,11 @@
 ## Options Daily Performance
 
+### 2024-04-09
+
+| Option ID | Performance |
+| --- | --- |
+| CLSK $17.0 Call 2024-04-12 | Open @ 0.28 -> Max @ 0.35 = 🔴 +25.00% (DID NOT REACH 30%. Consider -20%) |
+
 ### 2024-04-08
 
 | Option ID | Performance |

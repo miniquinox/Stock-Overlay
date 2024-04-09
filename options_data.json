@@ -324,7 +324,10 @@
         "CLSK $17.0 Call 2024-04-12": {
             "Stock price at market close": 15.6,
             "Stock price before market open": 15.2,
-            "Option price at market close": 0.33
+            "Option price at market close": 0.33,
+            "Max Day Stock Price": 15.76,
+            "Option Open Price": 0.28,
+            "Max Day Call Price": 0.35
         }
     }
 }
