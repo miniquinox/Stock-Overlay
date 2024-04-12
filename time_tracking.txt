@@ -50090,3 +50090,4784 @@ CLSK Bid Price 0.300000
 CLSK Mark Price 0.325000 
 CLSK Open Price 0.28 
  
+Time: 2024-04-12 13:27:04
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:05
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:07
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:08
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:09
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:10
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:11
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:12
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:14
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:15
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:16
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:17
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:18
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:19
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:21
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:22
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:23
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:24
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:25
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:26
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:28
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:29
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:30
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:31
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:32
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:33
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:35
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:36
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:37
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:38
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:39
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:40
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:42
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:43
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:44
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:45
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:46
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:47
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:49
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:50
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:51
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:52
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:53
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:54
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:55
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:57
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:58
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:27:59
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:00
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:01
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:02
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:04
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:05
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:06
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:07
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:08
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:09
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:11
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:12
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:13
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:14
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:15
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:16
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:18
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:19
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:20
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:21
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:22
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:23
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:25
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:26
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:27
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:28
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:29
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:30
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:32
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:33
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:34
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:35
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:36
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:37
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:39
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:40
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:41
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:42
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:43
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:44
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:46
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:47
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:48
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:49
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:50
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:51
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:53
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:54
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:55
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:56
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:57
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:28:58
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:00
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:01
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:02
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:03
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:04
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:05
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:07
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:08
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:09
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:10
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:11
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:12
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:14
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:15
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:16
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:17
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:18
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:19
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:21
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:22
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:23
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:24
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:25
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:26
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:28
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:29
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:30
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:31
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:32
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:33
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:35
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:36
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:37
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:38
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:39
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:40
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:42
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:43
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:44
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:45
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:46
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:47
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:49
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:50
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:51
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:52
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:53
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:54
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:56
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:57
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:58
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:29:59
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price 0.01 
+ 
+Time: 2024-04-12 13:30:00
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:02
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:03
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:04
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:05
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:06
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:07
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:09
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:10
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:11
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:12
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:13
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:14
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:16
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:17
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:18
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:19
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:20
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:21
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:23
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:24
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:25
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:26
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:27
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:29
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:30
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:31
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:32
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:33
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:34
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:36
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:37
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:38
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:39
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:40
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:41
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:43
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:44
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:45
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:46
+GL Last Trade Price 0.150000 
+GL Ask Price 0.150000 
+GL Bid Price 0.100000 
+GL Mark Price 0.125000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:47
+GL Last Trade Price 0.150000 
+GL Ask Price 5.000000 
+GL Bid Price 0.150000 
+GL Mark Price 2.575000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:49
+GL Last Trade Price 0.150000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:50
+GL Last Trade Price 0.150000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:51
+GL Last Trade Price 0.150000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:52
+GL Last Trade Price 0.150000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:53
+GL Last Trade Price 0.150000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:54
+GL Last Trade Price 0.150000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:56
+GL Last Trade Price 0.750000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:57
+GL Last Trade Price 0.750000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:58
+GL Last Trade Price 0.750000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:30:59
+GL Last Trade Price 0.750000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:00
+GL Last Trade Price 0.750000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:01
+GL Last Trade Price 0.350000 
+GL Ask Price 0.500000 
+GL Bid Price 0.300000 
+GL Mark Price 0.400000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:03
+GL Last Trade Price 0.350000 
+GL Ask Price 0.500000 
+GL Bid Price 0.300000 
+GL Mark Price 0.400000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:04
+GL Last Trade Price 0.350000 
+GL Ask Price 0.500000 
+GL Bid Price 0.300000 
+GL Mark Price 0.400000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:05
+GL Last Trade Price 0.350000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:06
+GL Last Trade Price 0.350000 
+GL Ask Price 0.600000 
+GL Bid Price 0.250000 
+GL Mark Price 0.425000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:08
+GL Last Trade Price 0.350000 
+GL Ask Price 0.500000 
+GL Bid Price 0.250000 
+GL Mark Price 0.375000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:09
+GL Last Trade Price 0.350000 
+GL Ask Price 0.500000 
+GL Bid Price 0.400000 
+GL Mark Price 0.450000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:10
+GL Last Trade Price 0.420000 
+GL Ask Price 0.500000 
+GL Bid Price 0.400000 
+GL Mark Price 0.450000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:11
+GL Last Trade Price 0.420000 
+GL Ask Price 0.500000 
+GL Bid Price 0.400000 
+GL Mark Price 0.450000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:12
+GL Last Trade Price 0.420000 
+GL Ask Price 0.750000 
+GL Bid Price 0.400000 
+GL Mark Price 0.575000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:13
+GL Last Trade Price 0.420000 
+GL Ask Price 0.750000 
+GL Bid Price 0.400000 
+GL Mark Price 0.575000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:15
+GL Last Trade Price 0.420000 
+GL Ask Price 0.750000 
+GL Bid Price 0.400000 
+GL Mark Price 0.575000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:16
+GL Last Trade Price 0.420000 
+GL Ask Price 0.750000 
+GL Bid Price 0.400000 
+GL Mark Price 0.575000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:17
+GL Last Trade Price 0.420000 
+GL Ask Price 0.750000 
+GL Bid Price 0.400000 
+GL Mark Price 0.575000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:18
+GL Last Trade Price 0.420000 
+GL Ask Price 0.750000 
+GL Bid Price 0.400000 
+GL Mark Price 0.575000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:19
+GL Last Trade Price 0.420000 
+GL Ask Price 0.750000 
+GL Bid Price 0.400000 
+GL Mark Price 0.575000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:21
+GL Last Trade Price 0.420000 
+GL Ask Price 0.750000 
+GL Bid Price 0.400000 
+GL Mark Price 0.575000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:22
+GL Last Trade Price 0.420000 
+GL Ask Price 0.750000 
+GL Bid Price 0.400000 
+GL Mark Price 0.575000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:23
+GL Last Trade Price 0.420000 
+GL Ask Price 0.750000 
+GL Bid Price 0.400000 
+GL Mark Price 0.575000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:24
+GL Last Trade Price 0.420000 
+GL Ask Price 0.750000 
+GL Bid Price 0.400000 
+GL Mark Price 0.575000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:25
+GL Last Trade Price 0.420000 
+GL Ask Price 0.750000 
+GL Bid Price 0.400000 
+GL Mark Price 0.575000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:26
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:28
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:29
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:30
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:31
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:32
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:34
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:35
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:36
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:37
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:38
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:40
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:41
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:42
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:43
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:44
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:45
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:47
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:48
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:49
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:50
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:51
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:52
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:54
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:55
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:56
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:57
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:31:58
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:00
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:01
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:02
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:03
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:04
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:05
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:07
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:08
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:09
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:10
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:11
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:12
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:14
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:15
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:16
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:17
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:18
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:20
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:21
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:22
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:23
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.300000 
+GL Mark Price 0.525000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:24
+GL Last Trade Price 0.400000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:25
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:27
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:28
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:29
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:30
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:31
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:32
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:34
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:35
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:36
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:37
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:38
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:40
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:41
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:42
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:43
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:44
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:45
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:47
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:48
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:49
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:50
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:51
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:52
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:54
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:55
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:56
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:57
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:58
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:32:59
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:01
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:02
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:03
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:04
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:05
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:07
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:08
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:09
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:10
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:11
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:12
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.250000 
+GL Mark Price 0.500000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:14
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:15
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:16
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:17
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:18
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:19
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:21
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:22
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:23
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:24
+GL Last Trade Price 0.300000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:25
+GL Last Trade Price 0.450000 
+GL Ask Price 0.750000 
+GL Bid Price 0.200000 
+GL Mark Price 0.475000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:26
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.200000 
+GL Mark Price 0.300000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:28
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.200000 
+GL Mark Price 0.300000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:29
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.200000 
+GL Mark Price 0.300000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:30
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:31
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:32
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:33
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:35
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:36
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:37
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:38
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:39
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:41
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:42
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:43
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:44
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:45
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:46
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:48
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:49
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:50
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:51
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:52
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:53
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:55
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:56
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:57
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:58
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:33:59
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:00
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:02
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:03
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:04
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:05
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:06
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:08
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:09
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:10
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:11
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:12
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:13
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:15
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:16
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:17
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:18
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:19
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:20
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:22
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:23
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:24
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:25
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:26
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:27
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:29
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:30
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:31
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:32
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:33
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:34
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:36
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:37
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:38
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:39
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:40
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:42
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:43
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:44
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:45
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:46
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:47
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:49
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:50
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:51
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:52
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:53
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:54
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:56
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:57
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:58
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:34:59
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price N/A 
+ 
+Time: 2024-04-12 13:35:00
+GL Last Trade Price 0.400000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:01
+GL Last Trade Price 0.380000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:03
+GL Last Trade Price 0.380000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:04
+GL Last Trade Price 0.380000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:05
+GL Last Trade Price 0.380000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:06
+GL Last Trade Price 0.380000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:07
+GL Last Trade Price 0.380000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:09
+GL Last Trade Price 0.380000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:10
+GL Last Trade Price 0.380000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:11
+GL Last Trade Price 0.380000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:12
+GL Last Trade Price 0.380000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:13
+GL Last Trade Price 0.380000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:14
+GL Last Trade Price 0.380000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:16
+GL Last Trade Price 0.380000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:17
+GL Last Trade Price 0.380000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:18
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:19
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:20
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:22
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:23
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:24
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:25
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:26
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:27
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:29
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:30
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:31
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:32
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:33
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:34
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:36
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:37
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:38
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:39
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:40
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:41
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:43
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:44
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:45
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:46
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:47
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:48
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:50
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:51
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:52
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:53
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:54
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:55
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:57
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:58
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:35:59
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:00
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:01
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:02
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:04
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:05
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:06
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:07
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:08
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:10
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:11
+GL Last Trade Price 0.350000 
+GL Ask Price 0.400000 
+GL Bid Price 0.300000 
+GL Mark Price 0.350000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:12
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:13
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:14
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:16
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:17
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:18
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:19
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:20
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:21
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:23
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:24
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:25
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:26
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:27
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:28
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:30
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:31
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:32
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:33
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:34
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:35
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:37
+GL Last Trade Price 0.350000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:38
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:39
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:40
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:41
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:42
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:44
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:45
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:46
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:47
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:48
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:49
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:51
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:52
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:53
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.300000 
+GL Mark Price 0.325000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:54
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.250000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:55
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:57
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:58
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:36:59
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:00
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:01
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:02
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:04
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:05
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:06
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:07
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:08
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:09
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:11
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:12
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:13
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:14
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:15
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:16
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.250000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:18
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.250000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:19
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:20
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:21
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:22
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:24
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:25
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:26
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:27
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:28
+GL Last Trade Price 0.300000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:29
+GL Last Trade Price 0.300000 
+GL Ask Price 0.400000 
+GL Bid Price 0.200000 
+GL Mark Price 0.300000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:30
+GL Last Trade Price 0.300000 
+GL Ask Price 0.400000 
+GL Bid Price 0.200000 
+GL Mark Price 0.300000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:32
+GL Last Trade Price 0.300000 
+GL Ask Price 0.400000 
+GL Bid Price 0.200000 
+GL Mark Price 0.300000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:33
+GL Last Trade Price 0.300000 
+GL Ask Price 0.400000 
+GL Bid Price 0.200000 
+GL Mark Price 0.300000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:34
+GL Last Trade Price 0.300000 
+GL Ask Price 0.400000 
+GL Bid Price 0.200000 
+GL Mark Price 0.300000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:35
+GL Last Trade Price 0.300000 
+GL Ask Price 0.400000 
+GL Bid Price 0.200000 
+GL Mark Price 0.300000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:36
+GL Last Trade Price 0.300000 
+GL Ask Price 0.400000 
+GL Bid Price 0.200000 
+GL Mark Price 0.300000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:37
+GL Last Trade Price 0.300000 
+GL Ask Price 0.400000 
+GL Bid Price 0.200000 
+GL Mark Price 0.300000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:39
+GL Last Trade Price 0.300000 
+GL Ask Price 0.400000 
+GL Bid Price 0.200000 
+GL Mark Price 0.300000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:40
+GL Last Trade Price 0.300000 
+GL Ask Price 0.400000 
+GL Bid Price 0.200000 
+GL Mark Price 0.300000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:41
+GL Last Trade Price 0.300000 
+GL Ask Price 0.400000 
+GL Bid Price 0.200000 
+GL Mark Price 0.300000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:42
+GL Last Trade Price 0.300000 
+GL Ask Price 0.400000 
+GL Bid Price 0.200000 
+GL Mark Price 0.300000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:43
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:45
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:46
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:47
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:48
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:49
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:50
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:52
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:53
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:54
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:55
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:56
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:57
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:37:59
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:00
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:01
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:02
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:03
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:04
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:06
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:07
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:08
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:09
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:10
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:12
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:13
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:14
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:15
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:16
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:17
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:19
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:20
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:21
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:22
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:23
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:24
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:26
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:27
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:28
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:29
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:30
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:31
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:33
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:34
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:35
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:36
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:37
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:39
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:40
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:41
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:42
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:43
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:44
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:46
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:47
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:48
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:49
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:50
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:51
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:53
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:54
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:55
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:56
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:57
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:38:58
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:00
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:01
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:02
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:03
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:04
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:06
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:07
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:08
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:09
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:10
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:11
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:13
+GL Last Trade Price 0.300000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:14
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:15
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:16
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:17
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:18
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:20
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:21
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:22
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:23
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:24
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:25
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:27
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:28
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:29
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:30
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:31
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:32
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:34
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:35
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:36
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:37
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:38
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:39
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:41
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:42
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:43
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:44
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:45
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:46
+GL Last Trade Price 0.330000 
+GL Ask Price 0.350000 
+GL Bid Price 0.200000 
+GL Mark Price 0.275000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:48
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:49
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:50
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:51
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:52
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:53
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:55
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:56
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:57
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:58
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:39:59
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:00
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:02
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:03
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:04
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:05
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:06
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:07
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:09
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:10
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:11
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:12
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:13
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:14
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:16
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:17
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:18
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:19
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:20
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:22
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:23
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 
+Time: 2024-04-12 13:40:24
+GL Last Trade Price 0.330000 
+GL Ask Price 0.300000 
+GL Bid Price 0.200000 
+GL Mark Price 0.250000 
+GL Open Price 0.35 
+ 

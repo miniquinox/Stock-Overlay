@@ -331,5 +331,22 @@
         }
     },
     "2024-04-10": {},
-    "2024-04-11": {}
+    "2024-04-11": {},
+    "2024-04-12": {
+        "CPNG $20.5 Call 2024-04-12": {
+            "Stock price at market close": 19.12,
+            "Stock price before market open": 20.61,
+            "Option price at market close": 0.01
+        },
+        "TKR $95.0 Call 2024-04-19": {
+            "Stock price at market close": 86.66,
+            "Stock price before market open": 86.57,
+            "Option price at market close": 0.01
+        },
+        "GL $105.0 Call 2024-04-19": {
+            "Stock price at market close": 104.93,
+            "Stock price before market open": 60.4617,
+            "Option price at market close": 0.13
+        }
+    }
 }
