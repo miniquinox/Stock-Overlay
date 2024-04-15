@@ -1,5 +1,13 @@
 ## Options Daily Performance
 
+### 2024-04-15
+
+| Option ID | Performance |
+| --- | --- |
+| CNC $76.0 Call 2024-04-19 | Open @ 0.73 -> Max @ 0.6 = 🔴 -17.81% (DID NOT REACH 30%. Consider -20%) |
+| WIRE $280.0 Call 2024-04-19 | Open @ 9.8 -> Max @ 15.25 = 🟢 +55.61% |
+| MPW $5.0 Call 2024-04-19 | Open @ 0.31 -> Max @ 0.47 = 🟢 +51.61% |
+
 ### 2024-04-11
 
 | Option ID | Performance |
