@@ -54871,3 +54871,4700 @@ GL Bid Price 0.200000
 GL Mark Price 0.250000 
 GL Open Price 0.35 
  
+Time: 2024-04-15 13:26:25
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:26
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:27
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:29
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:30
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:31
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:32
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:33
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:35
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:36
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:37
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:38
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:39
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:40
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:42
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:43
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:44
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:45
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:46
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:48
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:49
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:50
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:51
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:52
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:53
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:55
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:56
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:57
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:58
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:26:59
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:01
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:02
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:03
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:04
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:05
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:06
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:08
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:09
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:10
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:11
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:12
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:14
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:15
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:16
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:17
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:18
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:20
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:21
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:22
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:23
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:24
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:25
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:27
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:28
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:29
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:30
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:31
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:33
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:34
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:35
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:36
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:37
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:38
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:40
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:41
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:42
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:43
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:44
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:46
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:47
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:48
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:49
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:50
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:51
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:53
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:54
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:55
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:56
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:57
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:27:59
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:00
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:01
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:02
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:03
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:04
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:06
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:07
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:08
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:09
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:10
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:12
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:13
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:14
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:15
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:17
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:18
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:19
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:20
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:21
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:23
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:24
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:25
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:26
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:27
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:28
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:30
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:31
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:32
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:33
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:34
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:36
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:37
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:38
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:39
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:40
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:42
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:43
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:44
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:45
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:46
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:47
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:49
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:50
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:51
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:52
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:53
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:55
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:56
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:57
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:58
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:28:59
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:00
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:02
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:03
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:04
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:05
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:06
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:08
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:09
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:10
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:11
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:12
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:14
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:15
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:16
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:17
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:18
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:19
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:21
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:22
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:23
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:24
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:25
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:27
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:28
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:29
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:30
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:31
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:33
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:34
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:35
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:36
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:37
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:38
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:40
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:41
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:42
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:43
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:44
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:46
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:47
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:48
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:49
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:50
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:52
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:53
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:54
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:55
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:56
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:57
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:29:59
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price 0.03 
+ 
+Time: 2024-04-15 13:30:00
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:01
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:02
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:03
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:05
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:06
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:07
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:08
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:09
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:11
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:12
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:13
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:14
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:15
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:16
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:18
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:19
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:20
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:21
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:22
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:24
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:25
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:26
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:27
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:28
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:30
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:31
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:32
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:33
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:34
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:36
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:37
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:38
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:39
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:40
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:42
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:43
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:44
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:45
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:46
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:48
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:49
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:50
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:51
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:52
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:54
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.020000 
+MPW Bid Price 0.010000 
+MPW Mark Price 0.015000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:55
+MPW Last Trade Price 0.020000 
+MPW Ask Price 0.750000 
+MPW Bid Price 0.020000 
+MPW Mark Price 0.385000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:56
+MPW Last Trade Price 0.220000 
+MPW Ask Price 0.220000 
+MPW Bid Price 0.150000 
+MPW Mark Price 0.185000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:57
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.250000 
+MPW Bid Price 0.150000 
+MPW Mark Price 0.200000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:30:58
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.250000 
+MPW Bid Price 0.150000 
+MPW Mark Price 0.200000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:00
+MPW Last Trade Price 0.210000 
+MPW Ask Price 0.240000 
+MPW Bid Price 0.190000 
+MPW Mark Price 0.215000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:01
+MPW Last Trade Price 0.210000 
+MPW Ask Price 0.240000 
+MPW Bid Price 0.110000 
+MPW Mark Price 0.175000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:02
+MPW Last Trade Price 0.180000 
+MPW Ask Price 0.240000 
+MPW Bid Price 0.110000 
+MPW Mark Price 0.175000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:03
+MPW Last Trade Price 0.180000 
+MPW Ask Price 0.240000 
+MPW Bid Price 0.110000 
+MPW Mark Price 0.175000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:04
+MPW Last Trade Price 0.180000 
+MPW Ask Price 0.240000 
+MPW Bid Price 0.110000 
+MPW Mark Price 0.175000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:06
+MPW Last Trade Price 0.180000 
+MPW Ask Price 0.240000 
+MPW Bid Price 0.110000 
+MPW Mark Price 0.175000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:07
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.240000 
+MPW Bid Price 0.110000 
+MPW Mark Price 0.175000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:08
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.240000 
+MPW Bid Price 0.110000 
+MPW Mark Price 0.175000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:09
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.240000 
+MPW Bid Price 0.110000 
+MPW Mark Price 0.175000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:10
+MPW Last Trade Price 0.190000 
+MPW Ask Price 0.230000 
+MPW Bid Price 0.110000 
+MPW Mark Price 0.170000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:12
+MPW Last Trade Price 0.190000 
+MPW Ask Price 0.220000 
+MPW Bid Price 0.110000 
+MPW Mark Price 0.165000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:13
+MPW Last Trade Price 0.190000 
+MPW Ask Price 0.220000 
+MPW Bid Price 0.110000 
+MPW Mark Price 0.165000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:14
+MPW Last Trade Price 0.190000 
+MPW Ask Price 0.220000 
+MPW Bid Price 0.110000 
+MPW Mark Price 0.165000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:15
+MPW Last Trade Price 0.190000 
+MPW Ask Price 0.220000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.195000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:16
+MPW Last Trade Price 0.190000 
+MPW Ask Price 0.220000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.195000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:18
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.210000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.190000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:19
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.210000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.190000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:20
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.210000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.190000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:21
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.210000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.190000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:22
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.200000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.185000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:23
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.200000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.185000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:25
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.200000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.185000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:26
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.200000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.185000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:27
+MPW Last Trade Price 0.190000 
+MPW Ask Price 0.200000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.185000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:28
+MPW Last Trade Price 0.180000 
+MPW Ask Price 0.200000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.185000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:29
+MPW Last Trade Price 0.190000 
+MPW Ask Price 0.190000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.180000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:31
+MPW Last Trade Price 0.190000 
+MPW Ask Price 0.190000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.180000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:32
+MPW Last Trade Price 0.190000 
+MPW Ask Price 0.190000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.180000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:33
+MPW Last Trade Price 0.190000 
+MPW Ask Price 0.190000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.180000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:34
+MPW Last Trade Price 0.190000 
+MPW Ask Price 0.190000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.180000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:36
+MPW Last Trade Price 0.190000 
+MPW Ask Price 0.180000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.175000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:37
+MPW Last Trade Price 0.180000 
+MPW Ask Price 0.180000 
+MPW Bid Price 0.170000 
+MPW Mark Price 0.175000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:38
+MPW Last Trade Price 0.170000 
+MPW Ask Price 0.200000 
+MPW Bid Price 0.110000 
+MPW Mark Price 0.155000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:39
+MPW Last Trade Price 0.170000 
+MPW Ask Price 0.200000 
+MPW Bid Price 0.110000 
+MPW Mark Price 0.155000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:40
+MPW Last Trade Price 0.170000 
+MPW Ask Price 0.200000 
+MPW Bid Price 0.110000 
+MPW Mark Price 0.155000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:42
+MPW Last Trade Price 0.180000 
+MPW Ask Price 0.180000 
+MPW Bid Price 0.110000 
+MPW Mark Price 0.145000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:43
+MPW Last Trade Price 0.180000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.250000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:44
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.250000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:45
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.210000 
+MPW Mark Price 0.255000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:46
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.210000 
+MPW Mark Price 0.255000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:48
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.210000 
+MPW Mark Price 0.255000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:49
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.210000 
+MPW Mark Price 0.255000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:50
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.210000 
+MPW Mark Price 0.255000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:51
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.210000 
+MPW Mark Price 0.255000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:52
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.220000 
+MPW Mark Price 0.260000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:54
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.300000 
+MPW Mark Price 0.310000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:55
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.275000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:56
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.275000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:57
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.275000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:31:58
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.275000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:00
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.275000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:01
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.285000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:02
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.285000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:03
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.285000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:05
+MPW Last Trade Price 0.290000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.285000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:06
+MPW Last Trade Price 0.290000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.285000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:07
+MPW Last Trade Price 0.290000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.285000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:08
+MPW Last Trade Price 0.290000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.285000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:09
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.285000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:11
+MPW Last Trade Price 0.290000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.285000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:12
+MPW Last Trade Price 0.290000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.285000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:13
+MPW Last Trade Price 0.290000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.285000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:14
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.285000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:15
+MPW Last Trade Price 0.320000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.285000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:17
+MPW Last Trade Price 0.320000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.285000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:18
+MPW Last Trade Price 0.320000 
+MPW Ask Price 0.350000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.305000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:19
+MPW Last Trade Price 0.320000 
+MPW Ask Price 0.340000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.300000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:20
+MPW Last Trade Price 0.350000 
+MPW Ask Price 0.340000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.300000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:21
+MPW Last Trade Price 0.320000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.290000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:23
+MPW Last Trade Price 0.320000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.290000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:24
+MPW Last Trade Price 0.320000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.290000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:25
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.270000 
+MPW Mark Price 0.295000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:26
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.270000 
+MPW Mark Price 0.295000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:27
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.280000 
+MPW Mark Price 0.300000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:29
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.280000 
+MPW Mark Price 0.300000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:30
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.290000 
+MPW Mark Price 0.310000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:31
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.310000 
+MPW Mark Price 0.320000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:32
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.310000 
+MPW Mark Price 0.320000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:33
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.340000 
+MPW Bid Price 0.290000 
+MPW Mark Price 0.315000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:35
+MPW Last Trade Price 0.310000 
+MPW Ask Price 0.340000 
+MPW Bid Price 0.290000 
+MPW Mark Price 0.315000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:36
+MPW Last Trade Price 0.310000 
+MPW Ask Price 0.400000 
+MPW Bid Price 0.290000 
+MPW Mark Price 0.345000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:37
+MPW Last Trade Price 0.360000 
+MPW Ask Price 0.400000 
+MPW Bid Price 0.300000 
+MPW Mark Price 0.350000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:38
+MPW Last Trade Price 0.360000 
+MPW Ask Price 0.400000 
+MPW Bid Price 0.300000 
+MPW Mark Price 0.350000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:39
+MPW Last Trade Price 0.360000 
+MPW Ask Price 0.400000 
+MPW Bid Price 0.300000 
+MPW Mark Price 0.350000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:41
+MPW Last Trade Price 0.360000 
+MPW Ask Price 0.400000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.365000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:42
+MPW Last Trade Price 0.350000 
+MPW Ask Price 0.400000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.365000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:43
+MPW Last Trade Price 0.350000 
+MPW Ask Price 0.400000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.365000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:44
+MPW Last Trade Price 0.350000 
+MPW Ask Price 0.400000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.365000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:45
+MPW Last Trade Price 0.350000 
+MPW Ask Price 0.400000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.365000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:47
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.415000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:48
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.415000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:49
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.415000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:50
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.415000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:51
+MPW Last Trade Price 0.430000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.415000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:53
+MPW Last Trade Price 0.430000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.415000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:54
+MPW Last Trade Price 0.430000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.415000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:55
+MPW Last Trade Price 0.430000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.415000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:56
+MPW Last Trade Price 0.430000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.415000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:57
+MPW Last Trade Price 0.430000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.420000 
+MPW Mark Price 0.425000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:32:59
+MPW Last Trade Price 0.430000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.420000 
+MPW Mark Price 0.425000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:00
+MPW Last Trade Price 0.430000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.420000 
+MPW Mark Price 0.425000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:01
+MPW Last Trade Price 0.430000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.420000 
+MPW Mark Price 0.425000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:02
+MPW Last Trade Price 0.430000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.420000 
+MPW Mark Price 0.425000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:03
+MPW Last Trade Price 0.420000 
+MPW Ask Price 0.420000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.410000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:05
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.420000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.410000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:06
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.420000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.410000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:07
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.420000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.410000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:08
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.420000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.410000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:09
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.420000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.410000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:11
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.420000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.410000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:12
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.420000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.410000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:13
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.420000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.410000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:14
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.420000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.410000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:15
+MPW Last Trade Price 0.420000 
+MPW Ask Price 0.410000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.405000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:17
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.400000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.365000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:18
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.410000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.370000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:19
+MPW Last Trade Price 0.350000 
+MPW Ask Price 0.410000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.370000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:20
+MPW Last Trade Price 0.350000 
+MPW Ask Price 0.410000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.370000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:21
+MPW Last Trade Price 0.350000 
+MPW Ask Price 0.400000 
+MPW Bid Price 0.340000 
+MPW Mark Price 0.370000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:23
+MPW Last Trade Price 0.410000 
+MPW Ask Price 0.420000 
+MPW Bid Price 0.350000 
+MPW Mark Price 0.385000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:24
+MPW Last Trade Price 0.410000 
+MPW Ask Price 0.420000 
+MPW Bid Price 0.350000 
+MPW Mark Price 0.385000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:25
+MPW Last Trade Price 0.420000 
+MPW Ask Price 0.450000 
+MPW Bid Price 0.370000 
+MPW Mark Price 0.410000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:26
+MPW Last Trade Price 0.420000 
+MPW Ask Price 0.490000 
+MPW Bid Price 0.390000 
+MPW Mark Price 0.440000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:27
+MPW Last Trade Price 0.450000 
+MPW Ask Price 0.490000 
+MPW Bid Price 0.390000 
+MPW Mark Price 0.440000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:29
+MPW Last Trade Price 0.450000 
+MPW Ask Price 0.490000 
+MPW Bid Price 0.410000 
+MPW Mark Price 0.450000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:30
+MPW Last Trade Price 0.450000 
+MPW Ask Price 0.490000 
+MPW Bid Price 0.410000 
+MPW Mark Price 0.450000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:31
+MPW Last Trade Price 0.450000 
+MPW Ask Price 0.490000 
+MPW Bid Price 0.410000 
+MPW Mark Price 0.450000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:32
+MPW Last Trade Price 0.450000 
+MPW Ask Price 0.490000 
+MPW Bid Price 0.410000 
+MPW Mark Price 0.450000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:33
+MPW Last Trade Price 0.450000 
+MPW Ask Price 0.490000 
+MPW Bid Price 0.410000 
+MPW Mark Price 0.450000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:34
+MPW Last Trade Price 0.450000 
+MPW Ask Price 0.490000 
+MPW Bid Price 0.410000 
+MPW Mark Price 0.450000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:36
+MPW Last Trade Price 0.470000 
+MPW Ask Price 0.440000 
+MPW Bid Price 0.410000 
+MPW Mark Price 0.425000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:37
+MPW Last Trade Price 0.470000 
+MPW Ask Price 0.440000 
+MPW Bid Price 0.410000 
+MPW Mark Price 0.425000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:38
+MPW Last Trade Price 0.470000 
+MPW Ask Price 0.440000 
+MPW Bid Price 0.410000 
+MPW Mark Price 0.425000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:39
+MPW Last Trade Price 0.470000 
+MPW Ask Price 0.440000 
+MPW Bid Price 0.350000 
+MPW Mark Price 0.395000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:40
+MPW Last Trade Price 0.440000 
+MPW Ask Price 0.470000 
+MPW Bid Price 0.440000 
+MPW Mark Price 0.455000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:42
+MPW Last Trade Price 0.450000 
+MPW Ask Price 0.470000 
+MPW Bid Price 0.440000 
+MPW Mark Price 0.455000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:43
+MPW Last Trade Price 0.450000 
+MPW Ask Price 0.470000 
+MPW Bid Price 0.440000 
+MPW Mark Price 0.455000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:44
+MPW Last Trade Price 0.450000 
+MPW Ask Price 0.470000 
+MPW Bid Price 0.450000 
+MPW Mark Price 0.460000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:45
+MPW Last Trade Price 0.450000 
+MPW Ask Price 0.470000 
+MPW Bid Price 0.450000 
+MPW Mark Price 0.460000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:46
+MPW Last Trade Price 0.450000 
+MPW Ask Price 0.470000 
+MPW Bid Price 0.460000 
+MPW Mark Price 0.465000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:48
+MPW Last Trade Price 0.460000 
+MPW Ask Price 0.460000 
+MPW Bid Price 0.440000 
+MPW Mark Price 0.450000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:49
+MPW Last Trade Price 0.460000 
+MPW Ask Price 0.460000 
+MPW Bid Price 0.440000 
+MPW Mark Price 0.450000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:50
+MPW Last Trade Price 0.460000 
+MPW Ask Price 0.460000 
+MPW Bid Price 0.440000 
+MPW Mark Price 0.450000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:51
+MPW Last Trade Price 0.440000 
+MPW Ask Price 0.450000 
+MPW Bid Price 0.410000 
+MPW Mark Price 0.430000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:52
+MPW Last Trade Price 0.440000 
+MPW Ask Price 0.450000 
+MPW Bid Price 0.410000 
+MPW Mark Price 0.430000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:54
+MPW Last Trade Price 0.440000 
+MPW Ask Price 0.450000 
+MPW Bid Price 0.410000 
+MPW Mark Price 0.430000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:55
+MPW Last Trade Price 0.440000 
+MPW Ask Price 0.450000 
+MPW Bid Price 0.410000 
+MPW Mark Price 0.430000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:56
+MPW Last Trade Price 0.440000 
+MPW Ask Price 0.450000 
+MPW Bid Price 0.410000 
+MPW Mark Price 0.430000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:57
+MPW Last Trade Price 0.440000 
+MPW Ask Price 0.440000 
+MPW Bid Price 0.410000 
+MPW Mark Price 0.425000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:33:58
+MPW Last Trade Price 0.440000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.400000 
+MPW Mark Price 0.415000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:00
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.350000 
+MPW Mark Price 0.390000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:01
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.350000 
+MPW Mark Price 0.390000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:02
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.350000 
+MPW Mark Price 0.390000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:03
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.350000 
+MPW Mark Price 0.390000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:04
+MPW Last Trade Price 0.430000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.350000 
+MPW Mark Price 0.390000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:06
+MPW Last Trade Price 0.430000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.350000 
+MPW Mark Price 0.390000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:07
+MPW Last Trade Price 0.400000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.350000 
+MPW Mark Price 0.390000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:08
+MPW Last Trade Price 0.380000 
+MPW Ask Price 0.430000 
+MPW Bid Price 0.350000 
+MPW Mark Price 0.390000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:09
+MPW Last Trade Price 0.380000 
+MPW Ask Price 0.410000 
+MPW Bid Price 0.360000 
+MPW Mark Price 0.385000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:10
+MPW Last Trade Price 0.360000 
+MPW Ask Price 0.410000 
+MPW Bid Price 0.360000 
+MPW Mark Price 0.385000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:12
+MPW Last Trade Price 0.360000 
+MPW Ask Price 0.400000 
+MPW Bid Price 0.360000 
+MPW Mark Price 0.380000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:13
+MPW Last Trade Price 0.360000 
+MPW Ask Price 0.390000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.360000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:14
+MPW Last Trade Price 0.350000 
+MPW Ask Price 0.390000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.360000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:15
+MPW Last Trade Price 0.350000 
+MPW Ask Price 0.390000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.360000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:16
+MPW Last Trade Price 0.380000 
+MPW Ask Price 0.380000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.355000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:18
+MPW Last Trade Price 0.380000 
+MPW Ask Price 0.380000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.355000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:19
+MPW Last Trade Price 0.380000 
+MPW Ask Price 0.380000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.355000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:20
+MPW Last Trade Price 0.350000 
+MPW Ask Price 0.380000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.355000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:21
+MPW Last Trade Price 0.350000 
+MPW Ask Price 0.380000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.355000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:22
+MPW Last Trade Price 0.350000 
+MPW Ask Price 0.380000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.355000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:24
+MPW Last Trade Price 0.350000 
+MPW Ask Price 0.380000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.355000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:25
+MPW Last Trade Price 0.350000 
+MPW Ask Price 0.370000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.350000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:26
+MPW Last Trade Price 0.350000 
+MPW Ask Price 0.360000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.345000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:27
+MPW Last Trade Price 0.360000 
+MPW Ask Price 0.360000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.345000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:28
+MPW Last Trade Price 0.360000 
+MPW Ask Price 0.360000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.345000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:29
+MPW Last Trade Price 0.360000 
+MPW Ask Price 0.360000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.345000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:31
+MPW Last Trade Price 0.360000 
+MPW Ask Price 0.360000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.345000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:32
+MPW Last Trade Price 0.360000 
+MPW Ask Price 0.360000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.345000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:33
+MPW Last Trade Price 0.360000 
+MPW Ask Price 0.360000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.345000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:34
+MPW Last Trade Price 0.360000 
+MPW Ask Price 0.360000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.345000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:35
+MPW Last Trade Price 0.360000 
+MPW Ask Price 0.350000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.340000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:37
+MPW Last Trade Price 0.360000 
+MPW Ask Price 0.350000 
+MPW Bid Price 0.330000 
+MPW Mark Price 0.340000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:38
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.340000 
+MPW Bid Price 0.290000 
+MPW Mark Price 0.315000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:39
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.340000 
+MPW Bid Price 0.290000 
+MPW Mark Price 0.315000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:40
+MPW Last Trade Price 0.340000 
+MPW Ask Price 0.340000 
+MPW Bid Price 0.290000 
+MPW Mark Price 0.315000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:41
+MPW Last Trade Price 0.340000 
+MPW Ask Price 0.340000 
+MPW Bid Price 0.290000 
+MPW Mark Price 0.315000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:43
+MPW Last Trade Price 0.340000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.290000 
+MPW Mark Price 0.310000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:44
+MPW Last Trade Price 0.340000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.290000 
+MPW Mark Price 0.310000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:45
+MPW Last Trade Price 0.340000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.290000 
+MPW Mark Price 0.310000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:46
+MPW Last Trade Price 0.340000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.290000 
+MPW Mark Price 0.310000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:47
+MPW Last Trade Price 0.320000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.290000 
+MPW Mark Price 0.310000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:49
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.290000 
+MPW Mark Price 0.310000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:50
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.265000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:51
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.265000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:52
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.220000 
+MPW Mark Price 0.275000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:53
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.220000 
+MPW Mark Price 0.275000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:55
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.280000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:56
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.280000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:57
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.280000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:58
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.280000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:34:59
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.280000 
+MPW Open Price N/A 
+ 
+Time: 2024-04-15 13:35:01
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.300000 
+MPW Mark Price 0.315000 
+MPW Open Price 0.28 
+ 
+Time: 2024-04-15 13:35:02
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.300000 
+MPW Mark Price 0.315000 
+MPW Open Price 0.28 
+ 
+Time: 2024-04-15 13:35:03
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.300000 
+MPW Mark Price 0.315000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:04
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.310000 
+MPW Mark Price 0.320000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:05
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.310000 
+MPW Mark Price 0.320000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:07
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.310000 
+MPW Mark Price 0.320000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:08
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.310000 
+MPW Mark Price 0.320000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:09
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.300000 
+MPW Mark Price 0.315000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:10
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.300000 
+MPW Mark Price 0.315000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:11
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.300000 
+MPW Mark Price 0.315000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:13
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.300000 
+MPW Mark Price 0.315000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:14
+MPW Last Trade Price 0.330000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.300000 
+MPW Mark Price 0.315000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:15
+MPW Last Trade Price 0.310000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.300000 
+MPW Mark Price 0.315000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:16
+MPW Last Trade Price 0.320000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.300000 
+MPW Mark Price 0.315000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:17
+MPW Last Trade Price 0.320000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.300000 
+MPW Mark Price 0.315000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:19
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:20
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:21
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:22
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:23
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:25
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:26
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:27
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:28
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:29
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:30
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:32
+MPW Last Trade Price 0.300000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.280000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:33
+MPW Last Trade Price 0.230000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.280000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:34
+MPW Last Trade Price 0.230000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.280000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:35
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.280000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:36
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.280000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:38
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.280000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:39
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.320000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.280000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:40
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.310000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.280000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:41
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.310000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:42
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.310000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.280000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:44
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.310000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.280000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:45
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.310000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.280000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:46
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:47
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:48
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:50
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:51
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:52
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:53
+MPW Last Trade Price 0.290000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:54
+MPW Last Trade Price 0.290000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:56
+MPW Last Trade Price 0.290000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:57
+MPW Last Trade Price 0.290000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:58
+MPW Last Trade Price 0.290000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:35:59
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.270000 
+MPW Mark Price 0.285000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:00
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.270000 
+MPW Mark Price 0.285000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:02
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.270000 
+MPW Mark Price 0.285000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:03
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.270000 
+MPW Mark Price 0.285000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:04
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.270000 
+MPW Mark Price 0.285000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:05
+MPW Last Trade Price 0.280000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.270000 
+MPW Mark Price 0.285000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:06
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:08
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:09
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.300000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.275000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:10
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.260000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:11
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.260000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:12
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.260000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:13
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.260000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:15
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.260000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:16
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.260000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:17
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.260000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:18
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:20
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:21
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:22
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:23
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:24
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:25
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:27
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:28
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:29
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:30
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:31
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:33
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:34
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:35
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:36
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:37
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:39
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:40
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:41
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:42
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:43
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:45
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:46
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:47
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:48
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:49
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:51
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:52
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:53
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:54
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:55
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:57
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:58
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:36:59
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:00
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:01
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:03
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:04
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:05
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.260000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:06
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.260000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:07
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:09
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:10
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:11
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.260000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:12
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.260000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:13
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.260000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:15
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.260000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:16
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.260000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:17
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.260000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:18
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:19
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:20
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:22
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:23
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:24
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:25
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:26
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:28
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:29
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:30
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:31
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:32
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:34
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:35
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:36
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:37
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:38
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:40
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:41
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:42
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:43
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:44
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:45
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:47
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:48
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:49
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:50
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:51
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:53
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:54
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:55
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:56
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:57
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:37:59
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:00
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:01
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:02
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:03
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.250000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.225000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:05
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.250000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.225000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:06
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.250000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.225000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:07
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.250000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.225000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:08
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.250000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.225000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:09
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.250000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.225000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:10
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.250000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.225000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:12
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.240000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.220000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:13
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.240000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.220000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:14
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.240000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.220000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:15
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.240000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.220000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:16
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.230000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.215000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:18
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.230000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.215000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:19
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.230000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.215000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:20
+MPW Last Trade Price 0.200000 
+MPW Ask Price 0.230000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.215000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:21
+MPW Last Trade Price 0.230000 
+MPW Ask Price 0.250000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.225000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:22
+MPW Last Trade Price 0.220000 
+MPW Ask Price 0.240000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.220000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:24
+MPW Last Trade Price 0.220000 
+MPW Ask Price 0.240000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.220000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:25
+MPW Last Trade Price 0.220000 
+MPW Ask Price 0.250000 
+MPW Bid Price 0.220000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:26
+MPW Last Trade Price 0.220000 
+MPW Ask Price 0.250000 
+MPW Bid Price 0.220000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:27
+MPW Last Trade Price 0.220000 
+MPW Ask Price 0.230000 
+MPW Bid Price 0.220000 
+MPW Mark Price 0.225000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:28
+MPW Last Trade Price 0.230000 
+MPW Ask Price 0.250000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.240000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:30
+MPW Last Trade Price 0.220000 
+MPW Ask Price 0.250000 
+MPW Bid Price 0.220000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:31
+MPW Last Trade Price 0.220000 
+MPW Ask Price 0.250000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.240000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:32
+MPW Last Trade Price 0.220000 
+MPW Ask Price 0.250000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.240000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:33
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.250000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:34
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.250000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:35
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:37
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:38
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:39
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.250000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:40
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.250000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:42
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.250000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:43
+MPW Last Trade Price 0.240000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.250000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:44
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.250000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:45
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.250000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:46
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.250000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:48
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.250000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:49
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.250000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:50
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.250000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:51
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.230000 
+MPW Mark Price 0.250000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:52
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:54
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:55
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:56
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:57
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:58
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:38:59
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.240000 
+MPW Mark Price 0.255000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:01
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:02
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:03
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:04
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:05
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.260000 
+MPW Mark Price 0.265000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:07
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.270000 
+MPW Mark Price 0.300000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:08
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.270000 
+MPW Mark Price 0.300000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:09
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.270000 
+MPW Mark Price 0.300000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:10
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.270000 
+MPW Mark Price 0.300000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:11
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.270000 
+MPW Mark Price 0.300000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:13
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.330000 
+MPW Bid Price 0.270000 
+MPW Mark Price 0.300000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:14
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.250000 
+MPW Mark Price 0.260000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:15
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:16
+MPW Last Trade Price 0.250000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:17
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:19
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:20
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:21
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:22
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:23
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:25
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:26
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:27
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:28
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:29
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.260000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.230000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:30
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:32
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:33
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:34
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:35
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:36
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:38
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:39
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:40
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:41
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:43
+MPW Last Trade Price 0.260000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:44
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 
+Time: 2024-04-15 13:39:45
+MPW Last Trade Price 0.270000 
+MPW Ask Price 0.270000 
+MPW Bid Price 0.200000 
+MPW Mark Price 0.235000 
+MPW Open Price 0.31 
+ 

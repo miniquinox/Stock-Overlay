@@ -348,5 +348,22 @@
             "Stock price before market open": 60.4617,
             "Option price at market close": 0.13
         }
+    },
+    "2024-04-15": {
+        "CNC $76.0 Call 2024-04-19": {
+            "Stock price at market close": 71.64,
+            "Stock price before market open": 75.75,
+            "Option price at market close": 0.2
+        },
+        "WIRE $280.0 Call 2024-04-19": {
+            "Stock price at market close": 260.45,
+            "Stock price before market open": 286.0,
+            "Option price at market close": 1.0
+        },
+        "MPW $5.0 Call 2024-04-19": {
+            "Stock price at market close": 4.09,
+            "Stock price before market open": 4.82,
+            "Option price at market close": 0.02
+        }
     }
 }
