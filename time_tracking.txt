@@ -59568,3 +59568,3559 @@ MPW Bid Price 0.200000
 MPW Mark Price 0.235000 
 MPW Open Price 0.31 
  
+Time: 2024-04-16 13:28:07
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:08
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:10
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:12
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:13
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:15
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:16
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:18
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:19
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:21
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:23
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:24
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:26
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:27
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:29
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:30
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:32
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:34
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:35
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:37
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:38
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:40
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:41
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:43
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:45
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:46
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:48
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:49
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:51
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:52
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:54
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:56
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:57
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:28:59
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:00
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:02
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:03
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:05
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:07
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:08
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:10
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:11
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:13
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:14
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:16
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:17
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:19
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:21
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:22
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:24
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:25
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:27
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:28
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:30
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:32
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:33
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:35
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:36
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:38
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:39
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:41
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:43
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:44
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:46
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:47
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:49
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:51
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:52
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:54
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:55
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:57
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:29:58
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price 2.88 
+ 
+Time: 2024-04-16 13:30:00
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:02
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.100000 
+ITCI Bid Price 1.550000 
+ITCI Mark Price 2.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:03
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 5.900000 
+ITCI Bid Price 0.900000 
+ITCI Mark Price 3.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:05
+ITCI Last Trade Price 2.250000 
+ITCI Ask Price 3.900000 
+ITCI Bid Price 2.700000 
+ITCI Mark Price 3.300000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:06
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 3.900000 
+ITCI Bid Price 2.700000 
+ITCI Mark Price 3.300000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:08
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 0.900000 
+ITCI Mark Price 3.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:09
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 0.900000 
+ITCI Mark Price 3.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:11
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 0.900000 
+ITCI Mark Price 3.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:13
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 0.900000 
+ITCI Mark Price 3.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:14
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 0.900000 
+ITCI Mark Price 3.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:16
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 0.900000 
+ITCI Mark Price 3.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:17
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.300000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:19
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:21
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:22
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:24
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:25
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:27
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:28
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:30
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:32
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:33
+ITCI Last Trade Price 4.130000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:35
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:36
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:38
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:39
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:41
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:43
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:44
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:46
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:47
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:49
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:51
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:52
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:54
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:55
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:57
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:30:58
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:00
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:02
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:03
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:05
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:06
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:08
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:10
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:11
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:13
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:14
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:16
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 2.800000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:18
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.900000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.375000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:19
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.100000 
+ITCI Mark Price 3.950000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:21
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.100000 
+ITCI Mark Price 3.950000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:22
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.100000 
+ITCI Mark Price 3.950000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:24
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:26
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:27
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:29
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:30
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:32
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:34
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:35
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:37
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:38
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:40
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:41
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:43
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:45
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:46
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:48
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:49
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:51
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:52
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:54
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:56
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:57
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:31:59
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:00
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:02
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:03
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:05
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:07
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:08
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:10
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:11
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:13
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:15
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:16
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:18
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:19
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:21
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:22
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:24
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:26
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:27
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:29
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:30
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:32
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:33
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:35
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:37
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:38
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:40
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:41
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:43
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:45
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:46
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:48
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:49
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:51
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.850000 
+ITCI Mark Price 4.325000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:52
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.900000 
+ITCI Mark Price 4.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:54
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.900000 
+ITCI Mark Price 4.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:56
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.900000 
+ITCI Mark Price 4.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:57
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.900000 
+ITCI Mark Price 4.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:32:59
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.900000 
+ITCI Mark Price 4.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:00
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.900000 
+ITCI Mark Price 4.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:02
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.900000 
+ITCI Mark Price 4.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:03
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.900000 
+ITCI Mark Price 4.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:05
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.900000 
+ITCI Mark Price 4.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:07
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.900000 
+ITCI Mark Price 4.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:08
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.900000 
+ITCI Mark Price 4.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:10
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.900000 
+ITCI Mark Price 4.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:11
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.900000 
+ITCI Mark Price 4.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:13
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.900000 
+ITCI Mark Price 4.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:14
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.900000 
+ITCI Mark Price 4.350000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:16
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.950000 
+ITCI Mark Price 4.375000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:18
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.950000 
+ITCI Mark Price 4.375000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:19
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 2.950000 
+ITCI Mark Price 4.375000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:21
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.000000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:22
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.000000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:24
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.000000 
+ITCI Mark Price 4.400000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:26
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.000000 
+ITCI Mark Price 4.500000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:27
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.400000 
+ITCI Mark Price 5.200000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:29
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:30
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:32
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:33
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:35
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:37
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:38
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:40
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:41
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:43
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:44
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:46
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:48
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:49
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:51
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:52
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:54
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:55
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:57
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:33:59
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.900000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.200000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:00
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.900000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.200000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:02
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.150000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:03
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.150000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:05
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.150000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:06
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.150000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:08
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:10
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:11
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:13
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:14
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:16
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:17
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:19
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:21
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:22
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:24
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:25
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.500000 
+ITCI Mark Price 5.250000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:27
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.900000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:28
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.900000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:30
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.900000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:32
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.900000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:33
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.900000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:35
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.900000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:36
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.900000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:38
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.900000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.850000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:40
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.900000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.850000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:41
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.800000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:43
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.800000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:44
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.800000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:46
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.800000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:47
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.800000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:49
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.800000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:51
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.800000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:52
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.800000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:54
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.800000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:55
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.800000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:57
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.800000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:34:58
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.800000 
+ITCI Open Price N/A 
+ 
+Time: 2024-04-16 13:35:00
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.800000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:02
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.800000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:03
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.800000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:05
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.800000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:06
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.800000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:08
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.900000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:09
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 4.900000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:11
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:13
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:14
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:16
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:17
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:19
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.900000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.900000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:20
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.850000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:22
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.850000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:24
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.700000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.800000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:25
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.700000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.800000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:27
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.600000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.750000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:28
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.600000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.750000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:30
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:31
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:33
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:35
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:36
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:38
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:39
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.900000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.900000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:41
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.800000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.850000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:42
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:44
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:46
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:47
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:49
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:50
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:52
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.900000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 4.900000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:53
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.900000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:55
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:57
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:35:58
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 5.900000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 4.950000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:00
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:01
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:03
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:05
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:06
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:08
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:09
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:11
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:13
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:14
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:16
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:17
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:19
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:20
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:22
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:24
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:25
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:27
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:28
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:30
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:31
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:33
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.050000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:35
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.050000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:36
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.050000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:38
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.050000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:39
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.050000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:41
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.050000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:43
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.100000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:44
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.100000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:46
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.100000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:47
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.100000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:49
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.100000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:51
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.100000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:52
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.300000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:54
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.300000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:55
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.300000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:57
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.300000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:36:59
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.300000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:00
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.300000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:02
+ITCI Last Trade Price 3.430000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 5.200000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:03
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.100000 
+ITCI Bid Price 5.200000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:05
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 5.200000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:06
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 5.200000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:08
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 5.200000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:10
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.200000 
+ITCI Bid Price 5.400000 
+ITCI Mark Price 5.800000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:11
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.200000 
+ITCI Bid Price 5.600000 
+ITCI Mark Price 5.900000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:13
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.100000 
+ITCI Bid Price 6.000000 
+ITCI Mark Price 6.050000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:14
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.100000 
+ITCI Bid Price 6.000000 
+ITCI Mark Price 6.050000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:16
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 5.800000 
+ITCI Mark Price 5.900000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:17
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 5.800000 
+ITCI Mark Price 5.900000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:19
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 5.600000 
+ITCI Mark Price 5.800000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:21
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.000000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.050000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:22
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:24
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:25
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:27
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:28
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:30
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.300000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:32
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.300000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:33
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.300000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:35
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.300000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:36
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.300000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:38
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.300000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:40
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.300000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:41
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 5.700000 
+ITCI Mark Price 6.350000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:43
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 5.700000 
+ITCI Mark Price 6.350000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:44
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 5.000000 
+ITCI Mark Price 6.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:46
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 5.000000 
+ITCI Mark Price 6.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:47
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 5.000000 
+ITCI Mark Price 6.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:49
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 5.000000 
+ITCI Mark Price 6.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:51
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 5.000000 
+ITCI Mark Price 6.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:52
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 5.000000 
+ITCI Mark Price 6.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:54
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 5.000000 
+ITCI Mark Price 6.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:55
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 5.000000 
+ITCI Mark Price 6.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:57
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 5.000000 
+ITCI Mark Price 6.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:37:58
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.850000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:00
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.850000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:02
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.850000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:03
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.850000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:05
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.850000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:06
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.850000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:08
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.850000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:09
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.850000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:11
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.850000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:13
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.850000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:14
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.850000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:16
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.850000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:17
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.850000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:19
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 7.000000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.850000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:20
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.900000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.800000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:22
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.900000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.800000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:24
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.900000 
+ITCI Bid Price 3.300000 
+ITCI Mark Price 5.100000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:25
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.900000 
+ITCI Bid Price 3.300000 
+ITCI Mark Price 5.100000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:27
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.900000 
+ITCI Bid Price 3.300000 
+ITCI Mark Price 5.100000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:28
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.900000 
+ITCI Bid Price 3.300000 
+ITCI Mark Price 5.100000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:30
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.900000 
+ITCI Bid Price 3.400000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:31
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.900000 
+ITCI Bid Price 3.400000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:33
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.900000 
+ITCI Bid Price 3.400000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:35
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.900000 
+ITCI Bid Price 3.400000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:36
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.900000 
+ITCI Bid Price 3.400000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:38
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.900000 
+ITCI Bid Price 3.400000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:39
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.900000 
+ITCI Bid Price 3.400000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:41
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.900000 
+ITCI Bid Price 3.400000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:42
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.900000 
+ITCI Bid Price 3.500000 
+ITCI Mark Price 5.200000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:44
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.900000 
+ITCI Bid Price 3.500000 
+ITCI Mark Price 5.200000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:46
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.900000 
+ITCI Bid Price 3.500000 
+ITCI Mark Price 5.200000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:47
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 3.500000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:49
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 3.500000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:50
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 3.500000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:52
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 3.600000 
+ITCI Mark Price 5.050000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:53
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 3.600000 
+ITCI Mark Price 5.050000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:55
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 3.600000 
+ITCI Mark Price 5.050000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:57
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 3.600000 
+ITCI Mark Price 5.050000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:38:58
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 3.600000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:00
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 3.600000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:01
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 3.600000 
+ITCI Mark Price 5.000000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:03
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 3.700000 
+ITCI Mark Price 5.050000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:04
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 3.700000 
+ITCI Mark Price 5.050000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:06
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 3.700000 
+ITCI Mark Price 5.050000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:08
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 5.100000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:09
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:11
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:12
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:14
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.200000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:15
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.000000 
+ITCI Mark Price 5.200000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:17
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:19
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:20
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:22
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:23
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:25
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:26
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:28
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:30
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:31
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:33
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:34
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:36
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:37
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:39
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:41
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:42
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:44
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:45
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.300000 
+ITCI Bid Price 4.100000 
+ITCI Mark Price 5.200000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:47
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.300000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:48
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.300000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.250000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:50
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.200000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.200000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:52
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.200000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.200000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:53
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.200000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.200000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:55
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.200000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.200000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:56
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.200000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.200000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:58
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.200000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.200000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:39:59
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.200000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.200000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:01
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.200000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.200000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:03
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 6.200000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 5.200000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:04
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 5.200000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 4.700000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:06
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 5.200000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 4.700000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:07
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 5.200000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 4.700000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:09
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 5.200000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 4.700000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:10
+ITCI Last Trade Price 6.000000 
+ITCI Ask Price 5.200000 
+ITCI Bid Price 4.200000 
+ITCI Mark Price 4.700000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:12
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.100000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.400000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:14
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.100000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.400000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:15
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:17
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:18
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:20
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:22
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:23
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.700000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:25
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:26
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:28
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:29
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:31
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:33
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:34
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:36
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:37
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:39
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:40
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:42
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:44
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:45
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:47
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:48
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:50
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.600000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:52
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:53
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:55
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:56
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:40:58
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:00
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:01
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:03
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:04
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:06
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 4.800000 
+ITCI Mark Price 5.650000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:07
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:09
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:11
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:12
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:14
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:16
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:17
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:19
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:20
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.500000 
+ITCI Bid Price 3.800000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:22
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.400000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 5.150000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:23
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.300000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 5.100000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:25
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.300000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 5.100000 
+ITCI Open Price 4.8 
+ 
+Time: 2024-04-16 13:41:27
+ITCI Last Trade Price 4.700000 
+ITCI Ask Price 6.300000 
+ITCI Bid Price 3.900000 
+ITCI Mark Price 5.100000 
+ITCI Open Price 4.8 
+ 
