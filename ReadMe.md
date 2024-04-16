@@ -1,5 +1,11 @@
 ## Options Daily Performance
 
+### 2024-04-16
+
+| Option ID | Performance |
+| --- | --- |
+| ITCI $75.0 Call 2024-04-19 | Open @ 4.8 -> Max @ 9.56 = 🟢 +99.17% |
+
 ### 2024-04-15
 
 | Option ID | Performance |

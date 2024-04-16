@@ -379,7 +379,10 @@
         "ITCI $75.0 Call 2024-04-19": {
             "Stock price at market close": 65.88,
             "Stock price before market open": 75.8,
-            "Option price at market close": 2.33
+            "Option price at market close": 2.33,
+            "Max Day Stock Price": 84.89,
+            "Option Open Price": 4.8,
+            "Max Day Call Price": 9.56
         }
     }
 }
