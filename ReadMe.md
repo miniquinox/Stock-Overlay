@@ -1,5 +1,11 @@
 ## Options Daily Performance
 
+### 2024-04-17
+
+| Option ID | Performance |
+| --- | --- |
+| No good options today | Nothing to report |
+
 ### 2024-04-16
 
 | Option ID | Performance |
