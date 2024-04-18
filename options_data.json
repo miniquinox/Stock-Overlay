@@ -385,5 +385,12 @@
             "Max Day Call Price": 9.56
         }
     },
-    "2024-04-17": {}
+    "2024-04-17": {},
+    "2024-04-18": {
+        "FRHC $70.0 Call 2024-04-19": {
+            "Stock price at market close": 66.5,
+            "Stock price before market open": 70.6,
+            "Option price at market close": 0.01
+        }
+    }
 }

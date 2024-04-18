@@ -63124,3 +63124,4686 @@ ITCI Bid Price 3.900000
 ITCI Mark Price 5.100000 
 ITCI Open Price 4.8 
  
+Time: 2024-04-18 13:27:33
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:34
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:35
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:37
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:38
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:39
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:40
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:42
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:43
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:44
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:45
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:46
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:48
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:49
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:50
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:51
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:52
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:54
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:55
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:56
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:57
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:58
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:27:59
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:01
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:02
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:03
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:04
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:05
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:07
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:08
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:09
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:10
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:11
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:13
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:14
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:15
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:16
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:17
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:19
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:20
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:21
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:22
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:23
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:25
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:26
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:27
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:28
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:29
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:30
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:32
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:33
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:34
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:35
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:36
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:38
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:39
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:40
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:41
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:42
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:44
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:45
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:46
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:47
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:48
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:49
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:51
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:52
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:53
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:54
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:55
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:57
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:58
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:28:59
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:00
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:01
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:03
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:04
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:05
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:06
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:07
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:08
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:10
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:11
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:12
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:13
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:14
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:16
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:17
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:18
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:19
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:20
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:22
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:23
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:24
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:25
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:26
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:27
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:29
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:30
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:31
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:32
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:33
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:35
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:36
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:37
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:38
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:39
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:41
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:42
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:43
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:44
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:45
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:47
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:48
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:49
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:50
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:51
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:53
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:54
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:55
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:56
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:57
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:29:58
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:30:00
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 0.100000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.050000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:01
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 20.000000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 10.000000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:02
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 10.000000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 5.000000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:03
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 5.000000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 2.500000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:04
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.700000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.850000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:06
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.700000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.850000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:07
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.700000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.850000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:08
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.050000 
+FRHC Bid Price 0.300000 
+FRHC Mark Price 0.675000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:09
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.050000 
+FRHC Bid Price 0.300000 
+FRHC Mark Price 0.675000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:10
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.050000 
+FRHC Bid Price 0.300000 
+FRHC Mark Price 0.675000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:12
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.700000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.850000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:13
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.700000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.850000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:14
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.700000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.850000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:15
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.700000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.850000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:16
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:18
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:19
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:20
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:21
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:23
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:24
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:25
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:26
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:27
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:29
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:30
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:31
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:32
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:33
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:35
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:36
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:37
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:38
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:39
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:41
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:42
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:43
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:44
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:45
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:47
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.675000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:48
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:49
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:50
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:51
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:53
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:54
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:55
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:56
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:57
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.300000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:30:59
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:00
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:01
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:02
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:03
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:05
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:06
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:07
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:08
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:09
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:11
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:12
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:13
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:14
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:15
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:17
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:18
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:19
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:20
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:21
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:23
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:24
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:25
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:26
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:27
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:29
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:30
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:31
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:32
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:33
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:34
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:36
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:37
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:38
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:39
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:40
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:42
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:43
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:44
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:45
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.100000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:46
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:48
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:49
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:50
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:51
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:52
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:54
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.100000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:55
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:56
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:57
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:31:58
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:00
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:01
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:02
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:03
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:04
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:06
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:07
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.150000 
+FRHC Mark Price 1.675000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:08
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.150000 
+FRHC Mark Price 1.675000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:09
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.200000 
+FRHC Mark Price 1.700000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:10
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.200000 
+FRHC Mark Price 1.700000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:12
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:13
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:14
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:15
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:16
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:18
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:19
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:20
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:21
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:22
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:24
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:25
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:26
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:27
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:28
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:30
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:31
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:32
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:33
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:34
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:36
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:37
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:38
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:39
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:40
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:42
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:43
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:44
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:45
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:46
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:48
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:49
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:50
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:51
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:52
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:54
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:55
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:56
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:57
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:32:58
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:00
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:01
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:02
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:03
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:04
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:06
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:07
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:08
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:09
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:10
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:12
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:13
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:14
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:15
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:16
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:18
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:19
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:20
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:21
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:22
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:24
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:25
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:26
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:27
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:28
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:30
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:31
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:32
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:33
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:34
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:36
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:37
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:38
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:39
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:40
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:42
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:43
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:44
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:45
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:46
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:48
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:49
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:50
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.100000 
+FRHC Mark Price 1.650000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:51
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:52
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:54
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:55
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:56
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:57
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:33:58
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:00
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:01
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:02
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:03
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:04
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:06
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:07
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:08
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:09
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:10
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:12
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:13
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:14
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:15
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:16
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:17
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:19
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:20
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:21
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:22
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:23
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:25
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:26
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:27
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:28
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:29
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:31
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:32
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:33
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:34
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:35
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:37
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:38
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:39
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:40
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:41
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:43
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:44
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:45
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:46
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:47
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:49
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:50
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:51
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:52
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:53
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:55
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:56
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:57
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:58
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:34:59
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price N/A 
+ 
+Time: 2024-04-18 13:35:01
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:02
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:03
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:04
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:05
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:07
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:08
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:09
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:10
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:11
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:12
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:14
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:15
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:16
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:17
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:18
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:20
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:21
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:22
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:23
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:24
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.100000 
+FRHC Mark Price 1.650000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:26
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.150000 
+FRHC Mark Price 1.675000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:27
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:28
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:29
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:30
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:32
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:33
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:34
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:35
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:36
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:38
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:39
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:40
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:41
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:42
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:44
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:45
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:46
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:47
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:48
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:50
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:51
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:52
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:53
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:54
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:55
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:57
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:58
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:35:59
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:00
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:01
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.100000 
+FRHC Mark Price 1.650000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:03
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.100000 
+FRHC Mark Price 1.650000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:04
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:05
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:06
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:07
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:09
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:10
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:11
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:12
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:13
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:15
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:16
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:17
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:18
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:19
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:21
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:22
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:23
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:24
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:25
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:27
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:28
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:29
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:30
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:31
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:33
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:34
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:35
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:36
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:38
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:39
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:40
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:41
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:42
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:44
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:45
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:46
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:47
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:48
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:50
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:51
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:52
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:53
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:54
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:55
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:57
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:58
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:36:59
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:00
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:01
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 1.600000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:03
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 3.200000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 1.625000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:04
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:05
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:06
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:07
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:09
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:10
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:11
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:12
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:13
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:15
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:16
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:17
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:18
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:19
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:21
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:22
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:23
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:24
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:25
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:27
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:28
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:29
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:30
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:31
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:33
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:34
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:35
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:36
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:37
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:38
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:40
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:41
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:42
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:43
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:44
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:46
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:47
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:48
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:49
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:50
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:52
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:53
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:54
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:55
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:56
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:58
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:37:59
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:00
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:01
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:02
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:04
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:05
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:06
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:07
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:08
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:10
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:11
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:12
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:13
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:14
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:16
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:17
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:18
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:19
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:20
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:22
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:23
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:24
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:25
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:26
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:27
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:29
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:30
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:31
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:32
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:33
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:35
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:36
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:37
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:38
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:39
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:41
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:42
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:43
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:44
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:45
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:47
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:48
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:49
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:50
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:51
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:53
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:54
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:55
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:56
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:58
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:38:59
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:00
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:01
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:02
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:04
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:05
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:06
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:07
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:08
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:10
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:11
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:12
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:13
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:14
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:15
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:17
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:18
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:19
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:20
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:22
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:23
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:24
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:25
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:26
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:28
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:29
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:30
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:31
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:32
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:33
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:35
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:36
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:37
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:38
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:39
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:41
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:42
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:43
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:44
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:45
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:47
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:48
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:49
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:50
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:51
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:53
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:54
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:55
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:56
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:57
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:39:59
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:00
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:01
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:02
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:03
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:05
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:06
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:07
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:08
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:09
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:11
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:12
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:13
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:14
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.100000 
+FRHC Mark Price 0.775000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:15
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:17
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:18
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:19
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:20
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:21
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:23
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:24
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:25
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:26
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:27
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:29
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:30
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:31
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:32
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:33
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:35
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.050000 
+FRHC Mark Price 0.750000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:36
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:37
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:38
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:39
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:41
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:42
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:43
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:44
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:45
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:47
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:48
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:49
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:50
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:51
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
+Time: 2024-04-18 13:40:53
+FRHC Last Trade Price 0.200000 
+FRHC Ask Price 1.450000 
+FRHC Bid Price 0.000000 
+FRHC Mark Price 0.725000 
+FRHC Open Price 0.01 
+ 
