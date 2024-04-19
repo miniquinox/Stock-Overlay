@@ -67807,3 +67807,3531 @@ FRHC Bid Price 0.000000
 FRHC Mark Price 0.725000 
 FRHC Open Price 0.01 
  
+Time: 2024-04-19 13:28:53
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:28:55
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:28:56
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:28:58
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:28:59
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:01
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:03
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:04
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:06
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:07
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:09
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:11
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:12
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:14
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:15
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:17
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:18
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:20
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:22
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:23
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:25
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:26
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:28
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:29
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:31
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:33
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:34
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:36
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:38
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:39
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:41
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:42
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:44
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:45
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:47
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:49
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:50
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:52
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:53
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:55
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:56
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:29:58
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:30:00
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:01
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:03
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:04
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:06
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:08
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:09
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:11
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:12
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:14
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:15
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:17
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:19
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:20
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:22
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:23
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:25
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:27
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:28
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:30
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:31
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:33
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:35
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:36
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:38
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:39
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:41
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:42
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:44
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:46
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:47
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:49
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:50
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:52
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:53
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:55
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:57
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:30:58
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:00
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:01
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:03
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:05
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:06
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:08
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:09
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:11
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:13
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:14
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:16
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:18
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:19
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:21
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:22
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:24
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:25
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:27
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:29
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:30
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:32
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:33
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:35
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:37
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:38
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:40
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:41
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:43
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:45
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:46
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:48
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:49
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:51
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:52
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:54
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:56
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:57
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:31:59
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:01
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:02
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:04
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:05
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:07
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:08
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:10
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:12
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:14
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:15
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:17
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:18
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:20
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:22
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:23
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:25
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:26
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:28
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:29
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:31
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:33
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:34
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:36
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:37
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:39
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:41
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:42
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:44
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:45
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:47
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:49
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:50
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:52
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:53
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:55
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:56
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:32:58
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:00
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:01
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:03
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:04
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:06
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:08
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:09
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:11
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:12
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:14
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:15
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:17
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:19
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:20
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:22
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:23
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:25
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:26
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:28
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:30
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:32
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:33
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:35
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:36
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:38
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:39
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:41
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:43
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:44
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:46
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:47
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:49
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:51
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:52
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:54
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:55
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:57
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:33:59
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:00
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:02
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:03
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:05
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:06
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:08
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:10
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:11
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:13
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:14
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:16
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:18
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:19
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:21
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:22
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:24
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:26
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:27
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:29
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:31
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:32
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:34
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:35
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:37
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:39
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:40
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:42
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:43
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:45
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:46
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:48
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:50
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:51
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:53
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:54
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:56
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:58
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:34:59
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price N/A 
+ 
+Time: 2024-04-19 13:35:01
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:02
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:04
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:06
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:07
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:09
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:10
+CNS Last Trade Price 6.500000 
+CNS Ask Price 1.250000 
+CNS Bid Price 0.000000 
+CNS Mark Price 0.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:12
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:13
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:15
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:17
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:18
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:20
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:21
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:23
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:25
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:26
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:28
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:29
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:31
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:32
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:34
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:36
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:37
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:39
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:40
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:42
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:44
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:45
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:47
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:48
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:50
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:51
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:53
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:55
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:56
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:58
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:35:59
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:01
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.650000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:02
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:04
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:06
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:07
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:09
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.650000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:10
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:12
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:14
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:15
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:17
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:18
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:20
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:22
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:23
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:25
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:26
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:28
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:29
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:31
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:33
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:34
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:36
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:37
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:39
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:41
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:42
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.650000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:44
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:46
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:47
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:49
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:50
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:52
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:53
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:55
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:57
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:36:58
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:00
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:01
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:03
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:05
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:06
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:08
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:09
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:11
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:12
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:14
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:16
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:17
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:19
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:20
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:22
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:24
+CNS Last Trade Price 6.500000 
+CNS Ask Price 6.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.625000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:25
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:27
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:28
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:30
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:32
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:33
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:35
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:36
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:38
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:39
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:41
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:43
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:44
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:46
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:47
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:49
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:51
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:52
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:54
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:55
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:57
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:37:58
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:00
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:02
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:03
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:05
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:06
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:08
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:10
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:11
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:13
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:15
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:16
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:18
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:19
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:21
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:22
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.500000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.375000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:24
+CNS Last Trade Price 6.500000 
+CNS Ask Price 5.000000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.125000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:26
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:27
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:29
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:30
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:32
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:33
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:35
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:37
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:38
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:40
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:41
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:43
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:45
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:46
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:48
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:49
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:51
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:53
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:54
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:56
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:57
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:38:59
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:01
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:02
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:04
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:05
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:07
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:08
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:10
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:12
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:13
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:15
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:16
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:18
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:20
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:21
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:23
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:24
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:26
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:27
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:29
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:31
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:32
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:34
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:35
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:37
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:39
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:40
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:42
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:43
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:45
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:46
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:48
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:50
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:51
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:53
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:54
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:56
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:57
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:39:59
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:01
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:02
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:04
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:05
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:07
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:09
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:10
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:12
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:13
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:15
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:16
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:18
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:20
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:21
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:23
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:24
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:26
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:28
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:29
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:31
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:32
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:34
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:35
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:37
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:39
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:40
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:42
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:43
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:45
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:47
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:48
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:50
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:51
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:53
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:54
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:56
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:58
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:40:59
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:01
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:02
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:04
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:05
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:07
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:09
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:10
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:12
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:13
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:15
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:17
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:18
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:20
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:21
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:23
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:24
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:26
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:28
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:29
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:31
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:33
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:34
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:36
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:37
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:39
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:40
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:42
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:44
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:45
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:47
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:48
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:50
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:52
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:53
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:55
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:56
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:58
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:41:59
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:42:01
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:42:03
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:42:04
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:42:06
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:42:07
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.300000 
+CNS Mark Price 3.100000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:42:09
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:42:10
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
+Time: 2024-04-19 13:42:12
+CNS Last Trade Price 6.500000 
+CNS Ask Price 4.900000 
+CNS Bid Price 1.250000 
+CNS Mark Price 3.075000 
+CNS Open Price 0.01 
+ 
