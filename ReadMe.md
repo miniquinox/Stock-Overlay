@@ -1,5 +1,11 @@
 ## Options Daily Performance
 
+### 2024-04-22
+
+| Option ID | Performance |
+| --- | --- |
+| RIOT $10.0 Call 2024-04-26 | Open @ 0.38 -> Max @ 1.4 = 🟢 +268.42% |
+
 ### 2024-04-17
 
 | Option ID | Performance |
