@@ -71335,3 +71335,3510 @@ CNS Bid Price 1.250000
 CNS Mark Price 3.075000 
 CNS Open Price 0.01 
  
+Time: 2024-04-22 13:28:07
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:09
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:11
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:12
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:14
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:16
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:17
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:19
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:21
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:22
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:24
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:26
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:27
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:29
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:31
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:32
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:34
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:35
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:37
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:39
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:41
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:42
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:44
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:45
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:47
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:49
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:50
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:52
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:53
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:55
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:57
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:28:58
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:00
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:02
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:03
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:05
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:07
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:08
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:10
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:11
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:13
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:15
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:16
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:18
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:20
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:21
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:23
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:24
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:26
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:28
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:29
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:31
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:33
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:34
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:36
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:37
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:39
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:41
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:42
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:44
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:46
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:48
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:49
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:51
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:52
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:54
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:56
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:57
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:29:59
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price 0.14 
+ 
+Time: 2024-04-22 13:30:00
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.250000 
+RIOT Bid Price 0.230000 
+RIOT Mark Price 0.240000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:02
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 1.700000 
+RIOT Bid Price 0.300000 
+RIOT Mark Price 1.000000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:04
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 1.700000 
+RIOT Bid Price 0.300000 
+RIOT Mark Price 1.000000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:05
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.850000 
+RIOT Bid Price 0.300000 
+RIOT Mark Price 0.575000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:07
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.500000 
+RIOT Bid Price 0.300000 
+RIOT Mark Price 0.400000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:08
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.500000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.445000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:10
+RIOT Last Trade Price 0.250000 
+RIOT Ask Price 0.500000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.445000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:12
+RIOT Last Trade Price 0.310000 
+RIOT Ask Price 0.500000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.445000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:13
+RIOT Last Trade Price 0.310000 
+RIOT Ask Price 0.500000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.450000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:15
+RIOT Last Trade Price 0.310000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.405000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:17
+RIOT Last Trade Price 0.310000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:18
+RIOT Last Trade Price 0.500000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:20
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:22
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:24
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:25
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:27
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:28
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:30
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:32
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:33
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.410000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:35
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.410000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:36
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.405000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:38
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:40
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:41
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.500000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.460000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:43
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.500000 
+RIOT Bid Price 0.440000 
+RIOT Mark Price 0.470000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:45
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.440000 
+RIOT Mark Price 0.450000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:46
+RIOT Last Trade Price 0.460000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.440000 
+RIOT Mark Price 0.450000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:48
+RIOT Last Trade Price 0.460000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.440000 
+RIOT Mark Price 0.450000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:49
+RIOT Last Trade Price 0.460000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.450000 
+RIOT Mark Price 0.455000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:51
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.435000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:53
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:55
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:56
+RIOT Last Trade Price 0.460000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:58
+RIOT Last Trade Price 0.460000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.450000 
+RIOT Mark Price 0.455000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:30:59
+RIOT Last Trade Price 0.450000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.450000 
+RIOT Mark Price 0.455000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:01
+RIOT Last Trade Price 0.450000 
+RIOT Ask Price 0.480000 
+RIOT Bid Price 0.460000 
+RIOT Mark Price 0.470000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:02
+RIOT Last Trade Price 0.460000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:04
+RIOT Last Trade Price 0.450000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.435000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:06
+RIOT Last Trade Price 0.460000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:07
+RIOT Last Trade Price 0.460000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.440000 
+RIOT Mark Price 0.450000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:09
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:10
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:12
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:13
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:15
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:17
+RIOT Last Trade Price 0.460000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:18
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:20
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:21
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:23
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:24
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:26
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.435000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:28
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.435000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:29
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:31
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:32
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:34
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:36
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:37
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:39
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:40
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:42
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:44
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:45
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:47
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:48
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:50
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:52
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:53
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:55
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:56
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:31:58
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:00
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:01
+RIOT Last Trade Price 0.450000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:03
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:05
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:06
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:08
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:09
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:11
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:13
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:14
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:16
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:17
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:19
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:21
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:22
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:24
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:25
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:27
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:28
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:30
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:32
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:33
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:35
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.440000 
+RIOT Mark Price 0.445000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:36
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.435000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:38
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.435000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:39
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.435000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:41
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.435000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:43
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.435000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:44
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:46
+RIOT Last Trade Price 0.450000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:48
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.440000 
+RIOT Mark Price 0.445000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:49
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.440000 
+RIOT Mark Price 0.445000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:51
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.440000 
+RIOT Mark Price 0.445000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:52
+RIOT Last Trade Price 0.450000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.440000 
+RIOT Mark Price 0.445000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:54
+RIOT Last Trade Price 0.450000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.440000 
+RIOT Mark Price 0.445000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:56
+RIOT Last Trade Price 0.450000 
+RIOT Ask Price 0.460000 
+RIOT Bid Price 0.450000 
+RIOT Mark Price 0.455000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:57
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:32:59
+RIOT Last Trade Price 0.450000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:00
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.440000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:02
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:03
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:05
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:07
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:08
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:10
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:11
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:13
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:14
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:16
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:18
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:19
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:21
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:22
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:24
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:25
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:27
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:29
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:30
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:32
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:34
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:35
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:37
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:38
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:40
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:42
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:43
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:45
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:46
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:48
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:50
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:51
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:53
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:54
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:56
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:57
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.410000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:33:59
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.405000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:01
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.405000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:02
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.405000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:04
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.405000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:05
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.405000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:07
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:09
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:10
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.420000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:12
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.425000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:13
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:15
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:17
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.415000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:18
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.430000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.410000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:20
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:21
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:23
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:24
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:26
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:28
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:29
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:31
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:32
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:34
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:35
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:37
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.385000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:39
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.385000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:40
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.385000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:42
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.340000 
+RIOT Mark Price 0.365000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:43
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.340000 
+RIOT Mark Price 0.365000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:45
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.340000 
+RIOT Mark Price 0.365000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:47
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.340000 
+RIOT Mark Price 0.365000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:48
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.375000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:50
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:51
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:53
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:54
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:56
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:58
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:34:59
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price N/A 
+ 
+Time: 2024-04-22 13:35:01
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:02
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:04
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:05
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:07
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:09
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:10
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:12
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:13
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:15
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:17
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:18
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:20
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:21
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:23
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:25
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:26
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:28
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:29
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:31
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:32
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:34
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:36
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:37
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:39
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:40
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:42
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:44
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:45
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:47
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:48
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:50
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:51
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:53
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:55
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:56
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:58
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:35:59
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.405000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:01
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.415000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:03
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.405000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:04
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:06
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.405000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:07
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.405000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:09
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.405000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:11
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:12
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:14
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:15
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:17
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:18
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:20
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:22
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:23
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:25
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.405000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:26
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:28
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:30
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:31
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:33
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:34
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:36
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.405000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:38
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.405000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:39
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:41
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:42
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:44
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:45
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:47
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:49
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:50
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:52
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:53
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:55
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:56
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:36:58
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:00
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:01
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:03
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:04
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:06
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:08
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:09
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:11
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:12
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:14
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:16
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:17
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:19
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:20
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:22
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:24
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:25
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:27
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:28
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:30
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:31
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:33
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:35
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:36
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:38
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:39
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:41
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:43
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:44
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:46
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:47
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:49
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:51
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:52
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:54
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:56
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:57
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:37:59
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:00
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:02
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:03
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:05
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:07
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:08
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:10
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:11
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:13
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:15
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:16
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:18
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:19
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:21
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:22
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:24
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:26
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:27
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:29
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:30
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:32
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.405000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:33
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.405000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:35
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.405000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:37
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:38
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:40
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.415000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:41
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:43
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.405000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:45
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.405000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:46
+RIOT Last Trade Price 0.390000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.405000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:48
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.405000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:49
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.405000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:51
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.405000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:53
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:54
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:56
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:57
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.415000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:38:59
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.410000 
+RIOT Mark Price 0.415000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:01
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:02
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:04
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:05
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:07
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:09
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.400000 
+RIOT Mark Price 0.410000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:10
+RIOT Last Trade Price 0.400000 
+RIOT Ask Price 0.400000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:12
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.390000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:14
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:15
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:17
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:18
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:20
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:21
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:23
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:25
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:26
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:28
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.390000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:29
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:31
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:32
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:34
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:36
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:37
+RIOT Last Trade Price 0.410000 
+RIOT Ask Price 0.410000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.395000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:39
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:40
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.370000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.365000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:42
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:43
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:45
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:47
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:48
+RIOT Last Trade Price 0.360000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:50
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:51
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.370000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:53
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:55
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:56
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:58
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.360000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:39:59
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:01
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.385000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:03
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:04
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:06
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:07
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:09
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:11
+RIOT Last Trade Price 0.370000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:12
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:14
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:15
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:17
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:19
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:20
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.390000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.380000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:22
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:23
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:25
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:26
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:28
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:30
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:31
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.380000 
+RIOT Bid Price 0.370000 
+RIOT Mark Price 0.375000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:33
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:34
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:36
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:38
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:39
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:41
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:42
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:44
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:45
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:47
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:49
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:50
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:52
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:53
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:55
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:56
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:40:58
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:00
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:01
+RIOT Last Trade Price 0.380000 
+RIOT Ask Price 0.420000 
+RIOT Bid Price 0.380000 
+RIOT Mark Price 0.400000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:03
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.430000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:04
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.435000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:06
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.435000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:08
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.435000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:09
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.435000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:11
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.435000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:12
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.420000 
+RIOT Mark Price 0.435000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:14
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.440000 
+RIOT Mark Price 0.445000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:15
+RIOT Last Trade Price 0.420000 
+RIOT Ask Price 0.450000 
+RIOT Bid Price 0.440000 
+RIOT Mark Price 0.445000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:17
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.435000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:19
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.435000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:20
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.435000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:22
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.435000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:23
+RIOT Last Trade Price 0.430000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.435000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:25
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.435000 
+RIOT Open Price 0.38 
+ 
+Time: 2024-04-22 13:41:26
+RIOT Last Trade Price 0.440000 
+RIOT Ask Price 0.440000 
+RIOT Bid Price 0.430000 
+RIOT Mark Price 0.435000 
+RIOT Open Price 0.38 
+ 

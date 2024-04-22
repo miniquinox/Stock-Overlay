@@ -419,5 +419,12 @@
             "Stock price before market open": 73.41,
             "Option price at market close": 0.01
         }
+    },
+    "2024-04-22": {
+        "RIOT $10.0 Call 2024-04-26": {
+            "Stock price at market close": 8.29,
+            "Stock price before market open": 9.83,
+            "Option price at market close": 0.24
+        }
     }
 }
