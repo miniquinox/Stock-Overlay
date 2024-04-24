@@ -74842,3 +74842,3545 @@ RIOT Bid Price 0.430000
 RIOT Mark Price 0.435000 
 RIOT Open Price 0.38 
  
+Time: 2024-04-24 13:33:00
+BILI Last Trade Price 0.380000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.380000 
+BILI Mark Price 0.415000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:02
+BILI Last Trade Price 0.380000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.390000 
+BILI Mark Price 0.420000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:04
+BILI Last Trade Price 0.380000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.390000 
+BILI Mark Price 0.420000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:05
+BILI Last Trade Price 0.380000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.390000 
+BILI Mark Price 0.420000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:07
+BILI Last Trade Price 0.380000 
+BILI Ask Price 0.430000 
+BILI Bid Price 0.390000 
+BILI Mark Price 0.410000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:08
+BILI Last Trade Price 0.380000 
+BILI Ask Price 0.430000 
+BILI Bid Price 0.390000 
+BILI Mark Price 0.410000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:10
+BILI Last Trade Price 0.430000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.390000 
+BILI Mark Price 0.420000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:11
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.390000 
+BILI Mark Price 0.420000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:13
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.390000 
+BILI Mark Price 0.420000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:15
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.440000 
+BILI Bid Price 0.390000 
+BILI Mark Price 0.415000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:16
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.440000 
+BILI Bid Price 0.390000 
+BILI Mark Price 0.415000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:18
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.400000 
+BILI Mark Price 0.430000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:19
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.400000 
+BILI Mark Price 0.430000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:21
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.400000 
+BILI Mark Price 0.430000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:22
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.400000 
+BILI Mark Price 0.430000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:24
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.400000 
+BILI Mark Price 0.430000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:26
+BILI Last Trade Price 0.430000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.410000 
+BILI Mark Price 0.435000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:27
+BILI Last Trade Price 0.430000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.410000 
+BILI Mark Price 0.435000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:29
+BILI Last Trade Price 0.430000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.410000 
+BILI Mark Price 0.435000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:30
+BILI Last Trade Price 0.430000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.410000 
+BILI Mark Price 0.435000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:32
+BILI Last Trade Price 0.430000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.410000 
+BILI Mark Price 0.435000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:34
+BILI Last Trade Price 0.430000 
+BILI Ask Price 0.440000 
+BILI Bid Price 0.410000 
+BILI Mark Price 0.425000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:35
+BILI Last Trade Price 0.440000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.420000 
+BILI Mark Price 0.440000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:37
+BILI Last Trade Price 0.440000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.420000 
+BILI Mark Price 0.440000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:38
+BILI Last Trade Price 0.440000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.420000 
+BILI Mark Price 0.440000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:40
+BILI Last Trade Price 0.440000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.420000 
+BILI Mark Price 0.440000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:42
+BILI Last Trade Price 0.440000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.420000 
+BILI Mark Price 0.440000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:43
+BILI Last Trade Price 0.440000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.420000 
+BILI Mark Price 0.435000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:45
+BILI Last Trade Price 0.440000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.410000 
+BILI Mark Price 0.430000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:46
+BILI Last Trade Price 0.440000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.410000 
+BILI Mark Price 0.430000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:48
+BILI Last Trade Price 0.440000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.410000 
+BILI Mark Price 0.430000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:49
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.390000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:51
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.390000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:53
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.440000 
+BILI Bid Price 0.340000 
+BILI Mark Price 0.390000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:54
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.440000 
+BILI Bid Price 0.340000 
+BILI Mark Price 0.390000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:56
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.430000 
+BILI Bid Price 0.350000 
+BILI Mark Price 0.390000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:57
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.430000 
+BILI Bid Price 0.350000 
+BILI Mark Price 0.390000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:33:59
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.430000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.395000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:01
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.430000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.395000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:02
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.410000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:04
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.410000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:05
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.410000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:07
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.410000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:08
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.410000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:10
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.410000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:12
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.410000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:13
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.370000 
+BILI Mark Price 0.415000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:15
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.370000 
+BILI Mark Price 0.415000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:16
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.380000 
+BILI Mark Price 0.420000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:18
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.380000 
+BILI Mark Price 0.420000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:20
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.380000 
+BILI Mark Price 0.420000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:21
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.380000 
+BILI Mark Price 0.420000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:23
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.380000 
+BILI Mark Price 0.420000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:24
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.380000 
+BILI Mark Price 0.420000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:26
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.380000 
+BILI Mark Price 0.420000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:27
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.380000 
+BILI Mark Price 0.420000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:29
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.390000 
+BILI Mark Price 0.425000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:31
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.400000 
+BILI Mark Price 0.425000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:32
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.400000 
+BILI Mark Price 0.430000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:34
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.400000 
+BILI Mark Price 0.430000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:35
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.400000 
+BILI Mark Price 0.425000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:37
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.400000 
+BILI Mark Price 0.425000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:38
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.400000 
+BILI Mark Price 0.430000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:40
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.400000 
+BILI Mark Price 0.430000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:42
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.400000 
+BILI Mark Price 0.430000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:43
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.410000 
+BILI Mark Price 0.435000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:45
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.410000 
+BILI Mark Price 0.435000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:46
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.410000 
+BILI Mark Price 0.435000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:48
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.410000 
+BILI Mark Price 0.435000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:50
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.410000 
+BILI Mark Price 0.435000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:51
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.420000 
+BILI Mark Price 0.440000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:53
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.420000 
+BILI Mark Price 0.440000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:54
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.420000 
+BILI Mark Price 0.440000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:56
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.420000 
+BILI Mark Price 0.440000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:58
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.380000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:34:59
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.380000 
+BILI Open Price N/A 
+ 
+Time: 2024-04-24 13:35:01
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.385000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:02
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.460000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.385000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:04
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.385000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:06
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.385000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:07
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.390000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:09
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.390000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:10
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.390000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:12
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.390000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:13
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.390000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:15
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.340000 
+BILI Mark Price 0.395000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:17
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.340000 
+BILI Mark Price 0.395000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:18
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.340000 
+BILI Mark Price 0.395000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:20
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.340000 
+BILI Mark Price 0.395000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:21
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.340000 
+BILI Mark Price 0.395000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:23
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.350000 
+BILI Mark Price 0.400000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:24
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.405000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:26
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.405000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:28
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.405000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:29
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.405000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:31
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.405000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:32
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.405000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:34
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.405000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:35
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.405000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:37
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.405000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:39
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.405000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:40
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.450000 
+BILI Bid Price 0.360000 
+BILI Mark Price 0.405000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:42
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.430000 
+BILI Bid Price 0.370000 
+BILI Mark Price 0.400000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:43
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.430000 
+BILI Bid Price 0.370000 
+BILI Mark Price 0.400000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:45
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.430000 
+BILI Bid Price 0.370000 
+BILI Mark Price 0.400000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:47
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.430000 
+BILI Bid Price 0.370000 
+BILI Mark Price 0.400000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:48
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.430000 
+BILI Bid Price 0.370000 
+BILI Mark Price 0.400000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:50
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.430000 
+BILI Bid Price 0.370000 
+BILI Mark Price 0.400000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:51
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.420000 
+BILI Bid Price 0.370000 
+BILI Mark Price 0.395000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:53
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.420000 
+BILI Bid Price 0.370000 
+BILI Mark Price 0.395000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:54
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.420000 
+BILI Bid Price 0.370000 
+BILI Mark Price 0.395000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:56
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.420000 
+BILI Bid Price 0.370000 
+BILI Mark Price 0.395000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:58
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.420000 
+BILI Bid Price 0.370000 
+BILI Mark Price 0.395000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:35:59
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.420000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.360000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:01
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.355000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:02
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.355000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:04
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.355000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:06
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.355000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:07
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.355000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:09
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.355000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:10
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.355000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:12
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.355000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:13
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.355000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:15
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.350000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:17
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.350000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:18
+BILI Last Trade Price 0.400000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.350000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:20
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.190000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:21
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.190000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:23
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.190000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:24
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.190000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:26
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.190000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:28
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.190000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:29
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.190000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:31
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.190000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:32
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.390000 
+BILI Bid Price 0.200000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:34
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.390000 
+BILI Bid Price 0.200000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:36
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.390000 
+BILI Bid Price 0.210000 
+BILI Mark Price 0.300000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:37
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.210000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:39
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.210000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:40
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.210000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:42
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.210000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:44
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.300000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:45
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.300000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:47
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:48
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:50
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.370000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:52
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.370000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:53
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.360000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.290000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:55
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.360000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.290000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:56
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.360000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.290000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:58
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.360000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.290000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:36:59
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.360000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.290000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:01
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.285000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:03
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.280000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:04
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.280000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:06
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.280000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:07
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.275000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:09
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.270000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:10
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.270000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:12
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.270000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:14
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.270000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:15
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.310000 
+BILI Bid Price 0.230000 
+BILI Mark Price 0.270000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:17
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.310000 
+BILI Bid Price 0.230000 
+BILI Mark Price 0.270000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:18
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.310000 
+BILI Bid Price 0.230000 
+BILI Mark Price 0.270000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:20
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.310000 
+BILI Bid Price 0.230000 
+BILI Mark Price 0.270000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:21
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.310000 
+BILI Bid Price 0.230000 
+BILI Mark Price 0.270000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:23
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.310000 
+BILI Bid Price 0.230000 
+BILI Mark Price 0.270000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:25
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.300000 
+BILI Bid Price 0.240000 
+BILI Mark Price 0.270000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:26
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.300000 
+BILI Bid Price 0.240000 
+BILI Mark Price 0.270000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:28
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.300000 
+BILI Bid Price 0.240000 
+BILI Mark Price 0.270000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:29
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.300000 
+BILI Bid Price 0.270000 
+BILI Mark Price 0.285000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:31
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.300000 
+BILI Bid Price 0.270000 
+BILI Mark Price 0.285000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:32
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.300000 
+BILI Bid Price 0.270000 
+BILI Mark Price 0.285000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:34
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.300000 
+BILI Bid Price 0.270000 
+BILI Mark Price 0.285000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:36
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.300000 
+BILI Bid Price 0.270000 
+BILI Mark Price 0.285000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:37
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.270000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:39
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.270000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:40
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.270000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:42
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.270000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:44
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.270000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:45
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.270000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:47
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.270000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:48
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.300000 
+BILI Bid Price 0.250000 
+BILI Mark Price 0.275000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:50
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.300000 
+BILI Bid Price 0.250000 
+BILI Mark Price 0.275000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:51
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.300000 
+BILI Bid Price 0.250000 
+BILI Mark Price 0.275000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:53
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.300000 
+BILI Bid Price 0.250000 
+BILI Mark Price 0.275000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:55
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.300000 
+BILI Bid Price 0.250000 
+BILI Mark Price 0.275000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:56
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.300000 
+BILI Bid Price 0.250000 
+BILI Mark Price 0.275000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:58
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.300000 
+BILI Bid Price 0.260000 
+BILI Mark Price 0.280000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:37:59
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.260000 
+BILI Mark Price 0.290000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:01
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.260000 
+BILI Mark Price 0.290000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:02
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.260000 
+BILI Mark Price 0.290000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:04
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.260000 
+BILI Mark Price 0.290000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:06
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.260000 
+BILI Mark Price 0.290000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:07
+BILI Last Trade Price 0.300000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.260000 
+BILI Mark Price 0.290000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:09
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.420000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.370000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:10
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.420000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.370000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:12
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.420000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.370000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:13
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.420000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.370000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:15
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.420000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.370000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:17
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.365000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:18
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.365000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:20
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.365000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:21
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.365000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:23
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.365000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:24
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.340000 
+BILI Mark Price 0.375000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:26
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.340000 
+BILI Mark Price 0.375000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:28
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.340000 
+BILI Mark Price 0.375000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:29
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.340000 
+BILI Mark Price 0.375000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:31
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.340000 
+BILI Mark Price 0.375000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:32
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.340000 
+BILI Mark Price 0.375000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:34
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.350000 
+BILI Mark Price 0.375000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:35
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.350000 
+BILI Mark Price 0.375000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:37
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.350000 
+BILI Mark Price 0.375000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:39
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.390000 
+BILI Bid Price 0.350000 
+BILI Mark Price 0.370000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:40
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.390000 
+BILI Bid Price 0.350000 
+BILI Mark Price 0.370000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:42
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.390000 
+BILI Bid Price 0.350000 
+BILI Mark Price 0.370000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:43
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.390000 
+BILI Bid Price 0.350000 
+BILI Mark Price 0.370000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:45
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.420000 
+BILI Bid Price 0.370000 
+BILI Mark Price 0.395000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:46
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.420000 
+BILI Bid Price 0.370000 
+BILI Mark Price 0.395000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:48
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.270000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:50
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.410000 
+BILI Bid Price 0.270000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:51
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.280000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:53
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.400000 
+BILI Bid Price 0.280000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:54
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.390000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:56
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.390000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:57
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.390000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:38:59
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:01
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:02
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:04
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:05
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:07
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:09
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:10
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:12
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:13
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:15
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:16
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.345000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:18
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.345000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:20
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.345000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:21
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.380000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.345000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:23
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.370000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:24
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.360000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:26
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.360000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:27
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:29
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:31
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:32
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:34
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:35
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:37
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:39
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:40
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:42
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:43
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:45
+BILI Last Trade Price 0.370000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:46
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.170000 
+BILI Mark Price 0.260000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:48
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.170000 
+BILI Mark Price 0.260000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:50
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.170000 
+BILI Mark Price 0.260000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:51
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.170000 
+BILI Mark Price 0.260000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:53
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.180000 
+BILI Mark Price 0.260000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:54
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.180000 
+BILI Mark Price 0.260000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:56
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.180000 
+BILI Mark Price 0.260000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:57
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.180000 
+BILI Mark Price 0.260000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:39:59
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.180000 
+BILI Mark Price 0.260000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:01
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.190000 
+BILI Mark Price 0.260000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:03
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.200000 
+BILI Mark Price 0.265000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:04
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.200000 
+BILI Mark Price 0.265000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:06
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.200000 
+BILI Mark Price 0.265000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:07
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.200000 
+BILI Mark Price 0.265000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:09
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.200000 
+BILI Mark Price 0.265000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:11
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.200000 
+BILI Mark Price 0.265000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:12
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.200000 
+BILI Mark Price 0.265000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:14
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.200000 
+BILI Mark Price 0.265000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:15
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.210000 
+BILI Mark Price 0.270000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:17
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.210000 
+BILI Mark Price 0.270000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:19
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.275000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:20
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.275000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:22
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.275000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:23
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.275000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:25
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.275000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:26
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.275000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:28
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.220000 
+BILI Mark Price 0.275000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:30
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.230000 
+BILI Mark Price 0.280000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:31
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.230000 
+BILI Mark Price 0.280000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:33
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.240000 
+BILI Mark Price 0.280000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:35
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.240000 
+BILI Mark Price 0.280000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:36
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.240000 
+BILI Mark Price 0.280000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:38
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.240000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:39
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.240000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:41
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.250000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:42
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.250000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:44
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.250000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:46
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.250000 
+BILI Mark Price 0.295000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:47
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.260000 
+BILI Mark Price 0.300000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:49
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.260000 
+BILI Mark Price 0.300000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:50
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.260000 
+BILI Mark Price 0.300000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:52
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.260000 
+BILI Mark Price 0.300000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:54
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.270000 
+BILI Mark Price 0.300000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:55
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.270000 
+BILI Mark Price 0.300000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:57
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.280000 
+BILI Mark Price 0.305000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:40:58
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:00
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:01
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:03
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:05
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:06
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:08
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:09
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:11
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:12
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:14
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.320000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:16
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:17
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:19
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:20
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:22
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:24
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:25
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:27
+BILI Last Trade Price 0.320000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:28
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:30
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:31
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.310000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:33
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.305000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:35
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.305000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:36
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.305000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:38
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.305000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:39
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.320000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.305000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:41
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.320000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:42
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:44
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:46
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:47
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:49
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:50
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:52
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:53
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:55
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:57
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:41:58
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:00
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:01
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:03
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.290000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:04
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.320000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:06
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.320000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:08
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.320000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:09
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.320000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:11
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.320000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:12
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:14
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:15
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:17
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:19
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:20
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:22
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:23
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:25
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:26
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:28
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:30
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:31
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:33
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:34
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:36
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:37
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:39
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:41
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:42
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:44
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:45
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:47
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:48
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:50
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:52
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:53
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:55
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:56
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:42:58
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:00
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:01
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:03
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:04
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:06
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:07
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:09
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:11
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.315000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:12
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.320000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:14
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.320000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:15
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.340000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.320000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:17
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.300000 
+BILI Mark Price 0.325000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:19
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:20
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:22
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:23
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:25
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:26
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:28
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:30
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:31
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:33
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:34
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:36
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:37
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:39
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:41
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:42
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:44
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:45
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:47
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:49
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:50
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:52
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:53
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:55
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:56
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:43:58
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:00
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:01
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:03
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:04
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:06
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:08
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:09
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:11
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.310000 
+BILI Mark Price 0.330000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:12
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:14
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:16
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:17
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:19
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:20
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:22
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:23
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.325000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:25
+BILI Last Trade Price 0.310000 
+BILI Ask Price 0.330000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.325000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:26
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:28
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:30
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:31
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:33
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:34
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:36
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:38
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:39
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:41
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:43
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:44
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:46
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:47
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:49
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:50
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:52
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:54
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:55
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:57
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:44:58
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:00
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:02
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:03
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:05
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:06
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:08
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:09
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:11
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:13
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:14
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.330000 
+BILI Mark Price 0.340000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:16
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:17
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:19
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:20
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:22
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:24
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:25
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:27
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:28
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:30
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:32
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:33
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:35
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:36
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:38
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:39
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:41
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:43
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:44
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:46
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:47
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:49
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:50
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:52
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:54
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:55
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:57
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:45:58
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:46:00
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:46:02
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:46:03
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:46:05
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:46:06
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:46:08
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:46:09
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:46:11
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:46:13
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:46:14
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:46:16
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:46:17
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
+Time: 2024-04-24 13:46:19
+BILI Last Trade Price 0.330000 
+BILI Ask Price 0.350000 
+BILI Bid Price 0.320000 
+BILI Mark Price 0.335000 
+BILI Open Price 0.38 
+ 
