@@ -1,5 +1,14 @@
 ## Options Daily Performance
 
+### 2024-04-24
+
+| Option ID | Performance |
+| --- | --- |
+| TSLA $162.5 Call 2024-04-26 | Open @ 2.73 -> Max @ 7.37 = 🟢 +169.96% |
+| VRT $92.0 Call 2024-04-26 | Open @ 2.45 -> Max @ 4.2 = 🟢 +71.43% |
+| VFS $2.5 Call 2024-04-26 | Open @ 0.09 -> Max @ 0.15 = 🟢 +66.67% |
+| BILI $12.5 Call 2024-04-26 | Open @ 0.38 -> Max @ 0.58 = 🟢 +52.63% |
+
 ### 2024-04-23
 
 | Option ID | Performance |

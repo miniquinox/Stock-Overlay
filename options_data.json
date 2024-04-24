@@ -435,22 +435,34 @@
         "TSLA $162.5 Call 2024-04-26": {
             "Stock price at market close": 144.68,
             "Stock price before market open": 162.1608,
-            "Option price at market close": 1.37
+            "Option price at market close": 1.37,
+            "Max Day Stock Price": 167.97,
+            "Option Open Price": 2.73,
+            "Max Day Call Price": 7.37
         },
         "VRT $92.0 Call 2024-04-26": {
             "Stock price at market close": 79.17,
             "Stock price before market open": 90.88,
-            "Option price at market close": 0.83
+            "Option price at market close": 0.83,
+            "Max Day Stock Price": 91.45,
+            "Option Open Price": 2.45,
+            "Max Day Call Price": 4.2
         },
         "VFS $2.5 Call 2024-04-26": {
             "Stock price at market close": 2.42,
             "Stock price before market open": 2.575,
-            "Option price at market close": 0.08
+            "Option price at market close": 0.08,
+            "Max Day Stock Price": 2.63,
+            "Option Open Price": 0.09,
+            "Max Day Call Price": 0.15
         },
         "BILI $12.5 Call 2024-04-26": {
             "Stock price at market close": 11.49,
             "Stock price before market open": 12.67,
-            "Option price at market close": 0.06
+            "Option price at market close": 0.06,
+            "Max Day Stock Price": 12.9,
+            "Option Open Price": 0.38,
+            "Max Day Call Price": 0.58
         }
     }
 }
