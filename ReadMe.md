@@ -1,5 +1,13 @@
 ## Options Daily Performance
 
+### 2024-04-26
+
+| Option ID | Performance |
+| --- | --- |
+| LI $25.5 Call 2024-04-26 | Open @ 0.19 -> Max @ 0.4 = 🟢 +110.53% |
+| SNAP $14.5 Call 2024-04-26 | Open @ 0.47 -> Max @ 0.78 = 🟢 +65.96% |
+| XPEV $7.5 Call 2024-04-26 | Open @ 0.36 -> Max @ 0.45 = 🔴 +25.00% (DID NOT REACH 30%. Consider -20%) |
+
 ### 2024-04-25
 
 | Option ID | Performance |

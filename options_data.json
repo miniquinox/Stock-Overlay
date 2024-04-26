@@ -470,17 +470,26 @@
         "LI $25.5 Call 2024-04-26": {
             "Stock price at market close": 23.87,
             "Stock price before market open": 25.39,
-            "Option price at market close": 0.01
+            "Option price at market close": 0.01,
+            "Max Day Stock Price": 25.27,
+            "Option Open Price": 0.19,
+            "Max Day Call Price": 0.4
         },
         "SNAP $14.5 Call 2024-04-26": {
             "Stock price at market close": 11.08,
             "Stock price before market open": 14.31,
-            "Option price at market close": 0.31
+            "Option price at market close": 0.31,
+            "Max Day Stock Price": 14.94,
+            "Option Open Price": 0.47,
+            "Max Day Call Price": 0.78
         },
         "XPEV $7.5 Call 2024-04-26": {
             "Stock price at market close": 7.08,
             "Stock price before market open": 7.68,
-            "Option price at market close": 0.02
+            "Option price at market close": 0.02,
+            "Max Day Stock Price": 7.94,
+            "Option Open Price": 0.36,
+            "Max Day Call Price": 0.45
         }
     }
 }
