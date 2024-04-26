@@ -78384,3 +78384,4777 @@ BILI Bid Price 0.320000
 BILI Mark Price 0.335000 
 BILI Open Price 0.38 
  
+Time: 2024-04-26 13:26:44
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:26:45
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:26:47
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:26:48
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:26:49
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:26:50
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:26:51
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:26:52
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:26:54
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:26:55
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:26:56
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:26:57
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:26:58
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:26:59
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:00
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:02
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:03
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:04
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:05
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:06
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:07
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:09
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:10
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:11
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:12
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:13
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:14
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:16
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:17
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:18
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:19
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:20
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:21
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:23
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:24
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:25
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:26
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:27
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:28
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:30
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:31
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:32
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:33
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:34
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:35
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:37
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:38
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:39
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:40
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:41
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:42
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:44
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:45
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:46
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:47
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:48
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:49
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:51
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:52
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:53
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:54
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:55
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:56
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:58
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:27:59
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:00
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:01
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:02
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:03
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:05
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:06
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:07
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:08
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:09
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:10
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:12
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:13
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:14
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:15
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:16
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:17
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:19
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:20
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:21
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:22
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:23
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:24
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:26
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:27
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:28
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:29
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:30
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:31
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:32
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:34
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:35
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:36
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:37
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:38
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:39
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:41
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:42
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:43
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:44
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:45
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:46
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:48
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:49
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:50
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:51
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:52
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:53
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:55
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:56
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:57
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:58
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:28:59
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:00
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:02
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:03
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:04
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:05
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:06
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:07
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:09
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:10
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:11
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:12
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:13
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:14
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:15
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:17
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:18
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:19
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:20
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:21
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:22
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:24
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:25
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:26
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:27
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:28
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:29
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:31
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:32
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:33
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:34
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:35
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:36
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:38
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:39
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:40
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:41
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:42
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:43
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:45
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:46
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:47
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:48
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:49
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:50
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:52
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:53
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:54
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:55
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:56
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:57
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:29:59
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price 0.01 
+ 
+Time: 2024-04-26 13:30:00
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:01
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:02
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:03
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:05
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:06
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:07
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:08
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:09
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:10
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:12
+XPEV Last Trade Price 0.020000 
+XPEV Ask Price 0.030000 
+XPEV Bid Price 0.010000 
+XPEV Mark Price 0.020000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:13
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.220000 
+XPEV Mark Price 0.305000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:14
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.220000 
+XPEV Mark Price 0.305000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:15
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.220000 
+XPEV Mark Price 0.285000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:16
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.220000 
+XPEV Mark Price 0.285000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:18
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.220000 
+XPEV Mark Price 0.285000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:19
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.220000 
+XPEV Mark Price 0.285000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:20
+XPEV Last Trade Price 0.220000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.240000 
+XPEV Mark Price 0.295000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:21
+XPEV Last Trade Price 0.220000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.300000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:22
+XPEV Last Trade Price 0.220000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.300000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:23
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.270000 
+XPEV Mark Price 0.310000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:25
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.270000 
+XPEV Mark Price 0.330000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:26
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.270000 
+XPEV Mark Price 0.330000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:27
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.270000 
+XPEV Mark Price 0.330000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:28
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.270000 
+XPEV Mark Price 0.330000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:29
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.270000 
+XPEV Mark Price 0.330000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:31
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.270000 
+XPEV Mark Price 0.330000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:32
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.270000 
+XPEV Mark Price 0.330000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:33
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.270000 
+XPEV Mark Price 0.330000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:34
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:35
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.290000 
+XPEV Mark Price 0.340000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:36
+XPEV Last Trade Price 0.390000 
+XPEV Ask Price 0.430000 
+XPEV Bid Price 0.380000 
+XPEV Mark Price 0.405000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:38
+XPEV Last Trade Price 0.390000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.420000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:39
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.420000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:40
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.420000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:41
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.420000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:42
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.420000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:44
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.420000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:45
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.420000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:46
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.420000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:47
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.420000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:48
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.420000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:49
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.420000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:51
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.420000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:52
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.430000 
+XPEV Mark Price 0.440000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:53
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.430000 
+XPEV Mark Price 0.440000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:54
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.500000 
+XPEV Bid Price 0.430000 
+XPEV Mark Price 0.465000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:55
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.500000 
+XPEV Bid Price 0.430000 
+XPEV Mark Price 0.465000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:57
+XPEV Last Trade Price 0.440000 
+XPEV Ask Price 0.500000 
+XPEV Bid Price 0.430000 
+XPEV Mark Price 0.465000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:58
+XPEV Last Trade Price 0.440000 
+XPEV Ask Price 0.500000 
+XPEV Bid Price 0.430000 
+XPEV Mark Price 0.465000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:30:59
+XPEV Last Trade Price 0.440000 
+XPEV Ask Price 0.500000 
+XPEV Bid Price 0.420000 
+XPEV Mark Price 0.460000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:00
+XPEV Last Trade Price 0.440000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.420000 
+XPEV Mark Price 0.435000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:01
+XPEV Last Trade Price 0.440000 
+XPEV Ask Price 0.540000 
+XPEV Bid Price 0.450000 
+XPEV Mark Price 0.495000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:02
+XPEV Last Trade Price 0.440000 
+XPEV Ask Price 0.540000 
+XPEV Bid Price 0.450000 
+XPEV Mark Price 0.495000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:04
+XPEV Last Trade Price 0.440000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.375000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:05
+XPEV Last Trade Price 0.450000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.385000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:06
+XPEV Last Trade Price 0.450000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.385000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:07
+XPEV Last Trade Price 0.450000 
+XPEV Ask Price 0.540000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.435000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:08
+XPEV Last Trade Price 0.450000 
+XPEV Ask Price 0.540000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.435000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:09
+XPEV Last Trade Price 0.450000 
+XPEV Ask Price 0.540000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.435000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:11
+XPEV Last Trade Price 0.450000 
+XPEV Ask Price 0.540000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.435000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:12
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.530000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.435000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:13
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.530000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.450000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:14
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.530000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.450000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:16
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.530000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.450000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:17
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.530000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.450000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:18
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.530000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.450000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:19
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.530000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.450000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:20
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.530000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.450000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:21
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.530000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.450000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:23
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.530000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.450000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:24
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.530000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.450000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:25
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.530000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.450000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:26
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.530000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.450000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:27
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.520000 
+XPEV Bid Price 0.410000 
+XPEV Mark Price 0.465000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:29
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.520000 
+XPEV Bid Price 0.410000 
+XPEV Mark Price 0.465000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:30
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.520000 
+XPEV Bid Price 0.410000 
+XPEV Mark Price 0.465000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:31
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.520000 
+XPEV Bid Price 0.410000 
+XPEV Mark Price 0.465000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:32
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.520000 
+XPEV Bid Price 0.410000 
+XPEV Mark Price 0.465000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:33
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.510000 
+XPEV Bid Price 0.410000 
+XPEV Mark Price 0.460000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:34
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.510000 
+XPEV Bid Price 0.410000 
+XPEV Mark Price 0.460000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:36
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.510000 
+XPEV Bid Price 0.410000 
+XPEV Mark Price 0.460000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:37
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.510000 
+XPEV Bid Price 0.380000 
+XPEV Mark Price 0.445000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:38
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.510000 
+XPEV Bid Price 0.380000 
+XPEV Mark Price 0.445000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:39
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.500000 
+XPEV Bid Price 0.380000 
+XPEV Mark Price 0.440000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:40
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.500000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.435000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:41
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.500000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.435000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:43
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.500000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.435000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:44
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.410000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:45
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.410000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:46
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.450000 
+XPEV Bid Price 0.370000 
+XPEV Mark Price 0.410000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:47
+XPEV Last Trade Price 0.430000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.210000 
+XPEV Mark Price 0.305000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:49
+XPEV Last Trade Price 0.370000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.240000 
+XPEV Mark Price 0.315000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:50
+XPEV Last Trade Price 0.390000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.240000 
+XPEV Mark Price 0.295000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:51
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.320000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:52
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.320000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:53
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.320000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:54
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.320000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:56
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:57
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:58
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:31:59
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:00
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:01
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:03
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:04
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:05
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:06
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:07
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:08
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:10
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:11
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:12
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.250000 
+XPEV Mark Price 0.330000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:13
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.260000 
+XPEV Mark Price 0.305000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:14
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.260000 
+XPEV Mark Price 0.305000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:16
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.260000 
+XPEV Mark Price 0.305000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:17
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.270000 
+XPEV Mark Price 0.310000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:18
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.270000 
+XPEV Mark Price 0.310000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:19
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.345000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:20
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.345000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:21
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.345000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:23
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.345000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:24
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.345000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:25
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.340000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:26
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.340000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:27
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.340000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:28
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.340000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:30
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.340000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:31
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.340000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:32
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.340000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:33
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.340000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:34
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.340000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:35
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.345000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:37
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.345000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:38
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.345000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:39
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.280000 
+XPEV Mark Price 0.345000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:40
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.290000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:41
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:43
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:44
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:45
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:46
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:47
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:48
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:50
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:51
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:52
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:53
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:54
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:55
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:57
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:58
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:32:59
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:00
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:01
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:03
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:04
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:05
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.300000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:06
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:07
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:08
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:10
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:11
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:12
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:13
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:14
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:15
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:17
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:18
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:19
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:20
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:21
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:22
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:24
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:25
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:26
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:27
+XPEV Last Trade Price 0.300000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:28
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:30
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:31
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:32
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:33
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:34
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:35
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:37
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:38
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:39
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:40
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.365000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:41
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.370000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:42
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.370000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:44
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.370000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:45
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.370000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:46
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:47
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:48
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:49
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:51
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:52
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:53
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:54
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:55
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:57
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:58
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:33:59
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:00
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:01
+XPEV Last Trade Price 0.380000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:02
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:04
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:05
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:06
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.345000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:07
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.345000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:08
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.345000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:09
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.345000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:11
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.345000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:12
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:13
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:14
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:15
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:17
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:18
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:19
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:20
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:21
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:22
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:24
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:25
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:26
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:27
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:28
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:29
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:31
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:32
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:33
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:34
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:35
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:36
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:38
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:39
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:40
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:41
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:42
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:43
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:45
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:46
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:47
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:48
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:49
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:51
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:52
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:53
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:54
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:55
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:56
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:58
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:34:59
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price N/A 
+ 
+Time: 2024-04-26 13:35:00
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:01
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:02
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:04
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:05
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:06
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:07
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:08
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:09
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:11
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:12
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:13
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:14
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:15
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:17
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:18
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:19
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:20
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:21
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:22
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:24
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:25
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:26
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:27
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:28
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:29
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:31
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.350000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:32
+XPEV Last Trade Price 0.350000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.350000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:33
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:34
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:35
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:37
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:38
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:39
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:40
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:41
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:42
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:44
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:45
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:46
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:47
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:48
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:50
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:51
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:52
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:53
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:54
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:55
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:57
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:58
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:35:59
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:00
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:01
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:02
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:04
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:05
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:06
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:07
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:08
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:09
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:11
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:12
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:13
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:14
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:15
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:16
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:18
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:19
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:20
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:21
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:22
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:23
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:25
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:26
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:27
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:28
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:29
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:30
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:32
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:33
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:34
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:35
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:36
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:38
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:39
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:40
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:41
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:42
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:43
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:45
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:46
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:47
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:48
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:49
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:50
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:52
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:53
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:54
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:55
+XPEV Last Trade Price 0.330000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:56
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:57
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:36:59
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:00
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:01
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:02
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.330000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:03
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:05
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:06
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:07
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:08
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:09
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:10
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:12
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:13
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:14
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.365000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:15
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.365000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:16
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.365000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:17
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.365000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:19
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.365000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:20
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.370000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:21
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.370000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:22
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.370000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:23
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.370000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:25
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.370000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:26
+XPEV Last Trade Price 0.360000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.340000 
+XPEV Mark Price 0.370000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:27
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.400000 
+XPEV Mark Price 0.410000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:28
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.405000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:29
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.405000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:30
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.405000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:32
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.405000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:33
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.405000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:34
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.405000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:35
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.405000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:36
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.405000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:38
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.405000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:39
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.390000 
+XPEV Mark Price 0.405000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:40
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.380000 
+XPEV Mark Price 0.400000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:41
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.380000 
+XPEV Mark Price 0.400000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:42
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.380000 
+XPEV Mark Price 0.400000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:43
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.380000 
+XPEV Mark Price 0.400000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:45
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.380000 
+XPEV Mark Price 0.400000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:46
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.380000 
+XPEV Mark Price 0.400000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:47
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.380000 
+XPEV Mark Price 0.400000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:48
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.380000 
+XPEV Mark Price 0.400000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:49
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.420000 
+XPEV Bid Price 0.380000 
+XPEV Mark Price 0.400000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:51
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.380000 
+XPEV Mark Price 0.395000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:52
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.410000 
+XPEV Bid Price 0.380000 
+XPEV Mark Price 0.395000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:53
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:54
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:55
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:56
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:58
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:37:59
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:00
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:01
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:03
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:04
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:05
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:06
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:07
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.360000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:08
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:10
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:11
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:12
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:13
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:14
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:15
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:17
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:18
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:19
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:20
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:21
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:22
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:24
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:25
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:26
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:27
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:28
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:30
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:31
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:32
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:33
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:34
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:35
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:37
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:38
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:39
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:40
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:41
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:43
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:44
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:45
+XPEV Last Trade Price 0.400000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:46
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:47
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:49
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:50
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.320000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:51
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:52
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:53
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:54
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:56
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:57
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:58
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:38:59
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:00
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:01
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:03
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:04
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:05
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:06
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:07
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:08
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:10
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:11
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:12
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:13
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.350000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.330000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:14
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:15
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.400000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.355000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:17
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:18
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.390000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.350000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:19
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:20
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.380000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.345000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:21
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:22
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:24
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:25
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:26
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:27
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:28
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:29
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:31
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:32
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:33
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:34
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:35
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.370000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.340000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:37
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:38
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:39
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:40
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:41
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:42
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:44
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:45
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:46
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:47
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:48
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:49
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:51
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:52
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:53
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:54
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:55
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:56
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:58
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:39:59
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:40:00
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:40:01
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:40:02
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
+Time: 2024-04-26 13:40:04
+XPEV Last Trade Price 0.320000 
+XPEV Ask Price 0.360000 
+XPEV Bid Price 0.310000 
+XPEV Mark Price 0.335000 
+XPEV Open Price 0.36 
+ 
