@@ -1,5 +1,12 @@
 ## Options Daily Performance
 
+### 2024-04-29
+
+| Option ID | Performance |
+| --- | --- |
+| TSLA $190.0 Call 2024-05-03 | Open @ 5.7 -> Max @ 12.15 = 🟢 +113.16% |
+| IBRX $8.0 Call 2024-05-03 | Open @ 1.35 -> Max @ 3.8 = 🟢 +181.48% |
+
 ### 2024-04-26
 
 | Option ID | Performance |
