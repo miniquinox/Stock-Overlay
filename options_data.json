@@ -491,5 +491,17 @@
             "Option Open Price": 0.36,
             "Max Day Call Price": 0.45
         }
+    },
+    "2024-04-29": {
+        "TSLA $190.0 Call 2024-05-03": {
+            "Stock price at market close": 170.18,
+            "Stock price before market open": 188.39,
+            "Option price at market close": 0.24
+        },
+        "IBRX $8.0 Call 2024-05-03": {
+            "Stock price at market close": 5.11,
+            "Stock price before market open": 8.47,
+            "Option price at market close": 0.35
+        }
     }
 }

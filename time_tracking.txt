@@ -83158,3 +83158,4000 @@ XPEV Bid Price 0.310000
 XPEV Mark Price 0.335000 
 XPEV Open Price 0.36 
  
+Time: 2024-04-29 13:27:57
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:27:59
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:00
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:02
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:03
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:04
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:06
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:07
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:08
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:10
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:11
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:13
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:14
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:15
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:17
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:18
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:20
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:21
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:22
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:24
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:25
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:27
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:28
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:29
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:31
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:32
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:33
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:35
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:36
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:38
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:39
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:40
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:42
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:43
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:45
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:46
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:47
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:49
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:50
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:52
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:53
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:54
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:56
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:57
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:28:59
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:00
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:01
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:03
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:04
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:05
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:07
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:08
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:10
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:11
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:12
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:14
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:15
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:17
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:18
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:19
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:21
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:22
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:23
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:25
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:26
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:28
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:29
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:30
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:32
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:33
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:35
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:36
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:37
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:39
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:40
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:42
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:43
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:45
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:46
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:47
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:49
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:50
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:52
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:53
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:54
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:56
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:57
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:29:59
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price 0.01 
+ 
+Time: 2024-04-29 13:30:00
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:01
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 0.450000 
+IBRX Bid Price 0.250000 
+IBRX Mark Price 0.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:03
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.000000 
+IBRX Mark Price 2.500000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:04
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.000000 
+IBRX Mark Price 2.500000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:06
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.450000 
+IBRX Mark Price 2.725000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:07
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 1.300000 
+IBRX Bid Price 0.550000 
+IBRX Mark Price 0.925000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:08
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.650000 
+IBRX Mark Price 2.825000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:10
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.650000 
+IBRX Mark Price 2.825000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:11
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.650000 
+IBRX Mark Price 2.825000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:13
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.650000 
+IBRX Mark Price 2.825000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:14
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.650000 
+IBRX Mark Price 2.825000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:15
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.650000 
+IBRX Mark Price 2.825000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:17
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.650000 
+IBRX Mark Price 2.825000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:18
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.650000 
+IBRX Mark Price 2.825000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:20
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 2.875000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:21
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 2.875000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:22
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 2.875000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:24
+IBRX Last Trade Price 0.430000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 2.875000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:25
+IBRX Last Trade Price 0.800000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 2.875000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:27
+IBRX Last Trade Price 0.800000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 2.875000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:28
+IBRX Last Trade Price 0.800000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 2.875000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:30
+IBRX Last Trade Price 0.800000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 2.875000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:31
+IBRX Last Trade Price 0.800000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 2.875000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:32
+IBRX Last Trade Price 0.800000 
+IBRX Ask Price 5.000000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 2.875000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:34
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.225000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:35
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.225000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:37
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.225000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:38
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.225000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:39
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.225000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:41
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.125000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:42
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.100000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:44
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.100000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:45
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.100000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:46
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.100000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:48
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.100000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:49
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.100000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:51
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.100000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:52
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.100000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:54
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.100000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:55
+IBRX Last Trade Price 1.270000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.100000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:56
+IBRX Last Trade Price 1.270000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:58
+IBRX Last Trade Price 1.270000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:30:59
+IBRX Last Trade Price 1.270000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:01
+IBRX Last Trade Price 1.270000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:02
+IBRX Last Trade Price 1.270000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:03
+IBRX Last Trade Price 1.270000 
+IBRX Ask Price 1.400000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.200000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:05
+IBRX Last Trade Price 1.270000 
+IBRX Ask Price 1.400000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.200000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:06
+IBRX Last Trade Price 1.290000 
+IBRX Ask Price 1.400000 
+IBRX Bid Price 1.050000 
+IBRX Mark Price 1.225000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:08
+IBRX Last Trade Price 1.400000 
+IBRX Ask Price 1.400000 
+IBRX Bid Price 1.050000 
+IBRX Mark Price 1.225000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:09
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 1.400000 
+IBRX Bid Price 1.050000 
+IBRX Mark Price 1.225000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:11
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 1.350000 
+IBRX Bid Price 1.050000 
+IBRX Mark Price 1.200000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:12
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 1.350000 
+IBRX Bid Price 1.050000 
+IBRX Mark Price 1.200000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:13
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 1.350000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.275000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:15
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 1.350000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.275000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:16
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 1.350000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.275000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:18
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 1.350000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.275000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:19
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 1.350000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.275000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:20
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 2.200000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.700000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:22
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 2.200000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.700000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:23
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 2.200000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.700000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:25
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 2.200000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.700000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:26
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 2.200000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.700000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:27
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 2.200000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.700000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:29
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 2.150000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.675000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:30
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 2.150000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.675000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:32
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 2.150000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.675000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:33
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 2.100000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.650000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:34
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 2.100000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.650000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:36
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 2.100000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.650000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:37
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 2.050000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.625000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:39
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 1.900000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.325000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:40
+IBRX Last Trade Price 1.350000 
+IBRX Ask Price 1.850000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:41
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.850000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:43
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.850000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:44
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.275000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:46
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.275000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:47
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.275000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:49
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.275000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:50
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.275000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:51
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.800000 
+IBRX Mark Price 1.275000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:53
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.800000 
+IBRX Mark Price 1.275000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:54
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.800000 
+IBRX Mark Price 1.275000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:56
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.800000 
+IBRX Mark Price 1.275000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:57
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.800000 
+IBRX Mark Price 1.275000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:31:58
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.800000 
+IBRX Mark Price 1.275000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:00
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:01
+IBRX Last Trade Price 1.000000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:03
+IBRX Last Trade Price 1.000000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:04
+IBRX Last Trade Price 1.000000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:06
+IBRX Last Trade Price 1.000000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:07
+IBRX Last Trade Price 1.000000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:08
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 1.050000 
+IBRX Mark Price 1.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:10
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 1.050000 
+IBRX Mark Price 1.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:11
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.375000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:13
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.375000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:14
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.375000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:15
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.375000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:17
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.375000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:18
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.375000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:20
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.375000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:21
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.375000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:22
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.375000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:24
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.375000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:25
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.600000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:27
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.600000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:28
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.600000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:29
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.600000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:31
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.600000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:32
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.600000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:34
+IBRX Last Trade Price 1.700000 
+IBRX Ask Price 1.600000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:35
+IBRX Last Trade Price 1.250000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.325000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:36
+IBRX Last Trade Price 1.250000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:38
+IBRX Last Trade Price 1.250000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:39
+IBRX Last Trade Price 1.250000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:41
+IBRX Last Trade Price 1.250000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:42
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:43
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:45
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:46
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:48
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:49
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:50
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:52
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:53
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:55
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.400000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.275000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:56
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.575000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:57
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.575000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:32:59
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.575000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:00
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.575000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:02
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.575000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:03
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:04
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:06
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:07
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:09
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:10
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:12
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:13
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:14
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:16
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:17
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:19
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:20
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.325000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:21
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.325000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:23
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.325000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:24
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.325000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:25
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.325000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:27
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:28
+IBRX Last Trade Price 1.500000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:30
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.300000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.150000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:31
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.300000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.150000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:32
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.300000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.150000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:34
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.300000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.150000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:35
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.300000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.150000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:37
+IBRX Last Trade Price 1.000000 
+IBRX Ask Price 1.300000 
+IBRX Bid Price 1.050000 
+IBRX Mark Price 1.175000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:38
+IBRX Last Trade Price 1.000000 
+IBRX Ask Price 1.300000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.225000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:39
+IBRX Last Trade Price 1.250000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:41
+IBRX Last Trade Price 1.250000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:42
+IBRX Last Trade Price 1.250000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:44
+IBRX Last Trade Price 1.250000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:45
+IBRX Last Trade Price 1.150000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:46
+IBRX Last Trade Price 1.150000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:48
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.900000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.525000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:49
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.900000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.525000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:51
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.475000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:52
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.475000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:54
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.450000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:55
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.450000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:56
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.450000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:58
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.450000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:33:59
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.450000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:01
+IBRX Last Trade Price 1.150000 
+IBRX Ask Price 1.150000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 0.950000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:02
+IBRX Last Trade Price 1.150000 
+IBRX Ask Price 1.850000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:03
+IBRX Last Trade Price 1.150000 
+IBRX Ask Price 1.850000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:05
+IBRX Last Trade Price 1.150000 
+IBRX Ask Price 1.850000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.300000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:06
+IBRX Last Trade Price 1.150000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.250000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:08
+IBRX Last Trade Price 1.150000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.250000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:09
+IBRX Last Trade Price 1.150000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.250000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:10
+IBRX Last Trade Price 1.150000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.250000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:12
+IBRX Last Trade Price 1.150000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.250000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:13
+IBRX Last Trade Price 1.150000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.250000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:15
+IBRX Last Trade Price 1.150000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.250000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:16
+IBRX Last Trade Price 1.150000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.250000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:18
+IBRX Last Trade Price 1.150000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.250000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:19
+IBRX Last Trade Price 1.150000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.250000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:20
+IBRX Last Trade Price 1.150000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.750000 
+IBRX Mark Price 1.225000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:22
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.300000 
+IBRX Bid Price 0.800000 
+IBRX Mark Price 1.050000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:23
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.300000 
+IBRX Bid Price 0.800000 
+IBRX Mark Price 1.050000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:25
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 0.800000 
+IBRX Mark Price 1.400000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:26
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 0.850000 
+IBRX Mark Price 1.425000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:27
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 0.850000 
+IBRX Mark Price 1.425000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:29
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 0.850000 
+IBRX Mark Price 1.425000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:30
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 0.850000 
+IBRX Mark Price 1.425000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:32
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 0.850000 
+IBRX Mark Price 1.425000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:33
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 0.850000 
+IBRX Mark Price 1.425000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:34
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 0.850000 
+IBRX Mark Price 1.425000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:36
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.350000 
+IBRX Bid Price 0.850000 
+IBRX Mark Price 1.100000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:37
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.350000 
+IBRX Bid Price 0.850000 
+IBRX Mark Price 1.100000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:39
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.350000 
+IBRX Bid Price 0.850000 
+IBRX Mark Price 1.100000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:40
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.350000 
+IBRX Bid Price 0.850000 
+IBRX Mark Price 1.100000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:41
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.350000 
+IBRX Bid Price 0.850000 
+IBRX Mark Price 1.100000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:43
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.350000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.125000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:44
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.350000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.125000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:46
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.350000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.125000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:47
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.350000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.125000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:49
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.450000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:50
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.450000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:51
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.450000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:53
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.450000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:54
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.950000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.425000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:56
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.950000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.425000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:57
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:34:58
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.350000 
+IBRX Open Price N/A 
+ 
+Time: 2024-04-29 13:35:00
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:01
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:03
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:04
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:05
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:07
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:08
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.325000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:10
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.325000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:11
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.325000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:12
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.325000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:14
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.325000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:15
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.325000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:17
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.325000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:18
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.325000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:19
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:21
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:22
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:24
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:25
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:27
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:28
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:29
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:31
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:32
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:34
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:35
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:36
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:38
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:39
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 0.900000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:40
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 0.950000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:42
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 0.950000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:43
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 0.950000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:45
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 0.950000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:46
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 0.950000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:48
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 0.950000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:49
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 0.950000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:50
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 0.950000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:52
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.600000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:53
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.600000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:54
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.600000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:56
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.600000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:57
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 1.050000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:35:59
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 1.050000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:00
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 1.050000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:02
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 1.050000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:03
+IBRX Last Trade Price 1.200000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 1.050000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:04
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 1.050000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:06
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 1.050000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:07
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 1.050000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:09
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 0.950000 
+IBRX Mark Price 1.250000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:10
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 0.950000 
+IBRX Mark Price 1.250000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:11
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 0.950000 
+IBRX Mark Price 1.250000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:13
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 0.950000 
+IBRX Mark Price 1.250000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:14
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 0.950000 
+IBRX Mark Price 1.250000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:16
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 0.950000 
+IBRX Mark Price 1.250000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:17
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 0.950000 
+IBRX Mark Price 1.250000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:18
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 0.950000 
+IBRX Mark Price 1.250000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:20
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.550000 
+IBRX Bid Price 0.950000 
+IBRX Mark Price 1.250000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:21
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.250000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:23
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.250000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:24
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.250000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:25
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.250000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:27
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.250000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:28
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:29
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:31
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:32
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:34
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:35
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:36
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:38
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:39
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:41
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:42
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:43
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:45
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:46
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:48
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:49
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:51
+IBRX Last Trade Price 1.550000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.000000 
+IBRX Mark Price 1.225000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:52
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.275000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:53
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.275000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:55
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.275000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:56
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.275000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:57
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.275000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:36:59
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.275000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:00
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.275000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:02
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.275000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:03
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.275000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:05
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.275000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:06
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.275000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:07
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.275000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:09
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.100000 
+IBRX Mark Price 1.275000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:10
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.400000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.275000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:12
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.475000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:13
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.475000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:14
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.475000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:16
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.475000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:17
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.475000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:18
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.475000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:20
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.475000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:21
+IBRX Last Trade Price 1.300000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.150000 
+IBRX Mark Price 1.475000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:23
+IBRX Last Trade Price 1.400000 
+IBRX Ask Price 1.400000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:24
+IBRX Last Trade Price 1.400000 
+IBRX Ask Price 1.400000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:26
+IBRX Last Trade Price 1.400000 
+IBRX Ask Price 1.400000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:27
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.400000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:28
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.400000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:30
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.400000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:31
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.400000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:33
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.400000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:34
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.400000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:36
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.400000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.300000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:37
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.325000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:38
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.325000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:40
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:41
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:43
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:44
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:45
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:47
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:48
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:50
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:51
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:52
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:54
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:55
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:57
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:37:58
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:00
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:01
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:02
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:04
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:05
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:06
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:08
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:09
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:11
+IBRX Last Trade Price 1.230000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:12
+IBRX Last Trade Price 1.400000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:13
+IBRX Last Trade Price 1.400000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:15
+IBRX Last Trade Price 1.400000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:16
+IBRX Last Trade Price 1.400000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:18
+IBRX Last Trade Price 1.400000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:19
+IBRX Last Trade Price 1.400000 
+IBRX Ask Price 1.500000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.350000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:20
+IBRX Last Trade Price 1.450000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.200000 
+IBRX Mark Price 1.325000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:22
+IBRX Last Trade Price 1.450000 
+IBRX Ask Price 1.450000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.400000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:23
+IBRX Last Trade Price 1.450000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:25
+IBRX Last Trade Price 1.450000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:26
+IBRX Last Trade Price 1.450000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:27
+IBRX Last Trade Price 1.450000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.550000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:29
+IBRX Last Trade Price 1.450000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:30
+IBRX Last Trade Price 1.450000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:32
+IBRX Last Trade Price 1.450000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:33
+IBRX Last Trade Price 1.450000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:34
+IBRX Last Trade Price 1.450000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:36
+IBRX Last Trade Price 1.450000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:37
+IBRX Last Trade Price 1.450000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:39
+IBRX Last Trade Price 1.450000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:40
+IBRX Last Trade Price 1.450000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:41
+IBRX Last Trade Price 1.450000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:43
+IBRX Last Trade Price 1.450000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:44
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:45
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:47
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:48
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:50
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:51
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:52
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:54
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:55
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:57
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:38:58
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:00
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:01
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:02
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:04
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:05
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:07
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:08
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:09
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:11
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:12
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:14
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:15
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:16
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:18
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.575000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:19
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.550000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:21
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.550000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:22
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.550000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:23
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.550000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:25
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.550000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:26
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.550000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:28
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.550000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:29
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.550000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:30
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.550000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:32
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.550000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:33
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.550000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:35
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.550000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:36
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.550000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:37
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.750000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.550000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:39
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:40
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:42
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:43
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:44
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:46
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:48
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.700000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:49
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:50
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:52
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.650000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.525000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:53
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.600000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:55
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.600000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:56
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.600000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:57
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.600000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:39:59
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.600000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:00
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.600000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:02
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.600000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:03
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.600000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:04
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.600000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:06
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.600000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:07
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.600000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:09
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 1.800000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.600000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:10
+IBRX Last Trade Price 1.650000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 1.900000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:11
+IBRX Last Trade Price 1.800000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.700000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:13
+IBRX Last Trade Price 1.800000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.700000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:14
+IBRX Last Trade Price 1.800000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.700000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:16
+IBRX Last Trade Price 1.800000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.700000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:17
+IBRX Last Trade Price 1.800000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.700000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:18
+IBRX Last Trade Price 1.800000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.700000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:20
+IBRX Last Trade Price 1.800000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.700000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:21
+IBRX Last Trade Price 1.800000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.700000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:23
+IBRX Last Trade Price 1.800000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.700000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:24
+IBRX Last Trade Price 1.800000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.700000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:25
+IBRX Last Trade Price 1.800000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.700000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:27
+IBRX Last Trade Price 1.800000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.400000 
+IBRX Mark Price 1.700000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:28
+IBRX Last Trade Price 1.800000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.450000 
+IBRX Mark Price 1.725000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:30
+IBRX Last Trade Price 1.800000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.675000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:31
+IBRX Last Trade Price 1.950000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.675000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:32
+IBRX Last Trade Price 1.950000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.350000 
+IBRX Mark Price 1.675000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:34
+IBRX Last Trade Price 1.950000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 1.900000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:35
+IBRX Last Trade Price 1.950000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 1.900000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:36
+IBRX Last Trade Price 1.950000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 1.900000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:38
+IBRX Last Trade Price 1.950000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 1.900000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:39
+IBRX Last Trade Price 1.950000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 1.900000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:41
+IBRX Last Trade Price 1.950000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 1.900000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:42
+IBRX Last Trade Price 1.950000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 1.900000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:43
+IBRX Last Trade Price 1.950000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 1.900000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:45
+IBRX Last Trade Price 1.950000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 1.900000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:46
+IBRX Last Trade Price 1.950000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 1.900000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:48
+IBRX Last Trade Price 1.950000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 1.900000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:49
+IBRX Last Trade Price 1.950000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 1.900000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:50
+IBRX Last Trade Price 1.950000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 1.900000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:52
+IBRX Last Trade Price 1.950000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 1.900000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:53
+IBRX Last Trade Price 1.950000 
+IBRX Ask Price 2.000000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 1.900000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:55
+IBRX Last Trade Price 2.000000 
+IBRX Ask Price 2.250000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 2.025000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:56
+IBRX Last Trade Price 2.000000 
+IBRX Ask Price 2.250000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 2.025000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:58
+IBRX Last Trade Price 2.000000 
+IBRX Ask Price 2.250000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 2.025000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:40:59
+IBRX Last Trade Price 2.000000 
+IBRX Ask Price 2.250000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 2.025000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:41:00
+IBRX Last Trade Price 2.000000 
+IBRX Ask Price 2.250000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 2.025000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:41:02
+IBRX Last Trade Price 2.000000 
+IBRX Ask Price 2.250000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 2.025000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:41:03
+IBRX Last Trade Price 2.000000 
+IBRX Ask Price 2.250000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 2.025000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:41:05
+IBRX Last Trade Price 2.000000 
+IBRX Ask Price 2.750000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 2.275000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:41:06
+IBRX Last Trade Price 2.000000 
+IBRX Ask Price 2.750000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 2.275000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:41:07
+IBRX Last Trade Price 2.000000 
+IBRX Ask Price 2.750000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 2.275000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:41:09
+IBRX Last Trade Price 2.000000 
+IBRX Ask Price 3.300000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 2.550000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:41:10
+IBRX Last Trade Price 2.000000 
+IBRX Ask Price 3.300000 
+IBRX Bid Price 1.800000 
+IBRX Mark Price 2.550000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:41:12
+IBRX Last Trade Price 2.000000 
+IBRX Ask Price 3.800000 
+IBRX Bid Price 1.700000 
+IBRX Mark Price 2.750000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:41:13
+IBRX Last Trade Price 2.000000 
+IBRX Ask Price 3.800000 
+IBRX Bid Price 1.700000 
+IBRX Mark Price 2.750000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:41:14
+IBRX Last Trade Price 2.000000 
+IBRX Ask Price 3.800000 
+IBRX Bid Price 1.700000 
+IBRX Mark Price 2.750000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:41:16
+IBRX Last Trade Price 2.000000 
+IBRX Ask Price 3.800000 
+IBRX Bid Price 1.700000 
+IBRX Mark Price 2.750000 
+IBRX Open Price 1.35 
+ 
+Time: 2024-04-29 13:41:17
+IBRX Last Trade Price 3.800000 
+IBRX Ask Price 3.800000 
+IBRX Bid Price 1.700000 
+IBRX Mark Price 2.750000 
+IBRX Open Price 1.35 
+ 
