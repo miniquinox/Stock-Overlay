@@ -515,27 +515,42 @@
         "PINS $38.5 Call 2024-05-03": {
             "Stock price at market close": 33.78,
             "Stock price before market open": 38.8,
-            "Option price at market close": 0.5
+            "Option price at market close": 0.5,
+            "Max Day Stock Price": 40.98,
+            "Option Open Price": 0.96,
+            "Max Day Call Price": 2.54
         },
         "DJT $54.0 Call 2024-05-03": {
             "Stock price at market close": 46.69,
             "Stock price before market open": 54.15,
-            "Option price at market close": 1.73
+            "Option price at market close": 1.73,
+            "Max Day Stock Price": 49.82,
+            "Option Open Price": 3.38,
+            "Max Day Call Price": 4.0
         },
         "UEC $7.0 Call 2024-05-03": {
             "Stock price at market close": 7.24,
             "Stock price before market open": 7.2401,
-            "Option price at market close": 0.08
+            "Option price at market close": 0.08,
+            "Max Day Stock Price": 7.28,
+            "Option Open Price": 0.48,
+            "Max Day Call Price": 0.55
         },
         "NYCB $3.0 Call 2024-05-03": {
             "Stock price at market close": 2.79,
             "Stock price before market open": 3.16,
-            "Option price at market close": 0.01
+            "Option price at market close": 0.01,
+            "Max Day Stock Price": 3.63,
+            "Option Open Price": 0.13,
+            "Max Day Call Price": 0.65
         },
         "TGTX $17.0 Call 2024-05-03": {
             "Stock price at market close": 13.32,
             "Stock price before market open": 17.25,
-            "Option price at market close": 0.01
+            "Option price at market close": 0.01,
+            "Max Day Stock Price": 16.86,
+            "Option Open Price": 1.1,
+            "Max Day Call Price": 1.5
         }
     }
 }

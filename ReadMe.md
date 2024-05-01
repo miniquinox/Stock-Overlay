@@ -1,5 +1,15 @@
 ## Options Daily Performance
 
+### 2024-05-01
+
+| Option ID | Performance |
+| --- | --- |
+| PINS $38.5 Call 2024-05-03 | Open @ 0.96 -> Max @ 2.54 = 🟢 +164.58% |
+| DJT $54.0 Call 2024-05-03 | Open @ 3.38 -> Max @ 4.0 = 🔴 +18.34% (DID NOT REACH 30%. Consider -20%) |
+| UEC $7.0 Call 2024-05-03 | Open @ 0.48 -> Max @ 0.55 = 🔴 +14.58% (DID NOT REACH 30%. Consider -20%) |
+| NYCB $3.0 Call 2024-05-03 | Open @ 0.13 -> Max @ 0.65 = 🟢 +400.00% |
+| TGTX $17.0 Call 2024-05-03 | Open @ 1.1 -> Max @ 1.5 = 🟢 +36.36% |
+
 ### 2024-04-30
 
 | Option ID | Performance |
