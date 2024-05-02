@@ -552,5 +552,37 @@
             "Option Open Price": 1.1,
             "Max Day Call Price": 1.5
         }
+    },
+    "2024-05-02": {
+        "CVNA $120.0 Call 2024-05-03": {
+            "Stock price at market close": 82.92,
+            "Stock price before market open": 118.82,
+            "Option price at market close": 0.46
+        },
+        "MGM $43.0 Call 2024-05-03": {
+            "Stock price at market close": 39.44,
+            "Stock price before market open": 43.25,
+            "Option price at market close": 0.2
+        },
+        "XPEV $9.0 Call 2024-05-03": {
+            "Stock price at market close": 8.13,
+            "Stock price before market open": 8.73,
+            "Option price at market close": 0.03
+        },
+        "W $59.0 Call 2024-05-03": {
+            "Stock price at market close": 50.15,
+            "Stock price before market open": 59.31,
+            "Option price at market close": 1.04
+        },
+        "BILI $13.5 Call 2024-05-03": {
+            "Stock price at market close": 12.64,
+            "Stock price before market open": 13.7,
+            "Option price at market close": 0.08
+        },
+        "CAR $109.0 Call 2024-05-03": {
+            "Stock price at market close": 95.45,
+            "Stock price before market open": 109.5001,
+            "Option price at market close": 1.85
+        }
     }
 }
