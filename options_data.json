@@ -557,32 +557,50 @@
         "CVNA $120.0 Call 2024-05-03": {
             "Stock price at market close": 82.92,
             "Stock price before market open": 118.82,
-            "Option price at market close": 0.46
+            "Option price at market close": 0.46,
+            "Max Day Stock Price": 122.29,
+            "Option Open Price": 5.48,
+            "Max Day Call Price": 8.0
         },
         "MGM $43.0 Call 2024-05-03": {
             "Stock price at market close": 39.44,
             "Stock price before market open": 43.25,
-            "Option price at market close": 0.2
+            "Option price at market close": 0.2,
+            "Max Day Stock Price": 41.79,
+            "Option Open Price": 0.73,
+            "Max Day Call Price": 1.16
         },
         "XPEV $9.0 Call 2024-05-03": {
             "Stock price at market close": 8.13,
             "Stock price before market open": 8.73,
-            "Option price at market close": 0.03
+            "Option price at market close": 0.03,
+            "Max Day Stock Price": 9.53,
+            "Option Open Price": 0.17,
+            "Max Day Call Price": 0.57
         },
         "W $59.0 Call 2024-05-03": {
             "Stock price at market close": 50.15,
             "Stock price before market open": 59.31,
-            "Option price at market close": 1.04
+            "Option price at market close": 1.04,
+            "Max Day Stock Price": 59.26,
+            "Option Open Price": 1.2,
+            "Max Day Call Price": 1.64
         },
         "BILI $13.5 Call 2024-05-03": {
             "Stock price at market close": 12.64,
             "Stock price before market open": 13.7,
-            "Option price at market close": 0.08
+            "Option price at market close": 0.08,
+            "Max Day Stock Price": 14.95,
+            "Option Open Price": 0.72,
+            "Max Day Call Price": 1.39
         },
         "CAR $109.0 Call 2024-05-03": {
             "Stock price at market close": 95.45,
             "Stock price before market open": 109.5001,
-            "Option price at market close": 1.85
+            "Option price at market close": 1.85,
+            "Max Day Stock Price": 118.43,
+            "Option Open Price": 6.15,
+            "Max Day Call Price": 9.2
         }
     }
 }

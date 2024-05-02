@@ -1,5 +1,16 @@
 ## Options Daily Performance
 
+### 2024-05-02
+
+| Option ID | Performance |
+| --- | --- |
+| CVNA $120.0 Call 2024-05-03 | Open @ 5.48 -> Max @ 8.0 = 🟢 +45.99% |
+| MGM $43.0 Call 2024-05-03 | Open @ 0.73 -> Max @ 1.16 = 🟢 +58.90% |
+| XPEV $9.0 Call 2024-05-03 | Open @ 0.17 -> Max @ 0.57 = 🟢 +235.29% |
+| W $59.0 Call 2024-05-03 | Open @ 1.2 -> Max @ 1.64 = 🟢 +36.67% |
+| BILI $13.5 Call 2024-05-03 | Open @ 0.72 -> Max @ 1.39 = 🟢 +93.06% |
+| CAR $109.0 Call 2024-05-03 | Open @ 6.15 -> Max @ 9.2 = 🟢 +49.59% |
+
 ### 2024-05-01
 
 | Option ID | Performance |
