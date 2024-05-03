@@ -1,5 +1,14 @@
 ## Options Daily Performance
 
+### 2024-05-03
+
+| Option ID | Performance |
+| --- | --- |
+| AMGN $312.5 Call 2024-05-03 | Open @ 5.78 -> Max @ 11.95 = 🟢 +106.75% |
+| SQ $77.0 Call 2024-05-03 | Open @ 0.3 -> Max @ 1.23 = 🟢 +310.00% |
+| MSTR $1210.0 Call 2024-05-03 | Open @ 16.78 -> Max @ 36.0 = 🟢 +114.54% |
+| BILL $68.0 Call 2024-05-03 | Open @ 0.1 -> Max @ 0.2 = 🟢 +100.00% |
+
 ### 2024-05-02
 
 | Option ID | Performance |
