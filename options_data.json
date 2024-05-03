@@ -602,5 +602,27 @@
             "Option Open Price": 6.15,
             "Max Day Call Price": 9.2
         }
+    },
+    "2024-05-03": {
+        "AMGN $312.5 Call 2024-05-03": {
+            "Stock price at market close": 278.39,
+            "Stock price before market open": 315.44,
+            "Option price at market close": 0.26
+        },
+        "SQ $77.0 Call 2024-05-03": {
+            "Stock price at market close": 70.3,
+            "Stock price before market open": 76.35,
+            "Option price at market close": 1.37
+        },
+        "MSTR $1210.0 Call 2024-05-03": {
+            "Stock price at market close": 1129.42,
+            "Stock price before market open": 1214.27,
+            "Option price at market close": 4.79
+        },
+        "BILL $68.0 Call 2024-05-03": {
+            "Stock price at market close": 63.3,
+            "Stock price before market open": 68.1,
+            "Option price at market close": 2.68
+        }
     }
 }

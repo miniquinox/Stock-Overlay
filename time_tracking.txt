@@ -96682,3 +96682,3538 @@ CAR Bid Price 3.800000
 CAR Mark Price 5.100000 
 CAR Open Price 6.15 
  
+Time: 2024-05-03 13:30:10
+BILL Last Trade Price 2.580000 
+BILL Ask Price 4.400000 
+BILL Bid Price 0.000000 
+BILL Mark Price 2.200000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:12
+BILL Last Trade Price 2.580000 
+BILL Ask Price 4.400000 
+BILL Bid Price 0.000000 
+BILL Mark Price 2.200000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:14
+BILL Last Trade Price 2.580000 
+BILL Ask Price 4.400000 
+BILL Bid Price 0.000000 
+BILL Mark Price 2.200000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:15
+BILL Last Trade Price 2.580000 
+BILL Ask Price 4.300000 
+BILL Bid Price 0.000000 
+BILL Mark Price 2.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:17
+BILL Last Trade Price 2.580000 
+BILL Ask Price 4.300000 
+BILL Bid Price 0.000000 
+BILL Mark Price 2.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:18
+BILL Last Trade Price 2.580000 
+BILL Ask Price 4.300000 
+BILL Bid Price 0.000000 
+BILL Mark Price 2.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:20
+BILL Last Trade Price 2.580000 
+BILL Ask Price 4.300000 
+BILL Bid Price 0.000000 
+BILL Mark Price 2.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:22
+BILL Last Trade Price 2.580000 
+BILL Ask Price 4.300000 
+BILL Bid Price 0.000000 
+BILL Mark Price 2.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:23
+BILL Last Trade Price 2.580000 
+BILL Ask Price 4.300000 
+BILL Bid Price 0.000000 
+BILL Mark Price 2.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:25
+BILL Last Trade Price 2.580000 
+BILL Ask Price 2.100000 
+BILL Bid Price 1.350000 
+BILL Mark Price 1.725000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:26
+BILL Last Trade Price 2.580000 
+BILL Ask Price 2.100000 
+BILL Bid Price 1.350000 
+BILL Mark Price 1.725000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:28
+BILL Last Trade Price 2.580000 
+BILL Ask Price 2.000000 
+BILL Bid Price 1.350000 
+BILL Mark Price 1.675000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:30
+BILL Last Trade Price 2.580000 
+BILL Ask Price 2.000000 
+BILL Bid Price 1.350000 
+BILL Mark Price 1.675000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:31
+BILL Last Trade Price 2.580000 
+BILL Ask Price 2.000000 
+BILL Bid Price 1.350000 
+BILL Mark Price 1.675000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:33
+BILL Last Trade Price 2.580000 
+BILL Ask Price 2.000000 
+BILL Bid Price 1.350000 
+BILL Mark Price 1.675000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:34
+BILL Last Trade Price 2.580000 
+BILL Ask Price 2.000000 
+BILL Bid Price 1.350000 
+BILL Mark Price 1.675000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:36
+BILL Last Trade Price 2.580000 
+BILL Ask Price 2.000000 
+BILL Bid Price 1.200000 
+BILL Mark Price 1.600000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:37
+BILL Last Trade Price 2.580000 
+BILL Ask Price 2.000000 
+BILL Bid Price 1.200000 
+BILL Mark Price 1.600000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:39
+BILL Last Trade Price 2.580000 
+BILL Ask Price 2.000000 
+BILL Bid Price 1.200000 
+BILL Mark Price 1.600000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:41
+BILL Last Trade Price 2.580000 
+BILL Ask Price 2.000000 
+BILL Bid Price 1.150000 
+BILL Mark Price 1.575000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:42
+BILL Last Trade Price 2.580000 
+BILL Ask Price 2.000000 
+BILL Bid Price 0.000000 
+BILL Mark Price 1.000000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:44
+BILL Last Trade Price 2.580000 
+BILL Ask Price 2.000000 
+BILL Bid Price 0.000000 
+BILL Mark Price 1.000000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:45
+BILL Last Trade Price 2.580000 
+BILL Ask Price 2.000000 
+BILL Bid Price 0.000000 
+BILL Mark Price 1.000000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:47
+BILL Last Trade Price 2.580000 
+BILL Ask Price 2.000000 
+BILL Bid Price 0.000000 
+BILL Mark Price 1.000000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:49
+BILL Last Trade Price 2.580000 
+BILL Ask Price 2.000000 
+BILL Bid Price 0.000000 
+BILL Mark Price 1.000000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:50
+BILL Last Trade Price 2.580000 
+BILL Ask Price 2.000000 
+BILL Bid Price 0.000000 
+BILL Mark Price 1.000000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:52
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.950000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.975000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:53
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.950000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.975000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:55
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.950000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.975000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:57
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.950000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.975000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:30:58
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.950000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.975000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:00
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.950000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.975000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:01
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.950000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.975000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:03
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.600000 
+BILL Bid Price 0.250000 
+BILL Mark Price 0.925000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:04
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.600000 
+BILL Bid Price 0.300000 
+BILL Mark Price 0.950000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:06
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.550000 
+BILL Bid Price 0.350000 
+BILL Mark Price 0.950000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:08
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.500000 
+BILL Bid Price 0.400000 
+BILL Mark Price 0.950000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:09
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.500000 
+BILL Bid Price 0.400000 
+BILL Mark Price 0.950000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:11
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.500000 
+BILL Bid Price 0.400000 
+BILL Mark Price 0.950000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:12
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.500000 
+BILL Bid Price 0.400000 
+BILL Mark Price 0.950000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:14
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.500000 
+BILL Bid Price 0.400000 
+BILL Mark Price 0.950000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:16
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.500000 
+BILL Bid Price 0.400000 
+BILL Mark Price 0.950000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:17
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.450000 
+BILL Bid Price 0.450000 
+BILL Mark Price 0.950000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:19
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.450000 
+BILL Bid Price 0.450000 
+BILL Mark Price 0.950000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:20
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.450000 
+BILL Bid Price 0.450000 
+BILL Mark Price 0.950000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:22
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.200000 
+BILL Bid Price 0.450000 
+BILL Mark Price 0.825000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:24
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.200000 
+BILL Bid Price 0.450000 
+BILL Mark Price 0.825000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:25
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.200000 
+BILL Bid Price 0.450000 
+BILL Mark Price 0.825000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:27
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.200000 
+BILL Bid Price 0.450000 
+BILL Mark Price 0.825000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:28
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.200000 
+BILL Bid Price 0.450000 
+BILL Mark Price 0.825000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:30
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.200000 
+BILL Bid Price 0.500000 
+BILL Mark Price 0.850000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:32
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.000000 
+BILL Bid Price 0.500000 
+BILL Mark Price 0.750000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:33
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.000000 
+BILL Bid Price 0.500000 
+BILL Mark Price 0.750000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:35
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.000000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.525000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:36
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.000000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.525000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:38
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.000000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.525000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:40
+BILL Last Trade Price 2.580000 
+BILL Ask Price 1.000000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.525000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:41
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.950000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.500000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:43
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.950000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.500000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:44
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.950000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.500000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:46
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.900000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.475000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:47
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.900000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.475000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:49
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.900000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.475000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:51
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.850000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.450000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:52
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.850000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.450000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:54
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.850000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.450000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:55
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.850000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.475000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:57
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.850000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.475000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:31:59
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.850000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.475000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:00
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.800000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.475000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:02
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.750000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.450000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:03
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.750000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.450000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:05
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.750000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.450000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:07
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.750000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.450000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:08
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.750000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.450000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:10
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.750000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.450000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:11
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.700000 
+BILL Bid Price 0.200000 
+BILL Mark Price 0.450000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:13
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.700000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.425000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:15
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:16
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:18
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:19
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:21
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:23
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:24
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:26
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:27
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:29
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:31
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:32
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:34
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:35
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:37
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:39
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:40
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:42
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:43
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:45
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:46
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:48
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:50
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:51
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:53
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.500000 
+BILL Bid Price 0.150000 
+BILL Mark Price 0.325000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:54
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.450000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.275000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:56
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.450000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.225000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:58
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.450000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.225000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:32:59
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.450000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.225000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:01
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.450000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.225000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:02
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.450000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.225000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:04
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.450000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.225000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:05
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.450000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.225000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:07
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.450000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.225000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:09
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.300000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:10
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.300000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:12
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.300000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:13
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.300000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:15
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.300000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:16
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.300000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.175000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:18
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.300000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.175000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:20
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.300000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.175000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:21
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.300000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.175000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:23
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.300000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.175000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:24
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.300000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.175000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:26
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.300000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.175000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:28
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.300000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.175000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:29
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.300000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.175000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:31
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.300000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.175000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:32
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.300000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.175000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:34
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.300000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.175000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:36
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.250000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:37
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.250000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:39
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.250000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:40
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.250000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:42
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.250000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:44
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.250000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:45
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:47
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:48
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:50
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:52
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:53
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:55
+BILL Last Trade Price 2.580000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:56
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:58
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:33:59
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:01
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:03
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:04
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:06
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:07
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:09
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:11
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:12
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:14
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:15
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:17
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:19
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:20
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:22
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:23
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:25
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:27
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:28
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:30
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:31
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:33
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:35
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:36
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:38
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:39
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:41
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:42
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:44
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:46
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:47
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:49
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:50
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:52
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:53
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:55
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:57
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:34:58
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price N/A 
+ 
+Time: 2024-05-03 13:35:00
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:01
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:03
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:05
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:06
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:08
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:09
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:11
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:13
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:14
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:16
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.075000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:17
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.000000 
+BILL Mark Price 0.075000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:19
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:21
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:22
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:24
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:25
+BILL Last Trade Price 0.200000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:27
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:29
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:30
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:32
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:33
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:35
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:37
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:38
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:40
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:41
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:43
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:44
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:46
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:48
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:49
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:51
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:52
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:54
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:56
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:57
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:35:59
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:00
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:02
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:03
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:05
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:07
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:08
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:10
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:11
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:13
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:15
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:16
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:18
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:19
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:21
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:22
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:24
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:26
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:27
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:29
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:30
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:32
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:33
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:35
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:37
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:38
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:40
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:41
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:43
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:45
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:46
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:48
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:49
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:51
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:52
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:54
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:56
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:57
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:36:59
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:00
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:02
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:04
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:05
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:07
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:08
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:10
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:11
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:13
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:15
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:16
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:18
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:19
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:21
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:23
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.250000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.175000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:24
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.250000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.175000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:26
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.250000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.175000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:27
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:29
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:31
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:32
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:34
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:35
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:37
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:38
+BILL Last Trade Price 0.050000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:40
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:42
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:43
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:45
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:46
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:48
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:49
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:51
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:53
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:54
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:56
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:58
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:37:59
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:01
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:02
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:04
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:06
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:07
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:09
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:10
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:12
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:14
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:15
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:17
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:18
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:20
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:22
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:23
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:25
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:26
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:28
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:30
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:31
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:33
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:34
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:36
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:37
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:39
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:41
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:42
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:44
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:45
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:47
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:49
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:50
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:52
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:53
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:55
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:57
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:38:58
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:00
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:01
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:03
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:05
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:06
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:08
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:09
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:11
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:12
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:14
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:16
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:17
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:19
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:20
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:22
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:24
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:25
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:27
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:28
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:30
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:31
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:33
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:35
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:36
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:38
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:39
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:41
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:43
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:44
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:46
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:47
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:49
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:50
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:52
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:54
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:55
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:57
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:39:58
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:00
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:02
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:03
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:05
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:06
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:08
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:09
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:11
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:13
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:14
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:16
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:17
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:19
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:21
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:22
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:24
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:25
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:27
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:29
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:30
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:32
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:33
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:35
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:36
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:38
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:40
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:41
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:43
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:44
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:46
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:48
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:49
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:51
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:52
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:54
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:56
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:57
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:40:59
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:00
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:02
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:03
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:05
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:07
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:08
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:10
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:11
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:13
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:15
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:16
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:18
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:19
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:21
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:22
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:24
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:26
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:27
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:29
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:30
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:32
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:33
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:35
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:37
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:38
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:40
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:41
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:43
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:45
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:46
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:48
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:49
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:51
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:52
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:54
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:56
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:57
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:41:59
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:00
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:02
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:04
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:05
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:07
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:08
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:10
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:11
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:13
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:15
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:16
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:18
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:19
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:21
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:23
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:24
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:26
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:27
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:29
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.100000 
+BILL Mark Price 0.150000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:30
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:32
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:34
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:35
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:37
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:38
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:40
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:42
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:43
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:45
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:46
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:48
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:49
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:51
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:53
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:54
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:56
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:57
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:42:59
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:00
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:02
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:04
+BILL Last Trade Price 0.150000 
+BILL Ask Price 0.200000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.125000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:05
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.100000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.075000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:07
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.100000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.075000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:08
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:10
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:12
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:13
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:15
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:16
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:18
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:19
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:21
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:23
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:24
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:26
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:27
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:29
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
+Time: 2024-05-03 13:43:30
+BILL Last Trade Price 0.100000 
+BILL Ask Price 0.150000 
+BILL Bid Price 0.050000 
+BILL Mark Price 0.100000 
+BILL Open Price 0.1 
+ 
