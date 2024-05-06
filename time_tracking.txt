@@ -100217,3 +100217,4686 @@ BILL Bid Price 0.050000
 BILL Mark Price 0.100000 
 BILL Open Price 0.1 
  
+Time: 2024-05-06 13:29:04
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:05
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:06
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:08
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:09
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:10
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:11
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:12
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:14
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:15
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:16
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:17
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:18
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:20
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:21
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:22
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:23
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:24
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:26
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:27
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:28
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:29
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:30
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:32
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:33
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:34
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:35
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:36
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:37
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:39
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:40
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:41
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:42
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:43
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:45
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:46
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:47
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:48
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:49
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:50
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:52
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:53
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:54
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:55
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:56
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:58
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:29:59
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price 0.5 
+ 
+Time: 2024-05-06 13:30:00
+LI Last Trade Price 0.320000 
+LI Ask Price 0.310000 
+LI Bid Price 0.290000 
+LI Mark Price 0.300000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:01
+LI Last Trade Price 0.320000 
+LI Ask Price 1.000000 
+LI Bid Price 0.800000 
+LI Mark Price 0.900000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:02
+LI Last Trade Price 0.850000 
+LI Ask Price 1.000000 
+LI Bid Price 0.600000 
+LI Mark Price 0.800000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:04
+LI Last Trade Price 0.850000 
+LI Ask Price 1.000000 
+LI Bid Price 0.620000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:05
+LI Last Trade Price 0.850000 
+LI Ask Price 1.000000 
+LI Bid Price 0.620000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:06
+LI Last Trade Price 0.850000 
+LI Ask Price 1.000000 
+LI Bid Price 0.620000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:07
+LI Last Trade Price 0.850000 
+LI Ask Price 1.000000 
+LI Bid Price 0.620000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:08
+LI Last Trade Price 0.850000 
+LI Ask Price 1.000000 
+LI Bid Price 0.620000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:10
+LI Last Trade Price 0.850000 
+LI Ask Price 1.000000 
+LI Bid Price 0.620000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:11
+LI Last Trade Price 0.850000 
+LI Ask Price 1.000000 
+LI Bid Price 0.620000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:12
+LI Last Trade Price 0.850000 
+LI Ask Price 1.000000 
+LI Bid Price 0.630000 
+LI Mark Price 0.815000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:13
+LI Last Trade Price 0.850000 
+LI Ask Price 1.000000 
+LI Bid Price 0.630000 
+LI Mark Price 0.815000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:14
+LI Last Trade Price 0.850000 
+LI Ask Price 1.000000 
+LI Bid Price 0.650000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:16
+LI Last Trade Price 0.620000 
+LI Ask Price 1.000000 
+LI Bid Price 0.650000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:17
+LI Last Trade Price 0.620000 
+LI Ask Price 1.000000 
+LI Bid Price 0.650000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:18
+LI Last Trade Price 0.620000 
+LI Ask Price 1.000000 
+LI Bid Price 0.650000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:19
+LI Last Trade Price 0.830000 
+LI Ask Price 0.990000 
+LI Bid Price 0.660000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:20
+LI Last Trade Price 0.830000 
+LI Ask Price 0.990000 
+LI Bid Price 0.660000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:22
+LI Last Trade Price 0.830000 
+LI Ask Price 0.990000 
+LI Bid Price 0.660000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:23
+LI Last Trade Price 0.830000 
+LI Ask Price 0.990000 
+LI Bid Price 0.670000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:24
+LI Last Trade Price 0.830000 
+LI Ask Price 0.990000 
+LI Bid Price 0.670000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:25
+LI Last Trade Price 0.830000 
+LI Ask Price 0.990000 
+LI Bid Price 0.670000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:26
+LI Last Trade Price 0.830000 
+LI Ask Price 0.990000 
+LI Bid Price 0.670000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:28
+LI Last Trade Price 0.830000 
+LI Ask Price 0.990000 
+LI Bid Price 0.670000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:29
+LI Last Trade Price 0.830000 
+LI Ask Price 0.980000 
+LI Bid Price 0.680000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:30
+LI Last Trade Price 0.830000 
+LI Ask Price 0.980000 
+LI Bid Price 0.680000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:31
+LI Last Trade Price 0.830000 
+LI Ask Price 0.980000 
+LI Bid Price 0.680000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:33
+LI Last Trade Price 0.830000 
+LI Ask Price 0.980000 
+LI Bid Price 0.680000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:34
+LI Last Trade Price 0.830000 
+LI Ask Price 0.980000 
+LI Bid Price 0.680000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:35
+LI Last Trade Price 0.830000 
+LI Ask Price 0.970000 
+LI Bid Price 0.690000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:36
+LI Last Trade Price 0.830000 
+LI Ask Price 0.970000 
+LI Bid Price 0.690000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:37
+LI Last Trade Price 0.830000 
+LI Ask Price 0.960000 
+LI Bid Price 0.700000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:39
+LI Last Trade Price 0.830000 
+LI Ask Price 0.960000 
+LI Bid Price 0.700000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:40
+LI Last Trade Price 0.830000 
+LI Ask Price 0.960000 
+LI Bid Price 0.700000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:41
+LI Last Trade Price 0.830000 
+LI Ask Price 0.960000 
+LI Bid Price 0.700000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:42
+LI Last Trade Price 0.700000 
+LI Ask Price 0.950000 
+LI Bid Price 0.710000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:43
+LI Last Trade Price 0.700000 
+LI Ask Price 0.950000 
+LI Bid Price 0.710000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:45
+LI Last Trade Price 0.700000 
+LI Ask Price 0.950000 
+LI Bid Price 0.710000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:46
+LI Last Trade Price 0.700000 
+LI Ask Price 0.950000 
+LI Bid Price 0.710000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:47
+LI Last Trade Price 0.700000 
+LI Ask Price 0.950000 
+LI Bid Price 0.710000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:48
+LI Last Trade Price 0.700000 
+LI Ask Price 0.950000 
+LI Bid Price 0.710000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:49
+LI Last Trade Price 0.700000 
+LI Ask Price 0.950000 
+LI Bid Price 0.720000 
+LI Mark Price 0.835000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:51
+LI Last Trade Price 0.700000 
+LI Ask Price 0.940000 
+LI Bid Price 0.730000 
+LI Mark Price 0.835000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:52
+LI Last Trade Price 0.700000 
+LI Ask Price 0.940000 
+LI Bid Price 0.730000 
+LI Mark Price 0.835000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:53
+LI Last Trade Price 0.700000 
+LI Ask Price 0.940000 
+LI Bid Price 0.730000 
+LI Mark Price 0.835000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:54
+LI Last Trade Price 0.700000 
+LI Ask Price 0.940000 
+LI Bid Price 0.730000 
+LI Mark Price 0.835000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:55
+LI Last Trade Price 0.700000 
+LI Ask Price 0.940000 
+LI Bid Price 0.740000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:57
+LI Last Trade Price 0.700000 
+LI Ask Price 0.940000 
+LI Bid Price 0.740000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:58
+LI Last Trade Price 0.700000 
+LI Ask Price 0.940000 
+LI Bid Price 0.740000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:30:59
+LI Last Trade Price 0.700000 
+LI Ask Price 0.940000 
+LI Bid Price 0.740000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:00
+LI Last Trade Price 0.700000 
+LI Ask Price 0.940000 
+LI Bid Price 0.740000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:01
+LI Last Trade Price 0.700000 
+LI Ask Price 0.940000 
+LI Bid Price 0.740000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:03
+LI Last Trade Price 0.700000 
+LI Ask Price 0.940000 
+LI Bid Price 0.740000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:04
+LI Last Trade Price 0.700000 
+LI Ask Price 0.940000 
+LI Bid Price 0.740000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:05
+LI Last Trade Price 0.700000 
+LI Ask Price 0.940000 
+LI Bid Price 0.740000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:06
+LI Last Trade Price 0.700000 
+LI Ask Price 0.940000 
+LI Bid Price 0.740000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:07
+LI Last Trade Price 0.700000 
+LI Ask Price 0.940000 
+LI Bid Price 0.740000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:09
+LI Last Trade Price 0.700000 
+LI Ask Price 0.940000 
+LI Bid Price 0.740000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:10
+LI Last Trade Price 0.700000 
+LI Ask Price 0.940000 
+LI Bid Price 0.740000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:11
+LI Last Trade Price 0.700000 
+LI Ask Price 1.000000 
+LI Bid Price 0.740000 
+LI Mark Price 0.870000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:12
+LI Last Trade Price 0.700000 
+LI Ask Price 1.000000 
+LI Bid Price 0.740000 
+LI Mark Price 0.870000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:13
+LI Last Trade Price 0.700000 
+LI Ask Price 1.000000 
+LI Bid Price 0.740000 
+LI Mark Price 0.870000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:15
+LI Last Trade Price 0.700000 
+LI Ask Price 1.000000 
+LI Bid Price 0.740000 
+LI Mark Price 0.870000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:16
+LI Last Trade Price 0.700000 
+LI Ask Price 0.990000 
+LI Bid Price 0.750000 
+LI Mark Price 0.870000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:17
+LI Last Trade Price 0.700000 
+LI Ask Price 0.990000 
+LI Bid Price 0.750000 
+LI Mark Price 0.870000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:18
+LI Last Trade Price 0.700000 
+LI Ask Price 0.990000 
+LI Bid Price 0.750000 
+LI Mark Price 0.870000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:19
+LI Last Trade Price 0.700000 
+LI Ask Price 0.980000 
+LI Bid Price 0.760000 
+LI Mark Price 0.870000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:21
+LI Last Trade Price 0.700000 
+LI Ask Price 0.980000 
+LI Bid Price 0.700000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:22
+LI Last Trade Price 0.700000 
+LI Ask Price 0.980000 
+LI Bid Price 0.700000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:23
+LI Last Trade Price 0.700000 
+LI Ask Price 0.980000 
+LI Bid Price 0.700000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:24
+LI Last Trade Price 0.700000 
+LI Ask Price 0.980000 
+LI Bid Price 0.700000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:25
+LI Last Trade Price 0.700000 
+LI Ask Price 0.980000 
+LI Bid Price 0.700000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:27
+LI Last Trade Price 0.700000 
+LI Ask Price 0.980000 
+LI Bid Price 0.700000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:28
+LI Last Trade Price 0.700000 
+LI Ask Price 0.980000 
+LI Bid Price 0.700000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:29
+LI Last Trade Price 0.700000 
+LI Ask Price 0.980000 
+LI Bid Price 0.700000 
+LI Mark Price 0.840000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:30
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.700000 
+LI Mark Price 0.775000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:31
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.700000 
+LI Mark Price 0.775000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:33
+LI Last Trade Price 0.700000 
+LI Ask Price 0.840000 
+LI Bid Price 0.710000 
+LI Mark Price 0.775000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:34
+LI Last Trade Price 0.700000 
+LI Ask Price 0.840000 
+LI Bid Price 0.710000 
+LI Mark Price 0.775000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:35
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.710000 
+LI Mark Price 0.780000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:36
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.710000 
+LI Mark Price 0.780000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:37
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.720000 
+LI Mark Price 0.785000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:38
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.720000 
+LI Mark Price 0.785000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:40
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.720000 
+LI Mark Price 0.785000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:41
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.730000 
+LI Mark Price 0.790000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:42
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.740000 
+LI Mark Price 0.795000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:43
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.740000 
+LI Mark Price 0.795000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:44
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.740000 
+LI Mark Price 0.795000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:46
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.740000 
+LI Mark Price 0.795000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:47
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:48
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:49
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:50
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:52
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.760000 
+LI Mark Price 0.805000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:53
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.760000 
+LI Mark Price 0.805000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:54
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.760000 
+LI Mark Price 0.805000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:55
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.760000 
+LI Mark Price 0.805000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:56
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.760000 
+LI Mark Price 0.805000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:58
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.770000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:31:59
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.770000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:00
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.770000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:01
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.770000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:02
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.770000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:04
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.770000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:05
+LI Last Trade Price 0.700000 
+LI Ask Price 0.850000 
+LI Bid Price 0.770000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:06
+LI Last Trade Price 0.810000 
+LI Ask Price 0.850000 
+LI Bid Price 0.770000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:07
+LI Last Trade Price 0.810000 
+LI Ask Price 0.850000 
+LI Bid Price 0.770000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:08
+LI Last Trade Price 0.810000 
+LI Ask Price 0.850000 
+LI Bid Price 0.770000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:10
+LI Last Trade Price 0.810000 
+LI Ask Price 0.850000 
+LI Bid Price 0.770000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:11
+LI Last Trade Price 0.810000 
+LI Ask Price 0.850000 
+LI Bid Price 0.770000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:12
+LI Last Trade Price 0.810000 
+LI Ask Price 0.850000 
+LI Bid Price 0.780000 
+LI Mark Price 0.815000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:13
+LI Last Trade Price 0.850000 
+LI Ask Price 1.000000 
+LI Bid Price 0.790000 
+LI Mark Price 0.895000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:14
+LI Last Trade Price 0.850000 
+LI Ask Price 0.990000 
+LI Bid Price 0.810000 
+LI Mark Price 0.900000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:16
+LI Last Trade Price 0.850000 
+LI Ask Price 0.990000 
+LI Bid Price 0.810000 
+LI Mark Price 0.900000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:17
+LI Last Trade Price 0.850000 
+LI Ask Price 0.990000 
+LI Bid Price 0.810000 
+LI Mark Price 0.900000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:18
+LI Last Trade Price 0.850000 
+LI Ask Price 0.990000 
+LI Bid Price 0.810000 
+LI Mark Price 0.900000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:19
+LI Last Trade Price 0.850000 
+LI Ask Price 0.990000 
+LI Bid Price 0.810000 
+LI Mark Price 0.900000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:20
+LI Last Trade Price 0.850000 
+LI Ask Price 0.990000 
+LI Bid Price 0.810000 
+LI Mark Price 0.900000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:22
+LI Last Trade Price 0.850000 
+LI Ask Price 0.990000 
+LI Bid Price 0.810000 
+LI Mark Price 0.900000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:23
+LI Last Trade Price 0.850000 
+LI Ask Price 0.990000 
+LI Bid Price 0.810000 
+LI Mark Price 0.900000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:24
+LI Last Trade Price 0.850000 
+LI Ask Price 0.990000 
+LI Bid Price 0.810000 
+LI Mark Price 0.900000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:25
+LI Last Trade Price 0.850000 
+LI Ask Price 0.990000 
+LI Bid Price 0.610000 
+LI Mark Price 0.800000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:26
+LI Last Trade Price 0.850000 
+LI Ask Price 0.990000 
+LI Bid Price 0.610000 
+LI Mark Price 0.800000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:28
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.610000 
+LI Mark Price 0.755000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:29
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.610000 
+LI Mark Price 0.755000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:30
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.610000 
+LI Mark Price 0.755000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:31
+LI Last Trade Price 0.850000 
+LI Ask Price 0.890000 
+LI Bid Price 0.620000 
+LI Mark Price 0.755000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:32
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.620000 
+LI Mark Price 0.750000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:34
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.620000 
+LI Mark Price 0.750000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:35
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.620000 
+LI Mark Price 0.750000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:36
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.620000 
+LI Mark Price 0.750000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:37
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.620000 
+LI Mark Price 0.750000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:38
+LI Last Trade Price 0.780000 
+LI Ask Price 0.870000 
+LI Bid Price 0.780000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:40
+LI Last Trade Price 0.780000 
+LI Ask Price 0.870000 
+LI Bid Price 0.780000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:41
+LI Last Trade Price 0.780000 
+LI Ask Price 0.870000 
+LI Bid Price 0.780000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:42
+LI Last Trade Price 0.780000 
+LI Ask Price 0.870000 
+LI Bid Price 0.780000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:43
+LI Last Trade Price 0.780000 
+LI Ask Price 0.870000 
+LI Bid Price 0.780000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:44
+LI Last Trade Price 0.780000 
+LI Ask Price 0.860000 
+LI Bid Price 0.780000 
+LI Mark Price 0.820000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:46
+LI Last Trade Price 0.790000 
+LI Ask Price 0.860000 
+LI Bid Price 0.780000 
+LI Mark Price 0.820000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:47
+LI Last Trade Price 0.790000 
+LI Ask Price 0.860000 
+LI Bid Price 0.780000 
+LI Mark Price 0.820000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:48
+LI Last Trade Price 0.790000 
+LI Ask Price 0.860000 
+LI Bid Price 0.780000 
+LI Mark Price 0.820000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:49
+LI Last Trade Price 0.790000 
+LI Ask Price 0.860000 
+LI Bid Price 0.600000 
+LI Mark Price 0.730000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:50
+LI Last Trade Price 0.790000 
+LI Ask Price 0.860000 
+LI Bid Price 0.600000 
+LI Mark Price 0.730000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:52
+LI Last Trade Price 0.790000 
+LI Ask Price 0.860000 
+LI Bid Price 0.600000 
+LI Mark Price 0.730000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:53
+LI Last Trade Price 0.790000 
+LI Ask Price 0.860000 
+LI Bid Price 0.600000 
+LI Mark Price 0.730000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:54
+LI Last Trade Price 0.790000 
+LI Ask Price 0.860000 
+LI Bid Price 0.600000 
+LI Mark Price 0.730000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:55
+LI Last Trade Price 0.790000 
+LI Ask Price 0.860000 
+LI Bid Price 0.610000 
+LI Mark Price 0.735000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:56
+LI Last Trade Price 0.790000 
+LI Ask Price 0.850000 
+LI Bid Price 0.620000 
+LI Mark Price 0.735000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:58
+LI Last Trade Price 0.790000 
+LI Ask Price 0.820000 
+LI Bid Price 0.620000 
+LI Mark Price 0.720000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:32:59
+LI Last Trade Price 0.830000 
+LI Ask Price 0.990000 
+LI Bid Price 0.630000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:00
+LI Last Trade Price 0.830000 
+LI Ask Price 0.970000 
+LI Bid Price 0.650000 
+LI Mark Price 0.810000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:01
+LI Last Trade Price 0.830000 
+LI Ask Price 0.970000 
+LI Bid Price 0.830000 
+LI Mark Price 0.900000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:02
+LI Last Trade Price 0.830000 
+LI Ask Price 0.970000 
+LI Bid Price 0.830000 
+LI Mark Price 0.900000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:04
+LI Last Trade Price 0.870000 
+LI Ask Price 0.960000 
+LI Bid Price 0.830000 
+LI Mark Price 0.895000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:05
+LI Last Trade Price 0.870000 
+LI Ask Price 0.950000 
+LI Bid Price 0.830000 
+LI Mark Price 0.890000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:06
+LI Last Trade Price 0.870000 
+LI Ask Price 0.950000 
+LI Bid Price 0.830000 
+LI Mark Price 0.890000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:07
+LI Last Trade Price 0.870000 
+LI Ask Price 0.950000 
+LI Bid Price 0.830000 
+LI Mark Price 0.890000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:08
+LI Last Trade Price 0.870000 
+LI Ask Price 0.950000 
+LI Bid Price 0.830000 
+LI Mark Price 0.890000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:10
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.830000 
+LI Mark Price 0.860000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:11
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.830000 
+LI Mark Price 0.860000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:12
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.830000 
+LI Mark Price 0.860000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:13
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.830000 
+LI Mark Price 0.860000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:14
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.650000 
+LI Mark Price 0.770000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:16
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.650000 
+LI Mark Price 0.770000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:17
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.650000 
+LI Mark Price 0.770000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:18
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.660000 
+LI Mark Price 0.775000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:19
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.660000 
+LI Mark Price 0.775000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:20
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.670000 
+LI Mark Price 0.780000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:22
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.680000 
+LI Mark Price 0.785000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:23
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.690000 
+LI Mark Price 0.790000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:24
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.690000 
+LI Mark Price 0.790000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:25
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.700000 
+LI Mark Price 0.795000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:26
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.700000 
+LI Mark Price 0.795000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:28
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.710000 
+LI Mark Price 0.800000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:29
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.720000 
+LI Mark Price 0.805000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:30
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.720000 
+LI Mark Price 0.805000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:31
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.720000 
+LI Mark Price 0.805000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:32
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.720000 
+LI Mark Price 0.805000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:34
+LI Last Trade Price 0.830000 
+LI Ask Price 0.890000 
+LI Bid Price 0.830000 
+LI Mark Price 0.860000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:35
+LI Last Trade Price 0.830000 
+LI Ask Price 0.890000 
+LI Bid Price 0.830000 
+LI Mark Price 0.860000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:36
+LI Last Trade Price 0.830000 
+LI Ask Price 0.890000 
+LI Bid Price 0.830000 
+LI Mark Price 0.860000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:37
+LI Last Trade Price 0.850000 
+LI Ask Price 0.890000 
+LI Bid Price 0.830000 
+LI Mark Price 0.860000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:38
+LI Last Trade Price 0.850000 
+LI Ask Price 0.890000 
+LI Bid Price 0.830000 
+LI Mark Price 0.860000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:40
+LI Last Trade Price 0.850000 
+LI Ask Price 0.890000 
+LI Bid Price 0.830000 
+LI Mark Price 0.860000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:41
+LI Last Trade Price 0.850000 
+LI Ask Price 0.950000 
+LI Bid Price 0.830000 
+LI Mark Price 0.890000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:42
+LI Last Trade Price 0.850000 
+LI Ask Price 0.950000 
+LI Bid Price 0.830000 
+LI Mark Price 0.890000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:43
+LI Last Trade Price 0.850000 
+LI Ask Price 0.940000 
+LI Bid Price 0.830000 
+LI Mark Price 0.885000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:44
+LI Last Trade Price 0.850000 
+LI Ask Price 0.940000 
+LI Bid Price 0.830000 
+LI Mark Price 0.885000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:45
+LI Last Trade Price 0.850000 
+LI Ask Price 0.940000 
+LI Bid Price 0.830000 
+LI Mark Price 0.885000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:47
+LI Last Trade Price 0.850000 
+LI Ask Price 0.940000 
+LI Bid Price 0.830000 
+LI Mark Price 0.885000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:48
+LI Last Trade Price 0.850000 
+LI Ask Price 0.940000 
+LI Bid Price 0.830000 
+LI Mark Price 0.885000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:49
+LI Last Trade Price 0.830000 
+LI Ask Price 0.930000 
+LI Bid Price 0.830000 
+LI Mark Price 0.880000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:50
+LI Last Trade Price 0.830000 
+LI Ask Price 0.930000 
+LI Bid Price 0.830000 
+LI Mark Price 0.880000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:51
+LI Last Trade Price 0.830000 
+LI Ask Price 0.930000 
+LI Bid Price 0.830000 
+LI Mark Price 0.880000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:53
+LI Last Trade Price 0.830000 
+LI Ask Price 0.930000 
+LI Bid Price 0.830000 
+LI Mark Price 0.880000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:54
+LI Last Trade Price 0.830000 
+LI Ask Price 0.920000 
+LI Bid Price 0.830000 
+LI Mark Price 0.875000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:55
+LI Last Trade Price 0.830000 
+LI Ask Price 0.920000 
+LI Bid Price 0.830000 
+LI Mark Price 0.875000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:56
+LI Last Trade Price 0.830000 
+LI Ask Price 0.920000 
+LI Bid Price 0.830000 
+LI Mark Price 0.875000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:57
+LI Last Trade Price 0.830000 
+LI Ask Price 0.920000 
+LI Bid Price 0.830000 
+LI Mark Price 0.875000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:33:59
+LI Last Trade Price 0.830000 
+LI Ask Price 0.920000 
+LI Bid Price 0.830000 
+LI Mark Price 0.875000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:00
+LI Last Trade Price 0.830000 
+LI Ask Price 0.920000 
+LI Bid Price 0.830000 
+LI Mark Price 0.875000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:01
+LI Last Trade Price 0.830000 
+LI Ask Price 0.920000 
+LI Bid Price 0.830000 
+LI Mark Price 0.875000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:02
+LI Last Trade Price 0.830000 
+LI Ask Price 0.920000 
+LI Bid Price 0.830000 
+LI Mark Price 0.875000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:03
+LI Last Trade Price 0.830000 
+LI Ask Price 0.920000 
+LI Bid Price 0.830000 
+LI Mark Price 0.875000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:05
+LI Last Trade Price 0.830000 
+LI Ask Price 0.920000 
+LI Bid Price 0.830000 
+LI Mark Price 0.875000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:06
+LI Last Trade Price 0.830000 
+LI Ask Price 0.910000 
+LI Bid Price 0.830000 
+LI Mark Price 0.870000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:07
+LI Last Trade Price 0.830000 
+LI Ask Price 0.910000 
+LI Bid Price 0.830000 
+LI Mark Price 0.870000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:08
+LI Last Trade Price 0.830000 
+LI Ask Price 0.910000 
+LI Bid Price 0.830000 
+LI Mark Price 0.870000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:09
+LI Last Trade Price 0.830000 
+LI Ask Price 0.910000 
+LI Bid Price 0.830000 
+LI Mark Price 0.870000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:11
+LI Last Trade Price 0.830000 
+LI Ask Price 0.910000 
+LI Bid Price 0.830000 
+LI Mark Price 0.870000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:12
+LI Last Trade Price 0.910000 
+LI Ask Price 0.910000 
+LI Bid Price 0.830000 
+LI Mark Price 0.870000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:13
+LI Last Trade Price 0.910000 
+LI Ask Price 0.910000 
+LI Bid Price 0.830000 
+LI Mark Price 0.870000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:14
+LI Last Trade Price 0.910000 
+LI Ask Price 0.910000 
+LI Bid Price 0.830000 
+LI Mark Price 0.870000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:15
+LI Last Trade Price 0.910000 
+LI Ask Price 0.900000 
+LI Bid Price 0.740000 
+LI Mark Price 0.820000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:16
+LI Last Trade Price 0.910000 
+LI Ask Price 0.900000 
+LI Bid Price 0.750000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:18
+LI Last Trade Price 0.910000 
+LI Ask Price 0.900000 
+LI Bid Price 0.750000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:19
+LI Last Trade Price 0.910000 
+LI Ask Price 0.900000 
+LI Bid Price 0.750000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:20
+LI Last Trade Price 0.910000 
+LI Ask Price 0.900000 
+LI Bid Price 0.750000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:21
+LI Last Trade Price 0.910000 
+LI Ask Price 0.900000 
+LI Bid Price 0.750000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:22
+LI Last Trade Price 0.910000 
+LI Ask Price 0.900000 
+LI Bid Price 0.750000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:24
+LI Last Trade Price 0.910000 
+LI Ask Price 0.900000 
+LI Bid Price 0.750000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:25
+LI Last Trade Price 0.910000 
+LI Ask Price 0.900000 
+LI Bid Price 0.750000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:26
+LI Last Trade Price 0.910000 
+LI Ask Price 0.900000 
+LI Bid Price 0.750000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:27
+LI Last Trade Price 0.910000 
+LI Ask Price 0.900000 
+LI Bid Price 0.750000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:28
+LI Last Trade Price 0.910000 
+LI Ask Price 0.900000 
+LI Bid Price 0.760000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:30
+LI Last Trade Price 0.910000 
+LI Ask Price 0.900000 
+LI Bid Price 0.760000 
+LI Mark Price 0.830000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:31
+LI Last Trade Price 0.910000 
+LI Ask Price 0.900000 
+LI Bid Price 0.770000 
+LI Mark Price 0.835000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:32
+LI Last Trade Price 0.910000 
+LI Ask Price 0.900000 
+LI Bid Price 0.770000 
+LI Mark Price 0.835000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:33
+LI Last Trade Price 0.910000 
+LI Ask Price 0.900000 
+LI Bid Price 0.790000 
+LI Mark Price 0.845000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:34
+LI Last Trade Price 0.910000 
+LI Ask Price 0.900000 
+LI Bid Price 0.790000 
+LI Mark Price 0.845000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:36
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.800000 
+LI Mark Price 0.850000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:37
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.800000 
+LI Mark Price 0.850000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:38
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:39
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.820000 
+LI Mark Price 0.860000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:40
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.820000 
+LI Mark Price 0.860000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:42
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.820000 
+LI Mark Price 0.860000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:43
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.820000 
+LI Mark Price 0.860000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:44
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.820000 
+LI Mark Price 0.860000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:45
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.820000 
+LI Mark Price 0.860000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:46
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.830000 
+LI Mark Price 0.865000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:48
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.830000 
+LI Mark Price 0.865000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:49
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.830000 
+LI Mark Price 0.865000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:50
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.830000 
+LI Mark Price 0.865000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:51
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.830000 
+LI Mark Price 0.865000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:52
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.830000 
+LI Mark Price 0.865000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:53
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.830000 
+LI Mark Price 0.865000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:55
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.830000 
+LI Mark Price 0.865000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:56
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.830000 
+LI Mark Price 0.865000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:57
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.840000 
+LI Mark Price 0.870000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:58
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.750000 
+LI Mark Price 0.825000 
+LI Open Price N/A 
+ 
+Time: 2024-05-06 13:34:59
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.750000 
+LI Mark Price 0.825000 
+LI Open Price 0.87 
+ 
+Time: 2024-05-06 13:35:01
+LI Last Trade Price 0.850000 
+LI Ask Price 0.890000 
+LI Bid Price 0.750000 
+LI Mark Price 0.820000 
+LI Open Price 0.87 
+ 
+Time: 2024-05-06 13:35:02
+LI Last Trade Price 0.850000 
+LI Ask Price 0.890000 
+LI Bid Price 0.750000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:03
+LI Last Trade Price 0.850000 
+LI Ask Price 0.890000 
+LI Bid Price 0.750000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:04
+LI Last Trade Price 0.850000 
+LI Ask Price 0.890000 
+LI Bid Price 0.760000 
+LI Mark Price 0.825000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:05
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.760000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:07
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.760000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:08
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.770000 
+LI Mark Price 0.825000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:09
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.770000 
+LI Mark Price 0.825000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:10
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.770000 
+LI Mark Price 0.825000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:11
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.770000 
+LI Mark Price 0.825000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:13
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.770000 
+LI Mark Price 0.825000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:14
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.770000 
+LI Mark Price 0.835000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:15
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.770000 
+LI Mark Price 0.835000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:16
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.780000 
+LI Mark Price 0.840000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:17
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.790000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:19
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.790000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:20
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.790000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:21
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.790000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:22
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.790000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:23
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.790000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:24
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.800000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:26
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.800000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:27
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.800000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:28
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:29
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.830000 
+LI Mark Price 0.865000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:30
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.830000 
+LI Mark Price 0.865000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:32
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.860000 
+LI Mark Price 0.880000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:33
+LI Last Trade Price 0.850000 
+LI Ask Price 0.900000 
+LI Bid Price 0.850000 
+LI Mark Price 0.875000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:34
+LI Last Trade Price 0.850000 
+LI Ask Price 0.870000 
+LI Bid Price 0.850000 
+LI Mark Price 0.860000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:35
+LI Last Trade Price 0.850000 
+LI Ask Price 0.870000 
+LI Bid Price 0.850000 
+LI Mark Price 0.860000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:36
+LI Last Trade Price 0.870000 
+LI Ask Price 0.870000 
+LI Bid Price 0.850000 
+LI Mark Price 0.860000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:38
+LI Last Trade Price 0.850000 
+LI Ask Price 0.860000 
+LI Bid Price 0.750000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:39
+LI Last Trade Price 0.850000 
+LI Ask Price 0.860000 
+LI Bid Price 0.750000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:40
+LI Last Trade Price 0.850000 
+LI Ask Price 0.860000 
+LI Bid Price 0.760000 
+LI Mark Price 0.810000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:41
+LI Last Trade Price 0.850000 
+LI Ask Price 0.860000 
+LI Bid Price 0.760000 
+LI Mark Price 0.810000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:42
+LI Last Trade Price 0.850000 
+LI Ask Price 0.860000 
+LI Bid Price 0.760000 
+LI Mark Price 0.810000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:44
+LI Last Trade Price 0.850000 
+LI Ask Price 0.860000 
+LI Bid Price 0.770000 
+LI Mark Price 0.815000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:45
+LI Last Trade Price 0.850000 
+LI Ask Price 0.860000 
+LI Bid Price 0.780000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:46
+LI Last Trade Price 0.850000 
+LI Ask Price 0.860000 
+LI Bid Price 0.780000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:47
+LI Last Trade Price 0.850000 
+LI Ask Price 0.860000 
+LI Bid Price 0.780000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:48
+LI Last Trade Price 0.850000 
+LI Ask Price 0.860000 
+LI Bid Price 0.780000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:49
+LI Last Trade Price 0.850000 
+LI Ask Price 0.860000 
+LI Bid Price 0.780000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:51
+LI Last Trade Price 0.850000 
+LI Ask Price 0.860000 
+LI Bid Price 0.780000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:52
+LI Last Trade Price 0.850000 
+LI Ask Price 0.860000 
+LI Bid Price 0.790000 
+LI Mark Price 0.825000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:53
+LI Last Trade Price 0.850000 
+LI Ask Price 0.860000 
+LI Bid Price 0.790000 
+LI Mark Price 0.825000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:54
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.800000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:55
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.800000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:57
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.810000 
+LI Mark Price 0.835000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:58
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.810000 
+LI Mark Price 0.835000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:35:59
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.810000 
+LI Mark Price 0.835000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:00
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.750000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:01
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.750000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:03
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.760000 
+LI Mark Price 0.810000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:04
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.760000 
+LI Mark Price 0.810000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:05
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.760000 
+LI Mark Price 0.810000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:06
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.760000 
+LI Mark Price 0.810000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:07
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.760000 
+LI Mark Price 0.810000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:09
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.760000 
+LI Mark Price 0.810000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:10
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.760000 
+LI Mark Price 0.810000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:11
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.770000 
+LI Mark Price 0.815000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:12
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.780000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:13
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.780000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:15
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.780000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:16
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.790000 
+LI Mark Price 0.825000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:17
+LI Last Trade Price 0.860000 
+LI Ask Price 0.860000 
+LI Bid Price 0.790000 
+LI Mark Price 0.825000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:18
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:19
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:20
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:22
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:23
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:24
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:25
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:26
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:28
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:29
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:30
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:31
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:32
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:34
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:35
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:36
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:37
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:38
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:40
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.790000 
+LI Mark Price 0.830000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:41
+LI Last Trade Price 0.860000 
+LI Ask Price 0.870000 
+LI Bid Price 0.800000 
+LI Mark Price 0.835000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:42
+LI Last Trade Price 0.860000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:43
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:44
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:46
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:47
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:48
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:49
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:50
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:52
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:53
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.820000 
+LI Mark Price 0.860000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:54
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.820000 
+LI Mark Price 0.860000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:55
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.820000 
+LI Mark Price 0.860000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:56
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.820000 
+LI Mark Price 0.860000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:58
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.820000 
+LI Mark Price 0.860000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:36:59
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.820000 
+LI Mark Price 0.860000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:00
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.820000 
+LI Mark Price 0.860000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:01
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.820000 
+LI Mark Price 0.860000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:02
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.840000 
+LI Mark Price 0.870000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:04
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.740000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:05
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.740000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:06
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.740000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:07
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.740000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:08
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.740000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:09
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.740000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:11
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:12
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:13
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:14
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:15
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:17
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:18
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:19
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:20
+LI Last Trade Price 0.870000 
+LI Ask Price 0.900000 
+LI Bid Price 0.810000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:21
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.810000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:23
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.810000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:24
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.810000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:25
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.810000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:26
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.810000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:27
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.810000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:29
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.810000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:30
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.810000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:31
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.810000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:32
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.820000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:33
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.820000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:35
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.820000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:36
+LI Last Trade Price 0.870000 
+LI Ask Price 0.890000 
+LI Bid Price 0.820000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:37
+LI Last Trade Price 0.850000 
+LI Ask Price 0.890000 
+LI Bid Price 0.820000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:38
+LI Last Trade Price 0.850000 
+LI Ask Price 0.890000 
+LI Bid Price 0.820000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:39
+LI Last Trade Price 0.850000 
+LI Ask Price 0.890000 
+LI Bid Price 0.820000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:40
+LI Last Trade Price 0.850000 
+LI Ask Price 0.890000 
+LI Bid Price 0.820000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:42
+LI Last Trade Price 0.850000 
+LI Ask Price 0.890000 
+LI Bid Price 0.820000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:43
+LI Last Trade Price 0.850000 
+LI Ask Price 0.890000 
+LI Bid Price 0.820000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:44
+LI Last Trade Price 0.850000 
+LI Ask Price 0.890000 
+LI Bid Price 0.820000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:45
+LI Last Trade Price 0.850000 
+LI Ask Price 0.890000 
+LI Bid Price 0.830000 
+LI Mark Price 0.860000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:46
+LI Last Trade Price 0.850000 
+LI Ask Price 0.890000 
+LI Bid Price 0.820000 
+LI Mark Price 0.855000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:48
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:49
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:50
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:51
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:52
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:54
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:55
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:56
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:57
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:37:58
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:00
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:01
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:02
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:03
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:04
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:06
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:07
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:08
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:09
+LI Last Trade Price 0.850000 
+LI Ask Price 0.880000 
+LI Bid Price 0.820000 
+LI Mark Price 0.850000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:10
+LI Last Trade Price 0.840000 
+LI Ask Price 0.870000 
+LI Bid Price 0.720000 
+LI Mark Price 0.795000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:12
+LI Last Trade Price 0.840000 
+LI Ask Price 0.870000 
+LI Bid Price 0.720000 
+LI Mark Price 0.795000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:13
+LI Last Trade Price 0.840000 
+LI Ask Price 0.870000 
+LI Bid Price 0.720000 
+LI Mark Price 0.795000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:14
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.730000 
+LI Mark Price 0.790000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:15
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.730000 
+LI Mark Price 0.790000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:16
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.730000 
+LI Mark Price 0.790000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:17
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.730000 
+LI Mark Price 0.790000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:19
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.730000 
+LI Mark Price 0.790000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:20
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.740000 
+LI Mark Price 0.795000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:21
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.740000 
+LI Mark Price 0.795000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:22
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:23
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:25
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:26
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:27
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:28
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:29
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.760000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:31
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.770000 
+LI Mark Price 0.810000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:32
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.770000 
+LI Mark Price 0.810000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:33
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.770000 
+LI Mark Price 0.810000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:34
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.780000 
+LI Mark Price 0.815000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:35
+LI Last Trade Price 0.840000 
+LI Ask Price 0.850000 
+LI Bid Price 0.780000 
+LI Mark Price 0.815000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:37
+LI Last Trade Price 0.840000 
+LI Ask Price 1.000000 
+LI Bid Price 0.790000 
+LI Mark Price 0.895000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:38
+LI Last Trade Price 0.840000 
+LI Ask Price 1.000000 
+LI Bid Price 0.790000 
+LI Mark Price 0.895000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:39
+LI Last Trade Price 0.840000 
+LI Ask Price 0.990000 
+LI Bid Price 0.800000 
+LI Mark Price 0.895000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:40
+LI Last Trade Price 0.840000 
+LI Ask Price 0.990000 
+LI Bid Price 0.800000 
+LI Mark Price 0.895000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:41
+LI Last Trade Price 0.840000 
+LI Ask Price 0.990000 
+LI Bid Price 0.800000 
+LI Mark Price 0.895000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:43
+LI Last Trade Price 0.840000 
+LI Ask Price 0.990000 
+LI Bid Price 0.800000 
+LI Mark Price 0.895000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:44
+LI Last Trade Price 0.840000 
+LI Ask Price 0.990000 
+LI Bid Price 0.800000 
+LI Mark Price 0.895000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:45
+LI Last Trade Price 0.840000 
+LI Ask Price 0.990000 
+LI Bid Price 0.800000 
+LI Mark Price 0.895000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:46
+LI Last Trade Price 0.840000 
+LI Ask Price 0.990000 
+LI Bid Price 0.800000 
+LI Mark Price 0.895000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:47
+LI Last Trade Price 0.840000 
+LI Ask Price 0.990000 
+LI Bid Price 0.800000 
+LI Mark Price 0.895000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:49
+LI Last Trade Price 0.840000 
+LI Ask Price 0.990000 
+LI Bid Price 0.800000 
+LI Mark Price 0.895000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:50
+LI Last Trade Price 0.840000 
+LI Ask Price 0.950000 
+LI Bid Price 0.800000 
+LI Mark Price 0.875000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:51
+LI Last Trade Price 0.840000 
+LI Ask Price 0.950000 
+LI Bid Price 0.800000 
+LI Mark Price 0.875000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:52
+LI Last Trade Price 0.840000 
+LI Ask Price 0.950000 
+LI Bid Price 0.810000 
+LI Mark Price 0.880000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:53
+LI Last Trade Price 0.840000 
+LI Ask Price 0.950000 
+LI Bid Price 0.810000 
+LI Mark Price 0.880000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:55
+LI Last Trade Price 0.840000 
+LI Ask Price 0.950000 
+LI Bid Price 0.810000 
+LI Mark Price 0.880000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:56
+LI Last Trade Price 0.840000 
+LI Ask Price 0.940000 
+LI Bid Price 0.810000 
+LI Mark Price 0.875000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:57
+LI Last Trade Price 0.840000 
+LI Ask Price 0.940000 
+LI Bid Price 0.810000 
+LI Mark Price 0.875000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:38:58
+LI Last Trade Price 0.840000 
+LI Ask Price 0.940000 
+LI Bid Price 0.810000 
+LI Mark Price 0.875000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:00
+LI Last Trade Price 0.840000 
+LI Ask Price 0.940000 
+LI Bid Price 0.810000 
+LI Mark Price 0.875000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:01
+LI Last Trade Price 0.840000 
+LI Ask Price 0.930000 
+LI Bid Price 0.810000 
+LI Mark Price 0.870000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:02
+LI Last Trade Price 0.840000 
+LI Ask Price 0.930000 
+LI Bid Price 0.810000 
+LI Mark Price 0.870000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:03
+LI Last Trade Price 0.840000 
+LI Ask Price 0.930000 
+LI Bid Price 0.810000 
+LI Mark Price 0.870000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:04
+LI Last Trade Price 0.840000 
+LI Ask Price 0.930000 
+LI Bid Price 0.810000 
+LI Mark Price 0.870000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:06
+LI Last Trade Price 0.840000 
+LI Ask Price 0.930000 
+LI Bid Price 0.720000 
+LI Mark Price 0.825000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:07
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.730000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:08
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.730000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:09
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.730000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:10
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.730000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:12
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.730000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:13
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.730000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:14
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.730000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:15
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.730000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:16
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.730000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:18
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.730000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:19
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.730000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:20
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.730000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:21
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.730000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:22
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.730000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:24
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.740000 
+LI Mark Price 0.785000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:25
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.740000 
+LI Mark Price 0.785000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:26
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.750000 
+LI Mark Price 0.790000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:27
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.750000 
+LI Mark Price 0.790000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:28
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.760000 
+LI Mark Price 0.795000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:29
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.770000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:31
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.770000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:32
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.770000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:33
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.770000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:34
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.770000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:35
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.770000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:37
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.770000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:38
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.780000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:39
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.780000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:40
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.780000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:41
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.780000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:43
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.780000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:44
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.780000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:45
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.780000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:46
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.780000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:47
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.780000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:49
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.780000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:50
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.780000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:51
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.780000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:52
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.780000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:53
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.790000 
+LI Mark Price 0.810000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:55
+LI Last Trade Price 0.830000 
+LI Ask Price 0.900000 
+LI Bid Price 0.790000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:56
+LI Last Trade Price 0.830000 
+LI Ask Price 0.900000 
+LI Bid Price 0.790000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:57
+LI Last Trade Price 0.830000 
+LI Ask Price 0.900000 
+LI Bid Price 0.790000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:58
+LI Last Trade Price 0.830000 
+LI Ask Price 0.900000 
+LI Bid Price 0.790000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:39:59
+LI Last Trade Price 0.830000 
+LI Ask Price 0.890000 
+LI Bid Price 0.800000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:01
+LI Last Trade Price 0.830000 
+LI Ask Price 0.890000 
+LI Bid Price 0.800000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:02
+LI Last Trade Price 0.830000 
+LI Ask Price 0.890000 
+LI Bid Price 0.800000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:03
+LI Last Trade Price 0.830000 
+LI Ask Price 0.890000 
+LI Bid Price 0.800000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:04
+LI Last Trade Price 0.830000 
+LI Ask Price 0.890000 
+LI Bid Price 0.800000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:05
+LI Last Trade Price 0.830000 
+LI Ask Price 0.890000 
+LI Bid Price 0.800000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:07
+LI Last Trade Price 0.830000 
+LI Ask Price 0.890000 
+LI Bid Price 0.800000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:08
+LI Last Trade Price 0.830000 
+LI Ask Price 0.890000 
+LI Bid Price 0.800000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:09
+LI Last Trade Price 0.830000 
+LI Ask Price 0.890000 
+LI Bid Price 0.800000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:10
+LI Last Trade Price 0.830000 
+LI Ask Price 0.890000 
+LI Bid Price 0.800000 
+LI Mark Price 0.845000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:11
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.800000 
+LI Mark Price 0.825000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:12
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.800000 
+LI Mark Price 0.825000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:14
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.800000 
+LI Mark Price 0.825000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:15
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.800000 
+LI Mark Price 0.825000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:16
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.800000 
+LI Mark Price 0.825000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:17
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.800000 
+LI Mark Price 0.825000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:19
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.700000 
+LI Mark Price 0.775000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:20
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.700000 
+LI Mark Price 0.775000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:21
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.710000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:22
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.710000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:23
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.720000 
+LI Mark Price 0.785000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:25
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.720000 
+LI Mark Price 0.785000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:26
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.720000 
+LI Mark Price 0.785000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:27
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.720000 
+LI Mark Price 0.785000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:28
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.720000 
+LI Mark Price 0.785000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:29
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.730000 
+LI Mark Price 0.790000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:31
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.730000 
+LI Mark Price 0.790000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:32
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.740000 
+LI Mark Price 0.795000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:33
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.740000 
+LI Mark Price 0.795000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:34
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:35
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:37
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.760000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:38
+LI Last Trade Price 0.830000 
+LI Ask Price 0.850000 
+LI Bid Price 0.770000 
+LI Mark Price 0.810000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:39
+LI Last Trade Price 0.830000 
+LI Ask Price 0.830000 
+LI Bid Price 0.800000 
+LI Mark Price 0.815000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:40
+LI Last Trade Price 0.800000 
+LI Ask Price 0.830000 
+LI Bid Price 0.770000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:41
+LI Last Trade Price 0.800000 
+LI Ask Price 0.830000 
+LI Bid Price 0.770000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:43
+LI Last Trade Price 0.800000 
+LI Ask Price 0.830000 
+LI Bid Price 0.770000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:44
+LI Last Trade Price 0.800000 
+LI Ask Price 0.830000 
+LI Bid Price 0.770000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:45
+LI Last Trade Price 0.800000 
+LI Ask Price 0.830000 
+LI Bid Price 0.780000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:46
+LI Last Trade Price 0.800000 
+LI Ask Price 0.830000 
+LI Bid Price 0.780000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:47
+LI Last Trade Price 0.800000 
+LI Ask Price 0.830000 
+LI Bid Price 0.780000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:48
+LI Last Trade Price 0.800000 
+LI Ask Price 0.830000 
+LI Bid Price 0.780000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:50
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.780000 
+LI Mark Price 0.815000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:51
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.780000 
+LI Mark Price 0.815000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:52
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.780000 
+LI Mark Price 0.815000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:53
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.790000 
+LI Mark Price 0.820000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:54
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.700000 
+LI Mark Price 0.775000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:56
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.700000 
+LI Mark Price 0.775000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:57
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.700000 
+LI Mark Price 0.775000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:58
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.710000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:40:59
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.710000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:00
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.710000 
+LI Mark Price 0.780000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:02
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.720000 
+LI Mark Price 0.785000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:03
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.720000 
+LI Mark Price 0.785000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:04
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.730000 
+LI Mark Price 0.790000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:05
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.740000 
+LI Mark Price 0.795000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:06
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:08
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:09
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:10
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:11
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:12
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.750000 
+LI Mark Price 0.800000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:14
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.760000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:15
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.760000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:16
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.760000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:17
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.760000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:18
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.760000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:20
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.760000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:21
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.760000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:22
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.760000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:23
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.760000 
+LI Mark Price 0.805000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:24
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.780000 
+LI Mark Price 0.815000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:26
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.780000 
+LI Mark Price 0.815000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:27
+LI Last Trade Price 0.800000 
+LI Ask Price 0.850000 
+LI Bid Price 0.780000 
+LI Mark Price 0.815000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:28
+LI Last Trade Price 0.780000 
+LI Ask Price 0.850000 
+LI Bid Price 0.780000 
+LI Mark Price 0.815000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:29
+LI Last Trade Price 0.780000 
+LI Ask Price 0.800000 
+LI Bid Price 0.630000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:30
+LI Last Trade Price 0.780000 
+LI Ask Price 0.800000 
+LI Bid Price 0.630000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:32
+LI Last Trade Price 0.780000 
+LI Ask Price 0.800000 
+LI Bid Price 0.630000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:33
+LI Last Trade Price 0.780000 
+LI Ask Price 0.800000 
+LI Bid Price 0.630000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:34
+LI Last Trade Price 0.780000 
+LI Ask Price 0.800000 
+LI Bid Price 0.630000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:35
+LI Last Trade Price 0.780000 
+LI Ask Price 0.800000 
+LI Bid Price 0.630000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:36
+LI Last Trade Price 0.780000 
+LI Ask Price 0.800000 
+LI Bid Price 0.630000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:38
+LI Last Trade Price 0.780000 
+LI Ask Price 0.800000 
+LI Bid Price 0.630000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:39
+LI Last Trade Price 0.780000 
+LI Ask Price 0.800000 
+LI Bid Price 0.630000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:40
+LI Last Trade Price 0.780000 
+LI Ask Price 0.800000 
+LI Bid Price 0.630000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:41
+LI Last Trade Price 0.780000 
+LI Ask Price 0.800000 
+LI Bid Price 0.630000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:42
+LI Last Trade Price 0.780000 
+LI Ask Price 0.790000 
+LI Bid Price 0.630000 
+LI Mark Price 0.710000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:44
+LI Last Trade Price 0.780000 
+LI Ask Price 0.790000 
+LI Bid Price 0.630000 
+LI Mark Price 0.710000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:45
+LI Last Trade Price 0.780000 
+LI Ask Price 0.790000 
+LI Bid Price 0.630000 
+LI Mark Price 0.710000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:46
+LI Last Trade Price 0.780000 
+LI Ask Price 0.790000 
+LI Bid Price 0.640000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:47
+LI Last Trade Price 0.780000 
+LI Ask Price 0.790000 
+LI Bid Price 0.640000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:48
+LI Last Trade Price 0.780000 
+LI Ask Price 0.790000 
+LI Bid Price 0.640000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:50
+LI Last Trade Price 0.780000 
+LI Ask Price 0.790000 
+LI Bid Price 0.640000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:51
+LI Last Trade Price 0.780000 
+LI Ask Price 0.790000 
+LI Bid Price 0.640000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:52
+LI Last Trade Price 0.780000 
+LI Ask Price 0.790000 
+LI Bid Price 0.640000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:53
+LI Last Trade Price 0.780000 
+LI Ask Price 0.790000 
+LI Bid Price 0.640000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:54
+LI Last Trade Price 0.780000 
+LI Ask Price 0.790000 
+LI Bid Price 0.640000 
+LI Mark Price 0.715000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:56
+LI Last Trade Price 0.780000 
+LI Ask Price 0.780000 
+LI Bid Price 0.640000 
+LI Mark Price 0.710000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:57
+LI Last Trade Price 0.780000 
+LI Ask Price 0.770000 
+LI Bid Price 0.640000 
+LI Mark Price 0.705000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:58
+LI Last Trade Price 0.780000 
+LI Ask Price 0.770000 
+LI Bid Price 0.640000 
+LI Mark Price 0.705000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:41:59
+LI Last Trade Price 0.780000 
+LI Ask Price 0.770000 
+LI Bid Price 0.640000 
+LI Mark Price 0.705000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:00
+LI Last Trade Price 0.780000 
+LI Ask Price 0.770000 
+LI Bid Price 0.650000 
+LI Mark Price 0.710000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:02
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:03
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:04
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:05
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:06
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:08
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:09
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:10
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:11
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:12
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:14
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:15
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:16
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:17
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:18
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:19
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:21
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:22
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
+Time: 2024-05-06 13:42:23
+LI Last Trade Price 0.650000 
+LI Ask Price 0.760000 
+LI Bid Price 0.700000 
+LI Mark Price 0.730000 
+LI Open Price 0.82 
+ 
