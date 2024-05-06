@@ -641,7 +641,10 @@
         "LI $30.0 Call 2024-05-10": {
             "Stock price at market close": 28.98,
             "Stock price before market open": 29.9,
-            "Option price at market close": 0.3
+            "Option price at market close": 0.3,
+            "Max Day Stock Price": 29.42,
+            "Option Open Price": 0.82,
+            "Max Day Call Price": 0.91
         }
     }
 }

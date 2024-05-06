@@ -1,5 +1,11 @@
 ## Options Daily Performance
 
+### 2024-05-06
+
+| Option ID | Performance |
+| --- | --- |
+| LI $30.0 Call 2024-05-10 | Open @ 0.82 -> Max @ 0.91 = 🔴 +10.98% (DID NOT REACH 30%. Consider -20%) |
+
 ### 2024-05-03
 
 | Option ID | Performance |
